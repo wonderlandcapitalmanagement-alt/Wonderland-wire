@@ -33,7 +33,9 @@ MAX_ITEMS      = 120         # total items kept in news.json
 MAX_PER_FEED   = 15          # newest N entries considered per feed each run
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
-CATEGORIES     = ["Funds", "Deals", "Exits", "People", "Market"]
+# Topics taxonomy — an article may carry 1–3 of these. Keep in sync with track.html.
+TOPICS         = ["Funding", "Funds & LPs", "Exits & M&A", "People",
+                  "Policy", "Events", "Market & Data", "AI & Deep Tech", "Opinion"]
 
 HERE     = os.path.dirname(os.path.abspath(__file__))
 NEWS     = os.path.join(HERE, "news.json")
@@ -115,18 +117,26 @@ def classify(client, batch):
     payload = [{"i": i, "title": it["title"], "source": it["source"]}
                for i, it in enumerate(batch)]
     prompt = (
-        "You are a venture-capital news desk editor. For each headline below, return a JSON "
-        "array. Each element: {\"i\": <index>, \"category\": one of "
-        f"{CATEGORIES}, \"summary\": a single original sentence (max 24 words) written in your "
-        "own words describing why it matters to an LP or GP}. Do NOT copy the headline's wording; "
-        "paraphrase. Category guide: Funds = fund closes/LP commitments; Deals = financing rounds/"
-        "investments; Exits = IPOs/M&A/secondaries; People = hires/departures/promotions; "
-        "Market = data, trends, policy, everything else. Return ONLY the JSON array, no prose.\n\n"
+        "You are a venture-capital news desk editor writing brief for LPs and GPs. "
+        "For each headline below, return a JSON array. Each element must be: "
+        "{\"i\": <index>, \"topics\": [1-3 topics], \"summary\": <2-3 sentence summary>}.\n\n"
+        f"Choose topics ONLY from this exact list: {TOPICS}. "
+        "Assign every topic that genuinely applies (most headlines fit 1-2; use up to 3). "
+        "Topic guide: Funding = startup financing rounds/raises; Funds & LPs = fund closes, "
+        "new funds, LP commitments; Exits & M&A = IPOs, acquisitions, secondaries; "
+        "People = hires, departures, promotions, profiles; Policy = regulation, law, "
+        "government, tax; Events = conferences, demo days, summits; Market & Data = trends, "
+        "reports, benchmarks, macro; AI & Deep Tech = AI, ML, frontier/hard tech; "
+        "Opinion = essays, analysis, commentary.\n\n"
+        "For \"summary\": write 2-3 complete sentences (about 45-70 words) in your OWN words "
+        "explaining what happened and why it matters to an LP or GP. Do NOT copy or lightly "
+        "reword the headline or any publisher text — write original analysis. "
+        "Return ONLY the JSON array, no prose.\n\n"
         + json.dumps(payload, ensure_ascii=False)
     )
     try:
         resp = client.messages.create(
-            model=MODEL, max_tokens=1500,
+            model=MODEL, max_tokens=3200,
             messages=[{"role": "user", "content": prompt}],
         )
         text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
@@ -136,15 +146,19 @@ def classify(client, batch):
         out = []
         for i, it in enumerate(batch):
             tag = by_i.get(i, {})
-            cat = tag.get("category")
-            it["category"] = cat if cat in CATEGORIES else "Market"
+            topics = [t for t in (tag.get("topics") or []) if t in TOPICS]
+            if not topics:
+                topics = ["Market & Data"]
+            it["topics"] = topics[:3]
+            it["category"] = it["topics"][0]   # legacy single-tag, kept for safety
             it["summary"] = (tag.get("summary") or "").strip()
             out.append(it)
         return out
     except Exception as e:
         print(f"  ! classify failed: {e}", file=sys.stderr)
         for it in batch:
-            it["category"] = "Market"
+            it["topics"] = ["Market & Data"]
+            it["category"] = "Market & Data"
             it["summary"] = ""
         return batch
 
@@ -167,7 +181,7 @@ def main():
         if not key or Anthropic is None:
             print("  (no ANTHROPIC_API_KEY — keeping titles, no AI summaries)", file=sys.stderr)
             for it in fresh:
-                it["category"], it["summary"] = "Market", ""
+                it["topics"], it["category"], it["summary"] = ["Market & Data"], "Market & Data", ""
             classified = fresh
         else:
             client = Anthropic(api_key=key)
