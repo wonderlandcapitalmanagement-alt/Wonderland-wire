@@ -1,0 +1,29 @@
+# Wonderland — podcast sources for the Listen agent.
+# Each entry: { name, host, url } where url is the show's RSS feed.
+# Fetched server-side (no CORS). Dead/moved feeds are skipped automatically.
+
+feeds:
+  - name: Acquired
+    host: Ben Gilbert & David Rosenthal
+    url: https://feeds.transistor.fm/acquired
+  - name: Invest Like the Best
+    host: Patrick O'Shaughnessy
+    url: https://feeds.megaphone.fm/investlikethebest
+  - name: The Twenty Minute VC
+    host: Harry Stebbings
+    url: https://thetwentyminutevc.libsyn.com/rss
+  - name: All-In
+    host: Chamath, Sacks, Friedberg, Calacanis
+    url: https://allinchamathjason.libsyn.com/rss
+  - name: Lenny's Podcast
+    host: Lenny Rachitsky
+    url: https://api.substack.com/feed/podcast/10845.rss
+  - name: a16z Podcast
+    host: Andreessen Horowitz
+    url: https://feeds.simplecast.com/JGE3yC0V
+  - name: This Week in Startups
+    host: Jason Calacanis
+    url: https://thisweekinstartups.libsyn.com/rss
+  - name: The Full Ratchet
+    host: Nick Moran
+    url: https://fullratchet.libsyn.com/rss
