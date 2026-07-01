@@ -5,10 +5,8 @@
 
 feeds:
   # ── Deal news & funding wire ──
-  - name: TechCrunch — Venture
-    url: https://techcrunch.com/category/venture/feed/
-  - name: TechCrunch — Startups
-    url: https://techcrunch.com/category/startups/feed/
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
   - name: Crunchbase News
     url: https://news.crunchbase.com/feed/
   - name: VentureBeat
