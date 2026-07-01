@@ -1,0 +1,51 @@
+# Wonderland Wire — news sources for the agent.
+# Each entry: { name, url } where url is an RSS/Atom feed.
+# Add or remove freely; the agent picks up changes on its next scheduled run.
+# Fetched server-side (no CORS), so paywalled sites still expose only what their feed allows.
+
+feeds:
+  # ── Deal news & funding wire ──
+  - name: TechCrunch — Venture
+    url: https://techcrunch.com/category/venture/feed/
+  - name: TechCrunch — Startups
+    url: https://techcrunch.com/category/startups/feed/
+  - name: Crunchbase News
+    url: https://news.crunchbase.com/feed/
+  - name: VentureBeat
+    url: https://venturebeat.com/feed/
+  - name: VC News Daily
+    url: https://www.vcnewsdaily.com/rss.php
+  - name: PitchBook News
+    url: https://pitchbook.com/news/rss
+
+  # ── Analysis & strategy ──
+  - name: The Generalist
+    url: https://www.generalist.com/feed
+  - name: Not Boring
+    url: https://www.notboring.co/feed
+  - name: Newcomer
+    url: https://www.newcomer.co/feed
+  - name: Tomasz Tunguz
+    url: https://tomtunguz.com/index.xml
+  - name: Clouded Judgement
+    url: https://cloudedjudgement.substack.com/feed
+
+  # ── VC firm & operator content ──
+  - name: a16z
+    url: https://a16z.com/feed/
+  - name: First Round Review
+    url: https://review.firstround.com/feed
+  - name: AVC · Fred Wilson
+    url: https://avc.com/feed
+  - name: SaaStr
+    url: https://www.saastr.com/feed/
+
+  # ── Europe & global ──
+  - name: Sifted
+    url: https://sifted.eu/feed
+  - name: Tech.eu
+    url: https://tech.eu/feed/
+
+  # ── Community / early signal ──
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
