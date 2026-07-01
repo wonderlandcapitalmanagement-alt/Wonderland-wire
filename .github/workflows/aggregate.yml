@@ -1,0 +1,36 @@
+name: Wonderland Wire
+
+# Runs the news agent on a schedule and commits the refreshed news.json.
+on:
+  schedule:
+    - cron: "0 */3 * * *"     # every 3 hours (UTC). Change cadence here.
+  workflow_dispatch: {}         # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write               # needed to commit news.json back to the repo
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python aggregator.py
+
+      - name: Commit refreshed wire
+        run: |
+          git config user.name  "wonderland-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add news.json _seen.json
+          git diff --staged --quiet || git commit -m "wire: refresh $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
