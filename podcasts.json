@@ -1,4 +1,431 @@
 {
-  "updated": "2026-07-01T15:10:00.244251+00:00",
-  "items": []
+  "updated": "2026-07-01T15:10:58.443846+00:00",
+  "items": [
+    {
+      "title": "Rick Rubin on AI, Creativity, and The Way of Code",
+      "url": "https://a16z.simplecast.com/episodes/rick-rubin-on-ai-creativity-and-the-way-of-code-KUxKnIS1",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "75 min",
+      "published": "2026-07-01T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "Renowned producer Rick Rubin discusses AI's implications for creative work and the philosophical foundations of technology development. His perspective bridges creative industries with frontier AI, offering a cultural lens on how automation reshapes human creativity."
+    },
+    {
+      "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
+      "url": "https://colossus.com/episode/the-future-of-ai-hardware/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "87 min",
+      "published": "2026-06-30T15:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "summary": "A discussion with Etched on building specialized AI hardware that improves inference speed and reduces computational costs. The episode examines the hardware-software co-design thesis and why investors should pay attention to infrastructure bottlenecks in the AI stack."
+    },
+    {
+      "title": "Building AI for Creators | Luma & Phota Labs",
+      "url": "https://a16z.simplecast.com/episodes/building-ai-for-creators-luma-phota-labs-0nl9Q52H",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "48 min",
+      "published": "2026-06-30T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "summary": "The episode examines startups building AI tools specifically for creators, including video and visual content generation platforms. This segment highlights a growing market segment where AI infrastructure enables new creator-economy applications and business models."
+    },
+    {
+      "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+      "url": "https://allinchamathjason.libsyn.com/nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "60 min",
+      "published": "2026-06-29T15:47:00+00:00",
+      "topics": [
+        "Policy",
+        "Opinion"
+      ],
+      "summary": "A data-driven political analyst forecasts near-term electoral outcomes and assesses emerging political dynamics. The discussion is relevant for LPs monitoring policy risk and long-term regulatory environment shifts affecting portfolio companies."
+    },
+    {
+      "title": "Beyond P(doom): Marc Andreessen - Betting on America",
+      "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "64 min",
+      "published": "2026-06-29T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion",
+        "Market & Data"
+      ],
+      "summary": "Marc Andreessen presents an optimistic case for AI advancement and American technological leadership despite existential concerns. His argument frames AI not as a risk to mitigate but as transformative opportunity driving long-term economic growth."
+    },
+    {
+      "title": "20VC: Leo Aschenbrenner's Largest Holding: Inside the $90BN Bloom Energy | Why Electricity, Not AI Models, Will Decide the Winners of the AI Race | Why We Are Not in an AI Capex Bubble | Energy Sovereignty and The Future of Power with KR Sridhar",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-leo-aschenbrenners-largest-holding-inside-the-90bn-bloom-energy-why-electricity-not-ai-models-will-decide-the-winners-of-the-ai-race-why-we-are-not-in-an-ai-capex-bubble-energy-sovereignty-and-the-future-of-power-with-kr-sridhar",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "60 min",
+      "published": "2026-06-29T07:07:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding",
+        "Market & Data"
+      ],
+      "summary": "Analysis of Bloom Energy's $90B valuation and its positioning in the AI infrastructure race, arguing that electricity and power infrastructure—not just models—will determine winners. The episode explores energy sovereignty and capital intensity as competitive advantages in the AI era."
+    },
+    {
+      "title": "20VC: How We Got Fred Wilson, Benchmark and Index to Invest $94M | Why Robinhood's Strategy is Wrong | Why 1-1s are BS and What Every Founder Gets Wrong About Equity | Why Taste Beats AI But How AI Kills Org Charts with Paul Erlanger, CEO @ fomo",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-how-we-got-fred-wilson-benchmark-and-index-to-invest-94m-why-robinhoods-strategy-is-wrong-why-1-1s-are-bs-and-what-every-founder-gets-wrong-about-equity-why-taste-beats-ai-but-how-ai-kills-org-charts-with-paul-erlanger-ceo-fomo",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "57 min",
+      "published": "2026-06-27T07:08:00+00:00",
+      "topics": [
+        "Funding",
+        "People",
+        "Opinion"
+      ],
+      "summary": "A CEO discusses raising $94M from top-tier VCs, critiques common founder misconceptions about equity and investor relationships, and challenges conventional advice on organizational structure. The conversation covers deal dynamics and how founder judgment and taste matter amid AI-driven efficiency claims."
+    },
+    {
+      "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+      "url": "https://allinchamathjason.libsyn.com/socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "101 min",
+      "published": "2026-06-26T23:53:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "summary": "Rapid-fire coverage of political shifts, competitive developments in AI/coding, infrastructure constraints in memory, and semiconductor strength. The episode surveys macro conditions and emerging structural trends affecting tech markets and venture returns."
+    },
+    {
+      "title": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
+      "url": "https://a16z.simplecast.com/episodes/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil-jewVLsTo",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "34 min",
+      "published": "2026-06-26T10:16:31+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "summary": "Kevin Weil discusses how AI systems are advancing beyond human-level performance in specialized domains and entering scientific discovery. The episode explores the inflection point where AI moves from task automation to generating novel insights across research domains."
+    },
+    {
+      "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
+      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "64 min",
+      "published": "2026-06-25T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "Marc Andreessen offers expansive commentary on AI's trajectory, technological breakthroughs, and implications for society and human flourishing. The conversation positions AI as a fundamental force reshaping multiple industries and defining the next era of innovation."
+    },
+    {
+      "title": "Investor Stories 481: Lessons Learned from Centana Growth, a16z, and Emergence: Trusting Management, Spotting Original Thinkers, and Investing Before Revenue (Byunn, Ulevitch, Saper)",
+      "url": "https://fullratchet.net/byunn-ulevitch-saper",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "5 min",
+      "published": "2026-06-25T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Funding"
+      ],
+      "summary": "Three experienced investors share frameworks for evaluating founder quality and investment timing, emphasizing the importance of backing authentic leaders before market validation. The discussion covers identifying original thinking, assessing management credibility, and the strategic advantage of early-stage conviction investing."
+    },
+    {
+      "title": "20VC: Deepseek Raises $50BN | Wall St's $725BN AI Question | The Rise of Open Source & How it Threatens OpenAI & Anthropic | OpenAI Builds it's Own Chip: Jalapeno | The Death of Moats & The New AI Software Winners",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-deepseek-raises-50bn-wall-sts-725bn-ai-question-the-rise-of-open-source-how-it-threatens-openai-anthropic-openai-builds-its-own-chip-jalapeno-the-death-of-moats-the-new-ai-software-winners",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "84 min",
+      "published": "2026-06-25T07:07:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding",
+        "Market & Data"
+      ],
+      "summary": "Discussion of DeepSeek's massive funding round, open-source AI's threat to closed models, and OpenAI's chip ambitions amid broader questions about software moats and value distribution. The episode examines whether the AI infrastructure and software landscape is experiencing a fundamental realignment."
+    },
+    {
+      "title": "What Happens to Design After AI?",
+      "url": "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "48 min",
+      "published": "2026-06-24T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "The episode examines how AI tools and automation will fundamentally alter design disciplines, creative workflows, and the role of human designers. It explores the professional and economic transitions as generative AI reshapes creative service markets."
+    },
+    {
+      "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+      "url": "https://allinchamathjason.libsyn.com/gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "63 min",
+      "published": "2026-06-23T20:52:00+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Opinion"
+      ],
+      "summary": "GameStop's leadership explores an acquisition strategy targeting eBay, signaling potential consolidation in e-commerce and retail tech. This commentary reflects broader strategic thinking about market consolidation and value creation through M&A in challenged consumer platforms."
+    },
+    {
+      "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
+      "url": "https://colossus.com/episode/the-power-of-permanent-capital/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "70 min",
+      "published": "2026-06-23T08:00:00+00:00",
+      "topics": [
+        "Funds & LPs",
+        "People"
+      ],
+      "summary": "Vlad Barbalat discusses managing permanent capital at scale and the strategic advantages of long-term, patient deployment. The conversation covers how institutional investors can structure funds to outperform through multi-cycle investing and reduced redemption pressure."
+    },
+    {
+      "title": "511. The Future of Military Planning: Defense Tech Beyond the Bubble, AI Software as Combat Power, and the Rise of AI Wargaming (Grant Demaree)",
+      "url": "https://fullratchet.net/grant-demaree",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "48 min",
+      "published": "2026-06-22T08:12:59+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "summary": "An expert explores how artificial intelligence is reshaping defense technology and military strategy beyond hype cycles, examining AI's role as a combat multiplier and emerging wargaming applications. The analysis highlights structural opportunities in defense-tech investing as geopolitical priorities shift."
+    },
+    {
+      "title": "20VC: Nikesh Arora on the Frontier Model Problem: Breadth vs Depth | The Future of Token Costs | Memory Becoming the Moat | Where Value Accrues: Infra, Models, or Apps? | Why Enterprise AI is Not Ready & Systems of Record vs Systems of Intelligence",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-nikesh-arora-on-the-frontier-model-problem-breadth-vs-depth-the-future-of-token-costs-memory-becoming-the-moat-where-value-accrues-infra-models-or-apps-why-enterprise-ai-is-not-ready-systems-of-record-vs-systems-of-intelligence",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "74 min",
+      "published": "2026-06-22T07:07:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion",
+        "Market & Data"
+      ],
+      "summary": "An industry leader analyzes where value accrues across AI infrastructure, models, and applications, addressing token economics and memory as emerging competitive advantages. The conversation covers why enterprise AI adoption lags expectations and the distinction between systems of record and intelligence."
+    },
+    {
+      "title": "The Walt Disney Company",
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "source": "Acquired",
+      "host": "Ben Gilbert & David Rosenthal",
+      "duration": "271 min",
+      "published": "2026-06-22T05:54:28+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "summary": "A deep dive into Disney's evolution from a media startup into a diversified entertainment conglomerate through strategic acquisitions and business model transformations. Understanding Disney's journey offers LPs and GPs insights into how visionary founders build and scale enduring consumer-facing empires across multiple decades."
+    },
+    {
+      "title": "20VC: Why Remote Work is White Collar Fraud | Why Revenge and Patriotism are the Best Founder Traits | Two Questions Every Founder Needs to Ask | The Wild Story of Raising $1BN from Masa Son in an Hour Long Meeting with Ryan Peterson, Founder @ Flexport",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-why-remote-work-is-white-collar-fraud-why-revenge-and-patriotism-are-the-best-founder-traits-two-questions-every-founder-needs-to-ask-the-wild-story-of-raising-1bn-from-masa-son-in-an-hour-long-meeting-with-ryan-peterson-founder-flexport",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "78 min",
+      "published": "2026-06-20T07:07:00+00:00",
+      "topics": [
+        "People",
+        "Funding",
+        "Opinion"
+      ],
+      "summary": "A founder shares his experience raising $1B from Masa Son and reflects on founder psychology, including unconventional views on remote work and what traits drive outsized success. The episode explores deal dynamics and founder mentality in building category-defining companies."
+    },
+    {
+      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+      "url": "https://allinchamathjason.libsyn.com/worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "84 min",
+      "published": "2026-06-19T22:07:00+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "summary": "The episode covers wealth concentration projections, regulatory backlash against Anthropic's AI model, and geopolitical tensions affecting global markets. These topics intersect around how emerging technologies face governance challenges while macro conditions shape investment opportunities."
+    },
+    {
+      "title": "Investor Stories 480: The Traits of Visionary Founders: Customer Obsession, Self Disruption, and Why Love Can Be a Competitive Advantage (Dillon, Patnam, Ries)",
+      "url": "https://fullratchet.net/dillon-patnam-ries",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "7 min",
+      "published": "2026-06-18T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "summary": "Prominent investors discuss the psychological and operational traits that distinguish visionary founders, from intense customer focus to willingness to cannibalize their own business models. The conversation suggests that founder psychology and emotional intelligence may be underweighted in traditional diligence processes."
+    },
+    {
+      "title": "20VC: SpaceX Soars to $2.7TRN | Anthropic's Fable Banned by US Government | Wix and Adobe Hit All-Time Lows | Mistral Raising at $20BN and The Case for Sovereign Models | Fin Acquired by Salesforce for $3.6BN",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-spacex-soars-to-27trn-anthropics-fable-banned-by-us-government-wix-and-adobe-hit-all-time-lows-mistral-raising-at-20bn-and-the-case-for-sovereign-models-fin-acquired-by-salesforce-for-36bn",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "85 min",
+      "published": "2026-06-18T07:07:00+00:00",
+      "topics": [
+        "Exits & M&A",
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "summary": "Coverage of major market moves including SpaceX's valuation surge, regulatory action against AI models, major tech selloffs, and strategic acquisitions including Salesforce's AI talent buy. The episode tracks valuation shifts and corporate strategy pivots in response to AI competition and policy pressure."
+    },
+    {
+      "title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
+      "url": "https://colossus.com/episode/courage-truth-justice/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "57 min",
+      "published": "2026-06-16T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "summary": "Kareem Amin shares unconventional frameworks for building enduring companies, emphasizing founder vision and operational discipline over conventional growth hacking. The episode provides GPs perspective on identifying and backing founders who prioritize sustainable building over short-term metrics."
+    },
+    {
+      "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+      "url": "https://allinchamathjason.libsyn.com/anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "102 min",
+      "published": "2026-06-13T04:51:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy",
+        "Market & Data"
+      ],
+      "summary": "Discussion centers on regulatory pressure on AI companies, government intervention in AI development, and macroeconomic headwinds including inflation. The episode addresses how policy uncertainty and pricing pressures create risks and opportunities across tech sectors."
+    },
+    {
+      "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
+      "url": "https://allinchamathjason.libsyn.com/all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "duration": "67 min",
+      "published": "2026-06-12T01:25:00+00:00",
+      "topics": [
+        "Funding",
+        "Opinion"
+      ],
+      "summary": "Four prominent investors present and defend their most compelling investment theses and market positions in a live competition format. This showcase provides direct insight into how top practitioners evaluate opportunities and construct conviction-based portfolios."
+    },
+    {
+      "title": "Investor Stories 479: Startup Lessons from Steve Blank, Seth Levine, and Ben Orthlieb: Hubris, Influence, and Founder Selection (Orthlieb, Levine, Blank)",
+      "url": "https://fullratchet.net/orthlieb-levine-blank",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "6 min",
+      "published": "2026-06-11T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "summary": "Legendary entrepreneurs and investors examine how founder hubris derails startups and discuss selection criteria that reduce founder risk. The episode balances cautionary tales with practical wisdom on identifying leaders capable of self-awareness and adaptive decision-making."
+    },
+    {
+      "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
+      "url": "https://colossus.com/episode/investing-on-the-s-curve/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "71 min",
+      "published": "2026-06-09T08:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "summary": "Alex Sacerdote explores how to construct investment theses that account for technological disruption and long-term market cycles. The session offers LPs and GPs practical guidance on positioning portfolios to capture alpha across shifting technology paradigms."
+    },
+    {
+      "title": "510. The Hyper-Scaler CEO Whisperer and Founder of the Lean Startup Movement on Incorruptible Startups, Building to Thrive and Survive, and Creating a Governance Fortress (Eric Ries)",
+      "url": "https://fullratchet.net/eric-ries",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "57 min",
+      "published": "2026-06-08T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "summary": "The creator of the Lean Startup methodology discusses governance structures and operational discipline that enable founders to both scale aggressively and withstand downturns. His framework addresses how startups can balance growth ambition with organizational resilience and founder alignment."
+    },
+    {
+      "title": "Investor Stories 478: Visionary Founder Lessons from Poshmark, Centana, and EquipmentShare: Love, Listening, and Leadership (Chaddha, Byunn, Schlacks)",
+      "url": "https://fullratchet.net/chaddha-byunn-schlacks",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "6 min",
+      "published": "2026-06-04T08:00:00+00:00",
+      "topics": [
+        "People",
+        "Funding"
+      ],
+      "summary": "Founders of successful growth-stage companies reflect on leadership qualities that enabled scaling, emphasizing emotional intelligence, stakeholder listening, and authentic mission-driven culture. Their experiences suggest that soft skills and values alignment correlate strongly with fundraising success and team retention."
+    },
+    {
+      "title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
+      "url": "https://colossus.com/episode/order-out-of-chaos/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "67 min",
+      "published": "2026-06-03T08:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "Uber's CEO discusses the company's strategic investments in autonomous vehicles and artificial intelligence while expanding into a broader service ecosystem. The conversation examines how infrastructure investments and AI capabilities position Uber for long-term competitive advantage in mobility and delivery markets."
+    },
+    {
+      "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
+      "url": "https://colossus.com/episode/reminiscences-of-an-investor/",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "duration": "63 min",
+      "published": "2026-05-28T08:00:00+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "summary": "A veteran investor reflects on three decades of capital deployment, sharing lessons on identifying opportunities and managing downside risk across market cycles. The discussion offers frameworks for portfolio construction and decision-making relevant to both institutional and individual allocators."
+    },
+    {
+      "title": "Vanguard",
+      "url": "https://www.acquired.fm/episodes/vanguard",
+      "source": "Acquired",
+      "host": "Ben Gilbert & David Rosenthal",
+      "duration": "228 min",
+      "published": "2026-05-18T03:26:52+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Market & Data"
+      ],
+      "summary": "An examination of Vanguard's rise as one of the world's largest asset managers and its unique mutual ownership structure. The company's approach to institutional investing and fee structure provides valuable lessons for fund managers thinking about long-term capital stewardship and LP alignment."
+    }
+  ]
 }
