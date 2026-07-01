@@ -1,6 +1,223 @@
 {
-  "updated": "2026-07-01T15:10:28.286214+00:00",
+  "updated": "2026-07-01T18:32:42.828014+00:00",
   "items": [
+    {
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "source": "TechCrunch",
+      "published": "2026-07-01T18:29:14+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Neocloud Together AI secured $800M in fresh capital at an $8.3B valuation, signaling strong investor appetite for AI infrastructure and foundation model companies. The substantial funding round reflects continued capital concentration in frontier AI despite market volatility."
+    },
+    {
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "source": "TechCrunch",
+      "published": "2026-07-01T18:24:00+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Micro-mobility operator Lime completed its transition to public markets after navigating years of regulatory and operational challenges. The IPO validates the business model and provides liquidity to early-stage investors who weathered the company's turnaround."
+    },
+    {
+      "title": "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
+      "url": "https://exitprotocols.com/engineering/libr-state-machine/",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:55:03+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer demonstrated LIBR tracing technology enabling byte-exact verification and PDF accountability through source ledger rows. The technical innovation addresses compliance and auditability concerns for regulated industries adopting AI and data processing systems."
+    },
+    {
+      "title": "What to Learn to Be a Graphics Programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:53:44+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Educational content on graphics programming skills lacks direct venture relevance but reflects broader talent development in specialized technical domains. Understanding skill gaps in graphics/rendering engineering may inform LP thesis around deep tech infrastructure and developer tool investments."
+    },
+    {
+      "title": "My OSCP Pentesting Cheatsheet",
+      "url": "https://hackerask.com/posts/pentesting-cheatsheet/",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:50:25+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A practitioner's security testing guide has limited LP/GP applicability as standalone content. However, it signals ongoing demand for cybersecurity expertise and tooling, which remains a viable venture category for founders building developer-focused security solutions."
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "published": "2026-07-01T17:48:37+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Cloudflare implemented new policies requiring AI companies to compensate publishers for content used in training, raising compliance costs for generative AI firms. This signals growing regulatory and contractual pressure around data rights and creator compensation."
+    },
+    {
+      "title": "Building Gin: Simple over Easy",
+      "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:45:17+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Technical discussion of a web framework's design philosophy lacks materiality to VC portfolios. Nonetheless, continued innovation in developer frameworks suggests persistent market for productivity-enhancing dev tools targeting specific language ecosystems."
+    },
+    {
+      "title": "Hanami 3.0: In Full Bloom",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:41:00+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A Ruby framework release announcement reflects ongoing evolution in open-source developer tooling but carries minimal direct VC significance. The maturity of established frameworks underscores how most value capture has shifted to application-layer and infrastructure startups."
+    },
+    {
+      "title": "Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE",
+      "url": "https://meltedinhex.com/posts/analyst-ai-pack/",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:27:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An open-source AI agent toolkit for malware analysis and reverse engineering demonstrates growing accessibility of specialized AI capabilities for security workflows. This exemplifies how AI is automating technical expertise domains, validating venture interest in security automation and threat intelligence tooling."
+    },
+    {
+      "title": "Are readers generating fiction with AI models?",
+      "url": "https://arxiv.org/abs/2606.22748",
+      "source": "Hacker News",
+      "published": "2026-07-01T17:21:07+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Questions around reader adoption of AI-generated fiction signal emerging consumer behavior patterns and potential market segmentation opportunities. Understanding early adoption curves for generative content informs LP thesis around AI media applications and consumer AI monetization models."
+    },
+    {
+      "title": "Hollywood's AI Anxiety on Full Display as Google's A24 Investment Draws Fire",
+      "url": "https://www.newcomer.co/p/hollywoods-ai-anxiety-on-full-display",
+      "source": "Newcomer",
+      "published": "2026-07-01T17:20:26+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Google's investment in media company A24 drew criticism from Hollywood stakeholders concerned about AI's impact on creative industries and talent. The controversy highlights regulatory and reputational risks for large tech firms pursuing media and entertainment partnerships around AI."
+    },
+    {
+      "title": "Even Honda is pivoting to data centers",
+      "url": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-07-01T17:13:45+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "Traditional automaker Honda is redirecting resources toward data center infrastructure, reflecting broader industry shift as AI workloads and compute become strategic assets. Legacy manufacturers are recognizing that hardware-adjacent businesses may offer better returns than traditional automotive lines."
+    },
+    {
+      "title": "Self-driving scaleup Wayve set to test LSE’s Pisces",
+      "url": "https://sifted.eu/articles/self-driving-scaleup-wayve-set-to-test-lses-pisces/",
+      "source": "Sifted",
+      "published": "2026-07-01T17:10:38+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Autonomous vehicle company Wayve announced plans to test its technology on the London Stock Exchange's infrastructure, suggesting real-world enterprise deployment opportunities. The partnership validates AV capabilities in controlled, high-value settings beyond public roads."
+    },
+    {
+      "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+      "url": "https://github.com/pglayers/pglayers",
+      "source": "Hacker News",
+      "published": "2026-07-01T16:50:02+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A containerized PostgreSQL extension approach represents infrastructure-level innovation enabling modular database customization. This signals ongoing venture opportunities in database tooling and deployment abstractions that reduce operational friction for data-intensive applications."
+    },
+    {
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "source": "TechCrunch",
+      "published": "2026-07-01T16:48:58+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Humble Robotics is capitalizing on renewed interest in autonomous vehicles by targeting freight logistics, a less-regulated and commercially mature segment. The timing suggests investors believe autonomous trucking has more near-term deployment potential than consumer robotaxi markets."
+    },
+    {
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "source": "Hacker News",
+      "published": "2026-07-01T16:19:47+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "GPU snapshotting for faster container cold starts addresses a critical performance bottleneck in serverless compute and ML workloads. This optimization matters to GPs backing cloud infrastructure and AI operations platforms seeking competitive differentiation through latency reduction."
+    },
+    {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "source": "VentureBeat",
+      "published": "2026-07-01T15:51:00+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Anthropic's Claude Fable 5 model returned to global availability following US government clearance on export restrictions. The regulatory breakthrough expands addressable market for enterprise AI deployments and signals easing of AI export controls."
+    },
+    {
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "source": "Hacker News",
+      "published": "2026-07-01T15:30:35+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A 10x performance improvement in IPFS publishing demonstrates ongoing infrastructure optimization mattering to decentralized storage ecosystems and Web3 development. This suggests sustained venture demand for performant distributed systems enabling practical blockchain and dApp infrastructure."
+    },
+    {
+      "title": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections Just Went on Autopilot.",
+      "url": "https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/",
+      "source": "SaaStr",
+      "published": "2026-07-01T15:17:59+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "Enterprise software is consolidating around AI-powered agents for sales, collections, and customer operations as multiple point solutions merge into unified platforms. The convergence suggests consolidation risk for standalone workflow automation vendors."
+    },
     {
       "title": "SpudCell: The first synthetic cell with a complete cell cycle",
       "url": "https://biotic.org/research/spudcell/",
@@ -23,6 +240,17 @@
       ],
       "category": "Funding",
       "summary": "Square integrated direct ordering from ChatGPT and Claude into restaurant workflows with low friction and minimal fees. This partnership demonstrates how AI assistants are becoming distribution channels for commerce, allowing restaurants to reach order-placement preferences without building proprietary integrations."
+    },
+    {
+      "title": "Ray Tracer in SQL",
+      "url": "https://github.com/ClickHouse/RayTracer",
+      "source": "Hacker News",
+      "published": "2026-07-01T14:27:48+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A SQL-based ray tracer is a technical curiosity showing creative problem-solving but lacks commercialization relevance to most venture portfolios. It reflects developer culture innovation rather than market opportunity, though foundational computational work sometimes presages future platform shifts."
     },
     {
       "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
@@ -216,6 +444,17 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Frond presents a frontend runtime designed to optimize how applications manage their dependency graphs, potentially improving performance and developer experience. This infrastructure-level tool could appeal to teams building scalable web applications, though its market impact depends on adoption rates and competitive positioning."
+    },
+    {
+      "title": "Digital resilience compounds when AI and human expertise scale together",
+      "url": "https://venturebeat.com/security/digital-resilience-compounds-when-ai-and-human-expertise-scale-together",
+      "source": "VentureBeat",
+      "published": "2026-07-01T12:00:00+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This piece argues that scaling AI effectiveness requires complementary human expertise rather than replacing workers, positioning hybrid models as the value creation thesis. The commentary reinforces investor interest in enterprises building AI augmentation rather than pure automation solutions."
     },
     {
       "title": "Qonto and Pennylane: French fintech friends and foes",
@@ -539,6 +778,17 @@
       ],
       "category": "Funding",
       "summary": "Wayve launched an $85M employee tender offer at an $8.5B valuation, allowing staff liquidity while maintaining private status. The move balances employee retention with capital efficiency and reflects confidence in autonomous vehicle technology valuations."
+    },
+    {
+      "title": "Most AI Work Can Wait",
+      "url": "https://www.tomtunguz.com/ai-execution-routing/",
+      "source": "Tomasz Tunguz",
+      "published": "2026-07-01T00:00:00+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Analyst Tunguz argues that many purported AI use cases lack immediate ROI and companies should wait for clearer productivity gains before investing. The contrarian take cautions against premature AI spending and suggests selectivity in deployment timing."
     },
     {
       "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
@@ -1143,125 +1393,6 @@
       ],
       "category": "Market & Data",
       "summary": "Crunchbase published an updated tech layoffs tracker documenting workforce reductions across the sector. This data helps LPs and GPs assess hiring efficiency trends and understand which segments are optimizing burn post-rapid pandemic-era growth."
-    },
-    {
-      "title": "Exclusive: XCures Lands $46M Series B To Clean Up Messy Medical Records With AI",
-      "url": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
-      "source": "Crunchbase News",
-      "published": "2026-06-24T14:00:11+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "XCures raised $46M in Series B funding to deploy AI systems that standardize and organize fragmented medical data. The capital addresses a critical healthcare infrastructure problem where data silos limit clinical insight and operational efficiency, positioning the startup to capture significant TAM in hospital and health system modernization."
-    },
-    {
-      "title": "Defending Against AI-Powered Attackers",
-      "url": "https://www.tomtunguz.com/sunil-agrawal-office-hours/",
-      "source": "Tomasz Tunguz",
-      "published": "2026-06-24T00:00:00+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "Analysis addresses how organizations must defend critical systems against adversarial AI-driven attacks as threat sophistication accelerates. The piece highlights emerging cybersecurity and risk management challenges tied to widespread AI deployment."
-    },
-    {
-      "title": "Own or Be Owned: Why Every Company Needs Its Own AI Model (Yash Patil, Co-Founder & CEO of Applied Compute)",
-      "url": "https://www.generalist.com/p/own-or-be-owned-why-every-company",
-      "source": "The Generalist",
-      "published": "2026-06-23T12:03:42+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Applied Compute's CEO argues that owning proprietary AI models is becoming essential for companies to maintain competitive moats and control their data destiny. The argument reflects a shift in AI strategy from model-agnostic platforms toward vertical integration, with implications for infrastructure and application startup positioning."
-    },
-    {
-      "title": "The Quietest Part of Startupland isn't so Quiet",
-      "url": "https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/",
-      "source": "Tomasz Tunguz",
-      "published": "2026-06-23T00:00:00+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "Commentary reflects on overlooked dynamics and non-obvious trends shaping startup ecosystems below headline investor attention. The piece suggests important opportunities exist outside celebrated mega-rounds and unicorn narratives."
-    },
-    {
-      "title": "So You Want to Sell Inference",
-      "url": "https://www.tomtunguz.com/so-you-want-to-sell-inference/",
-      "source": "Tomasz Tunguz",
-      "published": "2026-06-22T00:00:00+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "Analysis examines strategic considerations for startups commercializing AI inference capabilities to enterprise customers. The piece covers positioning, pricing, and go-to-market challenges specific to the rapidly evolving inference market."
-    },
-    {
-      "title": "Cursor Investors Set for Epic Payout from Musk's Juggernaut. They Still Have to Stomach a Ride.",
-      "url": "https://www.newcomer.co/p/cursor-investors-set-for-epic-payout",
-      "source": "Newcomer",
-      "published": "2026-06-19T13:53:09+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Cursor AI investors face substantial paper gains following Elon Musk's acquisition or major partnership, though valuation volatility and operational execution risks remain. The outcome underscores both explosive returns possible in AI tooling and the unpredictability of founder-driven mega-deals."
-    },
-    {
-      "title": "Generalist Intelligence: The Off Switch",
-      "url": "https://www.generalist.com/p/generalist-intelligence-june-19",
-      "source": "The Generalist",
-      "published": "2026-06-19T13:43:06+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This piece explores potential risks or limitations in developing generalist AI systems, questioning whether unlimited capability expansion is desirable or feasible. For investors, understanding the practical constraints and safety considerations around AGI development is critical to evaluating long-term AI company valuations and regulatory exposure."
-    },
-    {
-      "title": "Weekly Dose of Optimism #198",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-198",
-      "source": "Not Boring",
-      "published": "2026-06-19T12:59:50+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "A recurring optimism-focused column likely surveying positive developments across tech, business, or science. These pieces serve as counterbalance to doom narratives and help GPs identify emerging sentiment shifts and underappreciated growth catalysts in their investment landscape."
-    },
-    {
-      "title": "One Week Until the Cerebral Valley AI Summit in London! See the Speaker & Discussion Leader Lineup",
-      "url": "https://www.newcomer.co/p/one-week-until-the-cerebral-valley",
-      "source": "Newcomer",
-      "published": "2026-06-17T20:13:31+00:00",
-      "topics": [
-        "Events",
-        "AI & Deep Tech"
-      ],
-      "category": "Events",
-      "summary": "The Cerebral Valley AI Summit in London is assembling a notable speaker roster focused on artificial intelligence innovation and investment. These marquee conferences drive deal flow, LP-GP networking, and signal-setting for the year's investment themes."
-    },
-    {
-      "title": "Soaring Costs Prompt Fresh Interest in Open Source AI. Chinese Firms Are Way Ahead.",
-      "url": "https://www.newcomer.co/p/soaring-costs-prompt-fresh-interest",
-      "source": "Newcomer",
-      "published": "2026-06-17T17:14:19+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Rising AI infrastructure costs are reigniting investor interest in open-source model alternatives, where Chinese startups have built significant advantages. This shift could reshape the foundation model economics and challenge the closed-model dominance of U.S. labs."
     }
   ]
 }
