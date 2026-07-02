@@ -1,6 +1,445 @@
 {
-  "updated": "2026-07-02T03:07:01.904106+00:00",
+  "updated": "2026-07-02T08:29:07.374070+00:00",
   "items": [
+    {
+      "title": "Drone maker Quantum Systems raises $1.2bn, eyes humanoids",
+      "url": "https://sifted.eu/articles/quantum-systems-fundraise-humanoids-merger-stark/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-02T09:02:22+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Quantum Systems raised $1.2B and is pivoting toward humanoid robotics development, signaling investor appetite for autonomous hardware at scale. This demonstrates capital flowing from established hardware categories toward next-generation robotics, a high-risk, high-reward thesis."
+    },
+    {
+      "title": "Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million",
+      "url": "https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-02T08:20:46+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Orbit Capital closed its second growth debt fund at €107M, doubling down on non-dilutive financing for scaling European startups. The strong fund close signals institutional confidence in debt-as-alternative-to-equity for later-stage companies navigating cautious public markets."
+    },
+    {
+      "title": "Age Care Labs raises Rs 85 Cr to expand elder care platform",
+      "url": "https://yourstory.com/2026/07/age-care-labs-raises-85-crore-to-expand-elder-care-platform",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T08:09:26+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "Age Care Labs secured Rs 85 crore to scale its elder care platform across India, reflecting growing investor appetite for healthcare solutions serving aging populations. The capital will fund geographic expansion and product development in a demographic-driven market segment."
+    },
+    {
+      "title": "SEA is growing up fast, but enterprise fitness tech still has homework to do",
+      "url": "https://e27.co/sea-is-growing-up-fast-but-enterprise-fitness-tech-still-has-homework-to-do-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T08:02:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Southeast Asia's enterprise fitness tech sector is growing rapidly but faces maturity challenges requiring stronger go-to-market strategies and organizational readiness. The region presents opportunity but demands more sophisticated execution than consumer-focused competitors."
+    },
+    {
+      "title": "Tencent launches Ubisoft-licensed Just Dance: Party on mobile platforms with AI body tracking",
+      "url": "https://technode.com/2026/07/02/tencent-launches-ubisoft-licensed-just-dance-party-on-mobile-platforms-with-ai-body-tracking/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-02T08:01:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Tencent launched a mobile version of Just Dance with AI-powered body tracking, leveraging Ubisoft's IP and computer vision capabilities. The release demonstrates how major tech platforms are integrating advanced AI features into gaming to enhance engagement."
+    },
+    {
+      "title": "Belgian startup Visiblie raises €500K for AI search visibility",
+      "url": "https://tech.eu/2026/07/02/belgian-startup-visiblie-raises-eur500k-for-ai-search-visibility/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-02T08:00:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Belgian startup Visiblie raised €500K for an AI-driven SEO and search visibility platform. This seed-stage round reflects continued investor interest in AI-enhanced SaaS tools for digital marketing, a recurring subsector within enterprise software."
+    },
+    {
+      "title": "10 of Europe’s largest VC funds of 2026, so far",
+      "url": "https://www.eu-startups.com/2026/07/10-of-europes-largest-vc-funds-of-2026-so-far/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-02T07:51:12+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Market & Data"
+      ],
+      "category": "Funds & LPs",
+      "summary": "A roundup identified Europe's ten largest VC funds active in 2026, providing LPs with a snapshot of capital concentration and mega-fund dominance in the region. This benchmarking helps investors understand the competitive landscape and fund deployment trends."
+    },
+    {
+      "title": "Sparrow Capital Closes Third Fund At ₹475 Cr To Back Seed Stage Startups",
+      "url": "https://inc42.com/buzz/sparrow-capital-closes-third-fund-at-%e2%82%b9475-cr-to-back-seed-stage-startups/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-02T07:37:32+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Sparrow Capital raised ₹475 Cr for its third fund dedicated to early-stage startups in India, reflecting sustained LP appetite for seed-stage exposure in the subcontinent. The fund expansion signals confidence in the next generation of Indian founders despite broader macro uncertainty."
+    },
+    {
+      "title": "BRYM secures €650K to develop wearable neurofeedback platform",
+      "url": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-02T07:30:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "BRYM raised €650K to commercialize wearable neurofeedback technology that monitors and responds to brain activity. The capital will accelerate product development in a nascent but high-potential intersection of neuroscience, wearables, and health tech."
+    },
+    {
+      "title": "HousApp secures €4.3 million to expand its AI platform for real estate agents",
+      "url": "https://tech.eu/2026/07/02/housapp-secures-eur43-million-to-expand-its-ai-platform-for-real-estate-agents/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-02T07:15:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "HousApp secured €4.3M to scale its AI-powered platform that assists real estate professionals with client management and deal workflows. The funding reflects growing demand for AI tools that enhance productivity in traditionally analog-heavy sectors like real estate."
+    },
+    {
+      "title": "Alva Industries lands €16M to scale next-generation electric motors",
+      "url": "https://tech.eu/2026/07/02/alva-industries-lands-eur16m-to-scale-next-generation-electric-motors/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-02T07:00:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Alva Industries closed a €16M round to expand manufacturing and deployment of next-generation electric motors designed for industrial applications. The capital underscores investor appetite for hard-tech solutions addressing decarbonization and industrial efficiency."
+    },
+    {
+      "title": "He bought a ₹3.5 lakh bank server. Now he makes ₹27 lakh a month with AI",
+      "url": "https://yourstory.com/2026/07/bangalore-coder-cheap-server-ai-income",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T06:48:13+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An Indian entrepreneur repurposed discarded banking infrastructure to build an AI-powered service generating ₹27 lakh monthly, exemplifying creative bootstrapping and underutilized asset monetization. The story illustrates how AI tools are democratizing technical capabilities and enabling lean, high-margin businesses in emerging markets."
+    },
+    {
+      "title": "Future-ready teaching: How AI is transforming education in India",
+      "url": "https://yourstory.com/2026/06/future-ready-teaching-ai-transforming-education-india",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T06:35:24+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "EdTech platforms in India are leveraging AI to personalize learning, improve accessibility, and scale quality instruction in underserved regions. This trend demonstrates how AI adoption in emerging markets can address structural inequities while creating substantial revenue opportunities."
+    },
+    {
+      "title": "The real Swim Shady? Sydney brand beats Eminem in trademark battle",
+      "url": "https://www.smartcompany.com.au/retail/the-real-swim-shady-sydney-brand-beats-eminem-in-trademark-battle/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T06:30:25+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A Sydney swimwear brand successfully defended its 'Swim Shady' trademark against Eminem's legal challenge. While tangential to venture, the story highlights IP defense strategies for smaller brands against celebrity infringement attempts."
+    },
+    {
+      "title": "University-founded AI tender startup BidScript exceeds $1M in total pre-seed funding",
+      "url": "https://tech.eu/2026/07/02/university-founded-ai-tender-startup-bidscript-exceeds-1m-in-total-pre-seed-funding/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-02T06:30:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "BidScript, an AI tender platform founded in an academic setting, surpassed $1M in pre-seed commitments to automate procurement bidding workflows. University-backed deep tech ventures are attracting early-stage capital as they demonstrate defensible IP and technical moats."
+    },
+    {
+      "title": "At Atlassian Unleash, AI speed reinforced tough parameters of context, trust and resilience",
+      "url": "https://yourstory.com/2026/06/atlassian-unleash-ai-speed-reinforced-context-trust-resilience",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T06:27:02+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Events"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Atlassian's Unleash conference highlighted the practical challenges of enterprise AI deployment, emphasizing context, trust, and resilience as critical differentiators beyond raw model speed. The discussion reflects maturing buyer attitudes and the premium placed on reliability in mission-critical workflows."
+    },
+    {
+      "title": "Treasurer unveils AlphaLenz at Echelon Singapore 2026 to target finance and insurance automation",
+      "url": "https://e27.co/treasurer-unveils-alphalenz-at-echelon-singapore-2026-to-target-finance-and-insurance-automation-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T06:19:36+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech",
+        "Events"
+      ],
+      "category": "Funding",
+      "summary": "Treasurer unveiled AlphaLenz, an AI-powered automation tool for finance and insurance, at Echelon Singapore 2026. The platform launch signals growing investment in enterprise automation solutions targeting traditionally complex industries in Southeast Asia."
+    },
+    {
+      "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
+      "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T06:00:31+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "LinqAlpha closed a $22 million round to deploy agentic AI for institutional investment decision-making and portfolio management. The funding reflects institutional capital's willingness to back specialized AI agents for high-value financial applications."
+    },
+    {
+      "title": "What is Open USD and how could it quietly change business payments?",
+      "url": "https://www.smartcompany.com.au/finance/open-usd-stablecoin-visa-stripe-australia-explainer/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T05:55:15+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Open USD represents an emerging technical standard that could reshape how businesses handle payments infrastructure. Understanding this shift matters to investors tracking fintech disruption and companies building on alternative payment rails that may become industry defaults."
+    },
+    {
+      "title": "ShareChat Eyes Up To $400 Mn IPO In FY28",
+      "url": "https://inc42.com/buzz/sharechat-eyes-up-to-400-mn-ipo-in-fy28/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-02T05:46:27+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "ShareChat, a short-form video platform, is targeting a $400M IPO by FY28, marking a potential landmark exit for Indian social media startups. A public listing would validate the creator-economy thesis and provide liquidity for early investors at a substantial valuation."
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-02T05:30:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "An Indian entrepreneur is personally investing $30M to develop an AI-powered productivity suite competing with Microsoft Office. This signals growing conviction that AI-native alternatives to entrenched enterprise software can capture significant market share, presenting both an opportunity and competitive threat in the crowded productivity-AI space."
+    },
+    {
+      "title": "The extreme fear metric: Why forced liquidations are driving today’s market bounce",
+      "url": "https://e27.co/the-extreme-fear-metric-why-forced-liquidations-are-driving-todays-market-bounce-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T05:25:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "This analysis examines how extreme fear-driven forced liquidations are creating technical market rebounds rather than reflecting fundamental value recovery. Understanding these mechanics helps investors distinguish between panic-driven volatility and structural market shifts."
+    },
+    {
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T05:19:34+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "CursorBench 3.1 represents an updated benchmark for evaluating AI coding agents. These standardized performance metrics help investors and developers assess which AI tools genuinely improve developer productivity, informing fund allocation decisions in the competitive coding-assistant market."
+    },
+    {
+      "title": "Why good intentions aren’t enough: Five lessons on building inclusive businesses",
+      "url": "https://www.smartcompany.com.au/partner-content/why-good-intentions-arent-enough-five-lessons-on-building-inclusive-businesses/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T05:15:52+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This piece examines practical frameworks for building inclusive businesses beyond surface-level commitments. The analysis offers founders and investors guidance on embedding diversity and inclusion as structural advantages rather than compliance exercises."
+    },
+    {
+      "title": "H1’s biggest M&A deals",
+      "url": "https://sifted.eu/articles/h1s-biggest-ma-deals-2/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-02T05:00:55+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "A summary of H1's largest M&A transactions provides deal-flow context and valuation benchmarks for portfolio companies considering exits. These data points help LPs and GPs calibrate realistic exit multiples and timing strategies."
+    },
+    {
+      "title": "Anthropic release puts science startups on the defensive",
+      "url": "https://sifted.eu/articles/anthropic-claude-science/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-02T05:00:43+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Anthropic's latest release is pressuring science-focused startups by expanding AI capabilities for research applications traditionally served by specialized tools. This competitive dynamic may accelerate consolidation among smaller deep-tech platforms unable to compete on capability or scale."
+    },
+    {
+      "title": "EU offers quota deal to end UK-France standoff over €5bn Scaleup fund",
+      "url": "https://sifted.eu/articles/scaleup-e5bn-uk-france/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-02T05:00:36+00:00",
+      "topics": [
+        "Policy",
+        "Funds & LPs"
+      ],
+      "category": "Policy",
+      "summary": "The EU brokered a quota compromise to resolve UK-France disputes over a €5B Scaleup fund, enabling capital deployment across European ecosystems. This political resolution unblocks significant institutional capital and signals renewed commitment to pan-European venture infrastructure."
+    },
+    {
+      "title": "Common Ventures launches scheme to get working-class grads into startups",
+      "url": "https://sifted.eu/articles/common-ventures-path-social-mobility-atomico-phoenix-court/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-02T05:00:05+00:00",
+      "topics": [
+        "People",
+        "Funds & LPs"
+      ],
+      "category": "People",
+      "summary": "Common Ventures launched an initiative to direct working-class graduates into startup careers, addressing talent-pipeline and diversity challenges in venture. This addresses a market gap in founder and operator recruitment while expanding accessible pathways into entrepreneurship."
+    },
+    {
+      "title": "BYD co-founder-backed OMOWAY bags funding to join Southeast Asia’s electric motorcycle race",
+      "url": "https://e27.co/byd-co-founder-backed-omoway-bags-funding-to-join-southeast-asias-electric-motorcycle-race-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T04:54:40+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "OMOWAY, backed by BYD co-founder Warren Buffett, raised capital to compete in Southeast Asia's electric motorcycle market. The combination of automotive veteran backing and regional expansion ambition positions the startup against incumbent EV players."
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T04:32:41+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Kimi K2.7 Code integration into GitHub Copilot expands competitive options in AI-assisted development. This partnership signals consolidation and feature parity dynamics among major players, affecting investor positioning in the developer-tools category."
+    },
+    {
+      "title": "Indian startups raise $6.9B in H1 2026 as VC funding rebounds",
+      "url": "https://yourstory.com/2026/07/indian-startups-raise-69b-in-h1-2026-as-vc-funding-rebounds",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T04:12:44+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Indian startups raised $6.9B in the first half of 2026, signaling a recovery in venture capital deployment after prior funding cycles cooled. The rebound suggests renewed investor conviction in India's growth narrative, though capital concentration likely favors proven sectors and late-stage rounds."
+    },
+    {
+      "title": "etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push",
+      "url": "https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T04:03:46+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "etaily attracted Vynn Capital investment to accelerate operations across Malaysia, Singapore, and Indonesia. The funding validates the e-commerce platform's regional expansion strategy and Vynn's conviction in Southeast Asian digital commerce."
+    },
+    {
+      "title": "Reed Gift Fairs Melbourne 2026",
+      "url": "https://www.smartcompany.com.au/events-training/reed-gift-fairs-melbourne-2026/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T03:18:11+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "Reed Gift Fairs Melbourne 2026 is an upcoming trade event for the retail and gifting sector. This announcement signals opportunities for B2B networking and market access within the consumer goods ecosystem."
+    },
+    {
+      "title": "Pubs given green light to stay open all night for Socceroos’ 4am World Cup battle with Egypt",
+      "url": "https://www.smartcompany.com.au/hospitality/pubs-stay-open-all-night-socceroos-4am-world-cup-match-egypt/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T03:13:46+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Australian pubs received regulatory approval for extended hours during a major sporting event, reflecting government accommodation of entertainment demand. This regulatory flexibility highlights how policy can adapt to support hospitality and leisure sector economics."
+    },
+    {
+      "title": "Xiaohongshu reportedly launches internal Darwin project to develop new products",
+      "url": "https://technode.com/2026/07/02/xiaohongshu-reportedly-launches-internal-darwin-project-to-develop-new-products/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-02T03:12:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Xiaohongshu initiated an internal 'Darwin project' to develop new products, signaling the Chinese social platform is diversifying beyond its core content offering. The initiative reflects competitive pressure and management's effort to capture new user behavior segments."
+    },
     {
       "title": "AI slop is a strategy problem, not a content problem",
       "url": "https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/",
@@ -15,6 +454,18 @@
       "summary": "The proliferation of low-quality AI-generated content reflects strategic business choices rather than inherent content creation failures. This perspective suggests that addressing AI content quality requires rethinking incentive structures and business models, not just technical improvements."
     },
     {
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T03:00:15+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A newly discovered Android malware highlights ongoing security vulnerabilities in mobile ecosystems. This development underscores the persistent cybersecurity and regulatory risks that impact mobile-first startups and their insurability and compliance costs."
+    },
+    {
       "title": "The systemic minimum effective dose: Redesigning productivity through precision",
       "url": "https://e27.co/__trashed-20260624/",
       "source": "e27",
@@ -26,6 +477,19 @@
       ],
       "category": "Opinion",
       "summary": "Productivity optimization should focus on identifying minimal effective interventions rather than adopting comprehensive system overhauls, emphasizing precision over scale. This framework challenges conventional enterprise software deployment models that prioritize feature richness over targeted efficiency gains."
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T02:55:16+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Senior SWE-Bench provides a rigorous benchmark for evaluating AI agents on complex, real-world engineering tasks at senior levels. This open-source tool helps investors and founders objectively measure AI capability gaps, critical for evaluating technical startup viability."
     },
     {
       "title": "Fringe benefits: Disruption starts with the customers you don’t want",
@@ -52,6 +516,18 @@
       ],
       "category": "Opinion",
       "summary": "The piece examines how Chinese entertainment exports reveal strategic patterns applicable to startup scaling internationally. Understanding cultural adaptation and audience dynamics from C-dramas offers actionable lessons for founders entering unfamiliar markets with differentiated products."
+    },
+    {
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T02:30:16+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "An essay advocating for community-driven forums over algorithmically-controlled social platforms reflects broader skepticism toward centralized content platforms. This perspective informs discussions around network effects, user retention, and alternative community-building business models."
     },
     {
       "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
@@ -729,6 +1205,18 @@
       "summary": "Proptech startup Crib acquired CirclePe, a venture-backed property tech firm, in a consolidation move. The acquisition indicates continued M&A activity in the real-estate tech sector as platforms seek to expand capabilities and market reach."
     },
     {
+      "title": "More than 50% of funding raised by U30 startups goes to product, expansion: Hurun report",
+      "url": "https://yourstory.com/2026/07/under-30-entrepreneurs-channel-most-funding-product-expansion-hurun-report",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T13:29:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A Hurun report reveals that young founders (<30) allocate over half their capital to product development and business expansion rather than operations or overhead. This allocation pattern signals founder discipline and risk-adjusted spending priorities in early-stage companies."
+    },
+    {
       "title": "Spense Raises $2.8 Mn From Arkam Ventures To Build Secured Lending Infra",
       "url": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
       "source": "Inc42",
@@ -814,6 +1302,18 @@
       ],
       "category": "People",
       "summary": "Instamart, Swiggy's quick commerce subsidiary, appointed Gautam Swaroop as Chief Business Officer, signaling organizational expansion and strategic leadership changes. Executive appointments at growth-stage units indicate investor confidence and anticipated scaling phases."
+    },
+    {
+      "title": "How Small Daily Actions Can Move Mountains Over Time",
+      "url": "https://yourstory.com/2026/07/confucius-small-steps-big-success-daily-habits-growth",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T11:11:49+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This piece offers motivational commentary on how incremental progress compounds over time. While not directly relevant to venture finance, it may resonate with founders building long-term value creation narratives."
     },
     {
       "title": "30 Startups To Watch: Startups That Caught Our Eye In June 2026",
