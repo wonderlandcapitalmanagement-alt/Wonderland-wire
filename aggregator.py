@@ -29,7 +29,7 @@ except Exception:
 # ---- config ----
 MODEL          = "claude-haiku-4-5-20251001"
 RETENTION_DAYS = 14
-MAX_ITEMS      = 200         # total items kept in news.json
+MAX_ITEMS      = 260         # total items kept in news.json
 MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
