@@ -29,8 +29,8 @@ except Exception:
 # ---- config ----
 MODEL          = "claude-haiku-4-5-20251001"
 RETENTION_DAYS = 14
-MAX_ITEMS      = 120         # total items kept in news.json
-MAX_PER_FEED   = 15          # newest N entries considered per feed each run
+MAX_ITEMS      = 200         # total items kept in news.json
+MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
 # Topics taxonomy — an article may carry 1–3 of these. Keep in sync with track.html.
@@ -86,6 +86,7 @@ def load_feeds():
             out.append({"name": urlparse(feed).netloc, "url": feed})
         elif isinstance(feed, dict) and feed.get("url"):
             out.append({"name": feed.get("name") or urlparse(feed["url"]).netloc,
+                        "region": feed.get("region", "Global"),
                         "url": feed["url"]})
     return out
 
@@ -108,6 +109,7 @@ def collect(feeds, seen):
                 "title": clean_title(e.get("title", "")),
                 "url": link,
                 "source": f["name"],
+                "region": f.get("region", "Global"),
                 "published": parse_date(e).isoformat(),
             })
     return fresh
