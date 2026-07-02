@@ -1,49 +1,121 @@
-# Wonderland Wire — news sources for the agent.
-# Each entry: { name, url } where url is an RSS/Atom feed.
-# Add or remove freely; the agent picks up changes on its next scheduled run.
-# Fetched server-side (no CORS), so paywalled sites still expose only what their feed allows.
+# Wonderland Wire — news sources for the agent, tagged by region.
+# region ∈ Global, US, Europe, MENA, India, Southeast Asia, North Asia, ANZ, LatAm
+# Fetched server-side (no CORS). Dead/moved feeds are skipped automatically.
 
 feeds:
-  # ── Deal news & funding wire ──
+  # ── Global ──
   - name: TechCrunch
     url: https://techcrunch.com/feed/
+    region: Global
   - name: Crunchbase News
     url: https://news.crunchbase.com/feed/
-  - name: VentureBeat
-    url: https://venturebeat.com/feed/
-  - name: VC News Daily
-    url: https://www.vcnewsdaily.com/rss.php
+    region: Global
   - name: PitchBook News
     url: https://pitchbook.com/news/rss
-
-  # ── Analysis & strategy ──
+    region: Global
   - name: The Generalist
     url: https://www.generalist.com/feed
+    region: Global
   - name: Not Boring
     url: https://www.notboring.co/feed
-  - name: Newcomer
-    url: https://www.newcomer.co/feed
-  - name: Tomasz Tunguz
-    url: https://tomtunguz.com/index.xml
-  - name: Clouded Judgement
-    url: https://cloudedjudgement.substack.com/feed
-
-  # ── VC firm & operator content ──
-  - name: a16z
-    url: https://a16z.com/feed/
-  - name: First Round Review
-    url: https://review.firstround.com/feed
-  - name: AVC · Fred Wilson
-    url: https://avc.com/feed
-  - name: SaaStr
-    url: https://www.saastr.com/feed/
-
-  # ── Europe & global ──
-  - name: Sifted
-    url: https://sifted.eu/feed
-  - name: Tech.eu
-    url: https://tech.eu/feed/
-
-  # ── Community / early signal ──
+    region: Global
   - name: Hacker News
     url: https://hnrss.org/frontpage
+    region: Global
+
+  # ── US ──
+  - name: VentureBeat
+    url: https://venturebeat.com/feed/
+    region: US
+  - name: Newcomer
+    url: https://www.newcomer.co/feed
+    region: US
+  - name: a16z
+    url: https://a16z.com/feed/
+    region: US
+  - name: First Round Review
+    url: https://review.firstround.com/feed
+    region: US
+  - name: AVC · Fred Wilson
+    url: https://avc.com/feed
+    region: US
+  - name: SaaStr
+    url: https://www.saastr.com/feed/
+    region: US
+  - name: Tomasz Tunguz
+    url: https://tomtunguz.com/index.xml
+    region: US
+  - name: Clouded Judgement
+    url: https://cloudedjudgement.substack.com/feed
+    region: US
+
+  # ── Europe ──
+  - name: Sifted
+    url: https://sifted.eu/feed
+    region: Europe
+  - name: Tech.eu
+    url: https://tech.eu/feed/
+    region: Europe
+  - name: EU-Startups
+    url: https://www.eu-startups.com/feed/
+    region: Europe
+
+  # ── MENA ──
+  - name: Wamda
+    url: https://www.wamda.com/feed
+    region: MENA
+  - name: MENAbytes
+    url: https://www.menabytes.com/feed/
+    region: MENA
+
+  # ── India ──
+  - name: Inc42
+    url: https://inc42.com/feed/
+    region: India
+  - name: YourStory
+    url: https://yourstory.com/feed
+    region: India
+  - name: VCCircle
+    url: https://www.vccircle.com/rss
+    region: India
+  - name: Entrackr
+    url: https://entrackr.com/feed/
+    region: India
+  - name: The Ken
+    url: https://the-ken.com/feed/
+    region: India
+
+  # ── Southeast Asia ──
+  - name: Tech in Asia
+    url: https://www.techinasia.com/feed
+    region: Southeast Asia
+  - name: e27
+    url: https://e27.co/feed/
+    region: Southeast Asia
+  - name: DealStreetAsia
+    url: https://www.dealstreetasia.com/feed/
+    region: Southeast Asia
+
+  # ── North Asia ──
+  - name: KrASIA
+    url: https://kr-asia.com/feed
+    region: North Asia
+  - name: TechNode
+    url: https://technode.com/feed/
+    region: North Asia
+
+  # ── ANZ ──
+  - name: Startup Daily
+    url: https://www.startupdaily.net/feed/
+    region: ANZ
+  - name: SmartCompany
+    url: https://www.smartcompany.com.au/feed/
+    region: ANZ
+
+  # ── LatAm ──
+  - name: Contxto
+    url: https://contxto.com/en/feed/
+    region: LatAm
+  - name: LABS
+    url: https://labsnews.com/en/feed/
+    region: LatAm
