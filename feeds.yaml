@@ -67,6 +67,12 @@ feeds:
   - name: MENAbytes
     url: https://www.menabytes.com/feed/
     region: MENA
+  - name: StartupScene ME
+    url: https://thestartupscene.me/feed/
+    region: MENA
+  - name: MAGNiTT
+    url: https://magnitt.com/news/rss
+    region: MENA
 
   # ── India ──
   - name: Inc42
@@ -113,8 +119,17 @@ feeds:
     region: ANZ
 
   # ── LatAm ──
+  - name: LatamList
+    url: https://latamlist.com/feed/
+    region: LatAm
   - name: Contxto
     url: https://contxto.com/en/feed/
+    region: LatAm
+  - name: Startupi
+    url: https://startupi.com.br/feed/
+    region: LatAm
+  - name: LAVCA
+    url: https://www.lavca.org/feed/
     region: LatAm
   - name: LABS
     url: https://labsnews.com/en/feed/
