@@ -1,4 +1,2228 @@
 {
-  "updated": "2026-07-02T02:55:43.736173+00:00",
-  "items": []
+  "updated": "2026-07-02T02:55:59.557948+00:00",
+  "items": [
+    {
+      "title": "Fringe benefits: Disruption starts with the customers you don’t want",
+      "url": "https://e27.co/fringe-benefits-disruption-starts-with-the-customers-you-dont-want-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T02:50:19+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "The piece argues that successful disruption often starts by targeting underserved or 'undesirable' customer segments that incumbents ignore. This insight matters for founders and investors identifying blue-ocean opportunities where competition is minimal but demand is real."
+    },
+    {
+      "title": "The playbook for going global: What C-dramas teach us about market entry",
+      "url": "https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T02:45:37+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Using Chinese dramas as a case study, the author extracts lessons about international expansion strategy and cultural market entry. For GPs backing global expansion plays, understanding these patterns helps evaluate founder playbooks and geographic scaling risks."
+    },
+    {
+      "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
+      "url": "https://inc42.com/buzz/bike-bazaars-debt-spiral-dream11-shuts-fintech-arm-more/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-02T02:30:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Bike Bazaar faces financial distress while Dream11 exits fintech operations, signaling challenges in high-burn marketplace and gaming-adjacent businesses. These developments underscore the weaker risk appetite for capital-intensive models post-correction."
+    },
+    {
+      "title": "Inside Third Wave Coffee’s unending reinvention",
+      "url": "https://the-ken.com/story/inside-third-wave-coffees-unending-reinvention/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-07-02T02:30:05+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Analysis of Third Wave Coffee's strategic pivots and business model evolution over time. The narrative explores how the café chain navigated market pressures through continuous reinvention."
+    },
+    {
+      "title": "Avoiding Fallback in Distributed Systems",
+      "url": "https://builder.aws.com",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T02:19:48+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Technical deep-dive on distributed systems architecture and failure mitigation. Understanding these engineering fundamentals matters for infrastructure and SaaS investors evaluating technical competency and system reliability."
+    },
+    {
+      "title": "Founders think they win on nerve. In Singapore, they win on foresight",
+      "url": "https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T02:15:46+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "The article contrasts risk-taking culture with strategic foresight in Singapore's startup ecosystem, suggesting successful founders combine both. This cultural lens is valuable for GPs assessing founder quality and startup ecosystem maturity in Southeast Asia."
+    },
+    {
+      "title": "Xiaomi launches crowdfunding for its first smart storage device",
+      "url": "https://technode.com/2026/07/02/xiaomi-launches-crowdfunding-for-its-first-smart-storage-device/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-02T02:15:12+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "Xiaomi is using crowdfunding to validate demand for a new smart storage hardware product, blending consumer validation with capital raising. This approach signals how established tech companies de-risk product launches and engage communities before full commercialization."
+    },
+    {
+      "title": "Turning parents into co-therapists; Atomgrid’s big bet on speciality chemicals",
+      "url": "https://yourstory.com/2026/07/turning-parents-into-co-therapists",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-02T02:00:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Atomgrid is building a specialty chemicals business with a technology angle centered on parent engagement and therapeutic outcomes. The model combines deep tech application with B2B2C positioning in a traditionally fragmented sector."
+    },
+    {
+      "title": "The next AI winners in Southeast Asia won’t be AI companies",
+      "url": "https://e27.co/the-next-ai-winners-in-southeast-asia-wont-be-ai-companies-20260626/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T01:45:25+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The analysis posits that AI's biggest wins in Southeast Asia will come from application layers, not AI model companies themselves. This reframes investment thesis for GPs chasing AI trends—vertical solutions and integrators may capture more value than foundational models."
+    },
+    {
+      "title": "How Bike Bazaar Ran Into A Credit Crisis",
+      "url": "https://inc42.com/features/how-bike-bazaar-ran-into-a-credit-crisis/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-02T01:30:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Bike Bazaar's credit crisis stems from aggressive growth spending and financing mismanagement, highlighting operational vulnerabilities in logistics-adjacent startups. The case offers a cautionary lesson on unit economics during market downturns."
+    },
+    {
+      "title": "LibreCAD in the Browser",
+      "url": "https://magik.net/librecad/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T01:00:31+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Discussion of browser-based CAD software, highlighting the shift toward web-native productivity tools. This reflects growing investor interest in democratizing complex software through accessible, cloud-first architectures."
+    },
+    {
+      "title": "The rise of AI twins: From assistant to infrastructure",
+      "url": "https://e27.co/the-rise-of-ai-twins-from-assistant-to-infrastructure-20260626/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-02T01:00:08+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The piece traces how AI assistants are evolving into core infrastructure components rather than standalone services. For infrastructure-focused GPs, this signals a market shift where AI becomes embedded and critical to operations, opening new financing and scaling opportunities."
+    },
+    {
+      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T00:48:01+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Profile of an open-source robotics project demonstrating accessible hardware innovation. The emergence of community-driven robotics platforms signals expanding opportunities in autonomous systems beyond well-capitalized startups."
+    },
+    {
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-02T00:40:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Global validation of mRNA vaccine safety and efficacy bolsters long-term conviction in the platform technology. This validates the therapeutic potential and commercial viability of biotech investments built on mRNA foundations."
+    },
+    {
+      "title": "Shoe retailer Betts to close 20 stores after entering voluntary administration",
+      "url": "https://www.smartcompany.com.au/retail/shoe-retailer-betts-close-20-stores-voluntary-administration/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T00:32:40+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Betts, a shoe retailer, is closing 20 stores after entering voluntary administration, reflecting structural challenges in traditional retail. The distress signals headwinds in brick-and-mortar retail and validates the consolidation pressures affecting legacy consumer businesses."
+    },
+    {
+      "title": "Royal commission told antisemitism flourishes on Elon Musk’s X, as online hate routinely gets a leave pass on social media",
+      "url": "https://www.startupdaily.net/topic/social-media/royal-commission-told-antisemitism-flourishes-on-elon-musks-x-as-online-hate-routinely-gets-a-leave-pass-on-social-media/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-02T00:16:46+00:00",
+      "topics": [
+        "Policy",
+        "Opinion"
+      ],
+      "category": "Policy",
+      "summary": "A royal commission investigation found that antisemitism and hate speech flourish on Elon Musk's X with inadequate moderation, raising questions about platform governance and legal liability. This scrutiny may pressure tech platforms to strengthen enforcement and could influence regulatory debate around speech, safety, and corporate accountability."
+    },
+    {
+      "title": "Robotics startup Emesent raises $25 million as NRFC unveils investment first",
+      "url": "https://www.smartcompany.com.au/startupsmart/robotics-startup-emesent-raises-25-million-nrfc-venture-debt/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-02T00:16:27+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Emesent, a robotics company, has secured $25 million in funding with participation from NRFC, marking a notable investment in autonomous systems technology. The capital enables scale-up of robotics solutions and demonstrates institutional backing for industrial automation opportunities."
+    },
+    {
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T23:57:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Apple is preparing new iPad Pro and MacBook Pro models for early 2025 release. This product cycle timing signals continued hardware demand despite broader tech market uncertainty, relevant for investors tracking consumer hardware spending trends."
+    },
+    {
+      "title": "The <Usermedia> HTML Element",
+      "url": "https://developer.chrome.com/blog/usermedia-html-element",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T23:56:15+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Technical update on emerging web standards for media capture and handling. Incremental web platform advances enable new use cases for consumer and enterprise applications leveraging browser-based interfaces."
+    },
+    {
+      "title": "Mine drone mapping scaleup Emesent raises $15 million",
+      "url": "https://www.startupdaily.net/topic/funding/mine-drone-mapping-scaleup-emesent-raises-15-million/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T23:56:06+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Emesent, a drone-based mapping company for mining operations, raised $15 million in new funding to scale its autonomous surveying technology. The round affirms investor appetite for AI-driven solutions that improve safety and efficiency in resource extraction and heavy industry."
+    },
+    {
+      "title": "Fitness entrepreneur Sam Wood adapts to GLP-1 era with new startup Ollo",
+      "url": "https://www.smartcompany.com.au/health/fitness-entrepreneur-sam-wood-glp-1-era-new-startup-ollo/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T23:54:06+00:00",
+      "topics": [
+        "Funding",
+        "People"
+      ],
+      "category": "Funding",
+      "summary": "Fitness entrepreneur Sam Wood has launched Ollo, a startup responding to the market shift driven by GLP-1 adoption and changing consumer health priorities. The move reflects how established founders are pivoting to emerging health trends and creating new venture opportunities in related spaces."
+    },
+    {
+      "title": "Inside the billion-dollar succession battle at Linfox that’s tearing the Fox family apart",
+      "url": "https://www.smartcompany.com.au/opinion/billion-dollar-succession-battle-at-linfox-tearing-fox-family-apart/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T23:15:36+00:00",
+      "topics": [
+        "People",
+        "Exits & M&A"
+      ],
+      "category": "People",
+      "summary": "A succession dispute within the Fox family controlling Linfox, a multi-billion-dollar logistics company, has escalated into internal conflict affecting governance and future direction. Family business disputes at this scale can impact valuations, management stability, and potential exit strategies."
+    },
+    {
+      "title": "Common Path launches to connect low-income graduates with UK startups",
+      "url": "https://tech.eu/2026/07/01/common-path-launches-to-connect-low-income-graduates-with-uk-startups/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-01T23:01:00+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Common Path is launching a program to bridge the gap between underrepresented graduates and early-stage UK startups, addressing talent pipeline challenges and diversity gaps in the startup ecosystem."
+    },
+    {
+      "title": "Healthy but sedentary people show early decline in cellular energy production",
+      "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T22:48:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Research revealing cellular-level health degradation despite absence of visible disease, pointing to early biomarkers. This discovery underscores investment opportunities in preventive health monitoring and early diagnostic technologies."
+    },
+    {
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T22:47:04+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Bending Spoons surged 40% on its first trading day, defying the widely reported SaaS slowdown narrative. The strong debut suggests investor appetite for profitable software businesses with disciplined unit economics, even in a challenging macro environment."
+    },
+    {
+      "title": "The Underhanded C Contest",
+      "url": "https://underhanded-c.org/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T22:39:15+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Programming challenge highlighting edge cases and counterintuitive behavior in low-level systems design. Such competitions drive technical rigor relevant to founders building safety-critical infrastructure and systems software."
+    },
+    {
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T22:28:35+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Opinion"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Following its $18B IPO, Bending Spoons' founder attributed success to minimizing luck through disciplined execution. His commentary provides a contrarian perspective on venture outcomes and operational rigor that resonates with value-focused investors."
+    },
+    {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T22:27:47+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Exploration of zero-knowledge proofs as a privacy-preserving solution for age verification and similar compliance needs. This technology bridges regulatory requirements with consumer privacy, opening new opportunities in identity and fintech infrastructure."
+    },
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T22:03:36+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "ZCode appears to be a development tool or framework for GLM-5.2, a large language model. This type of tooling enables developers to more efficiently build and deploy LLM applications, reducing friction in enterprise AI adoption."
+    },
+    {
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T22:02:24+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "WhatsApp's new username feature is creating impersonation risks for users. The security gap highlights ongoing tensions between platform feature velocity and user protection, relevant to founders and investors in consumer communication platforms."
+    },
+    {
+      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-07-01T21:50:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Enterprise AI teams face governance and ownership challenges that are fundamentally organizational rather than technical. Manual oversight of AI systems creates bottlenecks; structured governance frameworks may unlock faster enterprise AI deployment and ROI."
+    },
+    {
+      "title": "Chip Off the Old Block",
+      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+      "source": "Hacker News",
+      "region": "Global",
+      "published": "2026-07-01T21:42:57+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This headline likely references advances in chip design or semiconductor development related to AI infrastructure. Chip innovation is critical for companies scaling AI workloads and represents a key competitive frontier in the sector."
+    },
+    {
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T19:18:07+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A researcher discovered Apple's Hide My Email privacy feature exposes users' actual email addresses due to a bug. This vulnerability undermines a key privacy selling point and raises questions about Apple's quality assurance practices."
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T18:54:18+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "SpaceX is developing an AI-powered device that resembles a phone prototype. The move suggests Elon Musk's portfolio companies are exploring adjacent hardware categories, signaling potential competition in mobile and AI devices."
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T18:47:22+00:00",
+      "topics": [
+        "People",
+        "Funds & LPs"
+      ],
+      "category": "People",
+      "summary": "Ashton Kutcher is departing Sound Ventures to establish a new VC fund alongside Morgan Beller. This partnership shift reflects evolving dynamics in celebrity-backed venture capital and signals a new vehicle entering the market."
+    },
+    {
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T18:29:14+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Together AI raised $800M in funding, reaching an $8.3B valuation as demand for AI infrastructure accelerates. The substantial raise underscores investor confidence in open-source and alternative AI model providers challenging OpenAI's dominance."
+    },
+    {
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T18:24:00+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Lime completed its transition to public markets after years of uncertainty around the micromobility sector's viability. The IPO validates the business model and provides liquidity for early investors, though market conditions remain competitive."
+    },
+    {
+      "title": "BrainsMingle raises $400,000 seed from BasharSoft Group",
+      "url": "http://wamda.com/2026/06/egypt-brainsmingle-raises-400000-seed-basharsoft-group",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-07-01T18:03:15+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "BrainsMingle secured $400,000 in seed funding from BasharSoft Group, marking an early-stage investment in the startup ecosystem. The round demonstrates continued investor appetite for early-stage ventures in the region."
+    },
+    {
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-07-01T17:50:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Crunchbase released an updated tech layoffs tracker monitoring workforce reductions across the sector. The tracker serves as a key barometer for market health and investor sentiment regarding burn rates and company sustainability."
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "published": "2026-07-01T17:48:37+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Cloudflare introduced a policy requiring AI companies to compensate publishers for content used in training. This move signals growing regulatory and contractual friction around AI data sourcing, affecting training economics for AI startups."
+    },
+    {
+      "title": "Hollywood's AI Anxiety on Full Display as Google's A24 Investment Draws Fire",
+      "url": "https://www.newcomer.co/p/hollywoods-ai-anxiety-on-full-display",
+      "source": "Newcomer",
+      "region": "US",
+      "published": "2026-07-01T17:20:26+00:00",
+      "topics": [
+        "Policy",
+        "Opinion"
+      ],
+      "category": "Policy",
+      "summary": "Google's investment in A24 triggered industry backlash over AI's role in creative work, surfacing labor and IP concerns in entertainment. Regulatory and reputational risks around AI in creative industries may shape future tech-media partnerships and policy frameworks."
+    },
+    {
+      "title": "Self-driving scaleup Wayve set to test LSE’s Pisces",
+      "url": "https://sifted.eu/articles/self-driving-scaleup-wayve-set-to-test-lses-pisces/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T17:10:38+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Autonomous vehicle developer Wayve is advancing toward public markets through a London Stock Exchange testing program. This milestone signals growing institutional readiness for deep-tech exits and potential valuation pressure on competing self-driving platforms."
+    },
+    {
+      "title": "Govt Asks Meta To Pause WhatsApp Username Rollout: Report",
+      "url": "https://inc42.com/buzz/govt-asks-meta-to-pause-whatsapp-username-rollout-report/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T16:03:58+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "India's government requested Meta delay WhatsApp username rollout, citing regulatory concerns around user privacy and verification. The intervention shows heightened state scrutiny of messaging platform features in a key market."
+    },
+    {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-07-01T15:51:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Anthropic's Claude Fable 5 became available globally after US export controls were lifted, expanding market access for the model. Regulatory clarity on AI model distribution removes barriers to international enterprise adoption and revenue scaling."
+    },
+    {
+      "title": "REACH Middle East opens applications for second UAE proptech accelerator",
+      "url": "http://wamda.com/2026/07/reach-middle-east-opens-applications-second-uae-proptech-accelerator",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-07-01T15:18:31+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "REACH Middle East launched applications for its second proptech accelerator cohort in the UAE. The program expansion indicates sustained momentum in real estate technology development across the Middle Eastern market."
+    },
+    {
+      "title": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections Just Went on Autopilot.",
+      "url": "https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-07-01T15:17:59+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "AI agents are re-emerging as a viable category while workflow automation platforms consolidate functionality and reduce manual work in enterprise operations. This convergence suggests the market is maturing toward integrated, autonomous solutions rather than point tools."
+    },
+    {
+      "title": "PRISM DRHP: A Look At Shareholding Pattern & Key Personnel",
+      "url": "https://inc42.com/buzz/prism-drhp-a-look-at-shareholding-pattern-key-personnel/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T14:50:35+00:00",
+      "topics": [
+        "Exits & M&A",
+        "People"
+      ],
+      "category": "Exits & M&A",
+      "summary": "PRISM's draft red herring prospectus reveals shareholding structure and leadership ahead of its public listing. Key personnel and cap table details provide visibility into governance as the company prepares for IPO."
+    },
+    {
+      "title": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation",
+      "url": "https://www.eu-startups.com/2026/07/dutch-cybersecurity-startup-dawnguard-lands-e2-8-million-for-ai-native-security-architecture-automation/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T14:44:45+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Dutch cybersecurity startup Dawnguard raised €2.8 million to advance AI-native security automation, addressing growing demand for machine-learning-based approaches to enterprise threat detection and response."
+    },
+    {
+      "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-07-01T14:41:22+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Square integrated ChatGPT and Claude ordering directly into its platform with minimal friction and fees, creating new AI-driven revenue streams. This demonstrates how embedded AI capabilities drive stickiness and transaction volume for fintech infrastructure players."
+    },
+    {
+      "title": "Fibe IPO Pitch: More Than A Personal Loan Platform, But Will Investors Buy In?",
+      "url": "https://inc42.com/features/fibe-ipo-pitch-more-than-a-personal-loan-platform-but-will-investors-buy-in/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T14:40:16+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Fibe positions itself beyond personal lending in advance of its IPO, seeking to broaden investor appeal amid competitive fintech debt. The narrative shift reflects strategy to command premium valuations in public markets."
+    },
+    {
+      "title": "Figma Grows 46% and Trades at 6x. Everyone Else Growing 30%+ Trades at 15-36x.",
+      "url": "https://www.saastr.com/figma-grows-46-and-trades-at-6x-everyone-else-growing-30-trades-at-15-36x/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-07-01T14:10:26+00:00",
+      "topics": [
+        "Market & Data",
+        "Exits & M&A"
+      ],
+      "category": "Market & Data",
+      "summary": "Figma's 46% growth paired with a 6x revenue multiple significantly undervalues it relative to peer SaaS companies growing at similar or lower rates that command 15-36x multiples. The valuation gap reflects either market mispricing or legitimate risk factors that differentiate Figma's growth sustainability."
+    },
+    {
+      "title": "Agnikul, ICEYE partnership to explore India-built radar satellite capability",
+      "url": "https://yourstory.com/2026/07/agnikul-iceye-partnership-explore-india-built-radar-satellite-capability",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T14:08:32+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Agnikul and ICEYE announced a partnership to develop indigenous radar satellite capabilities, combining Indian rocket technology with satellite imaging. The collaboration demonstrates India's growing ambition in space-tech and Earth observation infrastructure."
+    },
+    {
+      "title": "Hyderabad Startup Funding Soars In H1 2026, Delhi, Mumbai Funding Dips",
+      "url": "https://inc42.com/buzz/hyderabad-startup-funding-soars-in-h1-2026-delhi-mumbai-funding-dips/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T13:58:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Hyderabad captured disproportionate funding growth in the first half of 2026, while traditional hubs Delhi and Mumbai saw capital inflows decline. This geographic shift signals investor confidence in emerging startup ecosystems outside India's tier-one metro regions."
+    },
+    {
+      "title": "Meru Cabs Withdraws 7-Year-Old Predatory Pricing Appeal Against Ola, Uber",
+      "url": "https://inc42.com/buzz/meru-cabs-withdraws-7-year-old-predatory-pricing-appeal-against-ola-uber/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T13:41:10+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Policy"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Meru Cabs dropped a seven-year legal challenge against Ola and Uber over predatory pricing practices, effectively ending its regulatory complaint. The withdrawal suggests either settlement or capitulation in a closely-watched competition case affecting the ride-sharing sector."
+    },
+    {
+      "title": "Proptech Startup Crib Acquires Venture Catalyst-Backed CirclePe",
+      "url": "https://inc42.com/buzz/proptech-startup-crib-acquires-venture-catalyst-backed-circlepe/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T13:41:05+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Proptech platform Crib acquired CirclePe, a venture-backed company, consolidating functionality within the real-estate technology space. The deal demonstrates M&A activity as a consolidation strategy among mid-stage proptech players."
+    },
+    {
+      "title": "Spense Raises $2.8 Mn From Arkam Ventures To Build Secured Lending Infra",
+      "url": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T12:54:43+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Spense secured $2.8 million from Arkam Ventures to develop fintech infrastructure for secured lending products. The capital infusion backs the company's play in building embedded credit solutions leveraging data and automation."
+    },
+    {
+      "title": "Klarna wins $1.97bn antitrust lawsuit against Google",
+      "url": "https://sifted.eu/articles/klarna-wins-1-97bn-antitrust-lawsuit-against-google/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T12:32:51+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Policy"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Fintech payment provider Klarna secured a major antitrust victory against Google, opening doors for alternative payment flows and platform distribution. The ruling reshapes competitive dynamics in digital commerce and creates new strategic opportunities for disruptors."
+    },
+    {
+      "title": "Digital resilience compounds when AI and human expertise scale together",
+      "url": "https://venturebeat.com/security/digital-resilience-compounds-when-ai-and-human-expertise-scale-together",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-07-01T12:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The thesis argues that AI systems deliver greatest value when paired with human judgment rather than operating fully autonomously. This insight shapes how enterprises should architect AI deployments and informs which use cases generate sustainable competitive advantage."
+    },
+    {
+      "title": "Qonto and Pennylane: French fintech friends and foes",
+      "url": "https://tech.eu/2026/07/01/qonto-and-pennylane-french-fintech-friends-and-foes/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-01T12:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "People"
+      ],
+      "category": "Market & Data",
+      "summary": "Qonto and Pennylane, two prominent French fintech companies, have evolved from collaborators to competitors as they scale their operations, reflecting intensifying consolidation in the European business banking space."
+    },
+    {
+      "title": "OSN seeks full ownership of Anghami in proposed take-private deal",
+      "url": "http://wamda.com/2026/07/osn-seeks-ownership-anghami-proposed-private-deal",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-07-01T11:53:11+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "OSN initiated a take-private transaction for music streaming platform Anghami, seeking full ownership. The move signals consolidation pressure in regional streaming markets and potential strategic value recognition by the acquiring party."
+    },
+    {
+      "title": "The four barriers every DeepTech founder hits before they scale and how to overcome them",
+      "url": "https://www.eu-startups.com/2026/07/the-four-barriers-every-deeptech-founder-hits-before-they-scale-and-how-to-overcome-them/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T11:39:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This analysis examines structural challenges deep-tech founders encounter during scaling, including long development timelines, capital intensity, and technical validation hurdles. Understanding these barriers helps GPs design better support structures and realistic milestones for portfolio companies navigating commercialization."
+    },
+    {
+      "title": "Government reviews WhatsApp username feature over fraud concerns",
+      "url": "https://yourstory.com/2026/07/government-whatsapps-username-feature-concerns-fraud-impersonation",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T11:34:00+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Indian regulators are scrutinizing WhatsApp's username feature over fraud and misuse risks, potentially affecting the platform's product roadmap. The review underscores ongoing government oversight of fintech and communication features."
+    },
+    {
+      "title": "Swiggy-owned Instamart appoints Gautam Swaroop as Chief Business Officer",
+      "url": "https://yourstory.com/2026/07/swiggy-instamart-appoints-gautam-swaroop-chief-business-officer",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T11:26:54+00:00",
+      "topics": [
+        "People"
+      ],
+      "category": "People",
+      "summary": "Swiggy's quick-commerce subsidiary Instamart appointed Gautam Swaroop as Chief Business Officer, signaling leadership focus on scaling the unit. The hire reflects aggressive pursuit of market share in India's competitive instant-delivery segment."
+    },
+    {
+      "title": "How Small Daily Actions Can Move Mountains Over Time",
+      "url": "https://yourstory.com/2026/07/confucius-small-steps-big-success-daily-habits-growth",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T11:11:49+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "An opinion piece explores how incremental daily progress compounds into significant long-term results, likely aimed at entrepreneur or investor audiences. The framing emphasizes patience and consistency in building ventures and portfolios."
+    },
+    {
+      "title": "30 Startups To Watch: Startups That Caught Our Eye In June 2026",
+      "url": "https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-june-2026/",
+      "source": "Inc42",
+      "region": "India",
+      "published": "2026-07-01T11:11:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A curated list highlights 30 promising startups gaining traction in June 2026, serving as a snapshot of emerging opportunities. Such compilations help LPs and GPs identify promising founders and sectors worth tracking."
+    },
+    {
+      "title": "Ruya Ventures goes deep with €43 million fund to get lab-born tech into the real world",
+      "url": "https://www.eu-startups.com/2026/07/ruya-ventures-goes-deep-with-e43-million-fund-to-get-lab-born-tech-into-the-real-world/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T11:01:32+00:00",
+      "topics": [
+        "Funds & LPs",
+        "AI & Deep Tech"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Ruya Ventures closed a €43 million fund dedicated to scaling laboratory-developed technologies into commercial applications. The fund targets the critical gap between R&D and market deployment, addressing a key funding need in the European deep-tech ecosystem."
+    },
+    {
+      "title": "Ex-DeepMind researchers land record Creandum funding to scale AI agents for Nasdaq",
+      "url": "https://tech.eu/2026/07/01/ex-deepmind-researchers-land-record-creandum-funding-to-scale-ai-agents-for-nasdaq/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-01T10:45:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Former DeepMind researchers have secured a substantial investment from Creandum to develop AI agents for financial markets, signaling strong venture appetite for applied AI talent from top research labs."
+    },
+    {
+      "title": "An AI agent was named after this 57-year-old Belgian credit analyst. Is he philosophical about it?",
+      "url": "https://sifted.eu/articles/herman-ai-oper/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T10:40:44+00:00",
+      "topics": [
+        "People"
+      ],
+      "category": "People",
+      "summary": "An AI agent bearing a Belgian credit analyst's name raises questions about identity, attribution, and the human impact of algorithmic naming in AI systems. This cultural moment highlights emerging tensions between AI commercialization and individual privacy concerns that investors should monitor."
+    },
+    {
+      "title": "Alan Chang is hiring a ‘performance manager’. Should other CEOs follow his lead?",
+      "url": "https://sifted.eu/articles/should-you-copy-alan-chang-and-hire-a-performance-manager/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T10:40:39+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "category": "People",
+      "summary": "A CEO's decision to hire a dedicated performance manager reflects evolving best practices in executive leadership and organizational efficiency. This trend suggests shifting priorities around accountability and may indicate a broader shift in how founders structure their management teams."
+    },
+    {
+      "title": "UPI transactions ease from record high to Rs 28.9 lakh crore in June",
+      "url": "https://yourstory.com/2026/07/upi-transactions-ease-from-record-high-to-rs-289-lakh-crore-in-june",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T10:19:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "UPI transaction volumes moderated from recent peaks to Rs 28.9 lakh crore in June, indicating either market saturation or seasonal fluctuation in digital payments. The data point reflects India's ongoing fintech maturation and payment system health."
+    },
+    {
+      "title": "UK investors sue Binance and CZ for US$200M over risky crypto derivatives",
+      "url": "https://e27.co/uk-investors-sue-binance-and-cz-for-us200m-over-risky-crypto-derivatives-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-01T10:04:56+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Policy"
+      ],
+      "category": "Exits & M&A",
+      "summary": "UK investors are suing Binance and its founder over losses from risky derivatives products, raising regulatory and litigation risk for crypto platforms. This highlights growing legal exposure for centralized exchanges and matters for any GP with crypto portfolio exposure."
+    },
+    {
+      "title": "Telum Therapeutics raises €18 million to advance treatments for hospital-acquired infections",
+      "url": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T09:50:01+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Telum Therapeutics raised €18 million to develop therapeutics addressing hospital-acquired infections, a clinically significant unmet need. The round signals continued investor appetite for biotech solutions addressing antimicrobial resistance challenges."
+    },
+    {
+      "title": "SumUp launches consumer account paying users to shop small",
+      "url": "https://sifted.eu/articles/sumup-launches-consumer-account/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T09:41:07+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "SumUp expanded its consumer offering with a rewards program incentivizing users to support small merchants. The move demonstrates how fintech platforms are competing for engagement through aligned incentives and represents strategic diversification beyond payments infrastructure."
+    },
+    {
+      "title": "Tapestry VC launches €70 million Fund III with British Business Bank as co-anchor",
+      "url": "https://www.eu-startups.com/2026/07/tapestry-vc-launches-e70-million-fund-iii-with-british-business-bank-as-co-anchor/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T09:15:31+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Tapestry VC closed a €70 million Fund III with the British Business Bank as co-anchor, expanding its mid-stage investment capacity in UK-based companies. The partnership with a government-backed institution reinforces institutional commitment to UK venture ecosystems."
+    },
+    {
+      "title": "Startup news and updates: daily roundup (July 1, 2026)",
+      "url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-1-2026",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T09:14:43+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Daily startup news roundup covering multiple sectors and companies. Aggregated updates provide a snapshot of ongoing activity across the startup ecosystem."
+    },
+    {
+      "title": "Wayve undertakes $85M employee tender offer to “retain talent”",
+      "url": "https://tech.eu/2026/07/01/wayve-undertakes-85m-employee-tender-offer-to-retain-talent/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-01T09:11:00+00:00",
+      "topics": [
+        "Funding",
+        "People"
+      ],
+      "category": "Funding",
+      "summary": "Autonomous driving company Wayve is executing an $85 million secondary offering for employees, a liquidity mechanism that aims to retain key talent while avoiding full exit pressure in a competitive hiring market."
+    },
+    {
+      "title": "Dovetail Capital raises Rs 100 Cr from Elev8 Venture Partners",
+      "url": "https://yourstory.com/2026/07/dovetail-capital-raises-100-crore-from-elev8-venture-partners",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T08:40:18+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Dovetail Capital secured Rs 100 crore in funding from Elev8 Venture Partners, expanding its investment capacity. The capital injection strengthens Dovetail's ability to deploy into portfolio companies and follow-on rounds."
+    },
+    {
+      "title": "The headcount paradox: How AI is forcing HR and finance to think as one",
+      "url": "https://sifted.eu/articles/the-headcount-paradox-brnd/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T08:36:56+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "AI adoption is forcing finance and HR teams to collaborate on workforce planning as automation upends traditional headcount models. This operational shift creates demand for cross-functional software and signals structural changes in how companies approach resource allocation."
+    },
+    {
+      "title": "EquiLibre secures Series A at €438 million valutation to scale AI trading agents handling billions daily",
+      "url": "https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-07-01T08:20:11+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "EquiLibre secured Series A funding at a €438 million valuation for its autonomous AI trading agents processing billions daily. The round reflects investor confidence in agentic AI applications within financial markets and the company's technical execution."
+    },
+    {
+      "title": "Singapore’s Acti raises US$5.3M to turn the keyboard into an AI agent layer",
+      "url": "https://e27.co/singapores-acti-raises-us5-3m-to-turn-the-keyboard-into-an-ai-agent-layer-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-01T08:09:25+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Singapore-based Acti raised $5.3M to build AI agent software that operates through keyboard interfaces, targeting enterprise automation. The round signals investor appetite for human-computer interface innovation in Southeast Asia's AI infrastructure stack."
+    },
+    {
+      "title": "Ola Electric doubles QoQ growth in Q1 FY27; registers 16,144 vehicles in June",
+      "url": "https://yourstory.com/2026/07/ola-electric-doubles-qoq-growth-q1-fy27-registers-16144-vehicles-june",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T07:51:50+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Ola Electric demonstrated accelerating sales momentum with quarter-on-quarter growth doubling and 16,144 vehicle registrations in June. The trajectory signals strong market demand and operational scaling in India's EV segment."
+    },
+    {
+      "title": "London-Based Tapestry VC Closes On $80M Third Fund To Invest In Repeat European Founders",
+      "url": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-07-01T07:01:52+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "London-based Tapestry VC closed its third fund at $80M, focused on repeat European founders. The raise demonstrates sustained institutional appetite for founder-focused strategies in Europe despite global venture capital slowdown."
+    },
+    {
+      "title": "Nothing-backer Tapestry VC raises $80M fund, opens London office",
+      "url": "https://tech.eu/2026/07/01/nothing-backer-tapestry-vc-closes-80m-fund-opens-london-office/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-07-01T06:43:00+00:00",
+      "topics": [
+        "Funds & LPs",
+        "People"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Tapestry VC, known for backing Nothing, has closed an $80 million fund and established a London office, expanding its geographic footprint and reinforcing its commitment to early-stage European tech investing."
+    },
+    {
+      "title": "Medical Angels scrubs up Michael Batko as venture partner to raise $40 million fund",
+      "url": "https://www.startupdaily.net/topic/venture-capital/medical-angels-scrubs-up-michael-batko-as-venture-partner-to-raise-40-million-fund/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T06:23:53+00:00",
+      "topics": [
+        "Funds & LPs",
+        "People"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Medical Angels appointed Michael Batko as venture partner as it prepares to raise a $40 million healthcare-focused fund. This hire and fund close reflect momentum in healthcare venture capital and the firm's confidence in building sector-specific expertise to deploy capital."
+    },
+    {
+      "title": "At Pearl Academy, global icons champion a future built on AI and human ingenuity",
+      "url": "https://yourstory.com/2026/06/at-pearl-academy-global-icons-champion-a-future-built-on-ai-and-human-ingenuity",
+      "source": "YourStory",
+      "region": "India",
+      "published": "2026-07-01T05:58:58+00:00",
+      "topics": [
+        "Events",
+        "AI & Deep Tech"
+      ],
+      "category": "Events",
+      "summary": "Pearl Academy hosted industry leaders discussing the intersection of AI and human creativity in shaping future skill development. The event highlights institutional focus on preparing talent for an AI-integrated economy."
+    },
+    {
+      "title": "Why your business needs to show up in ChatGPT, not just Google Search",
+      "url": "https://www.smartcompany.com.au/artificial-intelligence/why-your-business-needs-show-up-chatgpt-not-google-search/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T05:53:19+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The piece argues that startup visibility in AI platforms like ChatGPT has become as strategically important as search engine optimization for customer discovery. GPs should recognize AI integration as a new marketing channel requiring founder attention and investment prioritization."
+    },
+    {
+      "title": "UBTECH unveils consumer humanoid robot U1, says orders secure 11,000 ahead of first deliveries",
+      "url": "https://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-01T05:52:41+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "UBTech's consumer humanoid robot U1 has secured 11,000 pre-orders ahead of production launch, signaling significant commercial traction in the robotics market. This milestone demonstrates growing mainstream demand for humanoid automation outside enterprise settings and validates the company's path to scale manufacturing."
+    },
+    {
+      "title": "Tapestry VC launches $80m fund aimed at backing repeat founders",
+      "url": "https://sifted.eu/articles/tapestry-vc-london-office-vc-fund-openai/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T05:00:56+00:00",
+      "topics": [
+        "Funds & LPs"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Tapestry VC closed an $80 million fund dedicated to backing serial entrepreneurs with proven track records. The vehicle reflects LP confidence in repeat founders and signals a refined strategy focused on de-risking through founder pedigree."
+    },
+    {
+      "title": "Ex-Speedinvest partner Rick Hao closes $50m solo GP fund for deeptech startups",
+      "url": "https://sifted.eu/articles/rick-hao-50m-solo-gp-fund-deeptech-startups/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T05:00:51+00:00",
+      "topics": [
+        "Funds & LPs",
+        "People"
+      ],
+      "category": "Funds & LPs",
+      "summary": "A former Speedinvest partner launched a $50 million solo fund targeting deep-tech investments. This spin-out exemplifies the trend of proven operators raising independent vehicles and suggests continued fragmentation in the early-stage deep-tech funding landscape."
+    },
+    {
+      "title": "21 spinouts to watch, according to VCs",
+      "url": "https://sifted.eu/articles/21-spinouts-to-watch-according-to-vcs/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T05:00:49+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "A curated list of promising university spinouts highlights investor focus on academic-origin companies with novel technology foundations. This trend underscores sustained appetite for IP-rich founders and the strategic value of patronage networks around research institutions."
+    },
+    {
+      "title": "French bid to block UK from €5bn EU fund sparks backlash",
+      "url": "https://sifted.eu/articles/eu-scaleup-europe-fund-uk-france-block-reaction/",
+      "source": "Sifted",
+      "region": "Europe",
+      "published": "2026-07-01T05:00:46+00:00",
+      "topics": [
+        "Policy",
+        "Funds & LPs"
+      ],
+      "category": "Policy",
+      "summary": "France is attempting to exclude UK-based venture firms from a €5 billion EU innovation fund, drawing criticism from industry stakeholders who view the move as protectionist and counterproductive to cross-border European tech collaboration."
+    },
+    {
+      "title": "The VCs writing off Indonesia are making a US$300B mistake",
+      "url": "https://e27.co/the-vcs-writing-off-indonesia-are-making-a-us300b-mistake-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-01T04:51:38+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The author argues that VCs dismissing Indonesia overlook a $300B market opportunity, suggesting misalignment between ecosystem perception and economic reality. For GPs, this challenges conventional wisdom and highlights mispricing in emerging market valuations."
+    },
+    {
+      "title": "Cicada Innovations reveals the deep tech startups appearing at Tech23",
+      "url": "https://www.startupdaily.net/topic/events/cicada-innovations-reveals-the-deep-tech-startups-appearing-at-tech23/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T04:27:02+00:00",
+      "topics": [
+        "Events",
+        "AI & Deep Tech"
+      ],
+      "category": "Events",
+      "summary": "Cicada Innovations is showcasing emerging deep tech startups through its Tech23 program, highlighting the growing cohort of frontier technology companies seeking early-stage capital. This visibility event helps position portfolio companies and emerging founders in front of investors focused on hard tech opportunities."
+    },
+    {
+      "title": "Melbourne uni brain-chip spinout Fluent raises $2 million",
+      "url": "https://www.startupdaily.net/topic/funding/melbourne-uni-brain-chip-spinout-fluent-raises-2-million/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T04:08:34+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Fluent, a brain-computer interface spinout from Melbourne University, has raised $2 million in seed funding to advance its neurotechnology platform. The capital injection validates market interest in neural interface applications and demonstrates investor appetite for commercializing academic deep tech research."
+    },
+    {
+      "title": "How centralised exchanges swapped crypto ethos for Wall Street fees: Why this will fail",
+      "url": "https://e27.co/how-centralised-exchanges-swapped-crypto-ethos-for-wall-street-fees-why-this-will-fail-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-01T03:55:45+00:00",
+      "topics": [
+        "Opinion",
+        "Policy"
+      ],
+      "category": "Opinion",
+      "summary": "The piece critiques how crypto exchanges abandoned decentralization ideals for traditional finance fee models, arguing this contradicts their founding thesis. For investors in blockchain infrastructure, this signals a potential legitimacy crisis and shift in competitive dynamics."
+    },
+    {
+      "title": "Neural Notes: The US keeps proving it can switch off Australia’s AI",
+      "url": "https://www.smartcompany.com.au/artificial-intelligence/neural-notes-us-keeps-proving-it-can-switch-off-australia-ai/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T03:35:00+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "US export controls on advanced semiconductors are effectively restricting Australia's access to cutting-edge AI infrastructure and capabilities. This regulatory approach highlights how geopolitical tensions are reshaping the global AI competitive landscape and creating barriers for non-US companies building AI-dependent businesses."
+    },
+    {
+      "title": "Paper Games cancels Love and Deepspace’s new male lead Ao Yin after player backlash",
+      "url": "https://technode.com/2026/07/01/paper-games-cancels-love-and-deepspaces-new-male-lead-ao-yin-after-player-backlash/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-01T03:17:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Paper Games cancelled a new character in its mobile game after community backlash, illustrating how player sentiment can force rapid product decisions in live-service gaming. The incident highlights the reputational and revenue risks of misaligned character design in titles with engaged, vocal user bases."
+    },
+    {
+      "title": "Thailand’s Amity Robotics raises US$7M to take physical AI from malls to global markets",
+      "url": "https://e27.co/thailands-amity-robotics-raises-us7m-to-take-physical-ai-from-malls-to-global-markets-20260701/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "published": "2026-07-01T03:17:06+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Thailand's Amity Robotics secured $7M to scale physical AI robots from domestic retail to global markets. The funding reflects growing investor confidence in robotics-as-a-service models and Asia-based hardware-AI companies expanding internationally."
+    },
+    {
+      "title": "Every startup wants to be cited by AI, but here’s where the real opportunity lies",
+      "url": "https://www.startupdaily.net/advice/business-strategy/ai-gold-rush-where-the-opportunity-is/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T03:02:00+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The headline explores how AI training data licensing creates genuine revenue opportunities beyond mere citation mentions for content creators and data holders. GPs should note emerging business models around AI supply chains represent a structural shift in how companies monetize intellectual property."
+    },
+    {
+      "title": "NVIDIA expands robotics hiring in China, opens roles in Beijing, Shanghai, and Shenzhen",
+      "url": "https://technode.com/2026/07/01/nvidia-expands-robotics-hiring-in-china-opens-roles-in-beijing-shanghai-and-shenzhen/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-07-01T02:51:58+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "People"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "NVIDIA is expanding its robotics engineering team across major Chinese tech hubs, reflecting intensifying competition for AI and hardware talent in a key market. This hiring push suggests NVIDIA sees robotics and autonomous systems as a growth vector where China's engineering talent and manufacturing ecosystem are critical."
+    },
+    {
+      "title": "Consulting giants could be capped and split in wake of KPMG, EY scandals",
+      "url": "https://www.smartcompany.com.au/business-advice/consulting-giants-could-be-capped-split-kpmg-ey-scandals/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T02:47:00+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Recent accounting scandals at major consulting firms have prompted regulatory scrutiny that could lead to structural reforms, including size caps and forced separations. These potential policy changes signal a shift toward increased oversight of large professional services firms and could reshape competitive dynamics in the consulting sector."
+    },
+    {
+      "title": "Your next Samsung or Xiaomi phone must give something up. Which feature would you choose?",
+      "url": "https://the-ken.com/story/your-next-samsung-or-xiaomi-phone-must-give-something-up-which-feature-would-you-choose/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-07-01T02:30:50+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "Commentary on smartphone feature trade-offs as manufacturers balance innovation with cost constraints. The piece examines consumer priorities in a competitive device market facing margin pressures."
+    },
+    {
+      "title": "Caravan sector facing “correction” not collapse as four Victorian businesses go under",
+      "url": "https://www.smartcompany.com.au/manufacturing/caravan-industry-business-collapse-market-correction-report/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T02:16:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Australia's caravan sector is experiencing a market correction rather than systemic collapse, with selective business failures indicating consolidation rather than industry-wide distress. This signals a maturing market where weaker operators are being filtered out while the sector stabilizes after previous growth."
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 and Mythos 5 are coming back after the US government lifts export ban",
+      "url": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/anthropics-claude-fable-5-and-mythos-5-are-coming-back-after-the-us-government-lifts-export-ban/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-07-01T01:56:50+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Anthropic's advanced AI models are re-entering international markets after US export restrictions were lifted, potentially expanding addressable markets for frontier AI companies. Regulatory clarity on frontier tech exports signals government support for competitive AI development among established players."
+    },
+    {
+      "title": "ATO to set new small business debt targets to reduce $35.9 billion shortfall",
+      "url": "https://www.smartcompany.com.au/tax/ato-new-small-business-35-9-billion-debt-target-shortfall-audit-office/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T00:51:03+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Australia's tax authority is implementing new debt collection targets to address a substantial $35.9 billion shortfall from small businesses. This regulatory action reflects mounting government pressure on tax compliance and could increase operational costs and audit risk for portfolio companies in the region."
+    },
+    {
+      "title": "WhatsApp is changing forever. Businesses should claim their username now",
+      "url": "https://www.smartcompany.com.au/technology/whatsapp-username-reservations/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "published": "2026-07-01T00:24:35+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "WhatsApp is introducing username functionality to enable business transactions on its platform, representing a shift toward monetization of business communications. This infrastructure change creates new opportunities for B2B software and services that integrate with WhatsApp's growing commerce ecosystem."
+    },
+    {
+      "title": "Most AI Work Can Wait",
+      "url": "https://www.tomtunguz.com/ai-execution-routing/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-07-01T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Argues that many proposed AI deployments lack sufficient ROI justification and can be deferred. This cautionary take challenges hype-driven AI spending, helping GPs and founders evaluate which AI initiatives merit near-term investment."
+    },
+    {
+      "title": "GAMING: If gamers weren’t already angry at AI, Steam Machine’s $1609 price tag sealed the deal",
+      "url": "https://www.startupdaily.net/after-hours/gaming/gaming-the-steam-machines-1609-price-tag/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-06-30T23:40:43+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "A gaming hardware startup's premium pricing amid AI sentiment backlash illustrates consumer pushback against emerging technology adoption in certain categories. The dynamic highlights market timing risks when launching products into sectors with negative sentiment toward underlying technologies."
+    },
+    {
+      "title": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
+      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-06-30T22:23:41+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Morgan Stanley reduced autonomous capabilities in its AI reconciliation agent to improve reliability and cut risk, achieving 50% job reduction. The lesson: constrained, human-supervised AI agents often outperform fully autonomous systems in high-stakes financial processes."
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-06-30T18:00:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Anthropic launched Claude Sonnet 5 at aggressive pricing ahead of a potential IPO, signaling confidence in scale and unit economics. Pricing strategy suggests the company is optimizing for market share and revenue velocity as it prepares for public markets."
+    },
+    {
+      "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
+      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+      "source": "VentureBeat",
+      "region": "US",
+      "published": "2026-06-30T16:19:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Google's Gemini Omni Flash API enables enterprises to generate video through conversational interfaces, lowering barriers to professional video production. This positions Google as the AI infra layer for creative workflows and expands TAM in media and marketing."
+    },
+    {
+      "title": "Propeller concludes first Kernel Camp, graduating five AI startups from MENA",
+      "url": "http://wamda.com/2026/06/propeller-concludes-kernel-camp-graduating-ai-startups-mena",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-30T14:34:02+00:00",
+      "topics": [
+        "Events",
+        "AI & Deep Tech"
+      ],
+      "category": "Events",
+      "summary": "Propeller completed its first Kernel Camp, graduating five AI startups from the MENA region. The accelerator cohort demonstrates emerging deep-tech entrepreneurship momentum in the Middle East with structured institutional support."
+    },
+    {
+      "title": "British-U.S. startup Build secures €7.4 million to accelerate “agentic real estate” platform",
+      "url": "https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-06-30T13:57:20+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Build raised €7.4 million to scale its AI-powered real estate platform leveraging agentic workflows. The funding underscores growing commercial traction for agent-based AI systems in traditionally fragmented property markets."
+    },
+    {
+      "title": "Exclusive: No More Side Hustles: Why AI Startup Omnea Will Give Employees $250K To Openly Plan Their Next Startup",
+      "url": "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-30T13:30:16+00:00",
+      "topics": [
+        "People"
+      ],
+      "category": "People",
+      "summary": "Omnea is offering employees $250K to openly pursue startup founding without restriction, replacing traditional non-compete constraints. This signals a shift in how AI-native companies attract talent by embracing entrepreneurial mobility rather than fighting it."
+    },
+    {
+      "title": "Omnea launches fund with Firedrop to back employees as future founders",
+      "url": "https://tech.eu/2026/06/30/omnea-launches-fund-with-firedrop-to-back-employees-as-future-founders/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-06-30T13:30:00+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Market & Data"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Omnea is launching a novel fund vehicle with Firedrop designed to identify and capitalize on high-potential employees as they transition to entrepreneurship, tapping an underexploited source of founder talent."
+    },
+    {
+      "title": "The Agent Playbooks from Salesforce, Snowflake, Databricks, Harvey, and Lovable: Inside SaaStr AI 2026",
+      "url": "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-06-30T12:57:16+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Events"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Leading SaaS infrastructure and applied AI companies shared playbooks for implementing AI agents at SaaStr AI 2026, covering deployment strategies across sales, analytics, and customer engagement. This showcase of real-world agent implementations helps investors assess market readiness and identify differentiated approaches in the AI vertical."
+    },
+    {
+      "title": "The Monthly Brand Engine: How Monaco Manufactured a New Viral Moment Every 30 Days",
+      "url": "https://www.saastr.com/the-monthly-brand-engine-how-monaco-manufactured-a-new-viral-moment-every-30-days/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-06-30T12:10:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Monaco built a repeatable system for generating viral marketing moments on a monthly cadence, suggesting brand momentum can be engineered rather than stumbled upon. This operational approach to go-to-market resonates with scaling SaaS companies seeking predictable customer acquisition."
+    },
+    {
+      "title": "The Token Budget Problem Nobody Is Talking About (Matan Grinberg, Co-Founder & CEO of Factory)",
+      "url": "https://www.generalist.com/p/the-token-budget-problem",
+      "source": "The Generalist",
+      "region": "Global",
+      "published": "2026-06-30T12:03:34+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Factory's CEO argues that AI token budgets are an overlooked cost driver threatening model economics and unit economics for AI-native companies. This commentary raises questions about the true profitability of scaling AI applications."
+    },
+    {
+      "title": "Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team",
+      "url": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-06-30T12:02:38+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Epitome Therapeutics secured €4 million to advance its biotech programs and expand its team. The round enables the Austrian startup to accelerate drug development while building operational capacity to support pipeline progression."
+    },
+    {
+      "title": "Hypefy AI raises $7.2M Series A to automate global influencer campaigns",
+      "url": "https://tech.eu/2026/06/30/hypefy-ai-raises-72m-series-a-to-automate-global-influencer-campaigns/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-06-30T12:00:00+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Hypefy AI secured $7.2 million in Series A funding to automate influencer campaign management at scale, addressing operational friction in the rapidly growing creator economy."
+    },
+    {
+      "title": "Digiclean raises €2.5M to optimise industrial cleaning with AI",
+      "url": "https://tech.eu/2026/06/30/digiclean-raises-eur25m-to-optimise-industrial-cleaning-with-ai/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-06-30T11:11:08+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Digiclean raised €2.5 million to deploy AI-powered optimization in industrial cleaning operations, demonstrating investor confidence in AI applications within traditionally low-tech service sectors."
+    },
+    {
+      "title": "We Need To Save Venture Capital From Bad Data",
+      "url": "https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-30T11:00:56+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The piece argues that venture capital decision-making is hampered by unreliable data and flawed benchmarking practices. Improving data quality and transparency could significantly enhance allocation efficiency and fund performance across the industry."
+    },
+    {
+      "title": "GV’s Dave Munichiello On Qualcomm’s Modular Purchase, The Firm’s 10x Return And The Shift In AI Software",
+      "url": "https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-30T11:00:26+00:00",
+      "topics": [
+        "Exits & M&A",
+        "AI & Deep Tech"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Google Ventures' leader discusses Qualcomm's acquisition of Modular, which generated a 10x return, and reflects on emerging trends in AI software valuations and consolidation. The deal illustrates how infrastructure and tooling plays are attracting strategic acquirers."
+    },
+    {
+      "title": "UK speech AI startup Lucida AI lands €6.1 million to develop speech-native AI for global communication",
+      "url": "https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-06-30T10:49:03+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Lucida AI raised €6.1 million to develop speech-native AI infrastructure for multilingual communication applications. The funding positions the UK startup to capture demand for voice-first interfaces across enterprise and consumer segments globally."
+    },
+    {
+      "title": "Six Robotics lands €12 million to advance unmanned systems software with Norwegian defence partners",
+      "url": "https://www.eu-startups.com/2026/06/six-robotics-lands-e12-million-to-advance-unmanned-systems-software-with-norwegian-defence-partners/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "published": "2026-06-30T09:45:10+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Six Robotics secured €12 million to develop autonomous systems software in partnership with Norwegian defense entities. The round demonstrates growing institutional demand for robotics and autonomous systems capabilities in specialized sectors."
+    },
+    {
+      "title": "Saltroad raises £1.5M and acquires AI platform Ogma to scale speech therapy for children",
+      "url": "https://tech.eu/2026/06/30/saltroad-raises-ps15m-and-acquires-ai-platform-ogma-to-scale-speech-therapy-for-children/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-06-30T08:54:21+00:00",
+      "topics": [
+        "Funding",
+        "Exits & M&A"
+      ],
+      "category": "Funding",
+      "summary": "Saltroad secured £1.5 million and strategically acquired AI platform Ogma to expand its speech therapy capabilities for children, combining growth capital with bolt-on M&A to scale its technology suite."
+    },
+    {
+      "title": "VivaTech 2026 marks its 10th anniversary with a record-breaking edition [Sponsored]",
+      "url": "https://tech.eu/2026/06/30/vivatech-2026-marks-its-10th-anniversary-with-a-record-breaking-edition/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "published": "2026-06-30T08:52:57+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "VivaTech 2026 is celebrating its tenth anniversary with an expanded edition, continuing to serve as a marquee gathering for the European tech and venture ecosystem."
+    },
+    {
+      "title": "1001 closes $30 million Series A to build sovereign AI in GCC",
+      "url": "http://wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-30T05:53:45+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "1001 closed a $30 million Series A to develop sovereign AI infrastructure tailored for Gulf Cooperation Council markets. The substantial round reflects growing regional demand for AI capabilities that prioritize local data governance and control."
+    },
+    {
+      "title": "Why entrepreneurship can destroy relationships – and how to avoid it",
+      "url": "https://www.startupdaily.net/after-hours/life-hacks/why-entrepreneurship-can-destroy-relationships-and-how-to-avoid-it/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-06-30T05:45:05+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Commentary on how startup creation affects personal relationships, offering practical guidance for founders navigating work-life balance challenges. While not investment-focused, this speaks to founder resilience and personal sustainability—factors affecting team retention and long-term venture performance."
+    },
+    {
+      "title": "GCC asset management grows to $2.7 trillion as AI rewrites the rules of competition",
+      "url": "http://wamda.com/2026/06/gcc-asset-management-grows-2-7-trillion-ai-rewrites-rules-competition",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-30T05:32:11+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "GCC asset management sector has grown to $2.7 trillion as AI competition reshapes industry dynamics and operational models. This scale highlights the region's capital depth and the transformative pressure AI is placing on traditional wealth management."
+    },
+    {
+      "title": "If you’re paying staff from July 1, here’s what you need to know about the new payday super rules",
+      "url": "https://www.startupdaily.net/advice/workplace/if-youre-paying-staff-from-july-1-heres-what-you-need-to-know-about-the-new-payday-super-rules/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "published": "2026-06-30T03:29:51+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "New Australian superannuation rules effective July 1 require startups to understand compliance obligations for employee retirement contributions. Policy changes create operational complexity and potential cost adjustments that finance teams must address before the deadline."
+    },
+    {
+      "title": "Momenta launches Hong Kong IPO with GIC, Fidelity and BlackRock as cornerstone investors",
+      "url": "https://technode.com/2026/06/30/momenta-launches-hong-kong-ipo-with-gic-fidelity-and-blackrock-as-cornerstone-investors/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-30T03:17:47+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Funds & LPs"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Momenta's Hong Kong IPO attracted cornerstone commitments from marquee global institutional investors including GIC, Fidelity, and BlackRock. This validates investor appetite for Chinese autonomous-driving technology and demonstrates strong institutional confidence in the company's long-term value proposition."
+    },
+    {
+      "title": "CXMT and Tencent reportedly reach $2.94 billion DRAM supply agreement",
+      "url": "https://technode.com/2026/06/30/cxmt-and-tencent-reportedly-reach-2-94-billion-dram-supply-agreement/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-30T03:07:36+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "Tencent and Chinese chipmaker CXMT reportedly signed a $2.94 billion DRAM supply deal, signaling deepening domestic semiconductor integration amid US export controls. This partnership reflects China's strategic push toward supply-chain autonomy in critical chip categories where foreign dependence poses geopolitical risk."
+    },
+    {
+      "title": "DeepSeek to launch V4 in mid-July with new peak-time API pricing",
+      "url": "https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-30T02:35:37+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "DeepSeek plans to launch its V4 model with new peak-time pricing, indicating the company is scaling infrastructure while managing demand volatility. This move suggests competitive pressure on API pricing and that frontier open-weight models are moving toward more sophisticated pricing strategies."
+    },
+    {
+      "title": "Cred’s first profitable quarter comes with a trade-off. No, not Kunal Shah",
+      "url": "https://the-ken.com/story/creds-first-profitable-quarter-comes-with-a-trade-off-no-not-kunal-shah/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-30T02:30:01+00:00",
+      "topics": [
+        "Funding",
+        "Opinion"
+      ],
+      "category": "Funding",
+      "summary": "Cred reached profitability in its first profitable quarter, though achieving this milestone required operational trade-offs unrelated to founder changes. The milestone demonstrates path to unit economics viability for fintech players."
+    },
+    {
+      "title": "ONDC’s first act stalled. Its second comes with Rs 220 crore and a new script",
+      "url": "https://the-ken.com/story/ondcs-first-act-stalled-its-second-comes-with-rs-220-crore-and-a-new-script/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-30T02:25:30+00:00",
+      "topics": [
+        "Funding",
+        "Policy"
+      ],
+      "category": "Funding",
+      "summary": "ONDC received Rs 220 crore in fresh capital to accelerate its second phase of operations following initial momentum challenges. The government-backed commerce platform is repositioning with renewed strategy and resources."
+    },
+    {
+      "title": "The CIO's Choices are Clear in 2026",
+      "url": "https://www.tomtunguz.com/cio-choices-clear-2026/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-30T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Examines enterprise IT procurement decisions and priorities heading into 2026, likely centered on AI capability and cost management. Understanding CIO priorities informs enterprise software positioning and identifies emerging procurement trends."
+    },
+    {
+      "title": "Aramco's LAB7 backs CONIX.AI to advance AI-powered construction compliance",
+      "url": "http://wamda.com/2026/06/aramco-lab7-backs-conixai-advance-ai-powered-construction-compliance",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-29T15:49:44+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Aramco's LAB7 invested in CONIX.AI to commercialize AI-driven construction compliance solutions. The backing from a major energy conglomerate signals enterprise AI's expanding footprint in heavy industry and infrastructure."
+    },
+    {
+      "title": "AXON bags $1 million investment to advance cross-border payments infrastructure",
+      "url": "http://wamda.com/2026/06/axon-bags-1-million-investment-advance-cross-border-payments-infrastructure",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-29T14:36:27+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "AXON raised $1 million to scale cross-border payments infrastructure, addressing persistent friction in regional money flows. The round reflects investor confidence in fintech solutions tackling Gulf trade and remittance corridors."
+    },
+    {
+      "title": "Databricks’ Co-Founder Arsalan Tavakoli: Every Software Monopoly Falls in the Next 24 Months",
+      "url": "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-06-29T14:10:34+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Databricks' co-founder argues that software monopolies face rapid disruption within two years, reflecting broader market shifts toward competitive AI-driven tooling. This signals emerging opportunities in unseating entrenched players, particularly relevant for infrastructure and data platform investors."
+    },
+    {
+      "title": "Egypt's ariika and Lychee deepen Saudi presence with backing from Beltone Venture Capital",
+      "url": "http://wamda.com/2026/06/egypt-ariika-lychee-deepen-saudi-presence-backing-beltone-venture-capital",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-29T13:29:03+00:00",
+      "topics": [
+        "Funding"
+      ],
+      "category": "Funding",
+      "summary": "Egyptian fintech platforms ariika and Lychee expanded their Saudi footprint with backing from Beltone Venture Capital. The investment signals continued cross-border consolidation and capital flow into Gulf fintech opportunities."
+    },
+    {
+      "title": "Crunchbase Data: Q2 Brought The Most Billion-Dollar Startup Exits Since 2021",
+      "url": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-29T11:00:43+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Q2 2024 saw the highest volume of billion-dollar startup exits since 2021, signaling accelerating consolidation and liquidity events. This uptick suggests improving M&A appetite after years of constrained exit activity."
+    },
+    {
+      "title": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs?",
+      "url": "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-06-29T09:34:37+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Addresses pricing strategy challenges specific to SMB segments during upmarket expansion. Practical guidance on price increase mechanics matters to founders navigating margin expansion without churn risk in price-sensitive cohorts."
+    },
+    {
+      "title": "Apple reportedly lobbies US for approval to source DRAM from China’s CXMT",
+      "url": "https://technode.com/2026/06/29/apple-reportedly-lobbies-us-for-approval-to-source-dram-from-chinas-cxmt/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-29T07:08:40+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Apple is reportedly seeking US government approval to source DRAM from China's CXMT, testing the boundaries of current export-control policy on semiconductor sourcing. The move underscores tension between supply-chain resilience and geopolitical restrictions that major tech firms must navigate."
+    },
+    {
+      "title": "Tencent tests TenPayGo, a WeChat pay-based app for overseas visitors",
+      "url": "https://technode.com/2026/06/29/tencent-tests-tenpaygo-a-wechat-pay-based-app-for-overseas-visitors/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-29T05:53:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Tencent is piloting a WeChat Pay-based mobile app targeted at overseas tourists, extending its payments ecosystem to international visitors. This test suggests Tencent sees untapped monetization and cross-border commerce opportunities within its existing payment infrastructure."
+    },
+    {
+      "title": "Love and Deepspace’s new romanceable character draws heavy criticism despite Paper Games’ apology",
+      "url": "https://technode.com/2026/06/29/love-and-deepspaces-new-romanceable-character-draws-heavy-criticism-despite-paper-games-apology/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "published": "2026-06-29T02:39:35+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A new character in Paper Games' mobile title continues to face player criticism despite the studio's public apology, showing how community sentiment can persist beyond crisis response. This escalation signals the operational and financial risks of misjudging player values in high-revenue live-service titles."
+    },
+    {
+      "title": "Accenture, TCS are the first dominoes to fall in the remaking of IT jobs",
+      "url": "https://the-ken.com/story/accenture-tcs-are-the-first-dominoes-to-fall-in-the-remaking-of-it-jobs/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-29T02:30:40+00:00",
+      "topics": [
+        "People",
+        "Market & Data"
+      ],
+      "category": "People",
+      "summary": "Major IT services firms including Accenture and TCS are reshaping workforce structures as AI automation impacts traditional tech job roles. The shifts signal broader structural changes across India's IT employment landscape."
+    },
+    {
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://www.tomtunguz.com/ai-spend-breakeven-2029/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-29T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Highlights the growing cost of AI inference relative to engineer salaries, raising questions about ROI and feasibility of certain AI applications. This unit economics challenge directly impacts startup viability in compute-heavy AI ventures."
+    },
+    {
+      "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026",
+      "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
+      "source": "SaaStr",
+      "region": "US",
+      "published": "2026-06-28T14:10:44+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Outlines a practical framework for deploying AI automation in marketing functions at scale. This demonstrates real-world implementation pathways for AI-assisted go-to-market, showing cost and efficiency gains that inform GTM investment decisions."
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-26T20:00:55+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "AI-focused startups dominated the largest funding rounds of the week, continuing a trend of capital concentration in generative AI and machine learning. Megadeals remain skewed toward established players and frontier technology companies."
+    },
+    {
+      "title": "9 Videos From CVAI London: Cohere's Aidan Gomez, Index Ventures' Danny Rimer, Recursive's Josh Tobin & More",
+      "url": "https://www.newcomer.co/p/9-videos-from-cvai-london-coheres",
+      "source": "Newcomer",
+      "region": "US",
+      "published": "2026-06-26T16:12:35+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "CVAI London featured leadership from major AI and venture firms discussing frontier model development and deployment. High-profile speaker roster signals investor confidence in AI opportunities and provides networking context for LPs and GPs."
+    },
+    {
+      "title": "America Invents, China Applies",
+      "url": "https://www.generalist.com/p/generalist-intelligence-june-26",
+      "source": "The Generalist",
+      "region": "Global",
+      "published": "2026-06-26T15:08:14+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "The piece examines the competitive dynamic between U.S. innovation and Chinese execution, suggesting structural advantages in commercialization speed and scale favor Asia. This has implications for venture capital exposure and return expectations across regions."
+    },
+    {
+      "title": "Weekly Dose of Optimism #199",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-199",
+      "source": "Not Boring",
+      "region": "Global",
+      "published": "2026-06-26T12:34:31+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "A regular optimism-focused newsletter entry highlighting positive market developments or technological progress. These recurrent pieces provide sentiment snapshots useful for LPs tracking narrative shifts and market psychology."
+    },
+    {
+      "title": "6 Startup Investors On What It Will Take To Fund More Black Founders",
+      "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-26T11:00:13+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Opinion"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Six prominent investors discuss barriers to funding Black-founded startups and strategies to expand access and conviction. Their perspectives highlight systemic gaps in pipeline, network effects, and institutional bias within venture capital."
+    },
+    {
+      "title": "Inside India’s 90-day countdown for CBSE schools to embrace AI",
+      "url": "https://the-ken.com/story/inside-indias-90-day-countdown-for-cbse-schools-to-embrace-ai/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-26T02:30:28+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "CBSE schools face a 90-day mandate to integrate AI into their operations and curriculum. The regulatory push reflects government intent to mainstream AI literacy and adoption across education infrastructure."
+    },
+    {
+      "title": "What If There Is No Moat Yet?",
+      "url": "https://www.tomtunguz.com/what-if-there-is-no-moat/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-26T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Questions whether early-stage AI companies can establish defensible competitive advantages in a crowded field. Critical for assessing whether thesis-driven AI investments have sufficient sustainable competitive positioning."
+    },
+    {
+      "title": "CVAI London: European Democracies on Alert, Bubble Worries, Anthropic Bullishness, Agents & Compute Shortages",
+      "url": "https://www.newcomer.co/p/cvai-london-european-democracies",
+      "source": "Newcomer",
+      "region": "US",
+      "published": "2026-06-25T17:39:22+00:00",
+      "topics": [
+        "Events",
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Events",
+      "summary": "CVAI London discussions surfaced concerns about AI bubbles, compute scarcity, regulatory risks in Europe, and agent deployment maturity. The diverse agenda reflects investor focus on macro headwinds, geopolitical risk, and infrastructure constraints shaping 2025 AI funding landscape."
+    },
+    {
+      "title": "Lean and Ziina launch UAE's first one-tap Pay by Bank experience under Open Finance",
+      "url": "http://wamda.com/2026/06/lean-ziina-launch-uaes-tap-pay-bank-experience-open-finance",
+      "source": "Wamda",
+      "region": "MENA",
+      "published": "2026-06-25T16:03:15+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Lean and Ziina launched a one-tap bank payment feature in the UAE under open finance principles, advancing embedded finance adoption. The partnership demonstrates rapid fintech innovation and interoperability improvements in Gulf digital payments."
+    },
+    {
+      "title": "Onyx Impact launches Aisha, an AI tool designed to mitigate racial bias",
+      "url": "https://contxto.com/en/artificial-intelligence/onyx-impact-launches-aisha-an-ai-tool-designed-to-mitigate-racial-bias/",
+      "source": "Contxto",
+      "region": "LatAm",
+      "published": "2026-06-25T15:33:31+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Onyx Impact launched Aisha, an AI-powered tool specifically designed to detect and reduce racial bias in decision-making processes. This represents growing venture investment in responsible AI applications that address social determinants, opening a niche but strategically important market segment."
+    },
+    {
+      "title": "Saplings: Outsiders",
+      "url": "https://www.generalist.com/p/saplings-outsiders",
+      "source": "The Generalist",
+      "region": "Global",
+      "published": "2026-06-25T14:02:53+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "Saplings is a platform or initiative focusing on outsider founders and non-traditional entrepreneurial paths. The coverage likely highlights emerging founder archetypes and alternative routes to venture funding."
+    },
+    {
+      "title": "Cursor Deal Puts US On Track For Record Startup M&A Year",
+      "url": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-25T11:00:18+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Cursor's acquisition suggests the U.S. is on pace for record-breaking startup M&A volume in 2024. This momentum reflects strong demand from strategic buyers and financial acquirers seeking growth and technology assets."
+    },
+    {
+      "title": "The Blusmart heir that looks more like a lifeline for Vinfast",
+      "url": "https://the-ken.com/story/the-blusmart-heir-that-looks-more-like-a-lifeline-for-vinfast/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-25T02:30:41+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Blusmart's successor or assets are positioned as a potential lifeline for VinFast's India operations or strategy. The connection suggests consolidation possibilities within the struggling EV logistics and mobility space."
+    },
+    {
+      "title": "Full Sail on Asynchronous Inference",
+      "url": "https://www.tomtunguz.com/sail-inference-queue/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-25T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Explores asynchronous inference architectures as an emerging infrastructure pattern within AI systems. Understanding new computational paradigms helps identify infrastructure investment opportunities and technical differentiation vectors."
+    },
+    {
+      "title": "Hot AI Summer: What the Latest Talent Moves Mean in the Great Foundation Model Race",
+      "url": "https://www.newcomer.co/p/hot-ai-summer-what-the-latest-talent",
+      "source": "Newcomer",
+      "region": "US",
+      "published": "2026-06-24T16:13:47+00:00",
+      "topics": [
+        "People",
+        "AI & Deep Tech"
+      ],
+      "category": "People",
+      "summary": "Key personnel movements in the foundation model space are reshaping competitive dynamics as companies race to build large language models. These talent shifts signal strategic pivots and intensifying competition for specialized AI expertise, directly impacting which players may emerge as winners in the frontier model race."
+    },
+    {
+      "title": "Exclusive: XCures Lands $46M Series B To Clean Up Messy Medical Records With AI",
+      "url": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "published": "2026-06-24T14:00:11+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "XCures raised $46M in Series B to apply AI models to healthcare data quality and record management challenges. The round underscores investor confidence in AI applications that address operational friction in regulated industries."
+    },
+    {
+      "title": "This Bengaluru startup isn’t building faster chips than Nvidia. It’s building cheaper AI",
+      "url": "https://the-ken.com/story/this-bengaluru-startup-isnt-building-faster-chips-than-nvidia-its-building-cheaper-ai/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-24T02:30:20+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A Bengaluru-based startup is focusing on cost-effective AI chip development rather than raw performance competition with Nvidia. The approach targets underserved market segments prioritizing affordability over cutting-edge specifications."
+    },
+    {
+      "title": "Defending Against AI-Powered Attackers",
+      "url": "https://www.tomtunguz.com/sunil-agrawal-office-hours/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-24T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Addresses cybersecurity implications of adversarial AI capabilities and defense strategies. Growing AI-powered attack surfaces signal emerging demand for security tooling, creating new venture opportunities at the intersection of AI and defense."
+    },
+    {
+      "title": "Microsoft to accelerate its AI strategy with partners, massive market-shaping investments",
+      "url": "https://contxto.com/en/inteligencia-artificial/microsoft-to-accelerate-its-ai-strategy-with-partners-massive-market-shaping-investments/",
+      "source": "Contxto",
+      "region": "LatAm",
+      "published": "2026-06-23T21:30:56+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Microsoft is scaling its AI investment and partner ecosystem to reshape market dynamics in artificial intelligence. These capital-intensive moves demonstrate how major incumbents are securing competitive advantage through infrastructure and partnership, affecting startup positioning in the AI stack."
+    },
+    {
+      "title": "Own or Be Owned: Why Every Company Needs Its Own AI Model (Yash Patil, Co-Founder & CEO of Applied Compute)",
+      "url": "https://www.generalist.com/p/own-or-be-owned-why-every-company",
+      "source": "The Generalist",
+      "region": "Global",
+      "published": "2026-06-23T12:03:42+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Applied Compute's CEO argues companies must build proprietary AI models to maintain independence and capture value rather than relying on third-party APIs. The viewpoint reflects growing concerns about vendor lock-in and margin erosion in the AI stack."
+    },
+    {
+      "title": "Jio Platforms’ big global backers sit out the IPO. They don’t have a choice",
+      "url": "https://the-ken.com/story/jio-platforms-big-global-backers-sit-out-the-ipo-they-dont-have-a-choice/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-23T02:30:43+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Funds & LPs"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Major global backers of Jio Platforms are sitting out its IPO due to contractual or regulatory constraints limiting their exit options. The dynamic highlights liquidity mismatches between founder expectations and investor lock-ups."
+    },
+    {
+      "title": "The Quietest Part of Startupland isn't so Quiet",
+      "url": "https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-23T00:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Suggests that quieter, less-hyped segments of the startup ecosystem are experiencing notable activity despite media silence. Signals opportunities and momentum in overlooked verticals where less capital competition may exist."
+    },
+    {
+      "title": "Adani made his billions off docked ships. He is now eyeing those at sea too",
+      "url": "https://the-ken.com/story/why-adani-is-sailing-in-europes-energy-waters/",
+      "source": "The Ken",
+      "region": "India",
+      "published": "2026-06-22T02:30:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Adani is expanding beyond port infrastructure into offshore shipping assets, signaling a strategic pivot into higher-margin logistics segments. This vertical integration move reflects how established industrialists in emerging markets are capturing new value chains, relevant for GPs evaluating infrastructure and logistics opportunities."
+    },
+    {
+      "title": "So You Want to Sell Inference",
+      "url": "https://www.tomtunguz.com/so-you-want-to-sell-inference/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "published": "2026-06-22T00:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This analysis examines the competitive dynamics and unit economics of building inference-as-a-service businesses in the AI stack. Understanding the profitability and differentiation challenges in this layer matters for investors evaluating AI infrastructure plays and their path to defensible margins."
+    },
+    {
+      "title": "Cursor Investors Set for Epic Payout from Musk's Juggernaut. They Still Have to Stomach a Ride.",
+      "url": "https://www.newcomer.co/p/cursor-investors-set-for-epic-payout",
+      "source": "Newcomer",
+      "region": "US",
+      "published": "2026-06-19T13:53:09+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Early investors in Cursor stand to realize substantial returns as the AI-powered coding tool gains significant traction and valuation under the gravitational pull of Musk's AI ecosystem. The risk-reward profile highlights both the explosive upside and ongoing volatility typical of high-growth AI companies in heated market conditions."
+    },
+    {
+      "title": "Generalist Intelligence: The Off Switch",
+      "url": "https://www.generalist.com/p/generalist-intelligence-june-19",
+      "source": "The Generalist",
+      "region": "Global",
+      "published": "2026-06-19T13:43:06+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece examines constraints and limitations in building generalist AI systems, offering critical perspective on current approaches. The analysis helps GPs and LPs understand potential technical and commercial boundaries in frontier AI investments."
+    },
+    {
+      "title": "Weekly Dose of Optimism #198",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-198",
+      "source": "Not Boring",
+      "region": "Global",
+      "published": "2026-06-19T12:59:50+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "Another installment in a series curating positive trends and progress indicators across tech and business. The recurring format serves as a barometer for constructive narratives in venture and innovation ecosystems."
+    }
+  ]
 }
