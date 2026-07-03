@@ -32,8 +32,8 @@ except Exception:
 
 # ---- config ----
 MODEL          = "claude-sonnet-5"
-RETENTION_DAYS = 14
-MAX_ITEMS      = 300         # total items kept in news.json
+RETENTION_DAYS = 30
+MAX_ITEMS      = 600         # total items kept in news.json
 GP_RETENTION_DAYS = 90       # GP-desk blogs post infrequently — keep their notes longer
 GP_RESERVE     = 80          # guaranteed slots for GP items so press volume cannot evict them
 MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
