@@ -1,6 +1,209 @@
 {
-  "updated": "2026-07-03T17:02:43.644530+00:00",
+  "updated": "2026-07-03T21:43:37.949982+00:00",
   "items": [
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T21:20:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "TechCrunch publishes a reference guide decoding common AI terminology for a broader audience. Useful context for investors navigating increasingly jargon-heavy pitch decks and technical diligence conversations."
+    },
+    {
+      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T21:00:50+00:00",
+      "topics": [
+        "People",
+        "Funding"
+      ],
+      "category": "People",
+      "summary": "YC-backed Infracost is hiring a marketing lead to push FinOps practices earlier into engineering workflows. A small but notable signal of growth and go-to-market investment at a venture-backed infra startup."
+    },
+    {
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T20:38:26+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A report details alleged espionage activity targeting the European Parliament, raising cybersecurity and governance concerns. Relevant to GPs with exposure to European govtech, cybersecurity, or defense-adjacent portfolio companies."
+    },
+    {
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T20:15:49+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "SearXNG, an open-source metasearch engine, continues gaining attention as an alternative to mainstream search products. Highlights ongoing interest in privacy-focused, decentralized search infrastructure as a counter to Big Tech dominance."
+    },
+    {
+      "title": "Pet projects are getting too big to pet",
+      "url": "https://www.nnehdi.me/p/pet-projects-are-getting-too-big",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T20:13:09+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A commentary piece discusses how side projects are scaling into resource-intensive undertakings, straining solo developers. Offers a cautionary lens for early-stage investors evaluating founder-led technical projects that may lack sustainable infrastructure planning."
+    },
+    {
+      "title": "5 Interesting Learnings from Toast at $6.5 Billion Run-Rate: 22%+ Growth, Profitable, No Deceleration. But AI Is Just Getting Started",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-toast-at-billion-in-arr/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-03T20:10:50+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "Toast, the restaurant point-of-sale and fintech platform, has reached a $6.5B revenue run-rate while sustaining over 22% growth and profitability without signs of slowdown. The analysis highlights how AI features are still nascent for the company, offering GPs a benchmark case study on durable growth at scale in vertical SaaS."
+    },
+    {
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog#10959",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T20:08:01+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Kagi's July changelog details new search features including an AI toggle option for users. Reflects the broader trend of search products integrating optional AI layers to balance user choice and monetization."
+    },
+    {
+      "title": "Oak: Git for Agents",
+      "url": "https://oak.space/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T20:05:27+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Oak introduces a version-control-like system tailored for AI agent workflows. Points to growing infrastructure investment around agent orchestration and reproducibility, a fast-emerging category within applied AI tooling."
+    },
+    {
+      "title": "Show HN: Topics, Not Feeds",
+      "url": "https://blogsreader.com",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T19:49:56+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "A Show HN post proposes organizing content by topic rather than algorithmic feeds. Reflects ongoing experimentation in content discovery models as builders seek alternatives to engagement-driven social feeds."
+    },
+    {
+      "title": "Why Being Overqualified Is a Risk",
+      "url": "https://newsletter.bphogan.com/archive/issue-52-run-coding-models-locally-and-why-being/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T19:38:44+00:00",
+      "topics": [
+        "Opinion",
+        "People"
+      ],
+      "category": "Opinion",
+      "summary": "An essay argues that being overqualified can create hiring and retention risks for both candidates and employers. Relevant for GPs and portfolio company leaders shaping hiring strategy amid competitive talent markets."
+    },
+    {
+      "title": "FreeBSD ate my RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T19:08:31+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical deep-dive explores unexpected memory consumption behavior in FreeBSD, likely tied to caching or ZFS ARC allocation. While not startup news, it signals ongoing infra-level engineering discourse that deep-tech investors tracking systems software may find relevant for due diligence on infrastructure plays."
+    },
+    {
+      "title": "HammerDB v6.0 Response Times, Percentiles and Reservoir Sampling",
+      "url": "https://www.hammerdb.com/blog/uncategorized/hammerdb-v6-0-response-times-percentiles-and-reservoir-sampling/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T18:45:28+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "The HammerDB benchmarking tool's v6.0 release introduces improved statistical methods for measuring database response times, including percentile tracking and reservoir sampling. Better benchmarking rigor matters to investors evaluating database and infrastructure startups where performance claims need credible validation."
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T18:43:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A roundup highlights how browser competition has shifted from search engine defaults toward AI-integrated features and privacy differentiation. Signals a broader platform shift that could open opportunities for challenger browser startups."
+    },
+    {
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T18:28:30+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "TechCrunch reviews a physical keypad device positioned as a multi-purpose meeting and productivity controller. Reflects continued hardware innovation in the workplace tools category, an area drawing niche consumer hardware investment."
+    },
+    {
+      "title": "Welcome to GLP-World",
+      "url": "https://www.generalist.com/p/generalist-intelligence-july-3",
+      "source": "The Generalist",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T17:35:32+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "The Generalist explores the expanding cultural and economic footprint of GLP-1 drugs beyond weight loss. Relevant for LPs tracking healthcare and biotech venture theses as GLP-1 reshapes adjacent markets like food, fitness, and insurance."
+    },
     {
       "title": "Chevy built an All-American EV truck. Why is nobody buying it?",
       "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
@@ -3185,192 +3388,6 @@
       ],
       "category": "Funding",
       "summary": "Indian startups raised $6.9B in the first half of 2026, signaling a recovery in venture capital deployment after prior funding cycles cooled. The rebound suggests renewed investor conviction in India's growth narrative, though capital concentration likely favors proven sectors and late-stage rounds."
-    },
-    {
-      "title": "etaily lands Vynn Capital investment to deepen Malaysia, Singapore and Indonesia push",
-      "url": "https://e27.co/etaily-lands-vynn-capital-investment-to-deepen-malaysia-singapore-and-indonesia-push-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T04:03:46+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "etaily attracted Vynn Capital investment to accelerate operations across Malaysia, Singapore, and Indonesia. The funding validates the e-commerce platform's regional expansion strategy and Vynn's conviction in Southeast Asian digital commerce."
-    },
-    {
-      "title": "Reed Gift Fairs Melbourne 2026",
-      "url": "https://www.smartcompany.com.au/events-training/reed-gift-fairs-melbourne-2026/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "published": "2026-07-02T03:18:11+00:00",
-      "topics": [
-        "Events"
-      ],
-      "category": "Events",
-      "summary": "Reed Gift Fairs Melbourne 2026 is an upcoming trade event for the retail and gifting sector. This announcement signals opportunities for B2B networking and market access within the consumer goods ecosystem."
-    },
-    {
-      "title": "Pubs given green light to stay open all night for Socceroos’ 4am World Cup battle with Egypt",
-      "url": "https://www.smartcompany.com.au/hospitality/pubs-stay-open-all-night-socceroos-4am-world-cup-match-egypt/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "published": "2026-07-02T03:13:46+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Australian pubs received regulatory approval for extended hours during a major sporting event, reflecting government accommodation of entertainment demand. This regulatory flexibility highlights how policy can adapt to support hospitality and leisure sector economics."
-    },
-    {
-      "title": "Xiaohongshu reportedly launches internal Darwin project to develop new products",
-      "url": "https://technode.com/2026/07/02/xiaohongshu-reportedly-launches-internal-darwin-project-to-develop-new-products/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "published": "2026-07-02T03:12:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Xiaohongshu initiated an internal 'Darwin project' to develop new products, signaling the Chinese social platform is diversifying beyond its core content offering. The initiative reflects competitive pressure and management's effort to capture new user behavior segments."
-    },
-    {
-      "title": "AI slop is a strategy problem, not a content problem",
-      "url": "https://e27.co/ai-slop-is-a-strategy-problem-not-a-content-problem-20260626/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T03:00:25+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "The proliferation of low-quality AI-generated content reflects strategic business choices rather than inherent content creation failures. This perspective suggests that addressing AI content quality requires rethinking incentive structures and business models, not just technical improvements."
-    },
-    {
-      "title": "A new Android malware from Google",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T03:00:15+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "A newly discovered Android malware highlights ongoing security vulnerabilities in mobile ecosystems. This development underscores the persistent cybersecurity and regulatory risks that impact mobile-first startups and their insurability and compliance costs."
-    },
-    {
-      "title": "The systemic minimum effective dose: Redesigning productivity through precision",
-      "url": "https://e27.co/__trashed-20260624/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T03:00:11+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "Productivity optimization should focus on identifying minimal effective interventions rather than adopting comprehensive system overhauls, emphasizing precision over scale. This framework challenges conventional enterprise software deployment models that prioritize feature richness over targeted efficiency gains."
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T02:55:16+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Senior SWE-Bench provides a rigorous benchmark for evaluating AI agents on complex, real-world engineering tasks at senior levels. This open-source tool helps investors and founders objectively measure AI capability gaps, critical for evaluating technical startup viability."
-    },
-    {
-      "title": "Fringe benefits: Disruption starts with the customers you don’t want",
-      "url": "https://e27.co/fringe-benefits-disruption-starts-with-the-customers-you-dont-want-20260701/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T02:50:19+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "Market disruption often originates by serving underserved or unattractive customer segments that incumbents deliberately ignore, rather than competing head-to-head with established players. This contrarian insight explains why many breakthrough startups gain traction in overlooked niches before expanding upmarket."
-    },
-    {
-      "title": "The playbook for going global: What C-dramas teach us about market entry",
-      "url": "https://e27.co/the-playbook-for-going-global-what-c-dramas-teach-us-about-market-entry-20260626/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T02:45:37+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "The piece examines how Chinese entertainment exports reveal strategic patterns applicable to startup scaling internationally. Understanding cultural adaptation and audience dynamics from C-dramas offers actionable lessons for founders entering unfamiliar markets with differentiated products."
-    },
-    {
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T02:30:16+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "An essay advocating for community-driven forums over algorithmically-controlled social platforms reflects broader skepticism toward centralized content platforms. This perspective informs discussions around network effects, user retention, and alternative community-building business models."
-    },
-    {
-      "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
-      "url": "https://inc42.com/buzz/bike-bazaars-debt-spiral-dream11-shuts-fintech-arm-more/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T02:30:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "This roundup captures distress signals across Indian startups, including Bike Bazaar's debt challenges and Dream11's fintech exit. The stories highlight tightening credit conditions and strategic portfolio rationalization among mature players."
-    },
-    {
-      "title": "Inside Third Wave Coffee’s unending reinvention",
-      "url": "https://the-ken.com/story/inside-third-wave-coffees-unending-reinvention/",
-      "source": "The Ken",
-      "region": "India",
-      "published": "2026-07-02T02:30:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "The Ken examined Third Wave Coffee's ongoing business model evolution and strategic pivots within India's specialty coffee segment. Deep-dive analysis of mature startup trajectories helps investors understand scaling challenges and differentiation strategies in competitive consumer markets."
-    },
-    {
-      "title": "Avoiding Fallback in Distributed Systems",
-      "url": "https://builder.aws.com",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T02:19:48+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Technical deep-dive on managing failure modes in distributed computing systems. This represents foundational infrastructure knowledge relevant to companies building scalable platforms, particularly those in cloud, data, or mission-critical applications."
-    },
-    {
-      "title": "Founders think they win on nerve. In Singapore, they win on foresight",
-      "url": "https://e27.co/founders-think-they-win-on-nerve-in-singapore-they-win-on-foresight-20260626/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T02:15:46+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "This analysis contrasts boldness with strategic foresight in Southeast Asian entrepreneurship, suggesting that competitive advantage comes from anticipating market shifts rather than taking calculated risks. For regional investors, this signals the importance of backing founders with deep market intelligence over those with pure execution hustle."
     },
     {
       "title": "Most AI Work Can Wait",

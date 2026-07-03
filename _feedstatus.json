@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -62,7 +62,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 9,
+    "new": 10,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -128,7 +128,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -146,10 +146,10 @@
     "name": "MENAbytes",
     "kind": "press",
     "url": "https://www.menabytes.com/feed/",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 10,
+    "status": 202,
+    "bozo": 1,
+    "error": "<unknown>:2:119: not well-formed (invalid token)",
+    "entries": 0,
     "new": 0,
     "via": "direct"
   },
@@ -183,7 +183,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
