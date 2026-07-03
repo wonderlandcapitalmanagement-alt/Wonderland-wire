@@ -33,7 +33,9 @@ except Exception:
 # ---- config ----
 MODEL          = "claude-sonnet-5"
 RETENTION_DAYS = 14
-MAX_ITEMS      = 260         # total items kept in news.json
+MAX_ITEMS      = 300         # total items kept in news.json
+GP_RETENTION_DAYS = 90       # GP-desk blogs post infrequently — keep their notes longer
+GP_RESERVE     = 80          # guaranteed slots for GP items so press volume cannot evict them
 MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
@@ -262,15 +264,21 @@ def main():
         keys.add(k)
         merged.append(it)
 
-    cutoff = now - dt.timedelta(days=RETENTION_DAYS)
     def fresh_enough(it):
+        days = GP_RETENTION_DAYS if it.get("kind") == "gp" else RETENTION_DAYS
+        cutoff = now - dt.timedelta(days=days)
         try:
             return dt.datetime.fromisoformat(it["published"]) >= cutoff
         except Exception:
             return True
     merged = [it for it in merged if fresh_enough(it)]
     merged.sort(key=lambda it: it.get("published", ""), reverse=True)
-    merged = merged[:MAX_ITEMS]
+    # Reserve capacity for GP items so high-volume press cannot cap them out.
+    gp_items    = [it for it in merged if it.get("kind") == "gp"]
+    press_items = [it for it in merged if it.get("kind") != "gp"]
+    gp_keep     = gp_items[:GP_RESERVE]
+    press_keep  = press_items[:max(0, MAX_ITEMS - len(gp_keep))]
+    merged = sorted(gp_keep + press_keep, key=lambda it: it.get("published", ""), reverse=True)
 
     save_json(NEWS, {"updated": now.isoformat(), "items": merged})
     save_json(SEEN, list(seen)[-SEEN_CAP:])
