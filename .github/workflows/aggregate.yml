@@ -48,9 +48,11 @@ jobs:
           fi
           git commit -m "wire: refresh $(date -u +'%Y-%m-%dT%H:%MZ')"
           for i in 1 2 3 4 5; do
-            git pull --rebase --autostash origin main && git push origin HEAD:main && { echo "pushed on attempt $i"; exit 0; }
-            echo "push attempt $i failed; retrying in 5s..."
-            sleep 5
+            if git push origin HEAD:main; then echo "pushed on attempt $i"; exit 0; fi
+            echo "push $i rejected; reconciling (generated files: keep fresh output)..."
+            git fetch origin main
+            git merge -s ours origin/main -m "wire: reconcile (keep fresh feeds)" || true
+            sleep 4
           done
           echo "::error::could not push after retries"
           exit 1
