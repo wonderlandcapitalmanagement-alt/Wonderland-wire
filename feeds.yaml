@@ -131,31 +131,31 @@ feeds:
   #  Some firms publish on RSS-less stacks; dead feeds skip silently.
   # ══════════════════════════════════════════════════════════════
   - name: a16z
-    url: https://a16z.com/feed/
+    url: https://a16z.news/feed
     region: US
     kind: gp
   - name: First Round Review
-    url: https://review.firstround.com/feed
+    url: https://firstround.com/review/feed.xml
     region: US
     kind: gp
   - name: Sapphire Ventures
-    url: https://sapphireventures.com/blog/feed/
+    url: https://sapphireventures.com/feed/
     region: US
     kind: gp
   - name: Bessemer Venture Partners
-    url: https://www.bvp.com/atlas/feed
+    url: https://www.bvp.com/rss.xml
     region: US
     kind: gp
   - name: Greylock
-    url: https://greylock.com/feed/
+    url: https://medium.com/greylock/feed
     region: US
     kind: gp
   - name: Battery Ventures
-    url: https://www.battery.com/blog/feed/
+    url: https://www.battery.com/feed/
     region: US
     kind: gp
   - name: NFX
-    url: https://www.nfx.com/feed
+    url: https://www.nfx.com/rss
     region: US
     kind: gp
   - name: Union Square Ventures

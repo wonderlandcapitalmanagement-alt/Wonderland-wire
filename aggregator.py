@@ -18,6 +18,8 @@ No publisher text is stored — only links back and our own summaries.
 """
 
 import os, re, json, sys, html, datetime as dt
+from urllib.request import Request, urlopen
+from urllib.parse import quote
 from urllib.parse import urlparse, urlunparse
 
 import yaml
@@ -43,6 +45,25 @@ BROWSER_HEADERS = {
     "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
     "Accept-Language": "en-US,en;q=0.9",
 }
+# Server-side fetch proxies, tried when a feed returns nothing direct (bot walls / 404-to-bots).
+PROXIES = [
+    lambda u: "https://api.allorigins.win/raw?url=" + quote(u, safe=""),
+    lambda u: "https://corsproxy.io/?url=" + quote(u, safe=""),
+]
+
+def _fetch_via_proxy(url):
+    for build in PROXIES:
+        try:
+            req = Request(build(url), headers={"User-Agent": BROWSER_UA, **BROWSER_HEADERS})
+            with urlopen(req, timeout=25) as r:
+                data = r.read()
+            if data and len(data) > 200:
+                p = feedparser.parse(data)
+                if p.entries:
+                    return p
+        except Exception:
+            continue
+    return None
 # Topics taxonomy — an article may carry 1–3 of these. Keep in sync with track.html.
 TOPICS         = ["Funding", "Funds & LPs", "Exits & M&A", "People",
                   "Policy", "Events", "Market & Data", "AI & Deep Tech", "Opinion"]
@@ -117,6 +138,14 @@ def collect(feeds, seen):
             if getattr(parsed, "bozo_exception", None):
                 rec["error"] = str(parsed.bozo_exception)[:180]
             rec["entries"] = len(parsed.entries)
+            rec["via"] = "direct"
+            if not parsed.entries:
+                proxied = _fetch_via_proxy(f["url"])
+                if proxied is not None and proxied.entries:
+                    parsed = proxied
+                    rec["entries"] = len(parsed.entries)
+                    rec["via"] = "proxy"
+                    rec["error"] = None
         except Exception as e:
             rec["error"] = f"EXC {e}"[:180]
             FEED_STATUS.append(rec)
@@ -200,6 +229,11 @@ def main():
 
     store = load_json(NEWS, {"items": []})
     existing = store.get("items", [])
+    # Backfill: legacy items from GP sources may lack kind="gp" (predate the field).
+    gp_names = {f["name"] for f in feeds if f.get("kind") == "gp"}
+    for it in existing:
+        if it.get("source") in gp_names and it.get("kind") != "gp":
+            it["kind"] = "gp"
     seen = set(load_json(SEEN, []))
     seen.update(canon(it["url"]) for it in existing)
 
