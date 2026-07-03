@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T10:12:53.860066+00:00",
+  "updated": "2026-07-03T10:26:17.817222+00:00",
   "items": [
     {
       "title": "Exclusive: ETCI-backed VC firms split over plan to limit non-European investments",
@@ -14,6 +14,20 @@
       ],
       "category": "Funds & LPs",
       "summary": "VC firms backed by the European Tech Champions Initiative are reportedly divided over proposed restrictions limiting how much they can invest outside Europe. The disagreement highlights tension between sovereign-style capital mandates and fund managers' desire for global return flexibility, a key issue for LPs in European funds."
+    },
+    {
+      "title": "How the CMO role is expanding beyond campaigns",
+      "url": "https://www.techinasia.com/digitas-cmo-role-ai-marketing",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-03T10:15:58+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "This piece examines how the chief marketing officer function is evolving to take on broader strategic responsibilities beyond traditional campaign execution, such as product, data, and revenue ownership. For LPs and GPs, this trend matters as portfolio companies increasingly expect marketing leaders to drive growth metrics tied to fundraising and exit narratives."
     },
     {
       "title": "ElevenLabs targets $22bn valuation with fresh share sale, reports say",
@@ -97,6 +111,20 @@
       ],
       "category": "Market & Data",
       "summary": "A curated list highlights Indonesia's most well-capitalized startups and tech firms, offering a snapshot of where investor capital has concentrated. This kind of ranking helps LPs benchmark portfolio exposure against the broader Indonesian ecosystem. It also signals sectors attracting the largest rounds in Southeast Asia's biggest market."
+    },
+    {
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T08:50:47+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new browser-based rich-text editor called Wordgard has been released by the developer behind the widely-used ProseMirror framework. While not a funding event, it signals continued innovation in developer tooling infrastructure that underpins many SaaS and content products, an area investors watching dev-tools and productivity software should track for adoption signals."
     },
     {
       "title": "Why legal literacy is becoming startup currency",
@@ -3275,6 +3303,20 @@
       "summary": "Anthropic's Claude Fable 5 model is now available globally following US export control relief, expanding market access for enterprise deployments. Policy shifts around AI model distribution can materially impact addressable markets and competitive positioning for frontier AI companies."
     },
     {
+      "title": "Ananta Capital acquires majority stake in hygiene brand Phitku",
+      "url": "https://yourstory.com/2026/07/ananta-capital-acquires-majority-stake-in-hygiene-brand-phitku",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-01T15:41:00+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Funding"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Ananta Capital has taken a majority ownership position in Phitku, a hygiene-focused consumer brand, indicating continued investor appetite for controlling stakes in consumer health and wellness companies. For GPs, this reflects growing private equity interest in scaling niche consumer brands through buyout-style deals rather than minority growth checks."
+    },
+    {
       "title": "Raja Koduri's Oxmiq Labs bags $35M in Series A funding",
       "url": "https://yourstory.com/2026/07/funding-raja-koduri-oxmiq-labs-35-million-series-a",
       "source": "YourStory",
@@ -3311,45 +3353,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "SaaS operators are deploying AI agents across key workflows—outbound, collections, and internal operations—with measurable consolidation of agent functions. This trend signals rapid adoption of autonomous systems across revenue and operations, reshaping software ROI benchmarks."
-    },
-    {
-      "title": "PRISM DRHP: A Look At Shareholding Pattern & Key Personnel",
-      "url": "https://inc42.com/buzz/prism-drhp-a-look-at-shareholding-pattern-key-personnel/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-01T14:50:35+00:00",
-      "topics": [
-        "Exits & M&A",
-        "People"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Analysis of PRISM's IPO filing reveals shareholding structure and key leadership ahead of its public debut. The filing provides transparency into cap table dynamics and management stakes relevant to IPO-bound company evaluation."
-    },
-    {
-      "title": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation",
-      "url": "https://www.eu-startups.com/2026/07/dutch-cybersecurity-startup-dawnguard-lands-e2-8-million-for-ai-native-security-architecture-automation/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "published": "2026-07-01T14:44:45+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Dawnguard raised €2.8M for an AI-native security automation platform. The funding reflects growing urgency around cybersecurity infrastructure and investor confidence in AI-powered solutions to DevOps and compliance challenges."
-    },
-    {
-      "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
-      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
-      "source": "VentureBeat",
-      "region": "US",
-      "published": "2026-07-01T14:41:22+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Square integrated direct ordering from ChatGPT and Claude into its merchant platform with minimal setup friction and competitive pricing. This partnership demonstrates AI co-op economics and how fintech platforms can embed AI to drive stickiness and transaction volume."
     }
   ]
 }

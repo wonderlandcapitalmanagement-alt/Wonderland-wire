@@ -1,0 +1,472 @@
+[
+  {
+    "name": "TechCrunch",
+    "kind": "press",
+    "url": "https://techcrunch.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "Crunchbase News",
+    "kind": "press",
+    "url": "https://news.crunchbase.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "PitchBook News",
+    "kind": "press",
+    "url": "https://pitchbook.com/news/rss",
+    "status": 403,
+    "bozo": 1,
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "The Generalist",
+    "kind": "press",
+    "url": "https://www.generalist.com/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "Not Boring",
+    "kind": "press",
+    "url": "https://www.notboring.co/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "Hacker News",
+    "kind": "press",
+    "url": "https://hnrss.org/frontpage",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 1
+  },
+  {
+    "name": "VentureBeat",
+    "kind": "press",
+    "url": "https://venturebeat.com/feed/",
+    "status": 200,
+    "bozo": 1,
+    "error": "document declared as us-ascii, but parsed as utf-8",
+    "entries": 7,
+    "new": 0
+  },
+  {
+    "name": "Newcomer",
+    "kind": "press",
+    "url": "https://www.newcomer.co/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "SaaStr",
+    "kind": "press",
+    "url": "https://www.saastr.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Sifted",
+    "kind": "press",
+    "url": "https://sifted.eu/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 24,
+    "new": 0
+  },
+  {
+    "name": "Tech.eu",
+    "kind": "press",
+    "url": "https://tech.eu/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "EU-Startups",
+    "kind": "press",
+    "url": "https://www.eu-startups.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Wamda",
+    "kind": "press",
+    "url": "https://www.wamda.com/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "MENAbytes",
+    "kind": "press",
+    "url": "https://www.menabytes.com/feed/",
+    "status": 202,
+    "bozo": 1,
+    "error": "<unknown>:2:119: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "StartupScene ME",
+    "kind": "press",
+    "url": "https://thestartupscene.me/feed/",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:29:64: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "MAGNiTT",
+    "kind": "press",
+    "url": "https://magnitt.com/news/rss",
+    "status": 403,
+    "bozo": 1,
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Inc42",
+    "kind": "press",
+    "url": "https://inc42.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 24,
+    "new": 0
+  },
+  {
+    "name": "YourStory",
+    "kind": "press",
+    "url": "https://yourstory.com/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 1
+  },
+  {
+    "name": "VCCircle",
+    "kind": "press",
+    "url": "https://www.vccircle.com/rss",
+    "status": 500,
+    "bozo": 1,
+    "error": "<unknown>:2:1103: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Entrackr",
+    "kind": "press",
+    "url": "https://entrackr.com/feed/",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:2:0: syntax error",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "The Ken",
+    "kind": "press",
+    "url": "https://the-ken.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Tech in Asia",
+    "kind": "press",
+    "url": "https://www.techinasia.com/feed",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 36,
+    "new": 1
+  },
+  {
+    "name": "e27",
+    "kind": "press",
+    "url": "https://e27.co/feed/",
+    "status": 301,
+    "bozo": 0,
+    "error": null,
+    "entries": 50,
+    "new": 0
+  },
+  {
+    "name": "DealStreetAsia",
+    "kind": "press",
+    "url": "https://www.dealstreetasia.com/feed/",
+    "status": 503,
+    "bozo": 1,
+    "error": "<unknown>:6:2: mismatched tag",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "KrASIA",
+    "kind": "press",
+    "url": "https://kr-asia.com/feed",
+    "status": 200,
+    "bozo": 1,
+    "error": "<unknown>:16:58: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "TechNode",
+    "kind": "press",
+    "url": "https://technode.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 2000,
+    "new": 0
+  },
+  {
+    "name": "Startup Daily",
+    "kind": "press",
+    "url": "https://www.startupdaily.net/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "SmartCompany",
+    "kind": "press",
+    "url": "https://www.smartcompany.com.au/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "LatamList",
+    "kind": "press",
+    "url": "https://latamlist.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Contxto",
+    "kind": "press",
+    "url": "https://contxto.com/en/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 100,
+    "new": 0
+  },
+  {
+    "name": "Startupi",
+    "kind": "press",
+    "url": "https://startupi.com.br/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "LAVCA",
+    "kind": "press",
+    "url": "https://www.lavca.org/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "LABS",
+    "kind": "press",
+    "url": "https://labsnews.com/en/feed/",
+    "status": 301,
+    "bozo": 1,
+    "error": "<unknown>:2:192: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "a16z",
+    "kind": "gp",
+    "url": "https://a16z.com/feed/",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:3:73: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "First Round Review",
+    "kind": "gp",
+    "url": "https://review.firstround.com/feed",
+    "status": 301,
+    "bozo": 1,
+    "error": "<unknown>:80:18: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Sapphire Ventures",
+    "kind": "gp",
+    "url": "https://sapphireventures.com/blog/feed/",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:14:16: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Bessemer Venture Partners",
+    "kind": "gp",
+    "url": "https://www.bvp.com/atlas/feed",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:64:172: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Greylock",
+    "kind": "gp",
+    "url": "https://greylock.com/feed/",
+    "status": 301,
+    "bozo": 1,
+    "error": "<unknown>:2:1: syntax error",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Battery Ventures",
+    "kind": "gp",
+    "url": "https://www.battery.com/blog/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "NFX",
+    "kind": "gp",
+    "url": "https://www.nfx.com/feed",
+    "status": 404,
+    "bozo": 1,
+    "error": "<unknown>:8:114: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Union Square Ventures",
+    "kind": "gp",
+    "url": "https://www.usv.com/rss/",
+    "status": 301,
+    "bozo": 0,
+    "error": null,
+    "entries": 6,
+    "new": 0
+  },
+  {
+    "name": "AVC · Fred Wilson",
+    "kind": "gp",
+    "url": "https://avc.com/feed",
+    "status": 301,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Feld Thoughts",
+    "kind": "gp",
+    "url": "https://feld.com/feed",
+    "status": 301,
+    "bozo": 0,
+    "error": null,
+    "entries": 20,
+    "new": 0
+  },
+  {
+    "name": "Above the Crowd · Bill Gurley",
+    "kind": "gp",
+    "url": "https://abovethecrowd.com/feed/",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Tomasz Tunguz",
+    "kind": "gp",
+    "url": "https://tomtunguz.com/index.xml",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  },
+  {
+    "name": "Clouded Judgement",
+    "kind": "gp",
+    "url": "https://cloudedjudgement.substack.com/feed",
+    "status": 403,
+    "bozo": 1,
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
+    "entries": 0,
+    "new": 0
+  },
+  {
+    "name": "Point Nine",
+    "kind": "gp",
+    "url": "https://medium.com/feed/point-nine-news",
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 0
+  }
+]
