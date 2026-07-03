@@ -57,7 +57,7 @@ def _fetch_via_proxy(url):
     for build in PROXIES:
         try:
             req = Request(build(url), headers={"User-Agent": BROWSER_UA, **BROWSER_HEADERS})
-            with urlopen(req, timeout=25) as r:
+            with urlopen(req, timeout=8) as r:
                 data = r.read()
             if data and len(data) > 200:
                 p = feedparser.parse(data)
@@ -141,7 +141,8 @@ def collect(feeds, seen):
                 rec["error"] = str(parsed.bozo_exception)[:180]
             rec["entries"] = len(parsed.entries)
             rec["via"] = "direct"
-            if not parsed.entries:
+            # Only a real bot-wall (403/429/451) is worth a proxy retry; a 404 is a wrong URL.
+            if not parsed.entries and rec["status"] in (403, 429, 451):
                 proxied = _fetch_via_proxy(f["url"])
                 if proxied is not None and proxied.entries:
                     parsed = proxied
