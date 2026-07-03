@@ -1,6 +1,140 @@
 {
-  "updated": "2026-07-03T15:00:16.001057+00:00",
+  "updated": "2026-07-03T17:02:43.644530+00:00",
   "items": [
+    {
+      "title": "Chevy built an All-American EV truck. Why is nobody buying it?",
+      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T16:30:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Chevrolet's domestically-built EV truck is struggling to find buyers despite its American manufacturing pedigree, highlighting persistent demand softness in the EV segment. For investors in mobility and clean-tech, this signals continued caution around consumer EV adoption curves and pricing sensitivity in the truck category."
+    },
+    {
+      "title": "[Update] Karnataka HC Refuses Stay On State’s Gig Workers Act, Directs Platforms To Deposit Welfare Fee",
+      "url": "https://inc42.com/buzz/eternal-meesho-other-consumer-tech-unicorns-challenge-karnatakas-gig-worker-law/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-03T16:25:54+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "Karnataka's High Court declined to stay the state's Gig Workers Act, ordering platforms to continue depositing a welfare fee for gig workers. This ruling has direct implications for gig-economy startups and their investors in India, signaling regulatory costs are likely to persist rather than be rolled back."
+    },
+    {
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:56:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A retrospective piece traces the history of Maxis, the studio behind SimCity and The Sims, offering insight into an early influential game developer. While not directly VC-relevant, it offers historical context on how creative studios scaled into major entertainment franchises."
+    },
+    {
+      "title": "Markets are competitive if and only if P = NP",
+      "url": "https://arxiv.org/abs/2602.20415",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:41:44+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This theoretical piece connects computational complexity theory to market efficiency, arguing perfect competitiveness would require P=NP. It's a niche academic argument relevant to quant and deep-tech investors thinking about the limits of algorithmic markets and pricing efficiency."
+    },
+    {
+      "title": "Claude, please stop trying to memorize random crap",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:32:51+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer discussion on tuning Claude's behavior around unnecessary memorization, reflecting ongoing friction in prompt engineering and AI assistant design. This kind of practitioner feedback matters to AI infrastructure investors tracking real-world usability issues with frontier models."
+    },
+    {
+      "title": "Factories Are Just Rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:13:43+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An essay reframing manufacturing facilities as fundamentally simple physical spaces, likely applying systems-thinking to industrial design or robotics. Relevant to deep-tech investors interested in how founders conceptualize automation and factory-of-the-future models."
+    },
+    {
+      "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:08:56+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "A resurfaced 1926 government report offers a historical snapshot of American society, sparking commentary on long-term societal trends. Useful as macro context for LPs thinking about generational shifts in demographics, labor, and economic structure."
+    },
+    {
+      "title": "Best Simple System for Now",
+      "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:06:44+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical piece proposing a pragmatic, simplified system approach—likely in software architecture or AI tooling—for current constraints. Such practitioner guidance is relevant to technical GPs evaluating engineering best practices in portfolio companies."
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T15:03:43+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A practical guide details how developers can run state-of-the-art large language models locally rather than relying on cloud APIs. This reflects growing interest in on-device AI inference, a trend relevant to investors tracking decentralization of AI compute and cost structures."
+    },
+    {
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03)",
+      "url": "https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-29-july-03/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-03T15:01:13+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "EU-Startups' weekly roundup compiles European startup funding rounds tracked over the prior week, giving LPs and GPs a snapshot of regional deal flow and sector activity. Regular roundups like this help investors benchmark European venture momentum against other markets."
+    },
     {
       "title": "MeitY tells Android, Apple App Store to remove e-rickshaw disabling apps",
       "url": "https://yourstory.com/2026/07/meity-google-misused",
@@ -13,6 +147,32 @@
       ],
       "category": "Policy",
       "summary": "India's Ministry of Electronics and IT (MeitY) has directed Google and Apple to remove apps that disable e-rickshaw speed or safety restrictions from their app stores. The move highlights tightening regulatory scrutiny over mobility-tech compliance in India, a signal for GPs backing EV and last-mile transport startups to watch local regulatory risk closely."
+    },
+    {
+      "title": "Give Smart People the Tools to Do Smart Things",
+      "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T14:49:44+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "An essay argues for empowering capable individuals with better tools rather than over-managing them, a management philosophy piece. It's tangential to VC but reflects broader thinking on talent enablement relevant to founder and team-building practices."
+    },
+    {
+      "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+      "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T14:27:21+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical comparison examines persistent memory architectures across three AI memory frameworks—ContextNest, Mem0, and Zep. This is directly relevant to AI infrastructure investors evaluating the competitive landscape of memory-layer tooling for LLM applications."
     },
     {
       "title": "Quantum Systems raises $1.2B, IQM becomes first European quantum company on major US exchange, and European startup funding in June",
@@ -3211,158 +3371,6 @@
       ],
       "category": "Opinion",
       "summary": "This analysis contrasts boldness with strategic foresight in Southeast Asian entrepreneurship, suggesting that competitive advantage comes from anticipating market shifts rather than taking calculated risks. For regional investors, this signals the importance of backing founders with deep market intelligence over those with pure execution hustle."
-    },
-    {
-      "title": "Xiaomi launches crowdfunding for its first smart storage device",
-      "url": "https://technode.com/2026/07/02/xiaomi-launches-crowdfunding-for-its-first-smart-storage-device/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "published": "2026-07-02T02:15:12+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "Xiaomi is using crowdfunding to validate demand and finance production of a new smart storage device. This approach allows the company to de-risk manufacturing while generating early revenue, a strategy increasingly adopted by hardware makers to reduce capital intensity."
-    },
-    {
-      "title": "Turning parents into co-therapists; Atomgrid’s big bet on speciality chemicals",
-      "url": "https://yourstory.com/2026/07/turning-parents-into-co-therapists",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-02T02:00:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Two distinct opportunities are emerging: a mental health startup scaling through parental involvement in therapy models, and Atomgrid pursuing specialty chemicals through technological innovation. Both represent niche markets where founders are using novel distribution or product approaches to capture underserved demand."
-    },
-    {
-      "title": "The next AI winners in Southeast Asia won’t be AI companies",
-      "url": "https://e27.co/the-next-ai-winners-in-southeast-asia-wont-be-ai-companies-20260626/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T01:45:25+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The article argues that Southeast Asia's AI opportunity lies not in building AI companies but in enterprises that embed AI into existing value chains. This reframes the region's investment landscape, suggesting outsized returns will accrue to traditional businesses adopting AI rather than pure-play AI startups."
-    },
-    {
-      "title": "How Bike Bazaar Ran Into A Credit Crisis",
-      "url": "https://inc42.com/features/how-bike-bazaar-ran-into-a-credit-crisis/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T01:30:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Deep-dive analysis of Bike Bazaar's financial deterioration reveals operational challenges in the logistics sector. Understanding such failures matters to GPs evaluating marketplace risk and capital efficiency across Indian supply-chain startups."
-    },
-    {
-      "title": "LibreCAD in the Browser",
-      "url": "https://magik.net/librecad/",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T01:00:31+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Discussion of porting CAD (computer-aided design) software to browser environments, enabling cloud-native design tools. This highlights the ongoing trend of migrating desktop applications to web platforms, creating opportunities in enterprise software and developer tooling."
-    },
-    {
-      "title": "The rise of AI twins: From assistant to infrastructure",
-      "url": "https://e27.co/the-rise-of-ai-twins-from-assistant-to-infrastructure-20260626/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T01:00:08+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "AI twins are evolving from productivity assistants to foundational infrastructure layers powering multiple applications. This shift indicates emerging platform opportunities where winners may capture significant value by controlling the underlying AI twin infrastructure rather than single-use applications."
-    },
-    {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T00:48:01+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Profile of an open-source robotics project focused on smart home automation. This exemplifies grassroots innovation in robotics and IoT, signaling community-driven development paths that can evolve into commercial opportunities in consumer hardware."
-    },
-    {
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T00:40:14+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Global regulatory review confirming safety and efficacy of mRNA vaccine technology. This validation reinforces biotechnology's legitimacy as an investment category and may accelerate mRNA platform companies' development timelines and funding prospects."
-    },
-    {
-      "title": "Shoe retailer Betts to close 20 stores after entering voluntary administration",
-      "url": "https://www.smartcompany.com.au/retail/shoe-retailer-betts-close-20-stores-voluntary-administration/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "published": "2026-07-02T00:32:40+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Legacy footwear retailer Betts is closing 20 locations after entering voluntary administration, reflecting broader challenges in traditional retail. The distress signals ongoing structural headwinds in brick-and-mortar retail that affect real estate and consumer discretionary portfolios."
-    },
-    {
-      "title": "Royal commission told antisemitism flourishes on Elon Musk’s X, as online hate routinely gets a leave pass on social media",
-      "url": "https://www.startupdaily.net/topic/social-media/royal-commission-told-antisemitism-flourishes-on-elon-musks-x-as-online-hate-routinely-gets-a-leave-pass-on-social-media/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "published": "2026-07-02T00:16:46+00:00",
-      "topics": [
-        "Policy",
-        "Opinion"
-      ],
-      "category": "Policy",
-      "summary": "A royal commission hearing exposed persistent antisemitism on X, with testimony that hateful content routinely escapes moderation action on Musk's platform. This regulatory scrutiny underscores growing pressure on social media operators to enforce content policies and the potential for government intervention."
-    },
-    {
-      "title": "Robotics startup Emesent raises $25 million as NRFC unveils investment first",
-      "url": "https://www.smartcompany.com.au/startupsmart/robotics-startup-emesent-raises-25-million-nrfc-venture-debt/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "published": "2026-07-02T00:16:27+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Robotics firm Emesent secured $25 million in funding, with a notable contribution from the National Reconstruction Fund Corporation. This capital infusion and government backing highlight growing institutional support for Australian deep-tech hardware ventures."
-    },
-    {
-      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-01T23:57:55+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Apple is preparing new iPad Pro and MacBook Pro models for early 2025 release. This signals continued hardware innovation in the premium computing segment and consumer tech demand despite recent market headwinds."
     },
     {
       "title": "Most AI Work Can Wait",
