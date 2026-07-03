@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-03T14:50:33.879350+00:00",
+  "updated": "2026-07-03T15:00:16.001057+00:00",
   "items": [
+    {
+      "title": "MeitY tells Android, Apple App Store to remove e-rickshaw disabling apps",
+      "url": "https://yourstory.com/2026/07/meity-google-misused",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-03T14:50:37+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "India's Ministry of Electronics and IT (MeitY) has directed Google and Apple to remove apps that disable e-rickshaw speed or safety restrictions from their app stores. The move highlights tightening regulatory scrutiny over mobility-tech compliance in India, a signal for GPs backing EV and last-mile transport startups to watch local regulatory risk closely."
+    },
     {
       "title": "Quantum Systems raises $1.2B, IQM becomes first European quantum company on major US exchange, and European startup funding in June",
       "url": "https://tech.eu/2026/07/03/quantum-systems-raises-1-2b-iqm-becomes-first-european-quantum-company-on-major-us-exchange-and-european-startup-funding-in-june/",
@@ -209,6 +222,20 @@
       "summary": "Indian AI startups saw funding jump more than fourfold year-over-year in H1 2026, signaling growing investor confidence in the sector. However, analysts question whether this pace of capital deployment is sufficient for Indian AI firms to compete with global leaders in compute and talent. LPs should watch whether volume translates into globally competitive product moats."
     },
     {
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T12:54:53+00:00",
+      "topics": [
+        "People",
+        "Market & Data"
+      ],
+      "category": "People",
+      "summary": "Meta CEO Mark Zuckerberg reportedly acknowledged that the company's large-scale layoffs did not deliver the efficiency gains anticipated, raising questions about workforce strategy at big tech firms. For investors, this signals caution around cost-cutting narratives used to justify valuations and underscores ongoing volatility in tech employment trends."
+    },
+    {
       "title": "Gemini Code Assist will be shut down on July 17",
       "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
       "source": "Hacker News",
@@ -235,6 +262,19 @@
       ],
       "category": "Opinion",
       "summary": "This opinion piece pushes back against exaggerated claims and hype cycles surrounding AI capabilities, urging more grounded expectations. For investors, it's a useful reminder to scrutinize startup claims around AI performance before committing capital."
+    },
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T12:46:30+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece introduces 'program-as-weights,' a conceptual programming paradigm where fuzzy or approximate functions are encoded directly into model weights rather than explicit code. It reflects growing technical interest in blending traditional software engineering with machine learning architectures, relevant to deep-tech investors tracking novel AI development approaches."
     },
     {
       "title": "Centre Plans New Legal Framework To Tighten Oversight Of VPN Providers",
@@ -3323,44 +3363,6 @@
       ],
       "category": "Market & Data",
       "summary": "Apple is preparing new iPad Pro and MacBook Pro models for early 2025 release. This signals continued hardware innovation in the premium computing segment and consumer tech demand despite recent market headwinds."
-    },
-    {
-      "title": "The <Usermedia> HTML Element",
-      "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-01T23:56:15+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Technical specification discussion of new HTML standards for user media handling. This standards evolution reflects ongoing infrastructure modernization that affects web application capabilities and developer experience across the startup ecosystem."
-    },
-    {
-      "title": "Mine drone mapping scaleup Emesent raises $15 million",
-      "url": "https://www.startupdaily.net/topic/funding/mine-drone-mapping-scaleup-emesent-raises-15-million/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "published": "2026-07-01T23:56:06+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Emesent, a drone-based mapping scaleup using AI for subsurface and industrial applications, has raised $15 million in new funding. The round validates strong market demand for autonomous inspection technology in mining and infrastructure sectors."
-    },
-    {
-      "title": "Fitness entrepreneur Sam Wood adapts to GLP-1 era with new startup Ollo",
-      "url": "https://www.smartcompany.com.au/health/fitness-entrepreneur-sam-wood-glp-1-era-new-startup-ollo/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "published": "2026-07-01T23:54:06+00:00",
-      "topics": [
-        "Funding",
-        "People"
-      ],
-      "category": "Funding",
-      "summary": "Prominent fitness entrepreneur Sam Wood launched Ollo, a wellness startup positioned to capture demand from the GLP-1 pharmaceutical trend. The move demonstrates how established founders are pivoting into emerging health and longevity markets with significant consumer tailwinds."
     },
     {
       "title": "Most AI Work Can Wait",
