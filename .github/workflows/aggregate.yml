@@ -3,11 +3,16 @@ name: Wonderland Wire
 # Runs the news + podcast agents on a schedule and commits the refreshed JSON.
 on:
   schedule:
-    - cron: "0 */3 * * *"     # every 3 hours (UTC). Change cadence here.
+    - cron: "0 */3 * * *"     # every 3 hours (UTC). GitHub cron is best-effort and may skip slots under load.
   workflow_dispatch: {}         # lets you run it on demand from the Actions tab
 
 permissions:
   contents: write               # needed to commit the refreshed feeds back to the repo
+
+# Never let two runs overlap — prevents the non-fast-forward push races.
+concurrency:
+  group: wonderland-wire
+  cancel-in-progress: false
 
 jobs:
   aggregate:
@@ -36,6 +41,16 @@ jobs:
         run: |
           git config user.name  "wonderland-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add news.json _seen.json podcasts.json _seen_pods.json
-          git diff --staged --quiet || git commit -m "wire: refresh $(date -u +'%Y-%m-%dT%H:%MZ')"
-          git push
+          git add news.json _seen.json podcasts.json _seen_pods.json _feedstatus.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "wire: refresh $(date -u +'%Y-%m-%dT%H:%MZ')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push origin HEAD:main && { echo "pushed on attempt $i"; exit 0; }
+            echo "push attempt $i failed; retrying in 5s..."
+            sleep 5
+          done
+          echo "::error::could not push after retries"
+          exit 1

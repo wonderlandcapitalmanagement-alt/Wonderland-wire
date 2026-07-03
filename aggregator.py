@@ -50,6 +50,8 @@ TOPICS         = ["Funding", "Funds & LPs", "Exits & M&A", "People",
 HERE     = os.path.dirname(os.path.abspath(__file__))
 NEWS     = os.path.join(HERE, "news.json")
 SEEN     = os.path.join(HERE, "_seen.json")
+STATUS   = os.path.join(HERE, "_feedstatus.json")
+FEED_STATUS = []
 FEEDS    = os.path.join(HERE, "feeds.yaml")
 
 now = dt.datetime.now(dt.timezone.utc)
@@ -104,18 +106,30 @@ def load_feeds():
 # ---- collect ----
 def collect(feeds, seen):
     fresh = []
+    FEED_STATUS.clear()
     for f in feeds:
+        rec = {"name": f.get("name"), "kind": f.get("kind", "press"), "url": f["url"],
+               "status": None, "bozo": 0, "error": None, "entries": 0, "new": 0}
         try:
             parsed = feedparser.parse(f["url"], agent=BROWSER_UA, request_headers=BROWSER_HEADERS)
+            rec["status"] = getattr(parsed, "status", None)
+            rec["bozo"] = int(getattr(parsed, "bozo", 0) or 0)
+            if getattr(parsed, "bozo_exception", None):
+                rec["error"] = str(parsed.bozo_exception)[:180]
+            rec["entries"] = len(parsed.entries)
         except Exception as e:
+            rec["error"] = f"EXC {e}"[:180]
+            FEED_STATUS.append(rec)
             print(f"  ! {f['name']}: {e}", file=sys.stderr)
             continue
+        n_new = 0
         for e in parsed.entries[:MAX_PER_FEED]:
             link = e.get("link", "")
             key = canon(link)
             if not key or key in seen:
                 continue
             seen.add(key)
+            n_new += 1
             fresh.append({
                 "title": clean_title(e.get("title", "")),
                 "url": link,
@@ -124,6 +138,8 @@ def collect(feeds, seen):
                 "kind": f.get("kind", "press"),
                 "published": parse_date(e).isoformat(),
             })
+        rec["new"] = n_new
+        FEED_STATUS.append(rec)
     return fresh
 
 # ---- classify with Claude ----
@@ -188,6 +204,7 @@ def main():
     seen.update(canon(it["url"]) for it in existing)
 
     fresh = collect(feeds, seen)
+    save_json(STATUS, FEED_STATUS)
     print(f"New headlines: {len(fresh)}")
 
     classified = []
