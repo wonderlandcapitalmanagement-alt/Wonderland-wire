@@ -10,7 +10,9 @@ Each run it:
   4. Ages out anything older than RETENTION_DAYS and caps the list
   5. Writes news.json in exactly the shape the Track page reads:
         { "updated": ISO8601, "items": [
-            { title, source, url, category, summary, published } ] }
+            { title, source, url, region, kind, topics, category,
+              summary, published } ] }
+     kind is "press" (news outlets) or "gp" (writing published by a VC firm).
 
 No publisher text is stored — only links back and our own summaries.
 """
@@ -87,6 +89,7 @@ def load_feeds():
         elif isinstance(feed, dict) and feed.get("url"):
             out.append({"name": feed.get("name") or urlparse(feed["url"]).netloc,
                         "region": feed.get("region", "Global"),
+                        "kind": feed.get("kind", "press"),
                         "url": feed["url"]})
     return out
 
@@ -110,6 +113,7 @@ def collect(feeds, seen):
                 "url": link,
                 "source": f["name"],
                 "region": f.get("region", "Global"),
+                "kind": f.get("kind", "press"),
                 "published": parse_date(e).isoformat(),
             })
     return fresh
