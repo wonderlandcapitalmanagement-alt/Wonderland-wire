@@ -26,6 +26,13 @@ except Exception:
 
 # ---- config ----
 MODEL          = "claude-haiku-4-5-20251001"
+
+BROWSER_UA     = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36")
+BROWSER_HEADERS = {
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 RETENTION_DAYS = 60          # podcasts publish less often than news
 MAX_ITEMS      = 120
 MAX_PER_FEED   = 6           # newest N episodes per show each run
@@ -111,7 +118,7 @@ def collect(feeds, seen):
     fresh = []
     for f in feeds:
         try:
-            parsed = feedparser.parse(f["url"])
+            parsed = feedparser.parse(f["url"], agent=BROWSER_UA, request_headers=BROWSER_HEADERS)
         except Exception as e:
             print(f"  ! {f['name']}: {e}", file=sys.stderr)
             continue

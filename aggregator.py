@@ -5,7 +5,7 @@ Wonderland Wire — news aggregator agent.
 Each run it:
   1. Collects headlines from the RSS feeds in feeds.yaml
   2. Dedupes against everything it has already processed (_seen.json)
-  3. Sends ONLY new headlines to Claude (Haiku) for a category + an
+  3. Sends ONLY new headlines to Claude (Sonnet) for a category + an
      original one-line summary (never the publisher's own words)
   4. Ages out anything older than RETENTION_DAYS and caps the list
   5. Writes news.json in exactly the shape the Track page reads:
@@ -29,12 +29,20 @@ except Exception:
     Anthropic = None
 
 # ---- config ----
-MODEL          = "claude-haiku-4-5-20251001"
+MODEL          = "claude-sonnet-5"
 RETENTION_DAYS = 14
 MAX_ITEMS      = 260         # total items kept in news.json
 MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
+
+# Some corporate VC blogs 403 the default feedparser user-agent. Present as a browser.
+BROWSER_UA     = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36")
+BROWSER_HEADERS = {
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 # Topics taxonomy — an article may carry 1–3 of these. Keep in sync with track.html.
 TOPICS         = ["Funding", "Funds & LPs", "Exits & M&A", "People",
                   "Policy", "Events", "Market & Data", "AI & Deep Tech", "Opinion"]
@@ -98,7 +106,7 @@ def collect(feeds, seen):
     fresh = []
     for f in feeds:
         try:
-            parsed = feedparser.parse(f["url"])
+            parsed = feedparser.parse(f["url"], agent=BROWSER_UA, request_headers=BROWSER_HEADERS)
         except Exception as e:
             print(f"  ! {f['name']}: {e}", file=sys.stderr)
             continue
