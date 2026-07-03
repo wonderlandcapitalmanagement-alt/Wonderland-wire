@@ -1,6 +1,10 @@
-# Wonderland Wire — news sources for the agent, tagged by region.
-# region ∈ Global, US, Europe, MENA, India, Southeast Asia, North Asia, ANZ, LatAm
-# Fetched server-side (no CORS). Dead/moved feeds are skipped automatically.
+# Wonderland Wire — news sources for the agent.
+# Each feed carries two independent tags:
+#   region ∈ Global, US, Europe, MENA, India, Southeast Asia, North Asia, ANZ, LatAm
+#   kind   ∈ press  (news outlets, e.g. TechCrunch, Inc42)
+#          | gp     (writing published by a VC firm / investor, e.g. a16z, Sapphire)
+# kind defaults to "press" when omitted. Fetched server-side (no CORS);
+# dead or RSS-less feeds are skipped automatically each run.
 
 feeds:
   # ── Global ──
@@ -30,23 +34,8 @@ feeds:
   - name: Newcomer
     url: https://www.newcomer.co/feed
     region: US
-  - name: a16z
-    url: https://a16z.com/feed/
-    region: US
-  - name: First Round Review
-    url: https://review.firstround.com/feed
-    region: US
-  - name: AVC · Fred Wilson
-    url: https://avc.com/feed
-    region: US
   - name: SaaStr
     url: https://www.saastr.com/feed/
-    region: US
-  - name: Tomasz Tunguz
-    url: https://tomtunguz.com/index.xml
-    region: US
-  - name: Clouded Judgement
-    url: https://cloudedjudgement.substack.com/feed
     region: US
 
   # ── Europe ──
@@ -134,3 +123,66 @@ feeds:
   - name: LABS
     url: https://labsnews.com/en/feed/
     region: LatAm
+
+  # ══════════════════════════════════════════════════════════════
+  #  GP DESKS — writing published by VC firms & investors (kind: gp)
+  #  These carry a region too, so they still surface under region
+  #  filters; the kind tag lets the site separate them from the press.
+  #  Some firms publish on RSS-less stacks; dead feeds skip silently.
+  # ══════════════════════════════════════════════════════════════
+  - name: a16z
+    url: https://a16z.com/feed/
+    region: US
+    kind: gp
+  - name: First Round Review
+    url: https://review.firstround.com/feed
+    region: US
+    kind: gp
+  - name: Sapphire Ventures
+    url: https://sapphireventures.com/blog/feed/
+    region: US
+    kind: gp
+  - name: Bessemer Venture Partners
+    url: https://www.bvp.com/atlas/feed
+    region: US
+    kind: gp
+  - name: Greylock
+    url: https://greylock.com/feed/
+    region: US
+    kind: gp
+  - name: Battery Ventures
+    url: https://www.battery.com/blog/feed/
+    region: US
+    kind: gp
+  - name: NFX
+    url: https://www.nfx.com/feed
+    region: US
+    kind: gp
+  - name: Union Square Ventures
+    url: https://www.usv.com/rss/
+    region: US
+    kind: gp
+  - name: AVC · Fred Wilson
+    url: https://avc.com/feed
+    region: US
+    kind: gp
+  - name: Feld Thoughts
+    url: https://feld.com/feed
+    region: US
+    kind: gp
+  - name: Above the Crowd · Bill Gurley
+    url: https://abovethecrowd.com/feed/
+    region: US
+    kind: gp
+  - name: Tomasz Tunguz
+    url: https://tomtunguz.com/index.xml
+    region: US
+    kind: gp
+  - name: Clouded Judgement
+    url: https://cloudedjudgement.substack.com/feed
+    region: US
+    kind: gp
+  - name: Point Nine
+    url: https://medium.com/feed/point-nine-news
+    region: Europe
+    kind: gp
