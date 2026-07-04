@@ -1,6 +1,213 @@
 {
-  "updated": "2026-07-04T15:46:03.044292+00:00",
+  "updated": "2026-07-04T20:39:56.490471+00:00",
   "items": [
+    {
+      "title": "AI has torched the market for junior programmers",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T19:50:08+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The piece argues that AI coding assistants have sharply reduced demand for junior software engineers, disrupting traditional tech hiring pipelines. This has implications for how startups structure engineering teams and how investors evaluate talent-related opex assumptions in portfolio companies."
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T19:41:10+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A hobbyist project ported the classic RTS game Command & Conquer: Generals to macOS and iOS using a tool called Fable, showcasing AI-assisted or automated porting techniques. It's a niche technical demonstration rather than a funding event, but reflects broader trends in AI-enabled software tooling."
+    },
+    {
+      "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference",
+      "url": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T19:08:44+00:00",
+      "topics": [
+        "Events",
+        "People",
+        "Policy"
+      ],
+      "category": "Events",
+      "summary": "An Irish hotel canceled a private conference tied to Peter Thiel after backlash over its secrecy, highlighting reputational risks tied to closed-door tech elite gatherings. This is a minor but notable data point on public scrutiny of influential VC and tech figures' networking events."
+    },
+    {
+      "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-04T19:00:12+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece examines how AI tools are being deployed to synthesize public sentiment and civic input around the US semiquincentennial, framing it as a real-world experiment in AI-driven collective decision-making. LPs interested in civic-tech and AI applications may find early signals here about demand for governance and consensus-building software beyond enterprise use cases."
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T18:00:05+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Midjourney is pushing for greater transparency from Hollywood studios regarding how they use AI tools internally, likely as part of licensing or partnership negotiations. This signals growing friction between AI generative platforms and traditional media over IP and usage terms, a dynamic investors in generative media startups should watch closely."
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T17:52:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "The piece discusses concerns that Verizon network changes could disrupt smartwatch connectivity for consumers, reflecting recurring friction between telecom infrastructure updates and hardware compatibility. It's a consumer-tech reliability story with limited direct VC relevance but relevant to hardware/wearables investors."
+    },
+    {
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T17:37:21+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This is a technical open-source tool for conducting cold boot memory attacks on bare-metal x86 systems, aimed at security researchers. It highlights ongoing interest in hardware-level security research, relevant to investors tracking cybersecurity and systems-level startups."
+    },
+    {
+      "title": "Game Boy Advance Dev: Logging to the Console",
+      "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T17:12:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer-focused technical post details logging techniques for Game Boy Advance homebrew development. It's a niche engineering resource with no direct startup or funding implications, though it reflects continued grassroots interest in embedded systems programming."
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T17:08:18+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "EndBASIC's 0.14 release adds multimedia capabilities to this retro-style programming environment, appealing to hobbyist developers. While not startup news, it reflects niche developer tooling activity that occasionally seeds broader open-source ecosystems investors monitor."
+    },
+    {
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T16:55:29+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "\"Plein Air\" appears to be a reflective or artistic piece, likely unrelated to startup funding or venture activity. Its ambiguous framing suggests a personal essay or cultural commentary rather than actionable market intelligence for LPs or GPs."
+    },
+    {
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T16:54:02+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "Finland has fully decommissioned its analogue landline network after 150 years, marking a symbolic end to legacy telecom infrastructure in favor of digital and mobile networks. This underscores the broader global shift toward IP-based communications, relevant context for telecom and infrastructure-focused investors."
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T16:51:26+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A $200k bounty has emerged for sourcing or replicating a comprehensive book-scan dataset akin to Google Books, highlighting the growing value of large, clean text corpora for training AI models. For GPs backing AI infrastructure or data-licensing startups, this signals intensifying competition over proprietary training data as a scarce, monetizable asset."
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T16:32:08+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Alibaba has reportedly restricted its workforce from using Anthropic's Claude Code, likely reflecting geopolitical tensions and a push toward domestic AI tooling. This underscores how enterprise AI adoption is increasingly shaped by national tech sovereignty concerns, a relevant factor for investors backing cross-border AI infrastructure plays."
+    },
+    {
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T16:01:38+00:00",
+      "topics": [
+        "Market & Data",
+        "Funds & LPs"
+      ],
+      "category": "Market & Data",
+      "summary": "Inc42 is rolling out a tracker monitoring the financial performance of Indian startups through fiscal year 2026, covering metrics like revenue, burn, and profitability trends. This kind of aggregated benchmarking data is valuable for LPs assessing portfolio health and market maturity in the Indian startup ecosystem relative to global peers."
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T15:51:32+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This explainer piece profiles Mistral AI, the French foundation model startup positioning itself as a leading OpenAI rival. For LPs and GPs, it's a useful primer on competitive dynamics in the frontier AI model space and Europe's growing ambitions in sovereign AI development."
+    },
     {
       "title": "Outbound Isn’t Dead. AI Just Radically Changed How It Works.",
       "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/",
@@ -396,6 +603,20 @@
       ],
       "category": "Exits & M&A",
       "summary": "Private equity giants Blackstone and CVC are competing to acquire a stake in Vietnam's MoMo, one of Southeast Asia's leading fintech and e-wallet platforms. A successful deal would mark a significant secondary exit for existing investors and validate continued PE interest in Vietnam's digital finance sector."
+    },
+    {
+      "title": "How Narasu’s built an iconic coffee brand in TN; Financial literacy and women's agency",
+      "url": "https://yourstory.com/2026/07/narasus-iconic-coffee-brand-financial-literacy-womens-agency",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T02:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "YourStory profiles Narasu's, a legacy Tamil Nadu coffee brand, alongside a separate feature on financial literacy and women's economic agency in India. While not a typical funding story, it offers LPs cultural and market context on consumer brand-building and financial inclusion trends shaping India's broader startup and investment landscape."
     },
     {
       "title": "India’s HCLTech wins $1.14b AI-driven European deal",
