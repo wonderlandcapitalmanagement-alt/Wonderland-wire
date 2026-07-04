@@ -1,6 +1,290 @@
 {
-  "updated": "2026-07-03T21:43:37.949982+00:00",
+  "updated": "2026-07-04T09:09:13.679041+00:00",
   "items": [
+    {
+      "title": "Meet the 100 top-funded startups and tech companies in China",
+      "url": "https://www.techinasia.com/top-funded-startups-tech-companies-china",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T09:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "A ranking of the 100 top-funded Chinese startups and tech companies offers LPs a snapshot of where capital has concentrated across sectors and stages in China. Such lists help investors benchmark portfolio companies against peers and spot emerging leaders worth tracking for follow-on rounds or co-investment opportunities."
+    },
+    {
+      "title": "50 rising startups in China",
+      "url": "https://www.techinasia.com/50-rising-startups-china",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T07:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "This roundup highlights 50 emerging Chinese startups gaining traction, giving GPs and LPs an early look at potential breakout companies before major funding rounds. Tracking these rising players helps investors identify deal flow and sector momentum in China's evolving startup ecosystem."
+    },
+    {
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T06:32:28+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This essay argues that constraints on progress are often less about technical limits and more about human bandwidth, attention, or organizational friction. For builders and investors, it's a reminder that scaling talent and decision-making capacity can matter as much as scaling capital or technology."
+    },
+    {
+      "title": "David Beazley – Programming Courses",
+      "url": "https://www.dabeaz.com/courses.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T05:43:01+00:00",
+      "topics": [
+        "People",
+        "Events"
+      ],
+      "category": "People",
+      "summary": "A roundup or spotlight on veteran educator David Beazley's programming courses, known for deep-dive technical training. Relevant to teams looking for high-quality upskilling resources for engineers rather than a startup or funding story."
+    },
+    {
+      "title": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T04:37:15+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer shares hands-on reflections on using AI coding agents in practice, including workflow quirks and productivity gains. Useful signal for investors tracking how quickly AI-assisted development tools are being adopted by working engineers."
+    },
+    {
+      "title": "From The Indus Valley To Incuspaze — Indian Startups Raised $105 Mn This Week",
+      "url": "https://inc42.com/buzz/from-the-indus-valley-to-incuspaze-indian-startups-raised-105-mn-this-week/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T04:00:22+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Indian startups collectively raised roughly $105 million this week, per Inc42's weekly funding tracker, spanning a mix of sectors and stages. The roundup gives LPs and GPs a pulse check on early-stage funding velocity in the Indian market amid broader global fundraising softness."
+    },
+    {
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T03:36:03+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A personal essay encouraging continuous learning as a professional and life strategy. It's a reflective piece rather than hard news, aimed at individual growth rather than market dynamics."
+    },
+    {
+      "title": "SK Hynix hedge talk lifts won to 2-week high",
+      "url": "https://www.techinasia.com/sk-hynix-seeks-listing-early-august-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T02:54:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Speculation that SK Hynix is hedging currency exposure pushed South Korea's won to a two-week high, reflecting how a major tech firm's financial strategy can move national currency markets. This matters for investors with Korean exposure, as currency swings affect valuations and returns on cross-border deals."
+    },
+    {
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T02:45:24+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "The piece explores why creating or combining ideas into something new is cognitively harder than breaking existing systems down for study. It has implications for how teams are structured, since analytical and synthetic skills may need to be deliberately cultivated separately."
+    },
+    {
+      "title": "China’s Shenhao Technology plans $295m server procurement",
+      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T02:40:58+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Shenhao Technology's planned $295 million server procurement signals continued heavy capital expenditure in China's AI and data center infrastructure buildout. For investors, this underscores the scale of compute investment needed to support AI ambitions and points to opportunities in hardware supply chains."
+    },
+    {
+      "title": "Photography for a cause: How wildlife photography inspires support for nature",
+      "url": "https://yourstory.com/2026/07/photography-wildlife-nature-conservation-creativity",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T02:15:00+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A feature highlights how wildlife photography can build public support and funding for conservation causes. It's a human-interest piece rather than a venture or market story, though it touches on how storytelling drives donor and audience engagement."
+    },
+    {
+      "title": "Blackstone, CVC bid for Vietnam’s MoMo stake",
+      "url": "https://www.techinasia.com/vietnam-fintech-momo-weighs-investors-at-2b-value",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T02:13:39+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Funds & LPs"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Private equity giants Blackstone and CVC are competing to acquire a stake in Vietnam's MoMo, one of Southeast Asia's leading fintech and e-wallet platforms. A successful deal would mark a significant secondary exit for existing investors and validate continued PE interest in Vietnam's digital finance sector."
+    },
+    {
+      "title": "India’s HCLTech wins $1.14b AI-driven European deal",
+      "url": "https://www.techinasia.com/anthropics-tool-triggers-slump-indian-stocks",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T01:51:01+00:00",
+      "topics": [
+        "Exits & M&A",
+        "AI & Deep Tech"
+      ],
+      "category": "Exits & M&A",
+      "summary": "HCLTech's $1.14 billion AI-driven contract win with a European client demonstrates the growing commercial scale of enterprise AI services deals originating from Indian IT majors. This large deal signals robust demand for AI transformation services and strengthens HCLTech's competitive positioning against global peers."
+    },
+    {
+      "title": "Japanese chipmaker Kioxia ships NAND for AI data centers",
+      "url": "https://www.techinasia.com/us-patent-probe-puts-sk-hynix-kioxia-chip-imports-at-risk",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T01:41:54+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Kioxia's shipment of NAND memory chips for AI data centers reflects surging demand for high-capacity storage to support AI workloads. This trend benefits chip and memory suppliers and signals continued capex growth in AI infrastructure that investors should monitor across the semiconductor supply chain."
+    },
+    {
+      "title": "Thailand BOI secures $4.1b in EV supply chain investment",
+      "url": "https://www.techinasia.com/ev-battery-market-grows-with-new-types-options",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T01:32:25+00:00",
+      "topics": [
+        "Funding",
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Thailand's Board of Investment attracting $4.1 billion in EV supply chain investment highlights the country's ambition to become a regional EV manufacturing hub. This scale of government-backed investment signals strong policy support and creates opportunities for suppliers, component makers, and related startups in Southeast Asia's EV ecosystem."
+    },
+    {
+      "title": "Sociolla glams up for IPO, eyes Singapore launch this year",
+      "url": "https://www.techinasia.com/sociolla-glams-ipo-eyes-singapore-launch-year",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T01:00:08+00:00",
+      "topics": [
+        "Exits & M&A"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Indonesian beauty e-commerce platform Sociolla is preparing for an IPO while also planning a Singapore market launch, indicating a dual growth and exit strategy. This move could provide a meaningful liquidity event for early investors and test public market appetite for Southeast Asian consumer tech companies."
+    },
+    {
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T00:57:44+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical writeup details a security vulnerability that allows attackers to escalate to SYSTEM-level privileges via MSI Center software. Notable for cybersecurity-focused investors tracking endpoint vulnerabilities and patching cycles in enterprise software."
+    },
+    {
+      "title": "Soatok's Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T00:35:49+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Security researcher Soatok offers an accessible primer on threat modeling for developers and organizations. Useful reference material for technical due diligence teams evaluating security practices at portfolio companies."
+    },
+    {
+      "title": "Odin, Wikipedia and engagement farming",
+      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T23:24:35+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The piece critiques how platforms like Wikipedia can be gamed or distorted by incentives that reward engagement over accuracy, using the 'Odin' case as an example. It raises broader questions about trust and content integrity in AI-training data sources, relevant to those investing in knowledge infrastructure."
+    },
+    {
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T22:46:18+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A historical deep dive recounts how two brothers organized an early urban firefighting network in 17th-century Amsterdam. It's a niche historical essay with no direct startup or investment relevance."
+    },
+    {
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-03T22:40:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "New scientific research explains the fluid mechanics that let extremely tall trees transport water efficiently to their uppermost branches. This is basic science research, of interest to deep-tech-adjacent readers but not tied to any funding or market event."
+    },
     {
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
