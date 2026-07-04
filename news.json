@@ -1,6 +1,226 @@
 {
-  "updated": "2026-07-04T09:09:13.679041+00:00",
+  "updated": "2026-07-04T15:46:03.044292+00:00",
   "items": [
+    {
+      "title": "Outbound Isn’t Dead. AI Just Radically Changed How It Works.",
+      "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-04T14:10:29+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This commentary argues that AI tools have transformed B2B outbound sales rather than killing the channel, enabling more personalized and efficient prospecting at scale. For GPs backing GTM software, it underscores how AI-native sales stacks are reshaping customer acquisition economics."
+    },
+    {
+      "title": "Does average person understand that all disc media dies too?",
+      "url": "https://news.ycombinator.com/item?id=48785525",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T14:08:55+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "This piece argues that physical media like CDs and DVDs degrade over time, challenging the assumption that discs are a permanent archival solution. It's a reminder for tech-adjacent investors that data durability and digital preservation remain unsolved infrastructure problems worth watching."
+    },
+    {
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T14:03:40+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical report flags a possible security flaw where session or cache data could leak across separate workspace or consumer accounts on a shared platform. Such vulnerabilities matter to enterprise software investors since they can trigger compliance risk, customer churn, and increased security spend for affected vendors."
+    },
+    {
+      "title": "How working memory could give rise to consciousness",
+      "url": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T14:02:59+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A cognitive science piece explores theories linking working memory mechanisms to the emergence of conscious experience. For deep-tech investors tracking AI cognition research, these frameworks inform debates on machine consciousness and the theoretical underpinnings of next-gen AI architectures."
+    },
+    {
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T14:00:03+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Scientists reported an unexplained high carbon concentration in a Martian rock sample, raising new questions about the planet's geological or biological history. While not directly VC-relevant, such findings can influence sentiment and funding interest in space-tech and planetary science startups."
+    },
+    {
+      "title": "New-Age Tech Stocks Rally On Improving Investor Sentiment; WeWork, ixigo Lead Gains",
+      "url": "https://inc42.com/buzz/new-age-tech-stocks-rally-on-improving-investor-sentiment-wework-ixigo-lead-gains/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T13:58:02+00:00",
+      "topics": [
+        "Market & Data",
+        "Exits & M&A"
+      ],
+      "category": "Market & Data",
+      "summary": "Publicly listed Indian tech companies including WeWork India and ixigo saw share price gains amid a broader improvement in investor sentiment toward new-age tech stocks. This rally is a signal for GPs of renewed public market appetite that could improve exit conditions for India-focused venture portfolios."
+    },
+    {
+      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T12:47:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "This tracker compiles market capitalization, revenue, and other financial metrics for India's publicly listed new-age tech firms. It serves as a useful benchmarking resource for LPs and GPs assessing valuation trends and public market comparables relevant to their India tech investments."
+    },
+    {
+      "title": "Meet The Top 10 Indian Startup Investors Of H1 2026",
+      "url": "https://inc42.com/buzz/meet-the-top-10-indian-startup-investors-of-h1-2026/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T12:42:46+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Market & Data"
+      ],
+      "category": "Funds & LPs",
+      "summary": "Inc42 unveils its ranking of the most active startup investors in India during the first half of 2026, highlighting which VCs and angels are deploying capital most aggressively. Such rankings help LPs benchmark manager activity and identify emerging leaders shaping the Indian venture ecosystem's deal flow and sentiment."
+    },
+    {
+      "title": "Bengaluru leads Avendus Wealth-Hurun U30 list with 21 founders",
+      "url": "https://yourstory.com/2026/07/bengaluru-avendus-wealth-hurun-india-u30-list-21-entrepreneurs",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T12:26:54+00:00",
+      "topics": [
+        "People",
+        "Market & Data"
+      ],
+      "category": "People",
+      "summary": "The Avendus Wealth-Hurun U30 list highlights young entrepreneurs under 30, with Bengaluru dominating as the top city with 21 founders featured. This underscores Bengaluru's continued role as India's premier startup hub and signals where early talent and future deal flow may concentrate."
+    },
+    {
+      "title": "If Nothing Else – Segment Churn. You’ll See Patterns and Learnings You Wouldn’t Otherwise",
+      "url": "https://www.saastr.com/nothing-else-segment-churn/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-04T12:20:15+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "The piece advises SaaS operators to break down churn data by customer segment rather than viewing it in aggregate, revealing actionable retention insights. This is a practical framework LPs and GPs can use to better evaluate portfolio company health metrics beyond headline churn rates."
+    },
+    {
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "url": "https://peteris.rocks/blog/htop/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T12:00:57+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical guide breaks down the metrics displayed in Linux system monitoring tools like htop and top, useful for engineers optimizing infrastructure performance. This kind of foundational systems knowledge underpins the operational efficiency that infra-focused technical investors care about."
+    },
+    {
+      "title": "Remote EV Shutdowns Expose India’s Connected Device Security Gap",
+      "url": "https://inc42.com/features/remote-ev-shutdowns-expose-indias-connected-device-security-gap/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T11:41:12+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "Reports of remote shutdowns affecting electric vehicles in India have exposed vulnerabilities in connected-device security infrastructure, raising concerns about consumer safety and regulatory oversight. For investors in mobility and IoT startups, this signals rising scrutiny on cybersecurity standards and potential compliance costs ahead."
+    },
+    {
+      "title": "25 rising startups in the Philippines",
+      "url": "https://www.techinasia.com/50-rising-startups-philippines",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T11:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "Tech in Asia spotlights 25 promising early-stage startups in the Philippines, offering a snapshot of the country's growing entrepreneurial activity across sectors. For regional investors, this curated list serves as a sourcing tool and signals where Southeast Asian capital might flow next."
+    },
+    {
+      "title": "Micron breaks ground on $9.3b Japan memory expansion",
+      "url": "https://www.techinasia.com/micron-reportedly-plans-9-6b-investment-in-japan-plant",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-04T09:38:56+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Micron has broken ground on a $9.3 billion memory chip expansion in Japan, reflecting continued heavy capital investment in semiconductor manufacturing capacity amid strong AI-driven demand. This move reinforces Japan's growing role in the global chip supply chain and signals long-term confidence in memory market growth."
+    },
+    {
+      "title": "Now, Telegram Receives Notice From Centre For Distributing Pirated Films",
+      "url": "https://inc42.com/buzz/now-telegram-receives-notice-from-centre-for-distributing-pirated-films/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-04T09:27:55+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "India's government has issued another notice to Telegram over the distribution of pirated films on its platform, intensifying regulatory pressure on the messaging app. This reflects a broader tightening of content and IP enforcement policy that could affect platform-dependent startups operating in India."
+    },
+    {
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T09:08:09+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "New data from the James Webb Space Telescope is challenging existing cosmological models, prompting fresh scientific debate about the early universe. Breakthroughs like this can shape long-term interest and capital flow into space observation and deep-tech research ventures."
+    },
     {
       "title": "Meet the 100 top-funded startups and tech companies in China",
       "url": "https://www.techinasia.com/top-funded-startups-tech-companies-china",
@@ -55,6 +275,20 @@
       ],
       "category": "People",
       "summary": "A roundup or spotlight on veteran educator David Beazley's programming courses, known for deep-dive technical training. Relevant to teams looking for high-quality upskilling resources for engineers rather than a startup or funding story."
+    },
+    {
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-04T05:37:25+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Events"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Results were announced for a contest showcasing AI-generated fiction, highlighting how generative models are being creatively benchmarked and curated by the community. Such events signal growing maturity in generative AI applications beyond enterprise use cases, relevant to investors tracking consumer AI products."
     },
     {
       "title": "Agentic coding notes from Galapagos Island",
