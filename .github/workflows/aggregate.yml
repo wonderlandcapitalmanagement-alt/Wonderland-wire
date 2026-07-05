@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name  "wonderland-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add news.json _seen.json podcasts.json _seen_pods.json _feedstatus.json
+          git add news.json _seen.json podcasts.json _seen_pods.json _feedstatus.json _podstatus.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0

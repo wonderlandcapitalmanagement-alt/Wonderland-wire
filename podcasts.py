@@ -116,12 +116,27 @@ def load_feeds():
 # ---- collect ----
 def collect(feeds, seen):
     fresh = []
+    status = []
     for f in feeds:
+        entry_count = 0
+        err = None
         try:
-            parsed = feedparser.parse(f["url"], agent=BROWSER_UA, request_headers=BROWSER_HEADERS)
+            # Fetch bytes ourselves (browser headers + timeout), then parse —
+            # feedparser's own fetcher gets blocked by some hosts (e.g. Substack).
+            from urllib.request import Request, urlopen
+            req = Request(f["url"], headers={"User-Agent": BROWSER_UA, **BROWSER_HEADERS})
+            with urlopen(req, timeout=15) as r:
+                data = r.read()
+            parsed = feedparser.parse(data)
+            if not parsed.entries:  # fallback to feedparser-native fetch
+                parsed = feedparser.parse(f["url"], agent=BROWSER_UA, request_headers=BROWSER_HEADERS)
+            entry_count = len(parsed.entries)
         except Exception as e:
+            err = str(e)[:120]
             print(f"  ! {f['name']}: {e}", file=sys.stderr)
+            status.append({"name": f["name"], "entries": 0, "error": err})
             continue
+        status.append({"name": f["name"], "entries": entry_count, "error": err})
         for e in parsed.entries[:MAX_PER_FEED]:
             link = e.get("link", "")
             key = canon(link)
@@ -136,6 +151,11 @@ def collect(feeds, seen):
                 "duration": fmt_duration(e.get("itunes_duration")),
                 "published": parse_date(e).isoformat(),
             })
+    try:
+        with open(os.path.join(HERE, "_podstatus.json"), "w", encoding="utf-8") as fh:
+            json.dump(status, fh, indent=1)
+    except Exception:
+        pass
     return fresh
 
 # ---- classify with Claude ----
