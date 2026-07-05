@@ -1,6 +1,199 @@
 {
-  "updated": "2026-07-05T12:58:20.323436+00:00",
+  "updated": "2026-07-05T18:42:14.048981+00:00",
   "items": [
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T17:43:36+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "Amazon is closing new customer sign-ups for its Mechanical Turk crowdsourcing platform, a marketplace that has underpinned data-labeling for years. This signals shifting priorities in the human-in-the-loop data economy as AI labeling needs evolve, relevant for GPs backing data infrastructure startups."
+    },
+    {
+      "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+      "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T17:34:49+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "A cultural commentary piece reframes young adults moving back with parents as a rational financial strategy rather than a failure, reflecting broader economic pressures like housing costs and wage stagnation. Relevant as a macro signal for consumer-focused investors tracking shifting household formation and spending patterns."
+    },
+    {
+      "title": "The Computers Used in Movies",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T17:33:04+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A retrospective look at how computers have been depicted in film over time. Primarily a nostalgia/culture piece with limited direct investment relevance."
+    },
+    {
+      "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T17:27:46+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "New archaeological research analyzes bone and tool evidence to assess the technological and behavioral sophistication of Homo floresiensis. While not startup-related, it touches on deep-tech adjacent scientific inquiry into early tool use and cognition."
+    },
+    {
+      "title": "\"These cameras are just like the Eye of Sauron\"",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T17:05:57+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "Commentary likening pervasive surveillance camera networks to dystopian imagery raises concerns about privacy and government overreach. Relevant to policy-watching investors tracking regulatory and public sentiment around surveillance tech and civil liberties."
+    },
+    {
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T16:11:08+00:00",
+      "topics": [
+        "Policy",
+        "People"
+      ],
+      "category": "Policy",
+      "summary": "An opinion piece criticizes Meta CEO Mark Zuckerberg's handling of internal whistleblowers, suggesting increasingly aggressive tactics against dissenting employees. This is relevant to governance-focused LPs monitoring leadership and regulatory risk at major tech platforms."
+    },
+    {
+      "title": "Vir Sanghvi: The Man I Thought I Knew",
+      "url": "https://yourstory.com/2026/07/vir-sanghvi-the-man-i-thought-i-knew",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-05T16:02:55+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "category": "People",
+      "summary": "This is a personal essay reflecting on a well-known media/industry figure, offering reconsidered perspectives on his character and legacy. It serves more as a reputational and cultural commentary piece than a direct investment signal, though it may be relevant to LPs tracking industry personalities and networks."
+    },
+    {
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T15:49:18+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A novel autonomous drone-umbrella product automatically follows users to shield them from rain or sun, showcasing consumer robotics innovation. It's an example of niche hardware experimentation that could interest early-stage deep-tech investors."
+    },
+    {
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T15:00:21+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A technical explainer discusses how DMARC's new 'NP' tag for email authentication can conflict with DNSSEC configurations, creating security gaps. Relevant to cybersecurity and infrastructure investors tracking email security standards evolution."
+    },
+    {
+      "title": "5 desk gadgets that can make your workday better",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T15:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A lifestyle roundup of desk gadgets aimed at improving workday productivity. Minimal direct relevance to venture investing beyond general consumer product trend-spotting."
+    },
+    {
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T14:56:15+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "An essay argues that the real issue in gaming isn't physical versus digital formats but who actually owns purchased content, highlighting consumer rights concerns with digital licensing models. This touches on business model risks relevant to gaming and platform investors."
+    },
+    {
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T14:49:42+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A successful Swiss pilot of solar panels installed along railway tracks suggests this renewable energy approach could scale across Europe, offering a new use of existing infrastructure for clean power generation. This is relevant to climate-tech and infrastructure investors tracking emerging renewable deployment models."
+    },
+    {
+      "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
+      "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-05T14:06:31+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "The piece argues that despite record levels of enterprise software spending, roughly half of existing SaaS companies are struggling or shutting down as AI reshapes buyer expectations and unit economics. For investors, this signals a bifurcation where capital concentrates in AI-native winners while legacy SaaS multiples and growth assumptions face repricing."
+    },
+    {
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-05T13:33:32+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Bending Spoons, an Italian app-acquisition company that owns AOL and Vimeo, has gone public, drawing attention as a lesser-known roll-up strategy achieving a major liquidity event. LPs should note this as an alternative exit model built on acquiring and monetizing legacy internet brands rather than organic growth."
+    },
     {
       "title": "Almost 90 new unicorns have been minted so far this year — here they are",
       "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
