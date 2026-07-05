@@ -17,7 +17,7 @@ feeds:
     url: https://allinchamathjason.libsyn.com/rss
   - name: Lenny's Podcast
     host: Lenny Rachitsky
-    url: https://api.substack.com/feed/podcast/10845.rss
+    url: https://www.lennysnewsletter.com/feed
   - name: a16z Podcast
     host: Andreessen Horowitz
     url: https://feeds.simplecast.com/JGE3yC0V
@@ -32,4 +32,4 @@ feeds:
     url: https://anchor.fm/s/ed6d37cc/podcast/rss
   - name: Dwarkesh Podcast
     host: Dwarkesh Patel
-    url: https://api.substack.com/feed/podcast/69345.rss
+    url: https://www.dwarkesh.com/feed

@@ -46,7 +46,7 @@ def _fetch_via_proxy(url):
     for build in PROXIES:
         try:
             req = Request(build(url), headers={"User-Agent": BROWSER_UA, **BROWSER_HEADERS})
-            with urlopen(req, timeout=10) as r:
+            with urlopen(req, timeout=20) as r:
                 data = r.read()
             if data and len(data) > 200:
                 p = feedparser.parse(data)
