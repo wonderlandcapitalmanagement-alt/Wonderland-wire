@@ -14,7 +14,7 @@ Same design as aggregator.py, but for podcast episodes:
 """
 
 import os, re, json, sys, html, datetime as dt
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse, urlunparse, quote
 
 import yaml
 import feedparser
@@ -33,6 +33,28 @@ BROWSER_HEADERS = {
     "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
     "Accept-Language": "en-US,en;q=0.9",
 }
+
+# Server-side fetch proxies — used only when a feed genuinely 403/429s the runner
+# (e.g. Substack blocks GitHub Actions IPs).
+PROXIES = [
+    lambda u: "https://api.allorigins.win/raw?url=" + quote(u, safe=""),
+    lambda u: "https://corsproxy.io/?url=" + quote(u, safe=""),
+]
+
+def _fetch_via_proxy(url):
+    from urllib.request import Request, urlopen
+    for build in PROXIES:
+        try:
+            req = Request(build(url), headers={"User-Agent": BROWSER_UA, **BROWSER_HEADERS})
+            with urlopen(req, timeout=10) as r:
+                data = r.read()
+            if data and len(data) > 200:
+                p = feedparser.parse(data)
+                if p.entries:
+                    return p
+        except Exception:
+            continue
+    return None
 RETENTION_DAYS = 60          # podcasts publish less often than news
 MAX_ITEMS      = 120
 MAX_PER_FEED   = 6           # newest N episodes per show each run
@@ -133,9 +155,13 @@ def collect(feeds, seen):
             entry_count = len(parsed.entries)
         except Exception as e:
             err = str(e)[:120]
-            print(f"  ! {f['name']}: {e}", file=sys.stderr)
-            status.append({"name": f["name"], "entries": 0, "error": err})
-            continue
+            parsed = _fetch_via_proxy(f["url"])   # genuine 403/429 → proxy fallback
+            if parsed is None:
+                print(f"  ! {f['name']}: {e}", file=sys.stderr)
+                status.append({"name": f["name"], "entries": 0, "error": err})
+                continue
+            err = err + " -> recovered via proxy"
+            entry_count = len(parsed.entries)
         status.append({"name": f["name"], "entries": entry_count, "error": err})
         for e in parsed.entries[:MAX_PER_FEED]:
             link = e.get("link", "")
