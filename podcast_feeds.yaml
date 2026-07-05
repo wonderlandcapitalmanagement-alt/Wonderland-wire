@@ -27,3 +27,9 @@ feeds:
   - name: The Full Ratchet
     host: Nick Moran
     url: https://fullratchet.libsyn.com/rss
+  - name: Superclusters
+    host: David Zhou
+    url: https://anchor.fm/s/ed6d37cc/podcast/rss
+  - name: Dwarkesh Podcast
+    host: Dwarkesh Patel
+    url: https://api.substack.com/feed/podcast/69345.rss
