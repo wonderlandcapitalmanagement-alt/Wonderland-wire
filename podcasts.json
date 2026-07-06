@@ -1,6 +1,60 @@
 {
-  "updated": "2026-07-05T18:43:34.633552+00:00",
+  "updated": "2026-07-06T12:19:17.955703+00:00",
   "items": [
+    {
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "source": "Lenny's Podcast",
+      "host": "Lenny Rachitsky",
+      "duration": "",
+      "published": "2026-07-06T12:03:37+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "Alessio Fanelli of Kernel Labs walks through a workflow for managing autonomous coding agents remotely, combining OpenAI's tooling with Linear for task orchestration. The conversation offers a practical look at how developer tooling and agentic workflows are evolving, relevant for GPs tracking productivity gains in engineering-heavy portfolio companies. It's a hands-on demonstration rather than a strategic thesis, useful for technical diligence context."
+    },
+    {
+      "title": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
+      "url": "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "duration": "19 min",
+      "published": "2026-07-06T10:00:00+00:00",
+      "topics": [
+        "Opinion",
+        "People"
+      ],
+      "summary": "Ben Horowitz offers career guidance aimed at new graduates, pushing back on the popular \"follow your passion\" mantra in favor of more pragmatic decision-making around skills and market opportunity. The discussion reflects broader a16z messaging on talent development and founder mindset, which matters to GPs thinking about early-career hiring and founder pipeline. It's a commentary-style episode rather than a data-driven market update."
+    },
+    {
+      "title": "512. Is SpaceX Over or Undervalued, Why Consensus Kills, How Chewy Beat Amazon, and the GameStop Saga from a Board Member (Larry Cheng)",
+      "url": "https://fullratchet.net/larry-cheng",
+      "source": "The Full Ratchet",
+      "host": "Nick Moran",
+      "duration": "42 min",
+      "published": "2026-07-06T08:00:00+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Opinion",
+        "Market & Data"
+      ],
+      "summary": "Larry Cheng joins to debate SpaceX's valuation trajectory, dissect why consensus-driven investment thinking underperforms, and unpack competitive dynamics behind Chewy's win over Amazon. He also brings a board-level perspective on the GameStop saga, offering LPs a rare inside view of governance dynamics during a meme-stock event. The episode blends contrarian investment philosophy with concrete case studies relevant to growth-stage and public-market crossover investors."
+    },
+    {
+      "title": "20VC: Why Now is the Time for the Application Layer | Why OpenAI & Anthropic Won't Win the App Layer | Why Startups Should be TokenMaxxing | Why VCs Should Reduce Weighting on Price & Ownership in an Age of AI with Mike Mignano, USV",
+      "url": "https://thetwentyminutevc.libsyn.com/20vc-why-now-is-the-time-for-the-application-layer-why-openai-anthropic-wont-win-the-app-layer-why-startups-should-be-tokenmaxxing-why-vcs-should-reduce-weighting-on-price-ownership-in-an-age-of-ai-with-mike-mignano-usv",
+      "source": "The Twenty Minute VC",
+      "host": "Harry Stebbings",
+      "duration": "69 min",
+      "published": "2026-07-06T07:07:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion",
+        "Market & Data"
+      ],
+      "summary": "USV's Mike Mignano argues the application layer is entering its strongest window yet, challenging assumptions that foundation model labs will dominate downstream value capture. He pushes back on traditional VC pricing discipline, suggesting ownership and valuation matter less than positioning in an AI-driven market, while floating token-based incentive structures for startups. LPs should note the shifting framework for how growth investors are evaluating AI-native companies."
+    },
     {
       "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
