@@ -1,6 +1,102 @@
 {
-  "updated": "2026-07-07T19:16:05.929562+00:00",
+  "updated": "2026-07-07T21:52:28.308886+00:00",
   "items": [
+    {
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T20:50:46+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A new EU mandate requires driver monitoring cameras in all newly sold vehicles, part of broader vehicle-safety regulation. This regulatory shift creates both compliance costs for automakers and a tailwind for suppliers of driver-monitoring and computer-vision hardware/software."
+    },
+    {
+      "title": "Men's average testosterone levels have halved in last 50 years",
+      "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T20:36:01+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A widely discussed study reports a sharp long-term decline in average male testosterone levels, reigniting debate over environmental and lifestyle causes. While not directly VC-related, the trend has implications for health-tech and longevity startups targeting hormonal health diagnostics and treatment."
+    },
+    {
+      "title": "The real cost, security, and culture problems behind enterprise AI agents",
+      "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-07T20:24:31+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The article dissects hidden costs, security vulnerabilities, and organizational resistance that companies face when deploying enterprise AI agents at scale, beyond the initial hype. For GPs, it's a cautionary signal that enterprise AI adoption timelines and ROI may be slower and costlier than vendors project."
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T20:04:32+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Despite growing competition from open-source AI models, Anthropic's enterprise-focused strategy and API business have so far insulated it from meaningful erosion. The piece examines how proprietary model providers are differentiating on reliability and tooling, a key consideration for investors evaluating moats in foundation model startups."
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T19:58:20+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Microsoft is increasingly substituting its own in-house models for third-party ones like OpenAI's to cut inference costs, signaling a broader industry shift toward vertical integration. For GPs, this trend suggests margin pressure on model API providers and growing strategic value in owning compute and model infrastructure."
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T19:28:38+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Discord acknowledged that a faulty AI moderation system incorrectly banned users for benign content, highlighting persistent reliability gaps in automated trust-and-safety tools. The incident underscores ongoing risk for platforms deploying AI moderation at scale and may fuel regulatory scrutiny of algorithmic content decisions."
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T18:44:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer released Davit, an open-source UI for Apple's container tooling, aimed at simplifying local container management on macOS. It reflects continued grassroots innovation in developer tooling that could eventually attract acquirer or investor interest in the devtools space."
+    },
     {
       "title": "Google’s Pixel event is set for August 12",
       "url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
@@ -404,6 +500,20 @@
       ],
       "category": "Market & Data",
       "summary": "EU-Startups highlights five startups leveraging the FIFA World Cup to innovate fan engagement technology. The piece reflects broader investor interest in sportstech and consumer experience platforms tied to major global events. Useful for GPs scouting thematic opportunities in sports and entertainment tech."
+    },
+    {
+      "title": "Foreign ownership in Swiggy goes below 50%",
+      "url": "https://yourstory.com/2026/07/foreign-ownership-in-swiggy-goes-below-50",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-07T13:41:13+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Foreign shareholders' stake in food-delivery giant Swiggy has dropped below the 50% threshold, likely reflecting share sales, buybacks, or domestic investor accumulation. The shift is notable for LPs tracking ownership structure changes in major Indian public tech companies post-IPO."
     },
     {
       "title": "Noon Academy acquires Almakhfi to strengthen Saudi edtech offering",
@@ -7469,106 +7579,6 @@
       ],
       "category": "Exits & M&A",
       "summary": "IQM, a European quantum computing company, completed a US public listing, marking a milestone for the region's deep-tech sector. The exit validates investor conviction in quantum technology and provides a liquidity event for European venture capital deployed in frontier tech."
-    },
-    {
-      "title": "US government says it got hacked — again",
-      "url": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T14:22:36+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "US government systems experienced another significant security breach, highlighting ongoing cybersecurity vulnerabilities at the federal level. These incidents raise questions about infrastructure resilience and regulatory priorities for technology sectors."
-    },
-    {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "url": "https://github.com/rafal-qa/slopo",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T14:19:24+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A developer released an open-source CLI tool leveraging embedding models to detect semantic code duplication beyond simple string matching. This demonstrates practical AI applications gaining traction in developer tooling infrastructure."
-    },
-    {
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "url": "https://mailmemories.com",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T14:16:57+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Mail Memories, a consumer desktop application, extracts and preserves photos from Gmail archives. The project addresses data preservation and personal archiving, a niche but growing consumer software opportunity."
-    },
-    {
-      "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year. With Vercel’s COO Jeanne DeWitt Grosser.",
-      "url": "https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/",
-      "source": "SaaStr",
-      "region": "US",
-      "published": "2026-07-02T14:15:02+00:00",
-      "topics": [
-        "People",
-        "Market & Data"
-      ],
-      "category": "People",
-      "summary": "Vercel's COO revealed the company automated most SDR functions, reducing headcount from 10 to 1 while maintaining output at $5,000 annual cost. This case study demonstrates significant operational leverage through AI-driven sales automation in SaaS."
-    },
-    {
-      "title": "Catalyst Fund secures $30 million to back Africa's climatetech startups",
-      "url": "http://wamda.com/2026/07/catalyst-fund-secures-30-million-africas-climatetech-startups",
-      "source": "Wamda",
-      "region": "MENA",
-      "published": "2026-07-02T14:08:09+00:00",
-      "topics": [
-        "Funds & LPs",
-        "AI & Deep Tech"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Catalyst Fund closed a $30 million fund dedicated to backing African climate technology startups, addressing a significant capital gap in the clean-tech sector. This launch demonstrates LP appetite for thematic, impact-driven investing in underserved geographies."
-    },
-    {
-      "title": "America's Next 250",
-      "url": "https://www.notboring.co/p/americas-next-250",
-      "source": "Not Boring",
-      "region": "Global",
-      "published": "2026-07-02T14:06:26+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "Not Boring's \"America's Next 250\" analysis identifies emerging high-potential startups and market opportunities. The report serves as forward-looking market intelligence for investors seeking early exposure to breakout companies."
-    },
-    {
-      "title": "Orbit Capital closes €107M venture debt fund for CEE scaleups",
-      "url": "https://tech.eu/2026/07/02/orbit-capital-closes-eur107m-venture-debt-fund-for-cee-scaleups/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "published": "2026-07-02T14:05:30+00:00",
-      "topics": [
-        "Funds & LPs",
-        "Funding"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Orbit Capital closed a €107M venture debt fund dedicated to Central and Eastern European scaleups, addressing a capital gap in an underserved region. The fund's focus on debt financing helps mature startups avoid equity dilution while meeting growing demand for growth-stage capital outside Western Europe."
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T13:53:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Microsoft established a dedicated AI deployment company backed by $2.5B in commitments, moving beyond software licensing into infrastructure services. This vertical integration positions Microsoft to capture margins from enterprise AI infrastructure buildout."
     },
     {
       "title": "Most AI Work Can Wait",
