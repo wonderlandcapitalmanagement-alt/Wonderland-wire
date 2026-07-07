@@ -1,35 +1,81 @@
-# Wonderland — podcast sources for the Listen agent.
-# Each entry: { name, host, url } where url is the show's RSS feed.
-# Fetched server-side (no CORS). Dead/moved feeds are skipped automatically.
+# Wonderland — podcast sources for the Airwaves agent.
+# Each entry: { name, host, url, category } where url is the show's RSS feed.
+# category groups shows in the site rail: "Interview & News", "GP / Firm", "Founder & Operator", "Deal & Macro".
+# Fetched server-side (no CORS). Dead/moved feeds are skipped automatically (see _podstatus.json).
 
 feeds:
+  # ---- Interview & News ----
   - name: Acquired
     host: Ben Gilbert & David Rosenthal
+    category: Interview & News
     url: https://feeds.transistor.fm/acquired
   - name: Invest Like the Best
     host: Patrick O'Shaughnessy
+    category: Interview & News
     url: https://feeds.megaphone.fm/investlikethebest
   - name: The Twenty Minute VC
     host: Harry Stebbings
+    category: Interview & News
     url: https://thetwentyminutevc.libsyn.com/rss
-  - name: All-In
-    host: Chamath, Sacks, Friedberg, Calacanis
-    url: https://allinchamathjason.libsyn.com/rss
-  - name: Lenny's Podcast
-    host: Lenny Rachitsky
-    url: https://www.lennysnewsletter.com/feed
-  - name: a16z Podcast
-    host: Andreessen Horowitz
-    url: https://feeds.simplecast.com/JGE3yC0V
   - name: This Week in Startups
     host: Jason Calacanis
+    category: Interview & News
     url: https://thisweekinstartups.libsyn.com/rss
+  - name: Dwarkesh Podcast
+    host: Dwarkesh Patel
+    category: Interview & News
+    url: https://www.dwarkesh.com/feed
+
+  # ---- GP / Firm ----
+  - name: a16z Podcast
+    host: Andreessen Horowitz
+    category: GP / Firm
+    url: https://feeds.simplecast.com/JGE3yC0V
   - name: The Full Ratchet
     host: Nick Moran
+    category: GP / Firm
     url: https://fullratchet.libsyn.com/rss
   - name: Superclusters
     host: David Zhou
+    category: GP / Firm
     url: https://anchor.fm/s/ed6d37cc/podcast/rss
-  - name: Dwarkesh Podcast
-    host: Dwarkesh Patel
-    url: https://www.dwarkesh.com/feed
+  - name: Anatomy of Next
+    host: Founders Fund · Mike Solana
+    category: GP / Firm
+    url: https://feeds.megaphone.fm/anatomyofnext
+  - name: Greymatter
+    host: Greylock
+    category: GP / Firm
+    url: https://feeds.simplecast.com/2AK4mZfN
+  - name: Origins
+    host: Notation Capital
+    category: GP / Firm
+    url: https://feeds.simplecast.com/dG51Wp8G
+
+  # ---- Founder & Operator ----
+  - name: Lenny's Podcast
+    host: Lenny Rachitsky
+    category: Founder & Operator
+    url: https://www.lennysnewsletter.com/feed
+  - name: How I Built This
+    host: Guy Raz
+    category: Founder & Operator
+    url: https://feeds.npr.org/510313/podcast.xml
+  - name: Masters of Scale
+    host: Reid Hoffman
+    category: Founder & Operator
+    url: https://feeds.megaphone.fm/mastersofscale
+
+  # ---- Deal & Macro ----
+  - name: All-In
+    host: Chamath, Sacks, Friedberg, Calacanis
+    category: Deal & Macro
+    url: https://allinchamathjason.libsyn.com/rss
+  - name: BG2 Pod
+    host: Bill Gurley & Brad Gerstner
+    category: Deal & Macro
+    url: https://feeds.megaphone.fm/bg2pod
+  - name: The Logan Bartlett Show
+    host: Logan Bartlett
+    category: Deal & Macro
+    url: https://feeds.megaphone.fm/theloganbartlettshow

@@ -55,9 +55,9 @@ def _fetch_via_proxy(url):
         except Exception:
             continue
     return None
-RETENTION_DAYS = 60          # podcasts publish less often than news
-MAX_ITEMS      = 120
-MAX_PER_FEED   = 6           # newest N episodes per show each run
+RETENTION_DAYS = 365         # keep a deep, browsable archive
+MAX_ITEMS      = 2000        # effectively unlimited; the site paginates
+MAX_PER_FEED   = 40          # pull deep backfill from each feed
 BATCH          = 10
 SEEN_CAP       = 800
 # Keep this list identical to aggregator.py / track.html / listen.html
@@ -132,6 +132,7 @@ def load_feeds():
         if isinstance(feed, dict) and feed.get("url"):
             out.append({"name": feed.get("name") or urlparse(feed["url"]).netloc,
                         "host": feed.get("host", ""),
+                        "category": feed.get("category", "Shows"),
                         "url": feed["url"]})
     return out
 
@@ -174,6 +175,7 @@ def collect(feeds, seen):
                 "url": link,
                 "source": f["name"],
                 "host": f["host"],
+                "category": f.get("category", "Shows"),
                 "duration": fmt_duration(e.get("itunes_duration")),
                 "published": parse_date(e).isoformat(),
             })
