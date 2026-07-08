@@ -32,11 +32,12 @@ except Exception:
 
 # ---- config ----
 MODEL          = "claude-sonnet-5"
-RETENTION_DAYS = 30
-MAX_ITEMS      = 600         # total items kept in news.json
+RETENTION_DAYS = 120        # keep a deeper archive so every source can reach its floor
+MAX_ITEMS      = 1000        # total items kept in news.json; older ones roll off
 GP_RETENTION_DAYS = 90       # GP-desk blogs post infrequently — keep their notes longer
-GP_RESERVE     = 80          # guaranteed slots for GP items so press volume cannot evict them
-MAX_PER_FEED   = 10          # newest N per feed each run (even regional spread)
+GP_RESERVE     = 80          # (legacy) superseded by PER_SOURCE_FLOOR, which protects every source
+MAX_PER_FEED   = 25          # newest N per feed each run (deeper backfill for the floor)
+PER_SOURCE_FLOOR = 10        # every source keeps at least its newest N, even at the cap
 BATCH          = 12          # headlines per Claude call
 SEEN_CAP       = 800
 
@@ -274,12 +275,27 @@ def main():
             return True
     merged = [it for it in merged if fresh_enough(it)]
     merged.sort(key=lambda it: it.get("published", ""), reverse=True)
-    # Reserve capacity for GP items so high-volume press cannot cap them out.
-    gp_items    = [it for it in merged if it.get("kind") == "gp"]
-    press_items = [it for it in merged if it.get("kind") != "gp"]
-    gp_keep     = gp_items[:GP_RESERVE]
-    press_keep  = press_items[:max(0, MAX_ITEMS - len(gp_keep))]
-    merged = sorted(gp_keep + press_keep, key=lambda it: it.get("published", ""), reverse=True)
+
+    # ---- Cap at MAX_ITEMS while guaranteeing a per-source floor. ----
+    # Step 1: reserve each source's newest PER_SOURCE_FLOOR items so a high-volume
+    #         source can never evict a quieter one entirely.
+    # Step 2: fill the remaining capacity with the newest items overall.
+    floor_keep, floor_keys = [], set()
+    per_source = {}
+    for it in merged:                      # merged is newest-first
+        src = it.get("source", "?")
+        if per_source.get(src, 0) < PER_SOURCE_FLOOR:
+            per_source[src] = per_source.get(src, 0) + 1
+            floor_keep.append(it)
+            floor_keys.add(canon(it["url"]))
+
+    if len(floor_keep) >= MAX_ITEMS:
+        # Floors alone exceed the cap (many sources): keep the newest floor items.
+        merged = sorted(floor_keep, key=lambda it: it.get("published", ""), reverse=True)[:MAX_ITEMS]
+    else:
+        remaining = [it for it in merged if canon(it["url"]) not in floor_keys]
+        fill = remaining[:MAX_ITEMS - len(floor_keep)]
+        merged = sorted(floor_keep + fill, key=lambda it: it.get("published", ""), reverse=True)
 
     save_json(NEWS, {"updated": now.isoformat(), "items": merged})
     save_json(SEEN, list(seen)[-SEEN_CAP:])
