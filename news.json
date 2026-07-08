@@ -1,6 +1,315 @@
 {
-  "updated": "2026-07-08T17:12:16.902762+00:00",
+  "updated": "2026-07-08T21:48:46.865055+00:00",
   "items": [
+    {
+      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T21:03:51+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "OpenAI has quietly withdrawn its endorsement of SWE-Bench Pro as a preferred coding benchmark, signaling potential concerns about its reliability or relevance for evaluating frontier models. This matters to AI-focused investors tracking which benchmarks credibly measure real-world coding capability."
+    },
+    {
+      "title": "Fable is not a useful model",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:41:33+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A critical technical post arguing that the Fable model underperforms or lacks practical utility compared to alternatives. Such community critiques help investors and technical diligence teams separate hype from substance in the crowded AI model landscape."
+    },
+    {
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:37:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical walkthrough on converting unstructured document collections into a searchable, retrieval-augmented knowledge base using modern embedding and indexing techniques. This reflects growing enterprise demand for RAG infrastructure, a space attracting significant venture interest."
+    },
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:37:03+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Google's AI-based deepfake detection tool was used to disprove a viral fabricated image involving Senator McConnell, highlighting growing reliance on automated verification tools amid rising synthetic media concerns. For GPs, this signals expanding commercial and policy demand for trust & safety infrastructure startups."
+    },
+    {
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:29:50+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "Funding",
+      "summary": "QuantumDiamonds secured EU government backing to accelerate semiconductor manufacturing processes using quantum sensing technology. The support reflects Europe's push to bolster domestic chip capacity and reduce reliance on foreign fabs, a theme LPs tracking deep tech and sovereign tech funds should watch."
+    },
+    {
+      "title": "Multigres Supports Listen/Notify Across Pooled Connections",
+      "url": "https://multigres.com/blog/listen-notify",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:11:40+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Multigres, a distributed Postgres-compatible system, has added support for Listen/Notify functionality across pooled connections, improving real-time event handling at scale. This is a meaningful infrastructure update for developers building scalable data-intensive applications, an area of interest for deep-tech investors."
+    },
+    {
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:09:03+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new open-source tool, Onboard-CLI, uses LLMs combined with abstract syntax tree parsing to help developers visualize and understand unfamiliar codebases. It exemplifies the growing wave of AI-assisted developer tooling startups seeking to reduce onboarding friction."
+    },
+    {
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:06:54+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "Drone delivery company Manna is expanding its autonomous delivery operations into the US market, signaling growing commercial viability of last-mile drone logistics. This expansion could pressure incumbents and attract new capital into the automated delivery sector."
+    },
+    {
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:05:42+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A satirical or educational simulator recreating the FAANG interview and career experience gained traction on Hacker News. It reflects continued community fascination with big tech hiring culture and compensation structures."
+    },
+    {
+      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+      "url": "https://hnwork.app/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T20:00:04+00:00",
+      "topics": [
+        "People",
+        "Market & Data"
+      ],
+      "category": "People",
+      "summary": "Hnwork.app provides a cleaner interface for browsing Hacker News' recurring 'Who is hiring' threads, aggregating startup job postings. It's a small but useful signal source for tracking hiring velocity and demand across early-stage tech companies."
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T19:30:16+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "xAI released Grok 4.5, which Elon Musk claims performs at an 'Opus-class' level, intensifying competition among frontier AI labs. The launch underscores the rapid pace of foundation model iteration that investors must track when evaluating AI infrastructure and application bets."
+    },
+    {
+      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+      "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T19:22:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Roost launched a deliberately slow social app designed to counter the instant-gratification dynamics of mainstream platforms. The product reflects a broader consumer trend toward intentional, low-dopamine digital experiences that could interest early-stage consumer app investors."
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T19:19:15+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A robotics startup argues the field is nearing a breakthrough moment akin to ChatGPT's emergence in language models, suggesting foundation-model-style generalization is coming to physical robotics. This thesis is likely to shape investor appetite for robotics foundation model plays going forward."
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T19:18:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Cloudflare has launched a new product or feature referred to as 'Drop,' though details are limited from the headline alone. Given Cloudflare's infrastructure influence, any new offering can ripple through developer tooling and security-adjacent startup ecosystems."
+    },
+    {
+      "title": "Your Agents Should Beat Your Best Reps, Not Match Them. And 14 Other Hard Truths About B2B + AI Today, From Our SaaStr AI Annual AMA",
+      "url": "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-08T19:12:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
+      "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-08T18:49:06+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T18:46:20+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Elon Musk announced X will notify users via DM when posts they engaged with are later corrected, aiming to combat misinformation spread. The feature reflects ongoing platform-level efforts to address content moderation and accuracy amid regulatory scrutiny."
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T18:30:08+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Google Photos introduced an AI-powered 'Video Remix' feature, expanding generative tools for consumer media creation. This continues the broader trend of tech giants embedding generative AI directly into mass-market products, raising competitive stakes for standalone video AI startups."
+    },
+    {
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T18:21:53+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "OpenMandriva issued a public statement addressing what it describes as an attempted sabotage of its Linux distribution, likely involving supply-chain or community governance concerns. This highlights ongoing security and trust challenges within open-source ecosystems that underpin much of modern software infrastructure."
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T17:47:55+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A startup CEO argues that video game environments provide richer, more structured training data for AI models than generic internet text, pointing to simulation-based training as a differentiator. This perspective matters for investors evaluating novel data moats in AI model development."
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T17:46:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T17:45:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T17:43:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
       "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
@@ -39,6 +348,32 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "OpenAI has released a new voice model designed to simulate natural, real-time phone-call-like conversations. This advances the company's push into more human-like conversational AI, a space with growing enterprise and consumer applications that investors are tracking closely."
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T17:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "OpenAI released updated voice models aimed at enabling more natural, low-latency spoken conversations with AI systems. The upgrade intensifies competition in voice AI, a segment increasingly viewed as key to consumer and enterprise AI assistant adoption."
+    },
+    {
+      "title": "EU now one step away from reviving private message scanning rules",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T16:53:06+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
@@ -117,6 +452,19 @@
       ],
       "category": "Opinion",
       "summary": "This piece pulls reflective quotes from the relationship psychology book 'Attached' to offer readers insight into interpersonal attachment styles. While not startup-specific, it fits general soft-skills content aimed at founders and operators navigating team dynamics."
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T16:06:35+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer Process With AI",
@@ -198,19 +546,6 @@
       "summary": "YouTube is rolling out a localized 'Gifts' feature in India, letting fans send culturally relevant virtual items like pani puri and chai to creators. This expands monetization options in India's creator economy, a space increasingly watched by consumer-tech investors."
     },
     {
-      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T15:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Addi raises $86M Series D. Interview with Bernardo Brites, Ep 232",
       "url": "https://latamlist.com/addi-raises-86m-series-d-interview-with-bernardo-brites-ep-232/",
       "source": "LatamList",
@@ -222,6 +557,19 @@
       ],
       "category": "Funding",
       "summary": "Colombian fintech Addi closed an $86M Series D round, with CEO Bernardo Brites discussing the raise in a podcast interview. The sizable late-stage round underscores continued investor confidence in Latin American consumer credit and BNPL players despite a tighter funding environment."
+    },
+    {
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-08T15:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "10 Lessons from the Happiness Advantage for a positive mindset",
@@ -833,6 +1181,19 @@
       ],
       "category": "Market & Data",
       "summary": "Ola Electric is facing insolvency petitions from suppliers, which the company claims stem from an ongoing arbitration dispute rather than financial distress. The situation raises governance and supply-chain risk flags for investors monitoring one of India's largest EV players."
+    },
+    {
+      "title": "Dear SaaStr: What Happens if One Founder Wants to Quit When the Startup Has Just Raised VC Funding?",
+      "url": "https://www.saastr.com/dear-saastr-what-happens-if-one-founder-wants-to-quit-when-the-startup/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-08T09:51:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "PhonePe Elevates Srijon Biswas To CTO, Cofounder Rahul Chari Takes On CPTO Role",
@@ -2023,6 +2384,19 @@
       ],
       "category": "Policy",
       "summary": "Chinese regulators are reportedly tracking a US lawsuit involving trading platforms Futu and Tiger Brokers, signaling continued scrutiny of Chinese fintech firms operating in American markets. The outcome could affect cross-border listing and compliance risk for similar brokerages, a relevant data point for investors in Chinese fintech."
+    },
+    {
+      "title": "The AI Preflight Check",
+      "url": "https://www.tomtunguz.com/the-ai-preflight-check/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-08T00:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
@@ -9680,6 +10054,19 @@
       "summary": "Newcomer flags a tense summer ahead for tech investors amid market and macro pressures compounding typical seasonal slowdowns. The piece likely previews volatility affecting deal pacing and valuations heading into fall."
     },
     {
+      "title": "Andy Burnham's plan to overhaul AI strategy sparks backlash",
+      "url": "https://sifted.eu/articles/andy-burnham-ai-plan-uk-changes-reaction/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-02T15:51:20+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Whiteshield secures $15 million private credit from Ruya Partners",
       "url": "http://wamda.com/2026/07/whiteshield-secures-15-million-private-credit-ruya-partners",
       "source": "Wamda",
@@ -9721,6 +10108,19 @@
       "summary": "Andreessen Horowitz led a $33M Series A round for Telepatia, marking a notable entry of a top-tier US VC firm into Latin American healthtech. The investment signals growing cross-border interest from Silicon Valley funds in the region's digital health infrastructure."
     },
     {
+      "title": "Coinfund Leads USD32m Series A for Trace Finance",
+      "url": "https://www.lavca.org/coinfund-leads-usd32m-series-a-for-trace-finance/",
+      "source": "LAVCA",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-02T13:23:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Mexico Infrastructure Partners’ Fibra E Raises MXN4.3b (~US247.4m) in Follow-on Offering",
       "url": "https://www.lavca.org/mexico-infrastructure-partners-fibra-e-raises-mxn4-3b-us247-4m-in-follow-on-offering/",
       "source": "LAVCA",
@@ -9760,6 +10160,32 @@
       ],
       "category": "Exits & M&A",
       "summary": "Perfin increased its equity stake in Copasa, a move that reflects consolidation or conviction-building by the investor in an existing portfolio position. Stake increases like this can signal confidence in a company's trajectory ahead of a potential exit or restructuring."
+    },
+    {
+      "title": "Headline Invests BRL50m (~USD9.6m) in Housi",
+      "url": "https://www.lavca.org/headline-invests-brl50m-usd9-6m-in-housi/",
+      "source": "LAVCA",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-02T13:18:51+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "BNDES Launches FIP Conexões and Commits to Antler Brasil Fund I",
+      "url": "https://www.lavca.org/bndes-launches-fip-conexoes-and-commits-to-antler-brasil-fund-i/",
+      "source": "LAVCA",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-02T13:18:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Tencent launches Ubisoft-licensed Just Dance: Party on mobile platforms with AI body tracking",
@@ -9829,6 +10255,19 @@
       ],
       "category": "Market & Data",
       "summary": "Xiaomi launched a crowdfunding campaign for its first smart storage device, extending its consumer hardware ecosystem strategy. This reflects Xiaomi's continued use of crowdfunding to test demand before mass production, a model relevant to hardware-focused investors watching Chinese consumer tech trends."
+    },
+    {
+      "title": "Loopia raises $1.2M seed round",
+      "url": "https://latamlist.com/loopia-raises-1-2m-seed-round/",
+      "source": "LatamList",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-01T23:29:03+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Jota raises $30M Series A at $185M valuation",
@@ -10004,6 +10443,19 @@
       ],
       "category": "Market & Data",
       "summary": "Battery Ventures' survey finds agentic AI adoption accelerating inside enterprises, even as return-on-investment metrics remain unclear to many buyers. For GPs, this signals a maturing but still-unproven market where enterprise AI spending is rising ahead of clear productivity validation."
+    },
+    {
+      "title": "Propeller concludes first Kernel Camp, graduating five AI startups from MENA",
+      "url": "http://wamda.com/2026/06/propeller-concludes-kernel-camp-graduating-ai-startups-mena",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-06-30T14:34:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
     },
     {
       "title": "Charts of the Summer: Featuring Deel",
@@ -10183,6 +10635,19 @@
       "summary": "Continued fan backlash over a new character in Love and Deepspace, despite a public apology from Paper Games, highlights the volatility of community sentiment in China's otome and live-service gaming sector. Such controversies can materially affect user retention and monetization for studios reliant on character-driven engagement."
     },
     {
+      "title": "Accenture, TCS are the first dominoes to fall in the remaking of IT jobs",
+      "url": "https://the-ken.com/story/accenture-tcs-are-the-first-dominoes-to-fall-in-the-remaking-of-it-jobs/",
+      "source": "The Ken",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-06-29T02:30:40+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "When AI Costs More Than the Engineer",
       "url": "https://www.tomtunguz.com/ai-spend-breakeven-2029/",
       "source": "Tomasz Tunguz",
@@ -10209,6 +10674,21 @@
       ],
       "category": "People",
       "summary": "a16z introduces its new cohort of Design Engineer Fellows, highlighting talent it is cultivating within its ecosystem. This program signals the firm's continued investment in developer and design talent pipelines relevant to portfolio companies."
+    },
+    {
+      "title": "America Invents, China Applies",
+      "url": "https://www.generalist.com/p/generalist-intelligence-june-26",
+      "source": "The Generalist",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-06-26T15:08:14+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Policy",
+      "summary": "This analysis contrasts US innovation-driven invention with China's rapid application and scaling of technologies, framing a strategic competitive dynamic relevant to tech policy and investment theses. It offers LPs a macro lens on how geopolitical dynamics shape venture opportunity sets across regions."
     },
     {
       "title": "Charts of the Week: Cycles, different but the same",
@@ -10667,6 +11147,20 @@
       "summary": "This newsletter installment argues that AI-driven workflow automation, not standalone point tools, will capture the most enterprise value going forward. For investors, it signals a shift in where software moats are forming, pushing GPs to reassess portfolio companies' defensibility against workflow-native AI entrants."
     },
     {
+      "title": "Weekly Dose of Optimism #198",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-198",
+      "source": "Not Boring",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-06-19T12:59:50+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "Packy McCormick's recurring newsletter roundup highlights positive developments across tech, science, and business to counter prevailing pessimism. It serves as a curated pulse-check for investors tracking emerging trends and sentiment shifts."
+    },
+    {
       "title": "New Media, One Year In",
       "url": "https://www.a16z.news/p/new-media-one-year-in",
       "source": "a16z",
@@ -10845,6 +11339,20 @@
       "summary": "Feld discusses an experiment in co-writing a novel using an AI system named Phin Argofy, exploring human-AI creative collaboration. It reflects broader curiosity among tech investors about generative AI's expanding creative capabilities."
     },
     {
+      "title": "Introducing Generalist Intelligence",
+      "url": "https://www.generalist.com/p/introducing-generalist-intelligence",
+      "source": "The Generalist",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-06-12T16:14:13+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece introduces a conceptual framework around 'Generalist Intelligence,' likely exploring broader, more adaptable AI systems beyond narrow specialization. It offers commentary relevant to investors assessing long-term AI capability trajectories and platform-level opportunities."
+    },
+    {
       "title": "Systems of Record Won the SaaS Era - Clearinghouses Will Win the Agents Era",
       "url": "https://cloudedjudgement.substack.com/p/systems-of-record-won-the-saas-era",
       "source": "Clouded Judgement",
@@ -10971,6 +11479,20 @@
       ],
       "category": "Funding",
       "summary": "Founders Fund is backing a media venture centered on tech personalities playing social deduction games, reflecting VCs' growing appetite for content and entertainment plays tied to their portfolio brand. This signals diversification of venture strategy into media as a marketing and network-building tool."
+    },
+    {
+      "title": "Saplings: The Childhoods of Exceptional Entrepreneurs",
+      "url": "https://www.generalist.com/p/saplings-intro",
+      "source": "The Generalist",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-06-04T15:23:05+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "category": "People",
+      "summary": "The Generalist explores common threads in the upbringing of highly successful founders, drawing patterns around resilience, curiosity, and unconventional environments. For GPs, this offers a qualitative lens on founder assessment that goes beyond pedigree and pitch decks."
     },
     {
       "title": "Generalist",
@@ -11486,6 +12008,20 @@
       ],
       "category": "Opinion",
       "summary": "This piece examines how Mexico's time-zone alignment with the US enables faster, more collaborative software development cycles for nearshore teams. It highlights a structural advantage that continues to drive nearshoring investment and outsourcing decisions in the region."
+    },
+    {
+      "title": "Investing Like A Mystic: How Cyan Banister Finds Outliers (Co-Founder of Long Journey Ventures)",
+      "url": "https://www.generalist.com/p/investing-like-a-mystic-cyan-banister",
+      "source": "The Generalist",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-05-05T12:03:43+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "category": "People",
+      "summary": "A profile of Cyan Banister, co-founder of Long Journey Ventures, detailing her intuition-driven approach to sourcing unconventional, high-upside startups. It offers LPs insight into a differentiated sourcing philosophy that prioritizes founder character and timing over traditional pattern-matching."
     },
     {
       "title": "Burn Bright, Not Out",
