@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-08T10:40:06.925031+00:00",
+  "updated": "2026-07-08T17:15:25.044826+00:00",
   "items": [
+    {
+      "title": "What a harness is and how to build one with Claude Agent SDK",
+      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+      "source": "Lenny's Podcast",
+      "host": "Lenny Rachitsky",
+      "category": "Founder & Operator",
+      "duration": "",
+      "published": "2026-07-08T12:03:35+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "This episode explains the concept of an agent 'harness' and walks through building one using Anthropic's Claude Agent SDK, offering a practical look at how developers structure tooling, memory, and control flow around large language models. For GPs evaluating AI infrastructure and tooling startups, it provides a grounded technical reference point for what differentiates serious agent architectures from simple prompt wrappers."
+    },
+    {
+      "title": "Adam Neumann: This Is How You Build Iconic Companies",
+      "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "category": "GP / Firm",
+      "duration": "90 min",
+      "published": "2026-07-08T10:00:00+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "summary": "Adam Neumann sits down to unpack his philosophy on scaling ambitious, category-defining companies, drawing on lessons from WeWork's rise and fall as well as his current venture. The conversation likely touches on founder resilience, vision-setting, and capital allocation decisions that matter to investors backing high-conviction, high-risk bets. LPs may find it useful for gauging how repeat founders reframe past failures into new pitches."
+    },
     {
       "title": "How tech workers are feeling in 2026: a workforce splitting in two",
       "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
