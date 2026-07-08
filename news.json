@@ -1,6 +1,180 @@
 {
-  "updated": "2026-07-07T22:04:48.313822+00:00",
+  "updated": "2026-07-08T00:15:53.260655+00:00",
   "items": [
+    {
+      "title": "UK AI startup Nscale secures $900m credit facility",
+      "url": "https://www.techinasia.com/nvidia-nokia-join-1-1b-series-b-for-uk-ai-firm-nscale",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-08T00:12:09+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "UK-based AI infrastructure startup Nscale secured a $900 million credit facility, a significant debt financing that will likely fund compute capacity expansion for AI workloads. Large credit facilities like this are becoming a common capital strategy for AI infrastructure firms needing to scale GPU resources without excessive equity dilution."
+    },
+    {
+      "title": "Coinbase wins UK approval for stock trading",
+      "url": "https://www.techinasia.com/coinbase-plans-equity-trading-payments-australia",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-08T00:07:17+00:00",
+      "topics": [
+        "Policy",
+        "Exits & M&A"
+      ],
+      "category": "Policy",
+      "summary": "Coinbase received UK regulatory approval to offer stock trading, expanding its product lineup beyond crypto into traditional equities. The approval marks a strategic move toward becoming a broader financial services platform and reflects increasing regulatory acceptance of crypto-native firms entering mainstream finance."
+    },
+    {
+      "title": "China monitors US lawsuit over Futu, Tiger trades",
+      "url": "https://www.techinasia.com/a91-partners-leads-25m-series-a-in-us-based-ai-startup-deccanai-data-startup-deccan-ai-raises-25m-in-series-a-round-led-by-a91-partners",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-08T00:04:36+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "Chinese regulators are reportedly tracking a US lawsuit involving trading platforms Futu and Tiger Brokers, signaling continued scrutiny of Chinese fintech firms operating in American markets. The outcome could affect cross-border listing and compliance risk for similar brokerages, a relevant data point for investors in Chinese fintech."
+    },
+    {
+      "title": "Blackstone-backed Indurent seeks $8.02b valuation",
+      "url": "https://www.techinasia.com/blackstone-plans-635m-debt-sale-linked-uk-warehouses",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-07T23:49:55+00:00",
+      "topics": [
+        "Funding",
+        "Exits & M&A"
+      ],
+      "category": "Funding",
+      "summary": "Blackstone-backed logistics real estate firm Indurent is reportedly targeting an $8.02 billion valuation, suggesting a potential capital raise or sale process is underway. This signals continued investor appetite for industrial and logistics real estate assets despite broader market caution."
+    },
+    {
+      "title": "Amazon bets big on Prime Day as cash-strapped Aussies hold out for sales",
+      "url": "https://www.smartcompany.com.au/retail/amazon-bets-big-prime-day-cash-strapped-aussies-hold-out-sales/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-07T23:35:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Amazon is investing heavily in its Prime Day promotion in Australia even as budget-constrained consumers delay purchases until sales events. The dynamic reflects broader consumer spending caution in the region, relevant for retail and e-commerce investors."
+    },
+    {
+      "title": "DeepSeek is developing its own inference chip",
+      "url": "https://www.techinasia.com/chinas-deepseek-eyes-10b-funding-at-45b-valuation",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-07T23:31:50+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Chinese AI lab DeepSeek is reportedly building its own inference chip, a move that would reduce its dependence on Nvidia hardware amid export restrictions. This reflects a broader trend of AI labs pursuing vertical integration into silicon to control costs and supply chain risk."
+    },
+    {
+      "title": "Amazon plans $25b bond sale for AI expansion",
+      "url": "https://www.techinasia.com/amazon-secures-17-5b-loan-as-ai-spending-rises",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-07T23:28:50+00:00",
+      "topics": [
+        "Funding",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "Amazon is planning a $25 billion bond issuance to fund further AI infrastructure buildout, underscoring the massive capital intensity of the current compute race. This debt-financed approach highlights how even cash-rich hyperscalers are turning to leverage to keep pace with AI demand."
+    },
+    {
+      "title": "Meta rolls out Muse Image AI model",
+      "url": "https://www.techinasia.com/meta-launches-small-business-ai-academy-apac",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-07T23:24:46+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Meta has launched Muse, a new image-generation AI model, deepening its push into generative media tools. The release intensifies competition among big tech firms racing to build consumer-facing generative AI products."
+    },
+    {
+      "title": "Perplexity plans to use Nvidia Vera CPUs",
+      "url": "https://www.techinasia.com/nvidia-opens-vera-chip-orders-for-chinese-customers-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-07T23:19:16+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Perplexity plans to adopt Nvidia's new Vera CPUs, signaling early enterprise uptake of Nvidia's expanding chip lineup beyond GPUs. This points to Nvidia's growing footprint across the full AI compute stack, a trend investors are watching closely."
+    },
+    {
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T22:30:00+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "TechCrunch has pushed back the deadline for Startup Battlefield Australia applications to July 20, giving founders more time to compete for exposure and potential funding. This is a final extension, so applicants should treat it as a hard cutoff for entry into the pitch competition."
+    },
+    {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T22:23:58+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A GAO report criticizes the Department of Energy for ruling out cheaper alternatives too early in nuclear waste cleanup planning, raising concerns about cost efficiency in government-funded remediation programs. This is relevant to investors in nuclear and cleantech ventures that may compete for or supply such federal contracts."
+    },
+    {
+      "title": "Telstra outage: Businesses and mobile users hit by nationwide network disruption",
+      "url": "https://www.smartcompany.com.au/telecommunications/telstra-outage-business-impact-australia/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-07T22:19:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A nationwide network outage at Telstra disrupted businesses and mobile users across Australia, highlighting ongoing infrastructure reliability concerns for telecom incumbents. Such disruptions can have knock-on effects for SMEs and digital-dependent businesses reliant on connectivity."
+    },
+    {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T22:18:10+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Meta launched Muse, a new AI-powered image generation tool, expanding its consumer and creative AI product suite. The release intensifies competition among big tech platforms racing to capture generative media users and developers, a dynamic GPs should track when evaluating AI application startups."
+    },
     {
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
@@ -26,6 +200,20 @@
       ],
       "category": "Market & Data",
       "summary": "A widely discussed study reports a sharp long-term decline in average male testosterone levels, reigniting debate over environmental and lifestyle causes. While not directly VC-related, the trend has implications for health-tech and longevity startups targeting hormonal health diagnostics and treatment."
+    },
+    {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-07T20:35:42+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A niche service is charging $10,000 weekly to remove or clean up AI-generated code from software projects, signaling growing enterprise concern over code quality and technical debt from AI coding tools. This highlights an emerging market opportunity around AI code auditing and remediation services that GPs may want to watch."
     },
     {
       "title": "The real cost, security, and culture problems behind enterprise AI agents",
@@ -555,6 +743,20 @@
       ],
       "category": "Funding",
       "summary": "Beverage brand Origin Fresh is reportedly in talks to raise $10 million to expand its distribution network, according to CEO Prashanth Vasan. The raise underscores continued investor appetite for scaling India's D2C food and beverage brands. Relevant for GPs tracking consumer sector growth-stage funding in India."
+    },
+    {
+      "title": "CCI clears upGrad’s acquisition of Unacademy",
+      "url": "https://yourstory.com/2026/07/cci-clears-upgrad-acquisition-of-unacademy-edtech",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-07T13:21:41+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Policy"
+      ],
+      "category": "Exits & M&A",
+      "summary": "India's Competition Commission approved upGrad's acquisition of Unacademy, clearing a key regulatory hurdle for consolidation in the country's edtech sector. The deal reflects ongoing M&A activity as edtech players seek scale and profitability amid a challenging funding environment."
     },
     {
       "title": "Andhra Pradesh to become 'India's first' AI-powered tourism state",
@@ -5736,6 +5938,20 @@
       "summary": "Enterprise infrastructure funding in Southeast Asia jumped 503% year-over-year, marking it as the region's fastest-growing investment category. This surge suggests LPs and GPs should watch infra-focused startups closely as capital allocation shifts toward foundational tech over consumer apps."
     },
     {
+      "title": "Clouded Judgement 7.3.26 - The End of Compute Scarcity? Not So Fast",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-03T13:04:05+00:00",
+      "topics": [
+        "Opinion",
+        "AI & Deep Tech"
+      ],
+      "category": "Opinion",
+      "summary": "This Clouded Judgement piece pushes back on the narrative that AI compute scarcity is ending, arguing constraints on chips and power remain significant. The analysis is useful for LPs assessing valuations of AI infrastructure and compute-dependent startups."
+    },
+    {
       "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
       "source": "Hacker News",
@@ -7263,324 +7479,6 @@
       "summary": "A retrospective on the 2018 game Exapunks examines its design and cultural impact. While primarily entertainment commentary, it reflects on how technical literacy and problem-solving narratives influence developer and creator communities that fuel startup ecosystems."
     },
     {
-      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-      "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T18:39:14+00:00",
-      "topics": [
-        "Policy",
-        "Exits & M&A"
-      ],
-      "category": "Policy",
-      "summary": "Hopper agreed to a $35M FTC settlement for deceptive fee practices, demonstrating regulatory enforcement against hidden charges in travel tech. This outcome raises compliance risks for consumer-facing fintechs and travel platforms, potentially affecting exit valuations and buyer due diligence."
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T18:31:09+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Anthropic is in discussions with Samsung to develop a custom AI chip, indicating the AI leader is building semiconductor independence. This partnership could reshape capex models for frontier AI labs and signal that custom silicon is becoming essential to competitive positioning in large language models."
-    },
-    {
-      "title": "WhatsApp Username Debate: Will Hiding Phone Numbers Reduce Or Fuel Frauds?",
-      "url": "https://inc42.com/features/whatsapp-username-debate-will-hiding-phone-numbers-reduce-or-fuel-frauds/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T18:29:43+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Analysis debates whether WhatsApp's username feature reduces or increases fraud risk, reflecting broader regulatory uncertainty around privacy-enhancing features. Policy ambiguity around messaging platforms creates strategic risk for investors with exposure to communication or fintech startups relying on these tools."
-    },
-    {
-      "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-      "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T17:30:04+00:00",
-      "topics": [
-        "Policy",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "Wisk Aero, a Boeing-backed autonomous aircraft company, faces allegations of retaliatory firing against a safety-raising manager. The incident highlights governance and compliance risks in hardware deeptech ventures and may invite regulatory scrutiny during certification processes for emerging aircraft technologies."
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "published": "2026-07-02T17:12:50+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "The week's largest funding rounds spanned AI, energy, and biotech sectors, reflecting persistent LP appetite for frontier technologies despite macro uncertainty. This breadth indicates strong capital availability in growth-stage rounds for deep tech, though concentration in hot verticals may mask uneven deployment across the broader startup ecosystem."
-    },
-    {
-      "title": "Tech Investors Will Be Sweating the Dog Days of Summer in More Ways Than One",
-      "url": "https://www.newcomer.co/p/tech-investors-will-be-sweating-the",
-      "source": "Newcomer",
-      "region": "US",
-      "published": "2026-07-02T16:56:05+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "Commentary warns that summer market conditions and broader economic headwinds are creating pressure for tech investors and portfolio companies. Macro uncertainty and seasonal funding slowdowns increase risk for early-stage startups dependent on near-term capital raises."
-    },
-    {
-      "title": "BCT Ventures Nets ₹42 Cr To Build AI-Led Nutrition & Wellness Brands",
-      "url": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T16:51:26+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "BCT Ventures raised ₹42 crore to build AI-driven consumer brands in nutrition and wellness, signaling strong founder appetite for AI-enabled CPG. This funding round demonstrates investor confidence in AI applications for vertical brand building and consumer health markets in India."
-    },
-    {
-      "title": "20VC x SaaStr: The Token ROI Crisis Comes for Everyone, Anthropic Wants Chinese Open Source Banned, and Microsoft Has Its Worst Month Since 2000",
-      "url": "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
-      "source": "SaaStr",
-      "region": "US",
-      "published": "2026-07-02T16:37:17+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "A podcast episode discusses AI token economics concerns, calls for banning Chinese open-source models, and Microsoft's market underperformance. These issues reveal structural challenges in AI monetization, geopolitical tensions affecting investment strategy, and potential shifts in mega-cap tech valuations."
-    },
-    {
-      "title": "Should the EU block the UK from its €5bn superfund?",
-      "url": "https://sifted.eu/articles/eu-block-uk-superfund-podcast/",
-      "source": "Sifted",
-      "region": "Europe",
-      "published": "2026-07-02T16:21:31+00:00",
-      "topics": [
-        "Policy",
-        "Funds & LPs"
-      ],
-      "category": "Policy",
-      "summary": "The UK's proposed €5bn superfund for scaling tech companies faces potential EU regulatory scrutiny, raising questions about state aid compliance and cross-border capital flows. This matters to LPs and GPs as it could reshape UK venture funding architecture and limit European founders' access to British capital."
-    },
-    {
-      "title": "Blanco raises $5.2M seed round led by Krealo",
-      "url": "https://latamlist.com/blanco-raises-5-2m-seed-round-led-by-krealo/",
-      "source": "LatamList",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-02T16:02:40+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Blanco closed a $5.2 million seed round led by Krealo, Credicorp's venture arm, adding to early-stage fintech activity in Latin America. The round reflects continued LP appetite for regional financial services innovation despite a tighter seed funding environment."
-    },
-    {
-      "title": "Andy Burnham's plan to overhaul AI strategy sparks backlash",
-      "url": "https://sifted.eu/articles/andy-burnham-ai-plan-uk-changes-reaction/",
-      "source": "Sifted",
-      "region": "Europe",
-      "published": "2026-07-02T15:51:20+00:00",
-      "topics": [
-        "Policy",
-        "AI & Deep Tech"
-      ],
-      "category": "Policy",
-      "summary": "UK Labour leader Andy Burnham's proposed AI strategy overhaul has drawn criticism from the tech community, likely over governance or regulatory approach. The pushback signals ongoing tension between government ambitions to lead in AI and industry concerns about overregulation stifling innovation."
-    },
-    {
-      "title": "500 Global and Sanabil back eight startups in latest accelerator cohort",
-      "url": "http://wamda.com/2026/07/500-global-sanabil-startups-latest-accelerator-cohort",
-      "source": "Wamda",
-      "region": "MENA",
-      "published": "2026-07-02T15:41:05+00:00",
-      "topics": [
-        "Funding",
-        "Events"
-      ],
-      "category": "Funding",
-      "summary": "500 Global and Sanabil jointly backed eight startups through an accelerator program, demonstrating continued institutional support for early-stage companies in the region. This cohort selection signals investor confidence in emerging founders and validates the accelerator model's importance for deal sourcing and portfolio construction."
-    },
-    {
-      "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
-      "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "published": "2026-07-02T15:30:40+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Qualcomm selected 15 startups across APAC for its 2026 AI innovation program, providing mentorship, funding, and hardware access to emerging AI companies. The initiative accelerates ecosystem growth and creates pipeline opportunities for downstream enterprise and consumer applications."
-    },
-    {
-      "title": "Sports Retail Brand PlayBlue Bags $2.7 Mn To Expand Into Offline Retail",
-      "url": "https://inc42.com/buzz/sports-retail-brand-playblue-bags-2-7-mn-to-expand-into-offline-retail/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T15:28:51+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "PlayBlue, a sports retail brand, raised $2.7 million to fund expansion into offline retail channels. The capital injection signals investor confidence in omnichannel retail strategies and the brand's ability to scale beyond digital-first operations."
-    },
-    {
-      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T15:26:43+00:00",
-      "topics": [
-        "Funds & LPs"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Melinda Gates' investment vehicle is committing capital to Magnify Ventures' second fund, which closed at $46.6M. This LP backing signals confidence in Magnify's strategy and expands Gates' venture portfolio beyond her foundation work."
-    },
-    {
-      "title": "Whiteshield secures $15 million private credit from Ruya Partners",
-      "url": "http://wamda.com/2026/07/whiteshield-secures-15-million-private-credit-ruya-partners",
-      "source": "Wamda",
-      "region": "MENA",
-      "published": "2026-07-02T15:25:53+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Whiteshield raised $15 million in private credit financing from Ruya Partners, reflecting growing appetite for non-dilutive capital in the region. This deal highlights the expanding role of alternative lending structures for growth-stage companies seeking balance-sheet flexibility."
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T15:25:16+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Linux 6.9 kernel changes eliminated automatic memory wiping of disk-encryption keys during suspend, creating a potential security vulnerability. This regression highlights risks in open-source security maintenance and the importance of cryptographic best practices."
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T15:20:51+00:00",
-      "topics": [
-        "Policy",
-        "Opinion"
-      ],
-      "category": "Policy",
-      "summary": "OpenAI suggested transferring 5% of its equity to a US sovereign wealth fund, a novel approach to address government concerns about AI concentration and wealth creation. The proposal reflects tensions between private AI development and public interest in breakthrough technologies."
-    },
-    {
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T15:14:03+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "TV Time, a popular entertainment-tracking app, is shutting down as the company redirects resources toward AI-driven products. The pivot reflects industry pressure to chase higher-margin AI opportunities despite established user bases."
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "source": "Hacker News",
-      "region": "Global",
-      "published": "2026-07-02T15:11:20+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Manufact, a Y Combinator S25 startup, launched an MCP Cloud platform for manufacturing operations. The company targets enterprise efficiency in industrial settings, representing continued VC interest in frontier tech applications beyond consumer software."
-    },
-    {
-      "title": "Amazon India Launches Probe Into Fatal Fire At Partner Warehouse",
-      "url": "https://inc42.com/buzz/amazon-india-launches-probe-into-fatal-fire-at-partner-warehouse/",
-      "source": "Inc42",
-      "region": "India",
-      "published": "2026-07-02T15:08:56+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Amazon India is investigating a fatal fire at a partner warehouse, raising operational and regulatory concerns for logistics-heavy businesses. This incident may trigger stricter compliance requirements and highlight risks in the e-commerce supply chain ecosystem."
-    },
-    {
-      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "published": "2026-07-02T14:53:39+00:00",
-      "topics": [
-        "People"
-      ],
-      "category": "People",
-      "summary": "Lucid Motors' CFO departed as the newly appointed CEO continues restructuring leadership. The executive turnover underscores ongoing operational challenges at the EV maker amid production and profitability pressures."
-    },
-    {
-      "title": "Why software is the solution to the AI energy crisis",
-      "url": "https://www.eu-startups.com/2026/07/why-software-is-the-solution-to-the-ai-energy-crisis/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "published": "2026-07-02T14:48:28+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The analysis argues that software optimization, not just hardware improvements, holds the key to solving AI's power consumption crisis. This perspective is strategically important for investors evaluating AI infrastructure plays and energy-efficient AI software companies."
-    },
-    {
-      "title": "Maalexi secures $2.8 million in oversubscribed round led by Tawuniya",
-      "url": "http://wamda.com/2026/07/maalexi-secures-2-8-million-oversubscribed-round-led-tawuniya",
-      "source": "Wamda",
-      "region": "MENA",
-      "published": "2026-07-02T14:39:07+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Maalexi secured $2.8 million in an oversubscribed funding round led by Tawuniya, indicating strong investor demand and validation of its business model. The oversubscription suggests the startup has attracted multiple committed backers eager to participate."
-    },
-    {
-      "title": "IQM becomes first European quantum computing company to list on a major US exchange",
-      "url": "https://tech.eu/2026/07/02/iqm-becomes-first-european-quantum-computing-company-to-list-on-a-major-us-exchange/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "published": "2026-07-02T14:26:16+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "IQM, a European quantum computing company, completed a US public listing, marking a milestone for the region's deep-tech sector. The exit validates investor conviction in quantum technology and provides a liquidity event for European venture capital deployed in frontier tech."
-    },
-    {
       "title": "Most AI Work Can Wait",
       "url": "https://www.tomtunguz.com/ai-execution-routing/",
       "source": "Tomasz Tunguz",
@@ -7689,6 +7587,20 @@
       ],
       "category": "Market & Data",
       "summary": "This weekly chart series from a16z examines recurring market cycles, drawing parallels and contrasts with historical patterns. It gives investors context for interpreting current venture and macro conditions against past downturns and recoveries."
+    },
+    {
+      "title": "Clouded Judgement 6.26.26 - Time to Power",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-62626-time-to-power",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-06-26T13:04:19+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "This edition of Clouded Judgement examines 'time to power' as an emerging bottleneck in AI infrastructure buildout, shifting focus from chip supply to energy availability. The piece highlights power access as a critical due-diligence factor for investors backing data center and AI infrastructure plays."
     },
     {
       "title": "What If There Is No Moat Yet?",
@@ -7897,6 +7809,21 @@
       "summary": "Brad Feld shares reflections on 'Zero Knowledge' cryptography or a related book/project as he writes about it in real time. This suggests ongoing interest in privacy-preserving tech and its implications for deep tech investing."
     },
     {
+      "title": "Clouded Judgement 6.19.26 - Workflows are King",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-61926-workflows",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-06-19T13:10:26+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This newsletter installment argues that AI-driven workflow automation, not standalone point tools, will capture the most enterprise value going forward. For investors, it signals a shift in where software moats are forming, pushing GPs to reassess portfolio companies' defensibility against workflow-native AI entrants."
+    },
+    {
       "title": "RIP Josh Baer",
       "url": "https://feld.com/archives/2026/06/rip-josh-baer/",
       "source": "Feld Thoughts",
@@ -7966,6 +7893,21 @@
       "summary": "Feld discusses an experiment in co-writing a novel using an AI system named Phin Argofy, exploring human-AI creative collaboration. It reflects broader curiosity among tech investors about generative AI's expanding creative capabilities."
     },
     {
+      "title": "Systems of Record Won the SaaS Era - Clearinghouses Will Win the Agents Era",
+      "url": "https://cloudedjudgement.substack.com/p/systems-of-record-won-the-saas-era",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-06-12T13:15:46+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The author contends that as AI agents proliferate, the critical infrastructure layer shifts from traditional systems-of-record software to 'clearinghouses' that mediate and verify agent-to-agent transactions. This reframing suggests new categories of enterprise infrastructure startups may emerge as valuable platforms, relevant for GPs sourcing next-generation SaaS bets."
+    },
+    {
       "title": "Phil Weiser For Colorado Governor",
       "url": "https://feld.com/archives/2026/06/phil-weiser-for-colorado-governor/",
       "source": "Feld Thoughts",
@@ -7978,6 +7920,21 @@
       ],
       "category": "Policy",
       "summary": "Brad Feld endorses Phil Weiser for Colorado Governor, signaling continued crossover between tech leaders and political engagement. Such endorsements can matter to regional VCs interested in state-level policy affecting innovation and business climate."
+    },
+    {
+      "title": "Clouded Judgement 6.5.26 - Where Are the American Open Source Models?",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-6526-where-are",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-06-05T13:21:29+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece examines the scarcity of competitive American open-source foundation models relative to Chinese and other international efforts, raising strategic questions about US AI ecosystem leadership. It's a data point for LPs tracking geopolitical and competitive dynamics shaping AI infrastructure investment theses."
     },
     {
       "title": "Generalist",
@@ -8063,6 +8020,20 @@
       "summary": "This piece explores the concept of 'lead users' alongside AI systems that can build other machines, likely tied to automation and frontier tech themes. It signals ongoing thought leadership around AI-driven innovation cycles relevant to deep tech investors."
     },
     {
+      "title": "Clouded Judgement 5.29.26 - The Second Life of a GPU",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-52926-the-second",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-05-29T13:04:51+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The analysis looks at the secondary-market economics of GPUs as they age out of frontier training use and get repurposed for inference or resale, a factor influencing depreciation assumptions and capex modeling. This matters for investors underwriting compute-heavy AI infrastructure and neocloud businesses."
+    },
+    {
       "title": "Why We Invested in Anthropic",
       "url": "https://medium.com/point-nine-news/why-we-invested-in-anthropic-88f504a65d2a?source=rss----92bc84a24ea5---4",
       "source": "Point Nine",
@@ -8088,6 +8059,20 @@
       ],
       "category": "Opinion",
       "summary": "A brief, personal seasonal post from Brad Feld marking the arrival of summer. It's a lifestyle update rather than substantive industry news."
+    },
+    {
+      "title": "Clouded Judgement 5.22.26 - The Neocloud Boom",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-05-22T13:10:53+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The piece tracks the rapid rise of 'neocloud' providers—specialized GPU cloud operators serving AI workloads—and the capital flooding into this niche. It offers GPs and LPs context on compute supply dynamics and where infrastructure investment dollars are concentrating amid AI demand."
     },
     {
       "title": "How to Rule the World",
@@ -8118,6 +8103,21 @@
       "summary": "This piece looks ahead to how software investing dynamics will shift by 2026 as AI reshapes product development, distribution, and margins. For GPs, it signals a need to rethink diligence frameworks for SaaS bets given faster build cycles and eroding moats."
     },
     {
+      "title": "Clouded Judgement 5.15.26 - The Real App Store Opportunity",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-51426-the-real",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-05-15T13:07:58+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This edition explores how AI agents and assistants could create a new distribution layer analogous to mobile app stores, reshaping how software is discovered and monetized. It's relevant for GPs evaluating consumer and enterprise AI startups positioning around this emerging distribution paradigm."
+    },
+    {
       "title": "The Cognitive Sport of Building Startups",
       "url": "https://feld.com/archives/2026/05/the-cognitive-sport-of-building-startups/",
       "source": "Feld Thoughts",
@@ -8145,6 +8145,20 @@
       "summary": "A commentary piece gauging how deeply investors and founders have internalized AI-native thinking versus paying lip service to it. It's a useful gut-check for GPs assessing whether portfolio teams are genuinely restructuring workflows around AI or just bolting on features."
     },
     {
+      "title": "Clouded Judgement 5.8.26 - When Machines Out-Eat Humans",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-5826-when-machines",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-05-08T13:10:24+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The newsletter discusses the surging compute consumption of AI models potentially outpacing human-driven demand, with implications for energy, infrastructure, and capex planning across the AI stack. This is a key macro signal for investors modeling long-term infrastructure spend and constraints."
+    },
+    {
       "title": "Burn Bright, Not Out",
       "url": "https://feld.com/archives/2026/05/burn-bright-not-out/",
       "source": "Feld Thoughts",
@@ -8156,6 +8170,21 @@
       ],
       "category": "Opinion",
       "summary": "This post addresses founder and investor burnout, advocating for sustainable intensity over unsustainable grinding. It's a timely commentary for LPs and GPs concerned with portfolio company leadership longevity and mental health in high-pressure environments."
+    },
+    {
+      "title": "Clouded Judgement 5.1.26 - The Death of Per-Seat Pricing?",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-5126-the-death",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-05-01T13:21:46+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This analysis questions whether traditional per-seat SaaS pricing models are becoming obsolete as AI agents reduce the need for human seats, pushing vendors toward usage- or outcome-based pricing. The shift has major implications for SaaS revenue models and valuation multiples that GPs must factor into diligence."
     }
   ]
 }
