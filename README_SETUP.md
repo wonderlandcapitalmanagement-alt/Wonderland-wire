@@ -1,26 +1,29 @@
-WONDERLAND WIRE — NEWS AGENT SETUP
-A self-updating news feed for the Track page. No command line — just web buttons.
+WONDERLAND WIRE — NEWS + PODCAST AGENT
+A self-updating feed for the Articles and Airwaves pages. No command line.
 
 ────────────────────────────────────────────────────────
 HOW IT WORKS  (you never write news)
 ────────────────────────────────────────────────────────
-  feeds.yaml ──▶ aggregator.py ──▶ Claude (Haiku) ──▶ news.json ──▶ Track page
-  (your        (the agent,         (categorises +     (the output)   (reads it)
-   sources)     runs on a timer)    summarises)
+  feeds.yaml ─────────▶ aggregator.py ─┐
+                                       ├─▶ Claude ──▶ news.json ─────▶ Articles page
+  podcast_feeds.yaml ─▶ podcasts.py ───┘  (sorts +     podcasts.json ─▶ Airwaves page
+  (your sources)        (the agents,       summarises)  (the output)    (reads them)
+                         run on a timer)
 
-  GitHub Actions runs the agent every 3 hours on GitHub's servers — free,
-  nothing running on your computer. It reads your RSS sources, asks Claude to
+  GitHub Actions runs both agents every 3 hours on GitHub's servers — free,
+  nothing running on your computer. They read the RSS sources, ask Claude to
   sort and summarise anything new (in its own words — never the publisher's),
-  and saves news.json. Your site reads that file. Done.
+  and commit news.json and podcasts.json back to this repo. The live site
+  reads those files directly. Done.
 
 ────────────────────────────────────────────────────────
-BEFORE YOU START — two free/cheap accounts
+BEFORE YOU START — two accounts
 ────────────────────────────────────────────────────────
   1) A GitHub account            → github.com  (free)
   2) An Anthropic API key        → console.anthropic.com → "API keys" → Create
-     This is SEPARATE from your Claude.ai subscription. On the Haiku model the
-     agent costs roughly a few cents to ~$1 a month — it only pays to read NEW
-     headlines. Add a small credit balance in the console's Billing tab.
+     This is SEPARATE from your Claude.ai subscription. The agents only pay to
+     read NEW headlines and episodes, so the running cost is small. Add a
+     credit balance in the console's Billing tab.
 
 ────────────────────────────────────────────────────────
 STEP 1 · Create the repository  (web)
@@ -32,8 +35,9 @@ STEP 1 · Create the repository  (web)
 STEP 2 · Upload the agent files  (web — drag & drop)
 ────────────────────────────────────────────────────────
   • On the new repo's page click "uploading an existing file".
-  • Unzip wonderland-agent.zip, then drag ALL of its contents into the browser:
-        aggregator.py   feeds.yaml   requirements.txt   news.json
+  • Drag in all of the agent files:
+        aggregator.py   podcasts.py   feeds.yaml   podcast_feeds.yaml
+        requirements.txt   news.json   podcasts.json
         the .github folder  (it holds the schedule — keep the folder as-is)
     Tip: drag the .github FOLDER itself so the path .github/workflows/aggregate.yml
     is preserved. GitHub keeps folder structure when you drag a folder in.
@@ -46,48 +50,55 @@ STEP 3 · Add your API key as a secret  (web)
     "New repository secret".
   • Name:  ANTHROPIC_API_KEY
   • Secret: paste your key from console.anthropic.com → "Add secret".
-  (Stored encrypted. The agent reads it only while running on GitHub.)
+  (Stored encrypted. The agents read it only while running on GitHub.)
 
 ────────────────────────────────────────────────────────
 STEP 4 · Run it once  (web)
 ────────────────────────────────────────────────────────
   • Open the "Actions" tab. If prompted, click to enable workflows.
   • Pick "Wonderland Wire" → "Run workflow" → "Run workflow".
-  • Wait ~1 minute, refresh. A green check means it worked, and news.json in
-    the repo now holds real, summarised stories. From now on it reruns itself
-    every 3 hours automatically.
+  • Wait a couple of minutes, refresh. A green check means it worked, and
+    news.json and podcasts.json now hold real, summarised entries. From now on
+    it reruns itself every 3 hours automatically.
 
 ────────────────────────────────────────────────────────
-STEP 5 · Point your site at the feed  (one-time)
+STEP 5 · Point the site at the feeds  (one-time)
 ────────────────────────────────────────────────────────
-  • In the repo, click news.json → the "Raw" button → copy the URL in the
+  • In the repo, click news.json → the "Raw" button → copy the URL from the
     address bar. It looks like:
         https://raw.githubusercontent.com/YOURNAME/wonderland-wire/main/news.json
-  • Open track.html (in your wonderland-site folder) in a text editor.
-    Near the top of the <script> find:
-        const NEWS_URL = "";
-    Paste your Raw URL between the quotes and save:
+  • In the site repo, open track.html and set, near the top of the <script>:
         const NEWS_URL = "https://raw.githubusercontent.com/YOURNAME/wonderland-wire/main/news.json";
-  • Re-drag the wonderland-site folder into Netlify (Deploys tab) ONE more time.
+  • Do the same for podcasts.json in listen.html:
+        const PODCAST_URL = "https://raw.githubusercontent.com/YOURNAME/wonderland-wire/main/podcasts.json";
+  • Commit. The site is deployed on Vercel with GitHub auto-deploy, so the
+    commit publishes itself.
 
-  That's the last manual step ever. The agent updates GitHub every 3 hours and
-  your live Track page reads the fresh file automatically — no more redeploys.
+  That's the last manual step ever. The agents update this repo every 3 hours
+  and the live pages read the fresh files automatically — no redeploys.
 
 ────────────────────────────────────────────────────────
 TUNING
 ────────────────────────────────────────────────────────
-  • Sources:   edit feeds.yaml (add any RSS URL), commit. Picked up next run.
-  • Cadence:   edit the cron line in .github/workflows/aggregate.yml
-               ("0 */3 * * *" = every 3 hours; "0 */1 * * *" = hourly).
-  • Categories the agent sorts into: Funds · Deals · Exits · People · Market
-               (these become the filter chips on the Track page automatically).
-  • Retention/size: RETENTION_DAYS and MAX_ITEMS at the top of aggregator.py.
+  • News sources:    edit feeds.yaml (add any RSS URL), commit. Picked up next run.
+  • Podcast sources: edit podcast_feeds.yaml (name, host, category, RSS URL).
+  • Cadence:         edit the cron line in .github/workflows/aggregate.yml
+                     ("0 */3 * * *" = every 3 hours; "0 */1 * * *" = hourly).
+                     GitHub's scheduler is best-effort and may skip slots under
+                     load; use "Run workflow" to force a run.
+  • Retention/size:  RETENTION_DAYS and MAX_ITEMS at the top of each agent.
+  • Diagnostics:     _feedstatus.json and _podstatus.json record, per feed, how
+                     many entries were fetched and any error. Check these first
+                     when a source goes quiet.
 
 ────────────────────────────────────────────────────────
 GOOD TO KNOW
 ────────────────────────────────────────────────────────
   • Copyright-safe: it stores only links + its OWN summaries, never publisher text.
   • If the API key is missing or out of credit, it still runs and keeps headlines —
-    it just skips the AI summaries that run.
-  • raw.githubusercontent.com allows the site to read the file directly, so you
-    don't need to connect the site repo to Netlify. Keep your simple drag-deploy.
+    it just skips the AI summaries.
+  • raw.githubusercontent.com serves the JSON with permissive CORS headers, so the
+    site reads the files directly from this repo. The site repo and this repo stay
+    independent; neither needs to know about the other's deploy.
+  • Some publishers block default feed-reader user-agents. The agents send a
+    browser user-agent and fall back to a proxy on a genuine 403.
