@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-10T08:57:14.240172+00:00",
+  "updated": "2026-07-10T16:42:10.798080+00:00",
   "items": [
+    {
+      "title": "Adam Brown – Einstein's happiest thought: General Relativity from scratch",
+      "url": "https://www.dwarkesh.com/p/adam-brown-gr",
+      "source": "Dwarkesh Podcast",
+      "host": "Dwarkesh Patel",
+      "category": "Interview & News",
+      "duration": "",
+      "published": "2026-07-10T16:23:56+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "A physicist walks through the conceptual foundations of General Relativity, tracing how Einstein arrived at his breakthrough insights from first principles. While not startup-specific, it reflects the podcast's broader interest in deep scientific reasoning that often informs how frontier-tech investors think about first-principles problem solving and long-horizon research bets."
+    },
+    {
+      "title": "How Bitcoin Rewired a Classic Computer Science Problem",
+      "url": "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "category": "GP / Firm",
+      "duration": "21 min",
+      "published": "2026-07-10T10:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "summary": "This discussion revisits a foundational computer science challenge—likely the Byzantine Generals Problem or consensus mechanisms—and explains how Bitcoin's design offered a novel practical solution. For GPs and LPs tracking crypto and infrastructure investing, it's a useful primer on the technical underpinnings that continue to shape blockchain and decentralized systems theses."
+    },
     {
       "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
       "url": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
