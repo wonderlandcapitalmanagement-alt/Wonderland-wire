@@ -7,7 +7,7 @@ Same design as aggregator.py, but for podcast episodes:
   2. Dedupes against everything already processed (_seen_pods.json)
   3. Sends ONLY new episodes to Claude (Haiku) for 1-3 topics + an
      original multi-sentence summary (never the publisher's own words)
-  4. Ages out anything older than RETENTION_DAYS and caps the list
+  4. Caps the list at MAX_ITEMS — oldest episodes roll off
   5. Writes podcasts.json in the shape the Listen page reads:
         { "updated": ISO8601, "items": [
             { title, source, host, url, topics, summary, published, duration } ] }
@@ -55,8 +55,7 @@ def _fetch_via_proxy(url):
         except Exception:
             continue
     return None
-RETENTION_DAYS = 365         # keep a deep, browsable archive
-MAX_ITEMS      = 2000        # effectively unlimited; the site paginates
+MAX_ITEMS      = 1000        # total episodes kept in podcasts.json; older ones roll off
 MAX_PER_FEED   = 40          # pull deep backfill from each feed
 BATCH          = 10
 SEEN_CAP       = 800
@@ -264,13 +263,6 @@ def main():
         keys.add(k)
         merged.append(it)
 
-    cutoff = now - dt.timedelta(days=RETENTION_DAYS)
-    def fresh_enough(it):
-        try:
-            return dt.datetime.fromisoformat(it["published"]) >= cutoff
-        except Exception:
-            return True
-    merged = [it for it in merged if fresh_enough(it)]
     merged.sort(key=lambda it: it.get("published", ""), reverse=True)
     merged = merged[:MAX_ITEMS]
 
