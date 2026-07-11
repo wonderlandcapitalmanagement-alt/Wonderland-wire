@@ -1,6 +1,105 @@
 {
-  "updated": "2026-07-11T11:39:29.349272+00:00",
+  "updated": "2026-07-11T15:33:16.859282+00:00",
   "items": [
+    {
+      "title": "Exclusive: GoKwik Lays Off Around 120 Employees Amid AI Push",
+      "url": "https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T14:49:00+00:00",
+      "topics": [
+        "People",
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "People",
+      "summary": "GoKwik cut roughly 120 jobs as it restructures around AI-driven automation, signaling a broader trend of Indian D2C-enablement startups trimming headcount while investing in AI capabilities. LPs should watch how efficiency gains from AI reshape opex and staffing at portfolio companies."
+    },
+    {
+      "title": "USAA closed 51% of home insurance claims without making a payment in 2025",
+      "url": "https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T14:46:38+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "A report reveals USAA denied payment on the majority of home insurance claims in 2025, spotlighting stress in the insurance sector amid rising climate and disaster risk. This is relevant to insurtech investors and policy watchers monitoring claims practices and regulatory scrutiny."
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T14:13:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "OpenAI is expanding ChatGPT's positioning as a household utility, targeting families rather than just individual power users. For GPs, this signals a broadening consumer AI market and potential new monetization layers around home and family use cases that adjacent startups could target."
+    },
+    {
+      "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent",
+      "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-11T14:10:17+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "SaaStr argues that effective AI agents are best built by first creating a strong dashboard/UI layer and layering agentic automation on top. The piece offers product-design guidance for AI-native SaaS founders, emphasizing usability and trust before autonomy."
+    },
+    {
+      "title": "Zetwerk Cofounder Rahul Sharma Steps Back From Executive Role To Launch AI Venture",
+      "url": "https://inc42.com/buzz/zetwerk-cofounder-rahul-sharma-steps-back-from-executive-role-to-launch-ai-venture/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T14:05:33+00:00",
+      "topics": [
+        "People",
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "People",
+      "summary": "Zetwerk cofounder Rahul Sharma is stepping back from day-to-day operations to start a new AI-focused venture, reflecting the continued pull of founders toward AI opportunities even from successful non-AI businesses. This move could signal fresh dealflow for early-stage AI investors and a leadership transition to watch at Zetwerk."
+    },
+    {
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T13:33:17+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A resurfaced 1965 paper theorizing about the emergence of a first ultraintelligent machine is being discussed again amid current AI progress. It offers historical context for today's AI safety and superintelligence debates relevant to deep tech investors."
+    },
+    {
+      "title": "Networking and the Internet, from First Principles",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T12:30:40+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical explainer breaks down networking and internet fundamentals from first principles. More educational than newsy, but relevant background for investors evaluating infrastructure and networking startups."
+    },
     {
       "title": "pgrust passes 100% of the Postgres regression tests",
       "url": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
@@ -13,6 +112,20 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "A Rust-based reimplementation of Postgres (pgrust) has reportedly achieved full compatibility with the database's regression test suite, a notable open-source infrastructure milestone. This is relevant to deep-tech investors tracking developer tooling and database infrastructure innovation."
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T10:50:10+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical essay examines how software performance is often inconsistent and environment-dependent, challenging assumptions about code efficiency. Niche engineering commentary with indirect relevance to GPs assessing technical diligence in infrastructure-heavy startups."
     },
     {
       "title": "Swiggy Instamart Receives 9 FSSAI Notices Over Alleged Sale Of Expired Products",
@@ -41,6 +154,19 @@
       ],
       "category": "Funding",
       "summary": "Drone maker ideaForge raised ₹500 crore through a qualified institutional placement, allotting nearly 63 lakh shares to institutional investors. The raise strengthens its balance sheet for scaling operations and signals continued public-market appetite for Indian deep-tech and defense-adjacent manufacturers."
+    },
+    {
+      "title": "Show HN: Richest people in the world by wealth creation instead of ownership",
+      "url": "https://anti-forbes-list.vercel.app",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T09:54:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A Hacker News project ranks the world's wealthiest by the value they created rather than raw net worth or ownership stake. This reframing offers a different lens for evaluating founder and investor impact, useful for benchmarking outsized value creation versus mere capital accumulation."
     },
     {
       "title": "Zoho-Backed Genrobotics Posts ₹2.6 Cr Profit In FY26, Eyes ₹150 Cr Series B Round",
@@ -12077,130 +12203,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Tomasz Tunguz shares his perspective on competing 'worldviews' shaping how investors and founders think about AI's trajectory. The essay likely contrasts optimistic versus cautious frameworks, helping GPs calibrate portfolio strategy and valuation assumptions amid rapid AI market shifts."
-    },
-    {
-      "title": "Businesses We Love: Madebox founder Samantha Finnegan on why gifting is a missed branding opportunity",
-      "url": "https://www.smartcompany.com.au/partner-content/madebox-samantha-finnegan-corporate-gifting/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-05T23:30:00+00:00",
-      "topics": [
-        "People",
-        "Opinion"
-      ],
-      "category": "People",
-      "summary": "This profile piece features Madebox founder Samantha Finnegan discussing how corporate gifting represents an underused branding channel. It offers founder-level insight into a niche consumer/brand-services vertical that may interest early-stage investors scouting adjacent opportunities."
-    },
-    {
-      "title": "Uber’s European expansion plans may have hit a speed bump",
-      "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T21:35:17+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Uber's ambitions to grow further in Europe appear to be running into regulatory or market friction. For GPs backing mobility and gig-economy startups, this signals continued regulatory risk in the region that could affect valuations and expansion timelines."
-    },
-    {
-      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T20:29:05+00:00",
-      "topics": [
-        "Market & Data",
-        "Policy"
-      ],
-      "category": "Market & Data",
-      "summary": "A new analysis found retail investors lost $3.8 billion on Trump-branded memecoins, highlighting the speculative risk embedded in politically tied crypto assets. The finding adds fuel to ongoing debates about crypto market oversight and investor protection."
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T17:43:36+00:00",
-      "topics": [
-        "Market & Data",
-        "Policy"
-      ],
-      "category": "Market & Data",
-      "summary": "Amazon is closing new customer sign-ups for its Mechanical Turk crowdsourcing platform, a marketplace that has underpinned data-labeling for years. This signals shifting priorities in the human-in-the-loop data economy as AI labeling needs evolve, relevant for GPs backing data infrastructure startups."
-    },
-    {
-      "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
-      "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T17:34:49+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "A cultural commentary piece reframes young adults moving back with parents as a rational financial strategy rather than a failure, reflecting broader economic pressures like housing costs and wage stagnation. Relevant as a macro signal for consumer-focused investors tracking shifting household formation and spending patterns."
-    },
-    {
-      "title": "The Computers Used in Movies",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T17:33:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A retrospective look at how computers have been depicted in film over time. Primarily a nostalgia/culture piece with limited direct investment relevance."
-    },
-    {
-      "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T17:27:46+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "New archaeological research analyzes bone and tool evidence to assess the technological and behavioral sophistication of Homo floresiensis. While not startup-related, it touches on deep-tech adjacent scientific inquiry into early tool use and cognition."
-    },
-    {
-      "title": "\"These cameras are just like the Eye of Sauron\"",
-      "url": "https://arxiv.org/abs/2602.09239",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T17:05:57+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Commentary likening pervasive surveillance camera networks to dystopian imagery raises concerns about privacy and government overreach. Relevant to policy-watching investors tracking regulatory and public sentiment around surveillance tech and civil liberties."
-    },
-    {
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T16:11:08+00:00",
-      "topics": [
-        "Policy",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "An opinion piece criticizes Meta CEO Mark Zuckerberg's handling of internal whistleblowers, suggesting increasingly aggressive tactics against dissenting employees. This is relevant to governance-focused LPs monitoring leadership and regulatory risk at major tech platforms."
     },
     {
       "title": "Welcome to GLP-World",
