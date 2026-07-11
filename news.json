@@ -1,6 +1,117 @@
 {
-  "updated": "2026-07-11T07:21:25.752722+00:00",
+  "updated": "2026-07-11T11:39:29.349272+00:00",
   "items": [
+    {
+      "title": "pgrust passes 100% of the Postgres regression tests",
+      "url": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T11:14:18+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A Rust-based reimplementation of Postgres (pgrust) has reportedly achieved full compatibility with the database's regression test suite, a notable open-source infrastructure milestone. This is relevant to deep-tech investors tracking developer tooling and database infrastructure innovation."
+    },
+    {
+      "title": "Swiggy Instamart Receives 9 FSSAI Notices Over Alleged Sale Of Expired Products",
+      "url": "https://inc42.com/buzz/swiggy-instamart-receives-9-fssai-notices-over-alleged-sale-of-expired-products/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T10:14:26+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "India's food safety regulator FSSAI has issued nine notices to Swiggy Instamart alleging sale of expired products, raising compliance and reputational risk for the quick-commerce unit. This adds regulatory scrutiny to a sector already facing margin pressure, a factor GPs should weigh when assessing quick-commerce portfolio exposure."
+    },
+    {
+      "title": "ideaForge Raises ₹500 Cr Via QIP; Allots 62.9 Lakh Shares",
+      "url": "https://inc42.com/buzz/ideaforge-raises-%e2%82%b9500-cr-via-qip-allots-62-9-lakh-shares/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T10:10:59+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "Drone maker ideaForge raised ₹500 crore through a qualified institutional placement, allotting nearly 63 lakh shares to institutional investors. The raise strengthens its balance sheet for scaling operations and signals continued public-market appetite for Indian deep-tech and defense-adjacent manufacturers."
+    },
+    {
+      "title": "Zoho-Backed Genrobotics Posts ₹2.6 Cr Profit In FY26, Eyes ₹150 Cr Series B Round",
+      "url": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T09:39:24+00:00",
+      "topics": [
+        "Funding",
+        "Exits & M&A"
+      ],
+      "category": "Funding",
+      "summary": "Zoho-backed robotics firm Genrobotics turned profitable with ₹2.6 crore net income in FY26 and is now targeting a ₹150 crore Series B round. The profitability milestone ahead of a raise strengthens its negotiating position and signals maturing unit economics in India's robotics/deep-tech segment."
+    },
+    {
+      "title": "Nostalgia is identity: how Avinash Mudaliar built Carvaan, and why AI needs its own Carvaan moment",
+      "url": "https://yourstory.com/2026/07/saregama-carvaan-avinash-mudaliar-nostalgia-ai-carvaans",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T09:23:16+00:00",
+      "topics": [
+        "Opinion",
+        "People"
+      ],
+      "category": "Opinion",
+      "summary": "A profile piece on Saregama's Avinash Mudaliar explores how he built the nostalgia-driven Carvaan product and draws parallels to how AI-focused founders might need to create similarly emotionally resonant, mass-market moments. It's a founder-lens commentary rather than a funding event, useful for GPs thinking about consumer-AI positioning."
+    },
+    {
+      "title": "SaaStr AI App of the Week: Willingness to Pay. The Pricing Firm B2B + AI Companies Call When Per-Seat Stops Working",
+      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-willingness-to-pay-the-pricing-firm-b2b-ai-companies-call-when-per-seat-stops-working/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-11T09:17:06+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "SaaStr highlights Willingness to Pay, a pricing consultancy that B2B and AI companies are turning to as traditional per-seat SaaS pricing models break down under AI-driven usage patterns. This reflects a broader industry shift toward outcome- or usage-based pricing that GPs should watch when assessing AI-native software startups' revenue models."
+    },
+    {
+      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T09:16:10+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "Despite nearly $1 billion in government and private investment, the US has failed to establish domestic medical glove manufacturing, underscoring supply chain fragility exposed since the pandemic. This highlights ongoing policy and market challenges around reshoring critical manufacturing capacity."
+    },
+    {
+      "title": "Meet the 20 top-funded startups and tech companies in Hong Kong",
+      "url": "https://www.techinasia.com/meet-20-topfunded-startups-tech-companies-hong-kong",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-11T09:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "Tech in Asia profiles the 20 most well-capitalized startups and tech firms in Hong Kong, offering LPs a snapshot of where venture capital has concentrated in the city's ecosystem. Such rankings help investors benchmark deal flow and identify emerging leaders in a market often overshadowed by mainland China."
+    },
     {
       "title": "Singapore’s top-funded tech companies in the last decade",
       "url": "https://www.techinasia.com/visual-story/singapores-topfunded-tech-companies-decade",
@@ -12092,117 +12203,6 @@
       "summary": "An opinion piece criticizes Meta CEO Mark Zuckerberg's handling of internal whistleblowers, suggesting increasingly aggressive tactics against dissenting employees. This is relevant to governance-focused LPs monitoring leadership and regulatory risk at major tech platforms."
     },
     {
-      "title": "Vir Sanghvi: The Man I Thought I Knew",
-      "url": "https://yourstory.com/2026/07/vir-sanghvi-the-man-i-thought-i-knew",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-05T16:02:55+00:00",
-      "topics": [
-        "People",
-        "Opinion"
-      ],
-      "category": "People",
-      "summary": "This is a personal essay reflecting on a well-known media/industry figure, offering reconsidered perspectives on his character and legacy. It serves more as a reputational and cultural commentary piece than a direct investment signal, though it may be relevant to LPs tracking industry personalities and networks."
-    },
-    {
-      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T15:49:18+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A novel autonomous drone-umbrella product automatically follows users to shield them from rain or sun, showcasing consumer robotics innovation. It's an example of niche hardware experimentation that could interest early-stage deep-tech investors."
-    },
-    {
-      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T15:00:21+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "A technical explainer discusses how DMARC's new 'NP' tag for email authentication can conflict with DNSSEC configurations, creating security gaps. Relevant to cybersecurity and infrastructure investors tracking email security standards evolution."
-    },
-    {
-      "title": "5 desk gadgets that can make your workday better",
-      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T15:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A lifestyle roundup of desk gadgets aimed at improving workday productivity. Minimal direct relevance to venture investing beyond general consumer product trend-spotting."
-    },
-    {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T14:56:15+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "An essay argues that the real issue in gaming isn't physical versus digital formats but who actually owns purchased content, highlighting consumer rights concerns with digital licensing models. This touches on business model risks relevant to gaming and platform investors."
-    },
-    {
-      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
-      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T14:49:42+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A successful Swiss pilot of solar panels installed along railway tracks suggests this renewable energy approach could scale across Europe, offering a new use of existing infrastructure for clean power generation. This is relevant to climate-tech and infrastructure investors tracking emerging renewable deployment models."
-    },
-    {
-      "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
-      "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-05T14:06:31+00:00",
-      "topics": [
-        "Market & Data",
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "The piece argues that despite record levels of enterprise software spending, roughly half of existing SaaS companies are struggling or shutting down as AI reshapes buyer expectations and unit economics. For investors, this signals a bifurcation where capital concentrates in AI-native winners while legacy SaaS multiples and growth assumptions face repricing."
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-05T13:33:32+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Bending Spoons, an Italian app-acquisition company that owns AOL and Vimeo, has gone public, drawing attention as a lesser-known roll-up strategy achieving a major liquidity event. LPs should note this as an alternative exit model built on acquiring and monetizing legacy internet brands rather than organic growth."
-    },
-    {
       "title": "Welcome to GLP-World",
       "url": "https://www.generalist.com/p/generalist-intelligence-july-3",
       "source": "The Generalist",
@@ -12325,6 +12325,20 @@
       ],
       "category": "Funding",
       "summary": "Latin American startup Blanco has closed a $5.2 million seed round led by Krealo, providing early-stage capital to fuel its growth. This funding reflects continued investor interest in the region's emerging fintech or adjacent sectors backed by corporate venture arms like Krealo."
+    },
+    {
+      "title": "500 Global and Sanabil back eight startups in latest accelerator cohort",
+      "url": "http://wamda.com/2026/07/500-global-sanabil-startups-latest-accelerator-cohort",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-07-02T15:41:05+00:00",
+      "topics": [
+        "Funds & LPs",
+        "Funding"
+      ],
+      "category": "Funds & LPs",
+      "summary": "500 Global and Sanabil Investments backed eight startups in their latest MENA accelerator cohort, continuing their joint effort to seed early-stage regional companies. This signals sustained institutional LP appetite for accelerator-style deployment in the Gulf's growing startup ecosystem."
     },
     {
       "title": "Whiteshield secures $15 million private credit from Ruya Partners",
@@ -12527,19 +12541,6 @@
       ],
       "category": "Funding",
       "summary": "Jota raised a $30M Series A at a $185M valuation, marking a strong step-up for the company. The round reflects sustained investor appetite for scaling fintech or software players in the region at healthy valuation multiples."
-    },
-    {
-      "title": "BrainsMingle raises $400,000 seed from BasharSoft Group",
-      "url": "http://wamda.com/2026/06/egypt-brainsmingle-raises-400000-seed-basharsoft-group",
-      "source": "Wamda",
-      "region": "MENA",
-      "kind": "press",
-      "published": "2026-07-01T18:03:15+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "BrainsMingle raised a $400,000 seed round from BasharSoft Group, a small early-stage bet reflecting continued seed activity in the MENA startup scene."
     },
     {
       "title": "Hollywood's AI Anxiety on Full Display as Google's A24 Investment Draws Fire",
