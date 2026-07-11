@@ -1,6 +1,319 @@
 {
-  "updated": "2026-07-11T15:33:16.859282+00:00",
+  "updated": "2026-07-11T20:30:05.179778+00:00",
   "items": [
+    {
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "url": "https://www.sixthtone.com/news/1018753",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T19:46:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A Chinese voice actor's struggle to prove he isn't an AI-generated deepfake highlights growing real-world friction from synthetic media proliferation. The story underscores mounting demand for identity verification and provenance tools, an emerging investment category tied to AI authentication infrastructure."
+    },
+    {
+      "title": "How to Hide from Killer Drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T18:22:02+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece examines countermeasures against autonomous weaponized drones, a topic increasingly relevant as defense-tech venture funding accelerates. It touches on dual-use technology and policy questions shaping the defense and dronetech investment landscape."
+    },
+    {
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T18:15:35+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical comparison between ZeroFS and Amazon S3 examines storage architecture tradeoffs relevant to infrastructure-focused engineers and startups. Such benchmarking pieces help investors gauge competitive dynamics in cloud storage and open-source infrastructure tooling."
+    },
+    {
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T18:02:33+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece explores the emerging challenge of overseeing autonomous AI agents as they take on more complex tasks. For GPs backing agentic AI startups, governance and accountability frameworks are becoming a key diligence question. Expect more infrastructure plays around agent orchestration and monitoring."
+    },
+    {
+      "title": "WhatsApp’s Username Feature: Govt Mulls Uniform Social Media Rules",
+      "url": "https://inc42.com/buzz/whatsapps-username-feature-govt-mulls-uniform-social-media-rules/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T17:37:55+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "India's government is reportedly considering uniform regulations for social media features like WhatsApp's new username system. GPs backing consumer internet and messaging startups should watch for compliance implications as regulatory scrutiny of platform features intensifies."
+    },
+    {
+      "title": "Prefer Strict Tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:33:55+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical argument for adopting SQLite's strict table mode to enforce type safety and reduce data corruption bugs. While niche, it reflects broader developer-tooling trends that infra-focused funds track when evaluating database and backend startups. Reliability improvements like this can influence build-vs-buy decisions for early-stage engineering teams."
+    },
+    {
+      "title": "BLISS",
+      "url": "https://en.wikipedia.org/wiki/BLISS",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:30:01+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "BLISS appears to reference a symbolic or semantic system, likely tied to language or communication technology research. Deep-tech investors monitoring novel representation systems may find relevance here for accessibility or AI interpretability applications. Details remain sparse, limiting immediate investment signal."
+    },
+    {
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:30:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Even Realities is positioning its camera-free smart glasses as a productivity tool rather than a recording device, differentiating from Meta and other camera-equipped wearables. This approach could appeal to privacy-conscious enterprise buyers and sidestep regulatory scrutiny around always-on recording, a relevant angle for investors tracking the wearables category."
+    },
+    {
+      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:27:55+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "This retrospective highlights how leaded gasoline's toxicity was understood well before its widespread commercial adoption, raising questions about regulatory capture and corporate responsibility. For investors, it's a cautionary case study on the long-tail liability risks of technologies with known but suppressed harms. Relevant to funds evaluating chemical, industrial, or regulatory-adjacent portfolio companies."
+    },
+    {
+      "title": "Earendel (Astronomical Object)",
+      "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:24:15+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Earendel is a record-distant star discovered via gravitational lensing, representing a landmark in observational astronomy. While not directly commercial, such findings underscore continued momentum in space-tech and deep-tech research areas that attract specialized venture and philanthropic capital. Investors in space imaging or telescope technology may find contextual relevance."
+    },
+    {
+      "title": "Reverse centaurs are the answer to the AI paradox",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:23:52+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "The essay argues that 'reverse centaur' models—where humans support AI systems rather than the reverse—offer a productive resolution to ongoing AI productivity paradoxes. This framing matters to GPs assessing AI-enabled labor startups, as it reshapes expectations around human-AI collaboration and ROI timelines. It's a useful lens for evaluating augmentation versus automation bets."
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:21:49+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Funding",
+      "summary": "This piece examines the interlocking capital and supply arrangements among Nvidia, CoreWeave, and Nebius that are fueling the current GPU infrastructure boom. LPs should note the circular financing dynamics, where chip suppliers also invest in and lend to their own customers, potentially masking true demand signals. This has direct implications for how AI infrastructure valuations and risk are assessed across the market."
+    },
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:03:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A solo rower's completion of a California-to-Hawaii ocean crossing is a notable feat of endurance rather than a market event. It carries limited direct relevance to venture investing but may intersect with narratives around extreme sports gear, safety tech, or personal resilience storytelling used in founder branding."
+    },
+    {
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T17:00:35+00:00",
+      "topics": [
+        "People",
+        "Funding"
+      ],
+      "category": "People",
+      "summary": "Sixtyfour, a Y Combinator-backed startup, is actively hiring, signaling growth momentum following its accelerator batch. For early-stage investors, hiring velocity post-YC is often used as a proxy for traction and follow-on funding readiness. Talent moves at YC companies are closely watched by seed and Series A funds scouting emerging teams."
+    },
+    {
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T16:39:02+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Orbit is a new augmented-reality app letting users track over 15,000 satellites in real time, reflecting growing consumer interest in space visualization tools. It's a small but illustrative example of the expanding space-tech and AR application ecosystem that deep-tech investors monitor for spinout or acquisition potential. Such tools often serve as gateways to more specialized space-data businesses."
+    },
+    {
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T16:37:02+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Earth Game is an offline command-line tool that gamifies personal goal-setting into quest-like structures. It exemplifies the growing niche of indie developer tools blending productivity and gamification, an area occasionally scouted by seed funds for consumer app potential. The offline-first design also signals a broader trend toward privacy-conscious, local-first software."
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T16:33:42+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "This breakdown explains the technical flow of a UPI (Unified Payments Interface) transaction, India's real-time payments rail. It's relevant to fintech investors tracking infrastructure resilience and regulatory design in one of the world's largest digital payment systems. Understanding UPI's architecture helps LPs assess opportunities and risks in emerging-market fintech investments."
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T16:28:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "A piece exploring how contemporary minimalist interior design may increase cognitive load, drawing on psychology and architecture research. While not VC-specific, it touches on broader consumer and workplace trends that could inform startups in wellness, design tech, or office space. Limited direct relevance to fund strategy."
+    },
+    {
+      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T16:27:44+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new open-source project, Reame, introduces a CPU-based inference server that improves throughput dynamically during runtime rather than requiring GPU acceleration. This could matter for cost-sensitive AI deployment strategies, signaling continued innovation in efficient on-device or edge inference architectures that GPs tracking infra plays should monitor."
+    },
+    {
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-11T16:00:00+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "VentureBeat highlights an emerging security risk called 'slopsquatting,' where AI coding assistants generate plausible but fake package names that malicious actors then register to distribute malware. This supply-chain vulnerability is a growing concern for enterprises adopting AI-driven development tools, with implications for cybersecurity investment and governance policy."
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T15:28:02+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Engineers detail how they achieved a 4x throughput improvement scaling PgBouncer, a popular Postgres connection pooler, highlighting practical infrastructure optimization techniques. Such deep technical write-ups signal ongoing demand for database scalability solutions, relevant to backers of dev-tools and infrastructure startups."
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T15:26:12+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A historical retrospective (from 1993) traces the origins of Singular Value Decomposition, a foundational linear algebra technique underpinning much of modern machine learning and data compression. It offers technical grounding for investors evaluating the mathematical fundamentals behind AI infrastructure and model architectures."
+    },
+    {
+      "title": "New-Age Tech Stocks: MapmyIndia, PhysicsWallah Zoom; Ola Electric, Pine Labs Slip",
+      "url": "https://inc42.com/buzz/new-age-tech-stocks-mapmyindia-physicswallah-zoom-ola-electric-pine-labs-slip/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T14:54:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Indian new-age tech stocks showed mixed performance, with MapmyIndia and PhysicsWallah gaining while Ola Electric and Pine Labs declined. The divergence highlights ongoing volatility in India's newly listed tech sector, relevant for LPs tracking post-IPO valuation trends."
+    },
     {
       "title": "Exclusive: GoKwik Lays Off Around 120 Employees Amid AI Push",
       "url": "https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/",
@@ -74,6 +387,19 @@
       "summary": "Zetwerk cofounder Rahul Sharma is stepping back from day-to-day operations to start a new AI-focused venture, reflecting the continued pull of founders toward AI opportunities even from successful non-AI businesses. This move could signal fresh dealflow for early-stage AI investors and a leadership transition to watch at Zetwerk."
     },
     {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T13:40:27+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An educational open-source resource teaches developers systems engineering by guiding them through rebuilding core technologies like Redis, Git, and databases from scratch. This reflects growing interest in developer education and could be relevant to investors backing technical upskilling or dev-tools platforms."
+    },
+    {
       "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
       "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
       "source": "Hacker News",
@@ -99,6 +425,19 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "A technical explainer breaks down networking and internet fundamentals from first principles. More educational than newsy, but relevant background for investors evaluating infrastructure and networking startups."
+    },
+    {
+      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-11T11:19:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Inc42's tracker compiles market cap and revenue data across India's listed new-age tech companies. This ongoing dataset serves as a benchmarking tool for investors assessing the financial health and public-market performance of India's tech IPO cohort."
     },
     {
       "title": "pgrust passes 100% of the Postgres regression tests",
@@ -11832,185 +12171,6 @@
       "summary": "HR-tech company Culture Amp is cutting 70 more jobs, continuing a pattern of workforce reductions likely tied to slower enterprise software demand. The move reflects broader belt-tightening among growth-stage SaaS companies still adjusting cost structures post-hypergrowth."
     },
     {
-      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T06:05:29+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "A humanoid robotics firm is pursuing a public listing even as its CEO tempers expectations for near-term consumer adoption. The move offers investors a rare liquidity path in the capital-intensive robotics sector while underscoring how far commercialization still has to go."
-    },
-    {
-      "title": "Sherpa.ai raises $18M to support data-sovereign AI development",
-      "url": "https://tech.eu/2026/07/06/sherpaai-raises-18m-to-support-data-sovereign-ai-development/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T06:05:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Sherpa.ai raised $18M to build data-sovereign AI infrastructure, addressing enterprise and government demand for privacy-preserving machine learning. The raise reflects rising LP interest in AI infrastructure plays tied to data governance and sovereignty concerns."
-    },
-    {
-      "title": "Analysis: SEA’s June funding spike masks a narrow recovery in VC funding",
-      "url": "https://e27.co/analysis-seas-june-funding-spike-masks-a-narrow-recovery-in-vc-funding-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T05:47:55+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A June funding uptick in Southeast Asia's startup ecosystem may overstate the region's health, as the rebound appears concentrated in a handful of large deals rather than broad-based recovery. LPs should read headline funding figures cautiously and examine deal distribution before recalibrating regional theses."
-    },
-    {
-      "title": "The next frontier of D2C growth isn't marketing. It's the payment option not being offered",
-      "url": "https://yourstory.com/2026/07/the-next-frontier-of-d2c-growth-marketing-payment",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T05:30:00+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "This opinion piece argues that expanding payment method availability, rather than marketing spend, is the next major lever for D2C brand growth in India. It suggests investors should scrutinize portfolio companies' checkout and payment infrastructure as a driver of conversion and retention."
-    },
-    {
-      "title": "Thought Machine just hit $100m ARR. Its CEO wants to double it before going public",
-      "url": "https://sifted.eu/articles/thought-machine-100m-arr/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T05:00:46+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data"
-      ],
-      "category": "Exits & M&A",
-      "summary": "UK fintech infrastructure firm Thought Machine has reached $100M in annual recurring revenue, with its CEO targeting a doubling of that figure before pursuing a public listing. This marks a maturing path toward IPO for one of Europe's most closely watched fintech unicorns, a signal LPs will track for late-stage liquidity comps."
-    },
-    {
-      "title": "Can AI really cure all diseases?",
-      "url": "https://sifted.eu/articles/can-ai-really-cure-all-diseases/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T05:00:42+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This analysis piece questions the sweeping claims that AI can solve all disease-related challenges, weighing hype against near-term biotech realities. It offers a useful reality check for investors evaluating AI-driven drug discovery and healthtech valuations."
-    },
-    {
-      "title": "Why Bitcoin’s 1.23% gain means nothing without a break above US$65,000",
-      "url": "https://e27.co/why-bitcoins-1-23-gain-means-nothing-without-a-break-above-us65000-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T04:54:32+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Bitcoin's modest 1.23% price gain is viewed by analysts as insignificant unless it breaks above the $65,000 resistance level. The piece is a reminder for crypto-adjacent fund allocators that short-term price moves without key technical breakthroughs carry limited signal value."
-    },
-    {
-      "title": "Organisations should look beyond AI and start thinking about the quantum economy",
-      "url": "https://www.startupdaily.net/advice/business-strategy/organisations-should-look-beyond-ai-to-quantum-computing/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T04:53:54+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "The op-ed argues organizations should begin preparing for quantum computing's economic impact rather than focusing solely on AI. For GPs, this is an early signal to diversify deep-tech theses beyond AI toward quantum-adjacent opportunities."
-    },
-    {
-      "title": "Transcelestial, Warpspace to test interoperable laser links for satellite networks",
-      "url": "https://e27.co/transcelestial-warpspace-to-test-interoperable-laser-links-for-satellite-networks-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T04:24:50+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Transcelestial and Warpspace are partnering to test interoperable laser communication links between satellite networks, advancing space-based connectivity infrastructure. This deep-tech collaboration highlights growing investor interest in satellite laser communications as an alternative to traditional RF links."
-    },
-    {
-      "title": "AI and accessibility: The untapped solution to the cybersecurity skills gap",
-      "url": "https://e27.co/ai-and-accessibility-the-untapped-solution-to-the-cybersecurity-skills-gap-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T03:00:59+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This opinion piece argues that AI and improved accessibility could help address the persistent cybersecurity talent shortage by lowering barriers to entry for diverse candidates. It's a thesis-relevant read for GPs evaluating cybersecurity and AI-enabled workforce startups tackling talent gaps."
-    },
-    {
-      "title": "The agent as customer: Jensen Huang’s trillion-dollar bet on AI’s next era",
-      "url": "https://e27.co/the-agent-as-customer-jensen-huangs-trillion-dollar-bet-on-ais-next-era-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T02:45:38+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The piece explores Nvidia CEO Jensen Huang's thesis that autonomous AI agents will become primary consumers of compute, reshaping infrastructure demand. For investors, this reframes AI valuation models around agentic workloads rather than just chatbots, with implications for chip, cloud and enterprise software bets."
-    },
-    {
-      "title": "ByteDance’s Doubao and Alibaba’s Qwen to shut down AI agent features on July 15",
-      "url": "https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-07-06T02:40:28+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Two of China's leading AI labs, ByteDance and Alibaba, are discontinuing agent features in their respective models Doubao and Qwen by mid-July, suggesting recalibration of product strategy or regulatory pressure. This is a signal for investors on the volatility and iteration speed of consumer AI agent products in China."
-    },
-    {
-      "title": "The GPU Hunger Games, E3W’s Safety Crisis & More",
-      "url": "https://inc42.com/buzz/the-gpu-hunger-games-e3ws-safety-crisis-more/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T02:30:57+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This piece covers the intensifying competition for GPU access amid AI infrastructure demand, alongside safety concerns at e-commerce logistics firm E3W. It highlights the broader supply-chain and safety bottlenecks emerging as AI adoption accelerates across industries."
-    },
-    {
       "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
       "url": "https://the-ken.com/story/at-rbi-licensed-nbfcs-600-annual-interest-is-board-approved-reasonable-and-perfectly-legal/",
       "source": "The Ken",
@@ -12023,172 +12183,6 @@
       ],
       "category": "Policy",
       "summary": "An investigative piece reveals that RBI-licensed NBFCs are legally charging interest rates as high as 600% annually, approved by their own boards under loose regulatory definitions of 'reasonable.' This raises red flags for fintech lending investors about consumer protection risk and potential regulatory tightening ahead."
-    },
-    {
-      "title": "Bangladesh’s startup ecosystem is entering a new phase of investability",
-      "url": "https://e27.co/bangladeshs-startup-ecosystem-is-entering-a-new-phase-of-investability-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T02:30:08+00:00",
-      "topics": [
-        "Market & Data",
-        "Funds & LPs"
-      ],
-      "category": "Market & Data",
-      "summary": "Bangladesh's startup market is showing signs of maturing governance, deal flow and institutional interest that could attract more serious foreign capital. This signals a potential frontier opportunity for LPs seeking early exposure ahead of broader market recognition."
-    },
-    {
-      "title": "Mark Bouris wants Business Connect replacement to embrace AI",
-      "url": "https://www.smartcompany.com.au/business-advice/politics/mark-bouris-business-connect-ai-successor/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T02:22:51+00:00",
-      "topics": [
-        "Policy",
-        "AI & Deep Tech",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "Entrepreneur Mark Bouris is advocating that the replacement for Australia's Business Connect program integrate AI tools to better support small businesses. This reflects growing pressure on government-backed business support schemes to modernize using AI-driven advisory services."
-    },
-    {
-      "title": "The half-job era in growth teams",
-      "url": "https://e27.co/the-half-job-era-in-growth-teams-20260702/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T02:15:52+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "The commentary examines how growth teams are increasingly staffed with part-time, fractional, or AI-augmented roles rather than full-time hires. This trend affects how GPs assess portfolio company hiring efficiency and burn rate benchmarks."
-    },
-    {
-      "title": "Green hydrogen startup Hysata just nabbed its first export customer",
-      "url": "https://www.startupdaily.net/topic/climate-tech/green-hydrogen-startup-hysata-just-nabbed-its-first-export-customer/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T02:13:05+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Australian green hydrogen startup Hysata secured its first export customer, marking a commercial milestone for its electrolyzer technology. This is a positive signal for climate-tech investors tracking the sector's transition from pilot projects to revenue-generating deals."
-    },
-    {
-      "title": "Fair Work sides with business in major ruling over WFH and caring duties",
-      "url": "https://www.smartcompany.com.au/industrial-relations/fair-work-sides-with-business-major-ruling-over-wfh-caring-duties/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T02:09:17+00:00",
-      "topics": [
-        "Policy",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "Australia's Fair Work Commission issued a ruling favoring employers in a dispute over remote work arrangements tied to caregiving responsibilities. The decision sets a precedent that could shape how portfolio companies structure flexible work policies and manage employee accommodation requests going forward."
-    },
-    {
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T02:06:49+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "A founder reflects candidly on how customer support failed to build the deep customer relationships they had hoped for. The piece serves as a cautionary lesson for early-stage teams about over-relying on support channels as a retention or loyalty strategy."
-    },
-    {
-      "title": "We spent 100 days in Queensland in a self‑driving Tesla Model Y, and 500 incidents later, the recurring problems are obvious",
-      "url": "https://www.startupdaily.net/after-hours/motoring/we-spent-100-days-in-queensland-in-a-self%e2%80%91driving-tesla-model-y-and-500-incidents-later-the-recurring-problems-are-obvious/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T02:02:09+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A 100-day, 500-incident trial of Tesla's self-driving capability in Queensland revealed persistent technical shortcomings, raising questions about readiness for full autonomy in real-world conditions. This is relevant to investors evaluating autonomous vehicle timelines and safety risk in the sector."
-    },
-    {
-      "title": "Government issues notice to Meta; Bringing clean-label ice cream to India",
-      "url": "https://yourstory.com/2026/07/daily-capsule-government-issues-notice-to-meta",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T02:00:00+00:00",
-      "topics": [
-        "Policy",
-        "Funding"
-      ],
-      "category": "Policy",
-      "summary": "Indian authorities have issued a regulatory notice to Meta, adding to global scrutiny of Big Tech, while a separate item covers a startup launching clean-label ice cream in India. The juxtaposition reflects both rising policy risk for large platforms and continued innovation in consumer food categories."
-    },
-    {
-      "title": "Edition’s $15,000 female founder grant is open for applications",
-      "url": "https://www.startupdaily.net/topic/women-in-tech/editions-15000-female-founder-grant-is-open-for-applications/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T01:36:44+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Edition has opened applications for its $15,000 grant aimed at supporting female founders, adding to the pool of early-stage non-dilutive capital available to underrepresented entrepreneurs. Such programs remain a modest but notable channel for diversifying founder pipelines that GPs may later invest in."
-    },
-    {
-      "title": "Ice cream today is more additives than food. This Bengaluru startup wants to change that",
-      "url": "https://yourstory.com/2026/07/elvn-elvn-clean-label-ice-cream-bengaluru-startup",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T01:15:00+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "A Bengaluru-based startup is targeting the ice cream industry with a cleaner-label product free of excessive additives, tapping into rising consumer demand for healthier packaged foods. This reflects a broader investor trend toward funding better-for-you food and beverage startups in India."
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T01:04:03+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Reports indicate OpenAI's next model iteration, GPT-5.6 'Sol Ultra,' will be integrated into its Codex coding assistant. This continues the rapid cadence of model upgrades feeding into developer tools, with implications for AI coding startups competing against incumbent platforms."
-    },
-    {
-      "title": "AI “brain fry” could become the next big WHS challenge",
-      "url": "https://www.smartcompany.com.au/opinion/ai-brain-fry-next-big-whs-challenge/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T00:21:49+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Experts warn that cognitive fatigue from constant AI tool usage—dubbed 'brain fry'—may emerge as a new workplace health and safety concern. GPs building AI-heavy portfolio companies should watch for related productivity and liability implications as regulators begin scrutinizing this issue."
     },
     {
       "title": "AI Worldviews",
