@@ -1,6 +1,85 @@
 {
-  "updated": "2026-07-11T20:30:05.179778+00:00",
+  "updated": "2026-07-11T23:38:39.940238+00:00",
   "items": [
+    {
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T22:49:42+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "New research finds resistance training may outperform cardio for managing blood sugar levels, a finding with implications for health-tech and consumer wellness product design. Founders in metabolic health and fitness tracking could use this data to refine product positioning."
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T22:38:57+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This project introduces a method for running distributed large language model computation over the iroh peer-to-peer networking stack. It reflects growing developer interest in decentralized approaches to AI infrastructure that could reduce reliance on centralized cloud providers."
+    },
+    {
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T22:28:48+00:00",
+      "topics": [
+        "Opinion",
+        "AI & Deep Tech"
+      ],
+      "category": "Opinion",
+      "summary": "A Hacker News essay pushes back against the reflexive suggestion to 'just ask an LLM,' arguing it often substitutes for deeper understanding or proper documentation. The piece feeds into broader industry debate about over-reliance on AI tools versus building foundational expertise."
+    },
+    {
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T22:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "TechCrunch highlights a portable slushie machine that gained popularity as a practical cooling solution during New York's recent heat wave. The piece underscores how climate-driven consumer needs can spotlight niche hardware products and create short-term demand spikes for founders in the space."
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T21:58:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An open-source developer has released RISCBoy, a portable handheld gaming console built from scratch using RISC architecture. While not a funded venture, it signals continued grassroots innovation in open hardware that could eventually attract hardware-focused investors or acquirers. GPs tracking deep tech should note the growing maker-to-startup pipeline in open-source hardware."
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T20:07:18+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer has launched Ant, a new JavaScript runtime and surrounding ecosystem, adding to the competitive landscape of server-side JS tooling. Such infrastructure projects often incubate future developer-tools startups and can signal where technical talent is focusing next. Investors in dev-tools should watch adoption and community traction closely."
+    },
     {
       "title": "The Chinese Voice Actor Forced to Prove He's Human",
       "url": "https://www.sixthtone.com/news/1018753",
@@ -12087,90 +12166,6 @@
       "summary": "This feature profiles 50 emerging startups in Japan, spotlighting early-stage companies gaining traction across sectors. It gives GPs and LPs visibility into Japan's next generation of venture-backed companies ahead of larger funding rounds."
     },
     {
-      "title": "CurifyLabs bags €12M to automate personalised medicine",
-      "url": "https://tech.eu/2026/07/06/curifylabs-bags-eur12m-to-automate-personalised-medicine/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T07:00:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Finnish startup CurifyLabs raised €12M to advance automated, personalized medicine manufacturing using 3D printing technology. The round highlights growing investor interest in deep-tech healthcare infrastructure that blends automation with pharma compounding."
-    },
-    {
-      "title": "Thought Machine lands $40M funding from bank, surpasses $100M in annual revenue",
-      "url": "https://tech.eu/2026/07/06/thought-machine-to-unveil-100m-plus-funding-round-surpasses-100m-in-annual-revenue/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T06:55:35+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "UK fintech Thought Machine secured $40M from a banking partner and disclosed it has crossed $100M in annual revenue, signaling maturing unit economics in core-banking software. This milestone is a positive data point for late-stage fintech valuations and strategic bank-backed funding structures."
-    },
-    {
-      "title": "Quick Fashion Startup Klydo Shuts Shop, Teases Pivot",
-      "url": "https://inc42.com/buzz/quick-fashion-startup-klydo-pulls-plug-on-consumer-business/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T06:41:49+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Quick fashion startup Klydo has ceased operations while hinting at a possible pivot, reflecting ongoing struggles in the quick-commerce and fast-fashion space. This closure underscores the tough unit economics and funding challenges facing niche D2C models in India's competitive retail landscape."
-    },
-    {
-      "title": "Navi Plans To File For IPO By Fiscal-End, In Talks For Equity Funding",
-      "url": "https://inc42.com/buzz/navi-plans-to-file-for-ipo-by-fiscal-end-in-talks-for-equity-funding/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T06:22:18+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Funding"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Fintech lender Navi is preparing to file for an IPO by the end of the fiscal year while simultaneously exploring additional equity funding rounds. This dual-track approach suggests the company is hedging its capital-raising strategy amid uncertain public market conditions for new-age lenders."
-    },
-    {
-      "title": "Beyond transactions: Why payments are becoming central to modern business operations",
-      "url": "https://yourstory.com/2026/07/transactions-payments-central-modern-business-operations",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T06:17:41+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "The article explores how payments infrastructure is evolving from a back-end transactional function into a strategic pillar of modern business operations. For investors, this signals growing opportunity in embedded finance and payment-adjacent software layers across sectors."
-    },
-    {
-      "title": "Culture Amp cuts again, shedding 70 jobs",
-      "url": "https://www.startupdaily.net/topic/business/culture-amp-cuts-again-shedding-70-jobs/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T06:12:22+00:00",
-      "topics": [
-        "People",
-        "Market & Data"
-      ],
-      "category": "People",
-      "summary": "HR-tech company Culture Amp is cutting 70 more jobs, continuing a pattern of workforce reductions likely tied to slower enterprise software demand. The move reflects broader belt-tightening among growth-stage SaaS companies still adjusting cost structures post-hypergrowth."
-    },
-    {
       "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
       "url": "https://the-ken.com/story/at-rbi-licensed-nbfcs-600-annual-interest-is-board-approved-reasonable-and-perfectly-legal/",
       "source": "The Ken",
@@ -12351,18 +12346,17 @@
       "summary": "Whiteshield secured $15M in private credit from Ruya Partners, expanding its access to non-dilutive financing. This deal highlights the increasing role of private credit providers in supporting growth-stage companies in the MENA region."
     },
     {
-      "title": "Catalyst Fund secures $30 million to back Africa's climatetech startups",
-      "url": "http://wamda.com/2026/07/catalyst-fund-secures-30-million-africas-climatetech-startups",
+      "title": "Maalexi secures $2.8 million in oversubscribed round led by Tawuniya",
+      "url": "http://wamda.com/2026/07/maalexi-secures-2-8-million-oversubscribed-round-led-tawuniya",
       "source": "Wamda",
       "region": "MENA",
       "kind": "press",
-      "published": "2026-07-02T14:08:09+00:00",
+      "published": "2026-07-02T14:39:07+00:00",
       "topics": [
-        "Funds & LPs",
-        "AI & Deep Tech"
+        "Funding"
       ],
-      "category": "Funds & LPs",
-      "summary": "Catalyst Fund raised $30M to support climatetech startups across Africa, expanding capital availability for an underserved but fast-growing regional sector. This signals increasing LP confidence in African climate innovation as a distinct, investable thesis."
+      "category": "Funding",
+      "summary": "Agrifood-tech startup Maalexi raised $2.8 million in an oversubscribed round led by Saudi insurer Tawuniya, reflecting strong investor demand in MENA agtech. The backing from a major regional insurer also suggests strategic interest in supply-chain risk and food security solutions. This signals continued capital flow into vertical-specific tech in the Gulf."
     },
     {
       "title": "America's Next 250",
