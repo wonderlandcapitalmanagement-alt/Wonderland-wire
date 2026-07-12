@@ -1,6 +1,332 @@
 {
-  "updated": "2026-07-12T18:10:06.940198+00:00",
+  "updated": "2026-07-12T23:38:22.317769+00:00",
   "items": [
+    {
+      "title": "Samsung plans 2029 start for first Yongin chip plant",
+      "url": "https://www.techinasia.com/samsung-plans-90b-chungcheong-2040",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T23:29:28+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Samsung's plan to begin operations at its first Yongin chip plant in 2029 signals a long-term bet on semiconductor capacity to meet AI-driven demand. For deep tech investors, this timeline underscores the multi-year infrastructure buildout required to support AI compute growth."
+    },
+    {
+      "title": "Australian arm of Prime energy drink falls into administration with only $85,000 left in the bank",
+      "url": "https://www.smartcompany.com.au/retail/australian-arm-prime-energy-drink-falls-administration-only-85000-in-bank/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-12T23:21:26+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "The Australian division of Prime energy drink entered administration with just $85,000 in remaining cash, signaling severe financial distress. This serves as a cautionary data point on brand overexpansion and cash management risk in the consumer beverage sector."
+    },
+    {
+      "title": "India’s TCS plans up to 8,900 AI engineers",
+      "url": "https://www.techinasia.com/indias-tcs-reports-largest-ever-quarterly-job-cuts-over-ai-shift",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T23:16:07+00:00",
+      "topics": [
+        "People",
+        "AI & Deep Tech"
+      ],
+      "category": "People",
+      "summary": "TCS plans to hire up to 8,900 AI engineers, reflecting large IT services firms' aggressive push to build in-house AI capabilities amid client demand for automation. This hiring wave signals intensifying competition for AI talent that could affect startup recruiting and compensation benchmarks."
+    },
+    {
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:56:56+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A personal account of designing and building a first printed circuit board reflects the growing accessibility of hardware prototyping tools. This grassroots hardware momentum is relevant context for GPs tracking the maker-to-founder pipeline feeding early-stage deep tech startups."
+    },
+    {
+      "title": "Architecture Description Languages [pdf]",
+      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:54:07+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This technical document covers architecture description languages, a niche but foundational topic in systems and chip design. It's a reminder for deep tech investors of the specialized tooling underpinning next-generation hardware and semiconductor development."
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:45:31+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A curated look at cyberpunk comics, manga, and graphic novels offers cultural context rather than direct investment relevance. It may interest investors tracking how speculative fiction shapes founder imagination around AI and future tech narratives."
+    },
+    {
+      "title": "How to build a circular LCD clock",
+      "url": "https://blinry.org/lcd-clock/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:41:01+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A maker's tutorial on building a circular LCD clock showcases hobbyist hardware engineering and embedded systems skills. Such projects often serve as early signals of talent and creativity later channeled into hardware startups, relevant for early-stage deep tech scouting."
+    },
+    {
+      "title": "A Speed Limit for Computers",
+      "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:29:46+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This essay explores physical and architectural limits constraining computer processing speeds, touching on fundamental constraints relevant to next-gen chip design. It offers useful grounding for investors evaluating claims made by AI hardware and semiconductor startups about performance breakthroughs."
+    },
+    {
+      "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
+      "url": "https://github.com/unable12/codebase-posters",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T22:26:14+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new open-source tool converts Git repositories into generative poster art, blending software visualization with creative design. While a niche developer tool, it illustrates ongoing experimentation at the intersection of code, data visualization, and generative algorithms that could inspire adjacent startup ideas."
+    },
+    {
+      "title": "Profiling the \"Abundance\" housing bottleneck with real data",
+      "url": "https://laxmena.com/same-capacity-less-throughput",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T21:45:28+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "An analysis digs into housing supply bottlenecks using empirical data, testing claims from the 'Abundance' policy movement. For investors tracking proptech and urban infrastructure plays, this offers grounded evidence on where regulatory and construction constraints actually bind."
+    },
+    {
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "url": "https://kode.diy",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T21:27:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new programmable pocket device targets makers, security researchers, and hardware hobbyists. Niche hardware launches like this can signal early demand signals for hacker-friendly devices, relevant to seed-stage hardware investors watching maker-community traction."
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T21:26:41+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "Hacker News' recurring monthly thread invites the community to share current projects. It's a low-signal community pulse-check but occasionally surfaces early-stage founders and side projects worth watching for pre-seed sourcing."
+    },
+    {
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T21:12:11+00:00",
+      "topics": [
+        "Policy",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "Researchers found that a Chromium math function change inadvertently creates a new browser fingerprinting vector tied to the host OS. This raises fresh privacy and compliance concerns for ad-tech and browser-dependent startups, and could invite regulatory scrutiny under existing privacy laws."
+    },
+    {
+      "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "url": "https://www.adaptiverecall.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T21:08:20+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Funding"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new open-source project introduces persistent memory capabilities for AI assistants using the MCP protocol. This points to growing developer interest in agent infrastructure and memory layers, an area attracting early-stage AI infrastructure funding."
+    },
+    {
+      "title": "The State of MCP Security [pdf]",
+      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T20:49:46+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A published report assesses security vulnerabilities across the emerging Model Context Protocol ecosystem. As MCP becomes a standard for AI tool integration, security gaps could shape enterprise adoption risk and create opportunities for AI security startups."
+    },
+    {
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T20:46:43+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new sparse attention kernel technique claims to significantly speed up training for million-token context models. Efficiency gains like this are commercially important for foundation model labs and infra startups competing on training cost and context length."
+    },
+    {
+      "title": "SaaStr Takes on This Week’s 20VC: Why OpenAI Giving the Govt 5% Might Make Sense, the Death of Block Risk, and Why Frontier Models Are the Cheapest",
+      "url": "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-12T20:34:14+00:00",
+      "topics": [
+        "Opinion",
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "A podcast crossover debates whether OpenAI ceding a 5% government stake could set precedent for AI governance, alongside discussion of declining fintech block risk and falling costs of frontier models. These commentary threads are relevant for GPs assessing AI regulatory exposure and capital efficiency trends in model development."
+    },
+    {
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T20:23:05+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical showcase of minimalist emulator implementations highlights ongoing craft in low-level systems programming. While niche, such projects often incubate talent and ideas later commercialized in devtools and retro-computing markets."
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T20:16:12+00:00",
+      "topics": [
+        "Market & Data",
+        "Policy"
+      ],
+      "category": "Market & Data",
+      "summary": "New data shows Irish datacenters now consume nearly a quarter of the country's electricity, intensifying energy and grid capacity debates. This matters for infrastructure investors as power constraints increasingly gate datacenter and AI compute buildouts across Europe."
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T18:41:15+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An essay critiques a common methodological shortcut in AI research that oversimplifies iterative processes into single-step evaluations. It's a cautionary read for technical diligence teams assessing research claims behind AI startups' benchmarks."
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T18:31:56+00:00",
+      "topics": [
+        "Opinion",
+        "AI & Deep Tech"
+      ],
+      "category": "Opinion",
+      "summary": "A commentary piece pushes back against inflated AI hype while affirming genuine enthusiasm for large language model capabilities. Such balanced takes are useful for investors calibrating valuation expectations amid AI market exuberance."
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T18:25:51+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A technical comparison finds Claude Code's coding assistant sends significantly more tokens per request than OpenCode before even processing a prompt. This efficiency gap has direct cost implications for developers and enterprises evaluating AI coding tool vendors."
+    },
+    {
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T18:22:15+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A personal essay reflecting on relearning to read, likely touching on cognitive or educational themes. While not directly VC-related, it may offer indirect insight into learning and attention in the age of AI-driven content consumption."
+    },
+    {
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T18:04:41+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Researchers are applying formal causality theory to mechanistic interpretability work on large language models, aiming to better explain how internal representations drive model behavior. This matters for GPs backing AI safety and interpretability startups, as rigorous causal frameworks could become a competitive moat and regulatory requirement."
+    },
     {
       "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
       "url": "https://github.com/hasenj/go-shirei/",
@@ -56,6 +382,20 @@
       ],
       "category": "People",
       "summary": "A resurfaced 2007 quote from OpenBSD's Theo de Raadt captures his characteristically blunt technical commentary, popular again on Hacker News. It's more of a community culture artifact than direct market news, offering color on open-source personalities."
+    },
+    {
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-12T16:00:00+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "DeepSeek's 75% price cut intensifies the ongoing margin compression in foundation model inference, but underlying compute cost gaps with rivals remain unresolved. LPs should note that aggressive pricing wars among model providers could squeeze AI infrastructure startups' unit economics even as adoption accelerates."
     },
     {
       "title": "TK, or the secret to effortless writing (2024)",
@@ -11758,277 +12098,6 @@
       "summary": ""
     },
     {
-      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
-      "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-06T16:38:27+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
-      "url": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T16:21:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Apple reinstated card payment options for Apple Account purchases in India after halting them four years ago. The move reflects shifting payment regulations and Apple's efforts to improve monetization and user experience in a key growth market."
-    },
-    {
-      "title": "NoBroker’s Future Is Beyond Home Listings, But Will Profits Follow?",
-      "url": "https://inc42.com/features/nobrokers-future-is-beyond-home-listings-but-will-profits-follow/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T15:46:04+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "This piece examines NoBroker's expansion strategy beyond core real estate listings into adjacent services, questioning whether diversification will translate into sustainable profitability. It's a relevant read for investors assessing the proptech unicorn's path to an eventual IPO or exit."
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T15:32:43+00:00",
-      "topics": [
-        "People",
-        "Market & Data"
-      ],
-      "category": "People",
-      "summary": "Microsoft is cutting nearly 5,000 jobs across its Xbox and commercial sales divisions, part of a broader wave of tech restructuring. Such cuts signal ongoing cost discipline and reallocation of resources toward AI investment priorities, relevant context for enterprise software and gaming investors."
-    },
-    {
-      "title": "Kunal Kapoor, Ketto Cofounders Launch Healthtech Startup MetaGO",
-      "url": "https://inc42.com/buzz/kunal-kapoor-ketto-cofounders-launch-healthtech-startup-metago/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T15:30:19+00:00",
-      "topics": [
-        "Funding",
-        "People",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Ketto cofounders, alongside Kunal Kapoor, have launched a new healthtech venture called MetaGO, signaling serial entrepreneurial re-investment in India's health sector. The move highlights founder mobility and continued investor appetite for healthtech innovation in the region."
-    },
-    {
-      "title": "BGF surpasses €5.8 billion deployed after 15 years backing UK and Irish startups",
-      "url": "https://www.eu-startups.com/2026/07/bgf-surpasses-e5-8-billion-deployed-after-15-years-backing-uk-and-irish-startups/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T15:27:34+00:00",
-      "topics": [
-        "Funds & LPs",
-        "Market & Data"
-      ],
-      "category": "Funds & LPs",
-      "summary": "BGF has now deployed over €5.8 billion across UK and Irish startups since its founding 15 years ago, underscoring its role as a major regional growth-capital provider. The milestone signals sustained LP confidence in BGF's long-term investment model and its ability to support companies through multiple growth stages."
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T15:22:08+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Reddit is deploying large language models to combat the flood of AI-generated spam and low-quality content that LLMs themselves enabled. This illustrates an emerging market for AI-moderation tools addressing second-order effects of generative AI proliferation."
-    },
-    {
-      "title": "What billions of AI predictions taught Expedia before the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-06T15:00:24+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Klarna applies for US banking licence",
-      "url": "https://tech.eu/2026/07/06/klarna-applies-for-us-banking-licence/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T14:55:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T14:43:59+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Canada's intelligence agency disclosed offensive cyber operations against drug traffickers, extremists, and a ransomware group last year. The disclosure underscores intensifying state involvement in cybersecurity offense, a trend relevant to GPs backing cyber and national-security-adjacent startups."
-    },
-    {
-      "title": "Hello Clever nabs former Bolt exec for global AI-payments push",
-      "url": "https://www.startupdaily.net/topic/people/hello-clever-nabs-former-bolt-exec-for-global-ai-payments-push/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T14:27:00+00:00",
-      "topics": [
-        "People",
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "People",
-      "summary": "Hello Clever has recruited a senior executive from Bolt to lead its expansion into AI-driven payment solutions globally. The hire signals the startup's ambition to scale internationally and compete in the increasingly crowded fintech-AI space."
-    },
-    {
-      "title": "Flipkart Launches Second ESOP Liquidity Event In 12 Months",
-      "url": "https://inc42.com/buzz/flipkart-launches-second-esop-liquidity-event/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T14:20:15+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Funds & LPs"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Flipkart is running its second ESOP liquidity event within a year, allowing employees to cash out vested shares ahead of a potential public listing. Repeated liquidity events indicate strong internal valuation confidence and help retain talent as the company matures toward an IPO."
-    },
-    {
-      "title": "How to reserve and change your WhatsApp username",
-      "url": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T14:15:30+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A practical guide explains how WhatsApp users can reserve and modify their usernames. This is a minor consumer feature update with limited direct investment relevance beyond signaling platform engagement features."
-    },
-    {
-      "title": "Europe’s magnet supply chain push gets €8 million boost from German startup alqem",
-      "url": "https://www.eu-startups.com/2026/07/europes-magnet-supply-chain-push-gets-e8-million-boost-from-german-startup-alqem/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T14:11:48+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "German startup alqem raised €8 million to strengthen Europe's domestic magnet supply chain, a critical component for EVs, wind turbines, and defense hardware. The investment reflects growing strategic interest in reducing reliance on Chinese rare-earth and magnet production amid geopolitical supply risks."
-    },
-    {
-      "title": "By Year-End, Anthropic Will Out-Earn Every Public Software Company Except Microsoft",
-      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-06T14:10:02+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meta’s hate speech removals fell 79%; streamer Kick uses Serbians for moderation, antisemitism royal commission hears",
-      "url": "https://www.startupdaily.net/topic/social-media/metas-hate-speech-removals-fell-79-streamer-kick-uses-serbians-for-moderation-antisemitism-royal-commission-hears/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T13:47:09+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Testimony before an antisemitism royal commission revealed a sharp 79% drop in Meta's hate speech removals and disclosed that streaming platform Kick relies on Serbian moderators for content oversight. The findings raise governance and regulatory concerns relevant to platform accountability and future compliance obligations for social media investors."
-    },
-    {
-      "title": "B Capital closes $500m early-stage fund, earmarks 20% for Asia",
-      "url": "https://www.techinasia.com/capital-closes-500m-earlystage-fund-earmarks-20-asia",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T13:45:49+00:00",
-      "topics": [
-        "Funds & LPs"
-      ],
-      "category": "Funds & LPs",
-      "summary": "B Capital has closed a $500 million early-stage fund, with 20% earmarked specifically for Asian investments, reflecting sustained LP appetite for cross-border venture strategies. The fund size and regional allocation indicate continued institutional confidence in Asia's early-stage startup ecosystem despite broader market caution."
-    },
-    {
-      "title": "Prêmio Sebrae Startups anuncia o Top 100 de startups mais promissoras do país",
-      "url": "https://startupi.com.br/premio-sebrae-startups-anuncia-o-top-100-de-startups-mais-promissoras-do-pais/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T13:26:09+00:00",
-      "topics": [
-        "Events",
-        "Market & Data"
-      ],
-      "category": "Events",
-      "summary": "Sebrae's annual startup awards announced its Top 100 list of Brazil's most promising startups, a closely watched ranking for the local ecosystem. The list serves as a barometer of sectoral momentum and can influence follow-on funding interest from domestic and international investors."
-    },
-    {
-      "title": "Qantas backs $2 million raise for Brisbane startup using household waste make aviation fuel",
-      "url": "https://www.startupdaily.net/topic/funding/qantas-backs-2-million-raise-for-brisbane-startup-using-household-waste-make-aviation-fuel/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-06T13:01:47+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Qantas has backed a $2 million raise for a Brisbane-based startup converting household waste into aviation fuel, reflecting airline industry investment in sustainable fuel alternatives. The deal highlights growing corporate venture interest in climate tech solutions tied to hard-to-abate transport emissions."
-    },
-    {
-      "title": "Crescer rápido é fácil, mas liderar enquanto cresce é outra história",
-      "url": "https://startupi.com.br/crescer-rapido-e-facil-mas-liderar-enquanto-cresce-e-outra-historia/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T12:55:21+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "An opinion piece argues that while rapid startup growth is achievable, sustaining effective leadership through that growth phase presents far greater challenges. It offers reflections relevant to founders and investors on organizational scaling pitfalls beyond just capital and revenue metrics."
-    },
-    {
       "title": "Alqem",
       "url": "https://www.usv.com/writing/2026/07/alqem/",
       "source": "Union Square Ventures",
@@ -12053,74 +12122,6 @@
       ],
       "category": "Market & Data",
       "summary": "MENA startup funding dropped sharply to $148.2M in June 2026, indicating a notable pullback in regional venture activity. This decline gives LPs a cautionary data point on capital deployment trends and investor sentiment across Middle East and North Africa markets."
-    },
-    {
-      "title": "Desenrola MEI pode ajudar cerca de 3,5 milhões de empreendedores a regularizar dívidas",
-      "url": "https://startupi.com.br/desenrola-mei-pode-ajudar-cerca-de-35-milhoes-de-empreendedores-a-regularizar-dividas/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T12:20:06+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Brazil's Desenrola MEI initiative aims to help roughly 3.5 million micro-entrepreneurs restructure and pay down outstanding debts. The program signals continued government focus on supporting small-business formalization, which could ease credit access and reduce default risk for early-stage founders in Brazil's informal economy."
-    },
-    {
-      "title": "RentoMojo Gets SEBI Nod For IPO",
-      "url": "https://inc42.com/buzz/sebi-greenlights-rentomojos-ipo/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T12:12:54+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Policy"
-      ],
-      "category": "Exits & M&A",
-      "summary": "RentoMojo has received SEBI approval to proceed with its IPO, marking a key regulatory milestone toward going public. This clears the path for the rental platform to tap public markets, offering an eventual liquidity route for its existing venture backers."
-    },
-    {
-      "title": "Capillary Technologies’ Subsidiary Hit By €3 Mn Cyber Fraud",
-      "url": "https://inc42.com/buzz/capillary-technologies-subsidiary-hit-by-e3-mn-cyber-fraud/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T12:11:37+00:00",
-      "topics": [
-        "Market & Data",
-        "Policy"
-      ],
-      "category": "Market & Data",
-      "summary": "A subsidiary of Capillary Technologies suffered a €3 million cyber fraud incident, raising concerns about financial controls and cybersecurity resilience among growth-stage tech firms. Such incidents are increasingly relevant to LPs assessing operational risk in portfolio companies."
-    },
-    {
-      "title": "Sem contexto semântico, a corrida pela IA nas empresas pode virar um exercício caro",
-      "url": "https://startupi.com.br/sem-contexto-semantico-a-corrida-pela-ia-nas-empresas-pode-virar-um-exercicio-caro/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T12:08:46+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This commentary argues that corporate AI adoption without proper semantic context and data grounding risks becoming a costly, low-ROI exercise. It's a cautionary analysis relevant to GPs evaluating AI-native startups' technical differentiation versus hype-driven positioning."
-    },
-    {
-      "title": "What Happens When You Hire the Wrong VP",
-      "url": "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-06T12:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
     },
     {
       "title": "Sector Snapshot: Cleantech Startup Funding Stabilizes As Energy Demand Grows",
