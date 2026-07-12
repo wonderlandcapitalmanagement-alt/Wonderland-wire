@@ -1,6 +1,262 @@
 {
-  "updated": "2026-07-12T12:08:28.474526+00:00",
+  "updated": "2026-07-12T18:10:06.940198+00:00",
   "items": [
+    {
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "url": "https://github.com/hasenj/go-shirei/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T16:55:42+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer has released Shirei, an open-source cross-platform GUI framework built natively in Go, shared on Hacker News. While not directly VC news, it reflects ongoing developer tooling innovation that could interest infrastructure and dev-tools investors."
+    },
+    {
+      "title": "Automation Without Understanding",
+      "url": "https://arxiv.org/abs/2607.06377",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T16:54:47+00:00",
+      "topics": [
+        "Opinion",
+        "AI & Deep Tech"
+      ],
+      "category": "Opinion",
+      "summary": "This essay critiques the trend of deploying automation without deeper comprehension of underlying processes, a cautionary theme relevant to AI adoption debates. It's a useful reference point for investors assessing risk in AI-driven operational tooling."
+    },
+    {
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T16:07:00+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Policy",
+      "summary": "TechCrunch's mobility roundup covers a looming ultimatum in the robotaxi sector, likely tied to regulatory pressure or competitive deadlines facing autonomous vehicle operators. For GPs backing mobility and AI hardware, this signals tightening scrutiny and potential shifts in deployment timelines that could affect valuations and exit windows."
+    },
+    {
+      "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+      "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T16:05:29+00:00",
+      "topics": [
+        "People",
+        "Opinion"
+      ],
+      "category": "People",
+      "summary": "A resurfaced 2007 quote from OpenBSD's Theo de Raadt captures his characteristically blunt technical commentary, popular again on Hacker News. It's more of a community culture artifact than direct market news, offering color on open-source personalities."
+    },
+    {
+      "title": "TK, or the secret to effortless writing (2024)",
+      "url": "https://atthis.link/blog/2024/49629.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:58:42+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This piece revisits the 'TK' writing technique—leaving placeholders to maintain flow—as a method for reducing friction in the writing process. It's tangential to VC but reflects broader productivity and craft discussions popular among founders and operators."
+    },
+    {
+      "title": "Why study Diophantine equations?",
+      "url": "https://hidden-phenomena.com/articles/modular",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:53:53+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "This essay explores the motivations behind studying Diophantine equations, a niche area of number theory. While not directly relevant to venture activity, it reflects the kind of foundational math research that occasionally underpins cryptography and deep-tech breakthroughs. GPs tracking frontier research talent may find such academic discourse informative."
+    },
+    {
+      "title": "How to Read More Books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:47:16+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A personal essay on strategies for reading more books, likely covering habit formation and time management. This is a lifestyle/productivity piece with no direct startup or investment angle, though it may resonate with founders and investors seeking self-improvement content."
+    },
+    {
+      "title": "The power of collaboration: How we can reduce traffic congestion",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:35:36+00:00",
+      "topics": [
+        "Opinion",
+        "Market & Data"
+      ],
+      "category": "Opinion",
+      "summary": "This piece argues that collaborative approaches—rather than purely technological fixes—could meaningfully reduce urban traffic congestion. It touches on data-driven urban planning themes that occasionally intersect with mobility and smart-city startups, offering context for investors watching that space."
+    },
+    {
+      "title": "A no-brainer for protecting your brain",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:23:59+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A health-focused article on simple, low-cost interventions for protecting brain health. It's a consumer wellness piece rather than an investment story, though it may be of tangential interest to backers of health-tech or longevity startups."
+    },
+    {
+      "title": "Don't You Mean Extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T15:17:20+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "Likely a commentary on species decline or extinction framing in scientific or public discourse. This is a science/nature essay with no direct funding or market implications for investors."
+    },
+    {
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T14:32:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This post discusses using Anthropic's Claude model for autoresearch tasks framed as constrained optimization problems. It signals growing experimentation with LLMs as research assistants, a trend GPs evaluating AI tooling and productivity startups should monitor."
+    },
+    {
+      "title": "The Lunduke Computer Operating System",
+      "url": "https://github.com/BryanLunduke/LCOS",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T14:15:13+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Coverage of an independent, community-driven computer operating system project. It reflects continued interest in alternative OS development outside major tech incumbents, relevant to deep-tech investors tracking systems-level innovation."
+    },
+    {
+      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+      "url": "https://kurvengefahr.org/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T14:09:23+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A Show HN launch for a browser-based CAD/CAM tool designed for pen plotters. It exemplifies the steady stream of niche maker/hardware tooling emerging from independent developers, which occasionally seeds future hardware or fabrication startups."
+    },
+    {
+      "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
+      "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-12T14:06:57+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Exits & M&A",
+      "summary": "A growing backlog of over 1,000 software unicorns raises questions about whether private equity and public markets can absorb them via IPOs or acquisitions. The piece analyzes liquidity bottlenecks facing late-stage SaaS companies, a critical concern for LPs awaiting distributions and GPs managing extended hold periods."
+    },
+    {
+      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "url": "https://github.com/sshwarts/skillscript",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T13:34:00+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Introduction of Skillscript, a sandboxed declarative language built for orchestrating AI or automation tools. This reflects ongoing developer experimentation in the AI tooling and agent-orchestration space, an area attracting increasing venture attention."
+    },
+    {
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T13:26:13+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece reports research findings suggesting AI tools help individual scientists advance their careers faster while paradoxically narrowing the diversity of scientific discoveries overall. For GPs backing AI-for-science startups, it's a cautionary data point on innovation homogenization risks tied to widespread AI adoption."
+    },
+    {
+      "title": "Gina Gallery of International Naive Art",
+      "url": "https://www.ginagallery.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T13:18:34+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A feature on a gallery dedicated to naive/outsider art from international artists. This is a cultural piece unrelated to venture capital, funding, or technology markets."
+    },
+    {
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T12:08:07+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An explainer on the Odin programming language, covering its design philosophy and use cases in systems programming. It's relevant background for deep-tech investors tracking developer tooling and language ecosystem trends that can influence future infrastructure startups."
+    },
+    {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "url": "https://mrbruh.com/motorola/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T11:52:21+00:00",
+      "topics": [
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "Policy",
+      "summary": "Security researchers disclosed an unauthenticated remote code execution vulnerability in Motorola's MR2600 router, exposing potential risks for consumer and enterprise networks. While not VC-specific, such disclosures matter to GPs backing IoT and networking hardware startups, as they highlight ongoing security diligence needs for portfolio companies in connected devices."
+    },
     {
       "title": "IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11",
       "url": "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/",
@@ -11867,75 +12123,6 @@
       "summary": ""
     },
     {
-      "title": "C programmers commit fresh crimes against readability",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T11:44:39+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A technical, community-driven discussion on obscure or unconventional C programming practices, reflecting ongoing developer culture debates rather than direct startup or funding news. Limited direct relevance to LPs but indicative of deep tech community discourse."
-    },
-    {
-      "title": "\"Software Engineering\" Is Not Engineering",
-      "url": "https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T11:42:46+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "An essay contends that software engineering lacks the rigor and standards of traditional engineering disciplines. The piece feeds into broader industry conversations about technical talent standards that can indirectly inform how investors assess engineering teams."
-    },
-    {
-      "title": "From cash deposits to everyday rewards: London-based Stoa raises €2.1 million",
-      "url": "https://www.eu-startups.com/2026/07/360944/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T11:35:35+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "London-based fintech Stoa raised a modest €2.1M to develop a cash deposits and rewards platform for everyday consumers. The small seed-stage round illustrates continued early-stage activity in consumer fintech despite tighter funding conditions overall."
-    },
-    {
-      "title": "Exclusive: Graph AI In Talks To Raise $14 Mn From Insight Partners, Others",
-      "url": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T11:34:06+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Graph AI is reportedly in discussions to raise $14M with Insight Partners among the participants, per exclusive reporting. If finalized, the round would mark a notable institutional backing for the graph-based AI startup's growth plans."
-    },
-    {
-      "title": "UK battery materials startup TaiSan founded by chess champion raises £4.65M",
-      "url": "https://tech.eu/2026/07/06/uk-battery-materials-startup-taisan-founded-by-chess-champion-raises-ps465m/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T11:32:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech",
-        "People"
-      ],
-      "category": "Funding",
-      "summary": "UK battery materials startup TaiSan, founded by a chess champion, raised £4.65M to advance its technology. The round reflects continued investor appetite for materials science startups tied to the energy transition and battery supply chain innovation."
-    },
-    {
       "title": "Sector Snapshot: Cleantech Startup Funding Stabilizes As Energy Demand Grows",
       "url": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
       "source": "Crunchbase News",
@@ -11962,198 +12149,6 @@
       ],
       "category": "Opinion",
       "summary": "This opinion piece argues that investor caution over the past year has been largely overblown, urging VCs to break from herd mentality and lean into contrarian bets. It's a call for GPs to reassess risk tolerance as market sentiment potentially turns a corner."
-    },
-    {
-      "title": "How WaiV Robotics is solving one of maritime drones' biggest challenges",
-      "url": "https://tech.eu/2026/07/06/how-waiv-robotics-is-solving-one-of-maritime-drones-biggest-challenges/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T11:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "WaiV Robotics is developing solutions to address key technical challenges in maritime drone operations, such as durability or navigation at sea. The piece highlights niche deep-tech innovation in defense and marine robotics, a sector drawing growing strategic and defense-adjacent capital."
-    },
-    {
-      "title": "UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI",
-      "url": "https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T10:55:33+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "UK startup Worldmodeldata raised €8M to convert video game environments into training data for physical AI and robotics applications. This niche approach to synthetic data generation could appeal to investors tracking novel data pipelines for embodied AI."
-    },
-    {
-      "title": "How the U.S. Engineered Its Sovereignty",
-      "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T10:49:29+00:00",
-      "topics": [
-        "Policy",
-        "Opinion"
-      ],
-      "category": "Policy",
-      "summary": "A long-form analysis explores the historical and policy mechanisms behind U.S. geopolitical and economic sovereignty. While not startup-specific, it offers context for macro policy trends that can shape venture capital's regulatory environment."
-    },
-    {
-      "title": "X402, a static blog monetization excercise",
-      "url": "https://shtein.me/posts/x402-poc/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T10:37:58+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A project exploring 'X402' as a static blog monetization mechanism appears to experiment with new web monetization protocols, possibly crypto-adjacent. It reflects niche technical experimentation rather than a funded startup development."
-    },
-    {
-      "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
-      "url": "https://earth.tattoo",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T10:28:32+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Events"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A community project lets users collaboratively paint an interactive 3D globe in real time, showcasing creative web and graphics engineering. It's a demo-style show-and-tell rather than a funded venture, of niche interest to deep tech-focused observers."
-    },
-    {
-      "title": "Startup news and updates: Daily roundup (July 6, 2026)",
-      "url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-6-2026",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T10:27:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A daily digest of startup news from YourStory covering various developments across the Indian ecosystem on July 6, 2026. Useful for LPs tracking day-to-day market sentiment and emerging stories."
-    },
-    {
-      "title": "Vacuum at the Page Level",
-      "url": "https://boringsql.com/posts/vacuum-at-the-page-level/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T10:02:08+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A technical discussion on memory management concepts like 'vacuuming' at the page level, likely relevant to database or systems engineering. It's a niche technical topic with limited direct implications for venture investors but relevant to infrastructure-focused deep tech watchers."
-    },
-    {
-      "title": "June 2026's top 10 European tech deals you need to know about",
-      "url": "https://tech.eu/2026/07/06/june-2026s-top-10-european-tech-deals-you-need-to-know-about/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T10:00:00+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "Tech.eu rounds up the ten most significant European tech funding deals for June 2026, offering a snapshot of capital flows across the region. Such roundups help LPs and GPs benchmark deal sizes, sector concentration, and geographic trends in real time."
-    },
-    {
-      "title": "South Korea fines Agoda over booking disclosures",
-      "url": "https://www.techinasia.com/sg-labor-national-union-congress-slam-agoda-over-50-staff-cuts",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T09:53:39+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "South Korean regulators have fined Agoda over inadequate booking disclosures, part of a broader push to enforce consumer-protection standards on online travel platforms. This underscores rising regulatory scrutiny facing global tech platforms operating in Asian markets, a relevant risk factor for investors in similar consumer marketplaces."
-    },
-    {
-      "title": "Quantum security: The clock is already running",
-      "url": "https://www.eu-startups.com/2026/07/quantum-security-the-clock-is-already-running/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T09:53:18+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion",
-        "Policy"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This analysis warns that the quantum computing threat to current encryption standards is approaching faster than many organizations are prepared for. It's a call to action for GPs backing cybersecurity and infrastructure startups to prioritize quantum-resistant solutions now."
-    },
-    {
-      "title": "Kunal Kapoor launches MetaGO, a doctor-led metabolic health platform",
-      "url": "https://yourstory.com/2026/07/kunal-kapoor-launches-metago-doctor-led-metabolic-health-platform",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T09:50:50+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Kunal Kapoor has launched MetaGO, a physician-led platform targeting metabolic health management. The venture taps into growing consumer demand for chronic disease prevention and personalized health tech, an area attracting increasing early-stage capital in India's digital health sector."
-    },
-    {
-      "title": "PhonePe Insurance Arm’s CEO Vishal Gupta Steps Down",
-      "url": "https://inc42.com/buzz/phonepe-insurance-arms-ceo-vishal-gupta-steps-down/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T09:49:08+00:00",
-      "topics": [
-        "People"
-      ],
-      "category": "People",
-      "summary": "Vishal Gupta has stepped down as CEO of PhonePe's insurance arm, marking a leadership change at the fintech giant's insurance vertical. Such departures can signal strategic shifts in a company's insurtech ambitions and warrant attention from investors tracking PhonePe's diversification into financial services."
-    },
-    {
-      "title": "Meituan backs smart glasses startup at $1 billion value",
-      "url": "https://www.techinasia.com/elon-musks-argument-for-taking-ai-into-orbit",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T09:48:23+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Meituan has backed a smart glasses startup, pushing its valuation to $1 billion, signaling deepening interest from Chinese tech giants in wearable AI hardware. The deal underscores how consumer internet platforms are diversifying into hardware-enabled AI products to capture new distribution channels."
-    },
-    {
-      "title": "Apple Restores Card Payments For App Store, iCloud In India: Report",
-      "url": "https://inc42.com/buzz/apple-restores-card-payments-for-app-store-icloud-in-india-report/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T09:41:14+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Apple has reinstated card payment options for App Store and iCloud purchases in India after a prior restriction, likely in response to regulatory or banking network pressures. This affects consumer payment flows and could influence digital transaction trends in one of Apple's key growth markets."
     },
     {
       "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
