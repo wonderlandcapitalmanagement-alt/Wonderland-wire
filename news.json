@@ -1,6 +1,356 @@
 {
-  "updated": "2026-07-11T23:38:39.940238+00:00",
+  "updated": "2026-07-12T07:50:06.200722+00:00",
   "items": [
+    {
+      "title": "Indonesia’s top-funded tech companies in the last decade",
+      "url": "https://www.techinasia.com/visual-story/indonesias-topfunded-tech-companies-decade",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T07:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "This piece ranks Indonesia's most heavily capitalized tech companies over the past decade, highlighting where large pools of venture capital have concentrated. It gives LPs a useful lens on which sectors and founders have historically attracted the biggest checks in Southeast Asia's largest economy."
+    },
+    {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T05:51:32+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A new open-source tool lets developers visually replay AI coding-agent sessions across a 3D map of their codebase. It reflects growing developer tooling innovation around AI-assisted software engineering workflows."
+    },
+    {
+      "title": "India's MSMEs power the economy, but most still aren't using AI",
+      "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T05:30:46+00:00",
+      "topics": [
+        "Market & Data",
+        "AI & Deep Tech"
+      ],
+      "category": "Market & Data",
+      "summary": "A new report highlights that India's MSME sector remains a major economic contributor but has largely lagged in AI adoption, pointing to a substantial addressable market for AI tooling vendors. This gap represents both a risk of competitiveness lag and a large opportunity for enterprise AI startups targeting small businesses."
+    },
+    {
+      "title": "Unicorn Founders Go AI Native",
+      "url": "https://inc42.com/features/unicorn-founders-go-ai-native/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T05:30:07+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "People",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This piece examines how founders of unicorn companies are restructuring their organizations and workflows to become 'AI native,' embedding AI deeply into operations rather than bolting it on. For GPs, it highlights a shifting bar for operational efficiency and product velocity expected of portfolio company leadership."
+    },
+    {
+      "title": "India's QR revolution is just the beginning for MSMEs: Mintoak CEO",
+      "url": "https://yourstory.com/2026/07/india-qr-revolution-beginning-for-msmes-mintoak-ceo-raman-khanduja-msme-sparks",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T05:30:00+00:00",
+      "topics": [
+        "Market & Data",
+        "People"
+      ],
+      "category": "Market & Data",
+      "summary": "In an interview, Mintoak's CEO argues that India's rapid QR-code payments adoption among MSMEs is merely a first step toward broader digital financial inclusion, with further monetization opportunities in credit and value-added services. This view matters to fintech investors assessing the next wave of India's payments infrastructure buildout."
+    },
+    {
+      "title": "Chinese AI company launches city forecasting model",
+      "url": "https://www.techinasia.com/google-cloud-ai-startup-lovable-expand-multiyear-partnership-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T04:47:52+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A Chinese AI firm has released a new model designed to forecast urban dynamics, signaling growing sophistication in China's applied AI ecosystem. Such infrastructure-level tools could open new enterprise and government contracting opportunities for AI-focused investors."
+    },
+    {
+      "title": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T04:15:27+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Opinion"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "An essay questioning the continued relevance of manual coding as AI models increasingly automate software development. The piece feeds into broader debates GPs are having about the future shape of engineering teams and developer tooling investments."
+    },
+    {
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T04:00:14+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A new federal regulation requires colleges to demonstrate that graduates achieve better financial outcomes or risk losing access to federal financial aid. This could reshape higher-education economics and has downstream implications for edtech and student-lending startups."
+    },
+    {
+      "title": "South Korea’s startup funding, as explained in charts",
+      "url": "https://www.techinasia.com/visual-story/capital-south-korea-south-koreas-funding-landscape",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T04:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funds & LPs"
+      ],
+      "category": "Market & Data",
+      "summary": "This data-driven piece breaks down South Korea's startup funding landscape through charts, likely covering deal counts, sector splits, and capital raised. It's a handy reference for LPs benchmarking Korean venture activity against other Asian markets."
+    },
+    {
+      "title": "Health, AI, energy: Test your business creativity with Edition 240 of our weekly quiz!",
+      "url": "https://yourstory.com/2026/07/health-ai-energy-entrepreneur-quiz-education",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T02:20:00+00:00",
+      "topics": [
+        "Events"
+      ],
+      "category": "Events",
+      "summary": "YourStory's weekly business quiz covers themes in health, AI, and energy sectors, serving as an engagement/community feature rather than substantive news. It has minimal direct implications for fund strategy or portfolio decisions."
+    },
+    {
+      "title": "How galleries and artists grow together: The journey of Gallery Time and Space",
+      "url": "https://yourstory.com/2026/07/gallery-time-space-art-creativity-photography",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T02:15:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "This feature profiles Gallery Time and Space and how art galleries and artists build mutually reinforcing growth relationships, offering a rare look into the business dynamics of India's art market. It's more of a sector human-interest piece with limited direct relevance to typical VC/LP audiences."
+    },
+    {
+      "title": "Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T02:13:46+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Researchers report an unexpected solid-like fracture behavior observed in simple liquids under certain conditions, challenging assumptions in materials science. While not directly VC-relevant, such fundamental physics findings can seed future deep-tech and materials startups. GPs tracking frontier science may want to monitor commercialization potential."
+    },
+    {
+      "title": "Travel writer Shivya Nath’s new book; VC inflow this week",
+      "url": "https://yourstory.com/2026/07/travel-writer-shivya-naths-new-book-vc-inflow-this-week",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-12T02:00:00+00:00",
+      "topics": [
+        "Funding",
+        "Market & Data"
+      ],
+      "category": "Funding",
+      "summary": "This roundup blends a feature on travel writer Shivya Nath's new book with a weekly digest of VC inflows into startups. For LPs and GPs, the funding data offers a quick pulse check on deal velocity and capital deployment trends for the period."
+    },
+    {
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T01:59:35+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A 2012 paper resurfaces examining the thermodynamic and energetic constraints on cellular-level computation in biological systems. The piece offers a lens for founders and investors in synthetic biology and bio-computing to understand efficiency limits. It's a reminder that biological analogies increasingly inform AI hardware and computing paradigm research."
+    },
+    {
+      "title": "S Korea nears 50% eco-car share as launches loom",
+      "url": "https://www.techinasia.com/hyundai-korea-ev-slowdown-eased-q1",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T01:56:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "South Korea is approaching half of its auto market share coming from eco-friendly vehicles as new launches ramp up. This signals a maturing green mobility market that could present downstream opportunities for deep-tech and hardware-focused investors."
+    },
+    {
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T01:03:29+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer shares an Erlang-inspired, pure Scheme-based web server implementation, showcasing functional programming approaches to concurrent web infrastructure. This is a niche technical project relevant to language design enthusiasts rather than immediate startup activity. It may interest deep-tech investors tracking novel programming paradigms and infrastructure tooling."
+    },
+    {
+      "title": "Anthropic talks with Karnataka on AI for citizen services",
+      "url": "https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T01:00:03+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Anthropic is in discussions with India's Karnataka state government to deploy AI tools for public citizen services. This reflects growing government-AI partnerships in emerging markets, a trend GPs should watch as it could shape regulatory openness and public-sector AI adoption."
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T00:57:18+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "This entry describes a pure Scheme-based tool for web programming, likely a companion or precursor project to related Erlang-style Scheme server work. It highlights ongoing experimentation in functional programming for web development outside mainstream JavaScript/Python ecosystems. Relevance to VC is limited but signals developer-tooling innovation in niche communities."
+    },
+    {
+      "title": "JD.com breaks ground on first RoboBase in Guangzhou",
+      "url": "https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T00:53:05+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "JD.com has begun construction on its first RoboBase facility in Guangzhou, expanding its robotics and automation infrastructure. This underscores continued heavy capex from Chinese tech giants into physical AI and logistics automation, a space drawing increasing deep-tech investor interest."
+    },
+    {
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T00:48:10+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A hardware maker details engineering work behind a docking solution designed to reliably wake connected devices from sleep states. This is a small-scale hardware/firmware reliability project rather than a funded venture. It may be of interest to deep-tech investors focused on hardware ecosystem reliability and IoT infrastructure."
+    },
+    {
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T00:32:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": "Martha Lillard, one of the last Americans still reliant on an iron lung due to childhood polio, has died at age 78 in Oklahoma. Her passing marks a symbolic end to an era of mid-20th-century medical technology and disease impact. While not startup news, it underscores long-term shifts in public health infrastructure relevant to healthtech historical context."
+    },
+    {
+      "title": "Nasdaq-listed Empery sells bitcoin for AI center stake",
+      "url": "https://www.techinasia.com/usbased-ev-firm-volcon-raises-500m-bitcoin-treasury-strategy",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T00:30:29+00:00",
+      "topics": [
+        "Exits & M&A",
+        "AI & Deep Tech"
+      ],
+      "category": "Exits & M&A",
+      "summary": "Nasdaq-listed Empery is divesting bitcoin holdings to acquire a stake in an AI data center, illustrating how crypto-adjacent firms are pivoting capital toward AI infrastructure. This asset reallocation trend is relevant for LPs tracking capital flows between digital assets and compute-heavy AI plays."
+    },
+    {
+      "title": "Who isn’t drinking the AI Kool-Aid?",
+      "url": "https://www.techinasia.com/isnt-drinking-ai-koolaid",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T00:30:07+00:00",
+      "topics": [
+        "Opinion",
+        "AI & Deep Tech"
+      ],
+      "category": "Opinion",
+      "summary": "This commentary piece examines skeptics and contrarians pushing back against the prevailing AI hype cycle. It offers GPs a useful counter-narrative to stress-test valuation assumptions in an overheated AI funding market."
+    },
+    {
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T00:16:06+00:00",
+      "topics": [
+        "People",
+        "AI & Deep Tech"
+      ],
+      "category": "People",
+      "summary": "A profile of Reed Jobs, Steve Jobs' son, focuses on his work funding cancer research and biotech ventures rather than his family legacy. For LPs, it signals a new generation of mission-driven capital allocators entering health-focused venture and philanthropy."
+    },
+    {
+      "title": "How Doctors die. It’s not like the rest of us (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T23:15:06+00:00",
+      "topics": [
+        "Opinion"
+      ],
+      "category": "Opinion",
+      "summary": "A 2016 essay revisits how physicians often choose to forgo aggressive end-of-life interventions for themselves, contrasting with treatment patterns for the general public. The piece offers commentary on healthcare system incentives and patient autonomy. It's tangential to VC but relevant for investors in healthtech and end-of-life care startups thinking about system design."
+    },
+    {
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-11T22:54:06+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "A developer details fixing three bugs that enabled running the Qwen3.5-122B open-weight language model smoothly as a daily-use local model on Apple's Mac Studio hardware. This reflects growing momentum in local/on-device LLM deployment, an area of increasing interest for AI infrastructure investors. It signals maturing open-source model usability outside cloud-only serving."
+    },
     {
       "title": "Weightlifting beats running for blood sugar control, researchers find",
       "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
@@ -11805,365 +12155,6 @@
       ],
       "category": "Funding",
       "summary": "Chinese smart glasses startup Even Realities raised $150M from Meituan and Tencent, pushing its valuation to $1B. The round signals strong corporate appetite for wearable AI hardware in China and positions the company as a serious rival to established smart glasses players."
-    },
-    {
-      "title": "Stoa secures $2.4M for cash rewards platform",
-      "url": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T09:00:00+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Cash rewards platform Stoa raised $2.4M to expand its consumer loyalty or incentive product. The modest raise reflects continued early-stage investor interest in fintech-adjacent consumer engagement tools despite a tighter seed funding environment."
-    },
-    {
-      "title": "Enterprise AI Startup C5i Files Confidential IPO Papers With SEBI",
-      "url": "https://inc42.com/buzz/enterprise-ai-startup-c5i-files-confidential-ipo-papers-with-sebi/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T08:58:47+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Enterprise AI analytics firm C5i has confidentially filed IPO papers with India's market regulator SEBI, signaling a potential public listing ahead. This move reflects growing investor appetite for AI-driven enterprise software companies and could offer an exit path for existing backers."
-    },
-    {
-      "title": "HeyMax First offers upfront miles, but the economics will face a real-world test",
-      "url": "https://e27.co/heymax-first-offers-upfront-miles-but-the-economics-will-face-a-real-world-test-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T08:55:55+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "HeyMax's new 'First' product offers users upfront travel miles, but analysts caution the underlying unit economics remain unproven at scale. Investors in loyalty and fintech-adjacent startups should watch how the model performs once redemption volumes rise beyond early adopters."
-    },
-    {
-      "title": "Precision hiring, AI readiness to define FY27 workforce landscape: report",
-      "url": "https://yourstory.com/2026/07/precision-hiring-ai-readiness-define-fy27-workforce-landscape",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T08:49:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A new report projects that precision hiring and AI readiness will shape India's workforce trends heading into FY27. For GPs, this underscores rising enterprise demand for AI-skilling and workforce-tech solutions, a signal for continued investment in HR and future-of-work startups."
-    },
-    {
-      "title": "Worldmodeldata lands £7M to turn gaming data into AI training",
-      "url": "https://tech.eu/2026/07/06/worldmodeldata-lands-ps7m-to-turn-gaming-data-into-ai-training/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T08:45:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Worldmodeldata secured £7M to convert gaming data into training datasets for AI models, tapping into the growing demand for high-quality synthetic and simulation-based training data. The raise underscores investor interest in specialized data infrastructure supporting large-scale AI model development."
-    },
-    {
-      "title": "France’s Skello secures €200 million to grow its AI tools for frontline workforce management",
-      "url": "https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T08:38:44+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "French startup Skello raised a substantial €200M to scale its AI-driven workforce management tools targeting frontline and shift-based employees. The large round signals strong investor conviction in vertical SaaS solutions applying AI to operational HR challenges."
-    },
-    {
-      "title": "Suzuki-backed Next Bharat Ventures announces Rs 2,000 Cr impact fund",
-      "url": "https://yourstory.com/2026/07/suzuki-backed-next-bharat-ventures-announces-rs-2000-cr-impact-fund",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T08:14:49+00:00",
-      "topics": [
-        "Funds & LPs"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Next Bharat Ventures, backed by Suzuki, has launched a Rs 2,000 crore impact fund targeting sustainability and mobility-linked startups in India. The fund reflects growing corporate-backed impact investing activity and strategic auto-sector interest in India's green transition."
-    },
-    {
-      "title": "Qapita launches ESOP SPV for Singapore-incorporated entities",
-      "url": "https://e27.co/qapita-launches-esop-spv-for-singapore-incorporated-entities-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T08:03:01+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "Equity management platform Qapita has launched an ESOP special-purpose vehicle structure tailored for Singapore-incorporated companies. This gives regional startups a cleaner mechanism for employee equity pooling, easing cap-table complexity ahead of funding rounds or exits."
-    },
-    {
-      "title": "A miragem do faturamento na Era da IA",
-      "url": "https://startupi.com.br/a-miragem-do-faturamento-na-era-da-ia/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T08:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The piece critiques inflated revenue narratives among AI-era startups, suggesting many top-line gains are illusory or unsustainable. This is a relevant read for LPs assessing whether AI portfolio company growth metrics reflect durable business fundamentals or temporary hype."
-    },
-    {
-      "title": "European tech weekly recap: More than 55 tech funding deals worth over €1.6B",
-      "url": "https://tech.eu/2026/07/06/european-tech-weekly-recap-more-than-55-tech-funding-deals-worth-over-eur16b/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T08:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "Tech.eu's weekly recap shows European startups closed over 55 funding deals totaling more than €1.6B, signaling continued deal flow despite broader market caution. This aggregate view helps LPs and GPs benchmark regional deployment pace across sectors and stages."
-    },
-    {
-      "title": "Como o valuation da SpaceX virou o teste definitivo entre técnica e emoção?",
-      "url": "https://startupi.com.br/como-o-valuation-da-spacex-virou-o-teste-definitivo-entre-tecnica-e-emocao/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T08:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion",
-        "Exits & M&A"
-      ],
-      "category": "Market & Data",
-      "summary": "This analysis explores how SpaceX's valuation has become a flashpoint debate between rigorous technical/financial modeling and investor sentiment-driven pricing. It's instructive for GPs and LPs grappling with valuation methodology in late-stage private markets amid AI and space-tech enthusiasm."
-    },
-    {
-      "title": "Maior gestora global gira radar para a América Latina e sinaliza novo teto no topo do ciclo de IA",
-      "url": "https://startupi.com.br/maior-gestora-global-gira-radar-para-a-america-latina-e-sinaliza-novo-teto-no-topo-do-ciclo-de-ia/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-06T08:00:00+00:00",
-      "topics": [
-        "Funds & LPs",
-        "Market & Data",
-        "AI & Deep Tech"
-      ],
-      "category": "Funds & LPs",
-      "summary": "A major global asset manager is reportedly shifting focus toward Latin America while flagging signs that the AI investment cycle may be nearing a valuation ceiling. This signals a potential rotation of institutional capital and warrants attention from LPs monitoring cycle-top risk in AI-heavy portfolios."
-    },
-    {
-      "title": "Naukri launches an AI recruitment platform in India for smarter hiring",
-      "url": "https://yourstory.com/2026/07/naukri-launches-ai-recruitment-platform-india",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T07:59:22+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Naukri has rolled out an AI-driven recruitment platform aimed at improving hiring efficiency in India. This signals incumbent job platforms racing to embed AI tools before newer HR-tech startups capture enterprise recruiting budgets, a trend LPs should watch in the HR-tech vertical."
-    },
-    {
-      "title": "Nykaa expects Q1 revenue growth near 30%, led by fashion",
-      "url": "https://www.techinasia.com/indias-nykaa-targets-high20-gmv-growth-q4",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:46:17+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Indian beauty and fashion e-commerce player Nykaa projects roughly 30% revenue growth for the quarter, driven primarily by its fashion vertical. The guidance signals continued strength in India's online retail sector and offers a data point for investors evaluating consumer internet growth trajectories."
-    },
-    {
-      "title": "Nykaa Shares Hit 52-Week High After Bullish Q1 Growth Outlook",
-      "url": "https://inc42.com/buzz/nykaa-shares-hit-52-week-high-after-bullish-q1-growth-outlook/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T07:33:42+00:00",
-      "topics": [
-        "Market & Data",
-        "Exits & M&A"
-      ],
-      "category": "Market & Data",
-      "summary": "Nykaa's stock reached a 52-week high following an optimistic first-quarter growth forecast, reflecting renewed investor confidence in India's beauty and D2C e-commerce sector. This performance is a positive signal for public market sentiment toward consumer internet companies with VC backing."
-    },
-    {
-      "title": "Why Antler is backing Chinese founders building away from China",
-      "url": "https://e27.co/why-antler-is-backing-chinese-founders-building-away-from-china-20260706/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:30:32+00:00",
-      "topics": [
-        "Funds & LPs",
-        "People"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Antler is actively backing Chinese founders who are building startups outside mainland China, betting on diaspora entrepreneurial talent amid geopolitical and regulatory friction at home. This reflects a broader VC trend of sourcing Chinese founder talent for global-facing companies domiciled elsewhere."
-    },
-    {
-      "title": "Zeta Founder Bhavin Turakhia Launches Enterprise AI Startup Neo",
-      "url": "https://inc42.com/buzz/zeta-founder-bhavin-turakhia-launches-enterprise-ai-startup-neo/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T07:22:51+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech",
-        "People"
-      ],
-      "category": "Funding",
-      "summary": "Serial entrepreneur Bhavin Turakhia, known for founding Zeta and other ventures, has launched a new enterprise AI startup called Neo. His track record and reputation are likely to attract early investor interest as the company enters the competitive enterprise AI space."
-    },
-    {
-      "title": "Meituan open-sources LongCat-2.0 AI model",
-      "url": "https://www.techinasia.com/meituan-set-loss-2022-delivery-price-war-heats",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:16:57+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Meituan has open-sourced its LongCat-2.0 large language model, joining other Chinese tech firms in releasing AI models publicly to build developer ecosystems and compete globally. This move could accelerate adoption of Chinese-origin models and pressure proprietary AI providers on pricing and openness."
-    },
-    {
-      "title": "Nykaa expects nearly 30% net revenue growth in Q1 on strong fashion sales",
-      "url": "https://yourstory.com/2026/07/nykaa-expects-net-revenue-growth-q1-on-strong-fashion-sales",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T07:06:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Nykaa projects nearly 30% net revenue growth for Q1, driven by strong performance in its fashion vertical. The guidance signals continued momentum for India's beauty-and-fashion e-commerce leader, a useful data point for investors tracking consumer tech valuations."
-    },
-    {
-      "title": "Next Bharat Ventures Launches ₹2,000 Cr Second Impact Fund",
-      "url": "https://inc42.com/buzz/next-bharat-ventures-launches-%e2%82%b92000-cr-second-impact-fund/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-06T07:06:03+00:00",
-      "topics": [
-        "Funds & LPs"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Next Bharat Ventures has launched its second impact fund with a corpus of ₹2,000 crore, aiming to back mission-driven startups in India. This signals continued LP appetite for impact-focused investment vehicles targeting underserved markets and sustainable business models."
-    },
-    {
-      "title": "Generate parametric, manufacturable 3D models in seconds",
-      "url": "https://kyrall.com/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T07:04:33+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A new tool promises to generate manufacturable, parametric 3D models within seconds, likely leveraging generative AI for CAD workflows. This signals continued momentum in AI-assisted design tools targeting hardware and manufacturing sectors, an area GPs are increasingly watching for deep-tech crossover plays."
-    },
-    {
-      "title": "From Grid Constraints to Energy Abundance: How Envision's Gobi X Could Power Europe's AI Future [Sponsored]",
-      "url": "https://tech.eu/2026/07/06/from-grid-constraints-to-energy-abundance-how-envisions-gobi-x-could-power-europes-ai-future/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T07:02:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This sponsored piece argues that Envision's Gobi X initiative could resolve grid bottlenecks limiting data-center and AI expansion across Europe. For infrastructure-focused investors, it frames energy abundance as a prerequisite for scaling compute-heavy AI businesses."
-    },
-    {
-      "title": "Huawei Mate 90 series reportedly to feature new Kirin 2026 chip based on Tao (τ) Law",
-      "url": "https://technode.com/2026/07/06/huawei-mate-90-series-reportedly-to-feature-new-kirin-2026-chip-based-on-tao-%cf%84-law/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:00:19+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Huawei's upcoming Mate 90 series is rumored to include a new Kirin 2026 chip built on a novel 'Tao Law' architecture, signaling continued domestic semiconductor innovation amid export restrictions. This matters for deep-tech investors tracking China's chip self-sufficiency progress."
-    },
-    {
-      "title": "Replacing 100 AI subscriptions with one",
-      "url": "https://www.techinasia.com/replacing-100-ai-subscriptions",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:00:04+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A commentary piece explores the shift toward consolidated AI platforms that replace dozens of fragmented point-solution subscriptions with a single unified tool. This reflects a broader market trend toward AI platform consolidation that could reshape competitive positioning for narrow AI SaaS startups."
-    },
-    {
-      "title": "Build for the new AI era with Microsoft and NVIDIA",
-      "url": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-06T07:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Events"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Microsoft and NVIDIA are promoting joint resources and infrastructure aimed at helping companies build products for the current AI wave, likely tied to a partnership or developer event. This reflects continued platform-level investment by major tech incumbents, which shapes the competitive and infrastructure landscape startups must navigate."
-    },
-    {
-      "title": "50 rising startups in Japan",
-      "url": "https://www.techinasia.com/50-rising-startups-japan",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T07:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "This feature profiles 50 emerging startups in Japan, spotlighting early-stage companies gaining traction across sectors. It gives GPs and LPs visibility into Japan's next generation of venture-backed companies ahead of larger funding rounds."
     },
     {
       "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
