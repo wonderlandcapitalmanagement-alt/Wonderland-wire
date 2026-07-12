@@ -1,6 +1,88 @@
 {
-  "updated": "2026-07-12T07:50:06.200722+00:00",
+  "updated": "2026-07-12T12:08:28.474526+00:00",
   "items": [
+    {
+      "title": "IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11",
+      "url": "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T11:22:42+00:00",
+      "topics": [
+        "Market & Data",
+        "Opinion"
+      ],
+      "category": "Market & Data",
+      "summary": "IT administrators are voicing frustration over Microsoft's bundled apps and Windows 11 changes, reflecting broader enterprise dissatisfaction with incumbent software providers. This discontent could open opportunities for startups building leaner enterprise IT alternatives."
+    },
+    {
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T11:18:32+00:00",
+      "topics": [
+        "Policy"
+      ],
+      "category": "Policy",
+      "summary": "A harrowing report describes decades-long forced labor of a woman in Brazil across three generations of one family. While outside typical VC coverage, it underscores ongoing human rights and labor policy issues relevant to ESG-focused investors."
+    },
+    {
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T11:09:42+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Mathematician Terry Tao reflects on using modern AI coding agents to build both legacy-style and new software applications. His hands-on account offers a credible technical assessment of AI coding tools' current capabilities, useful for investors gauging developer-tool maturity."
+    },
+    {
+      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T10:23:25+00:00",
+      "topics": [
+        "AI & Deep Tech",
+        "Policy",
+        "Market & Data"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "New data shows that data centers powering big tech's AI ambitions now generate carbon emissions comparable to a third of France's total output. This raises pressure for regulatory scrutiny and could influence energy-related infrastructure investments tied to AI scaling."
+    },
+    {
+      "title": "20 largest exits in India",
+      "url": "https://www.techinasia.com/20-largest-exits-india",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-12T09:00:00+00:00",
+      "topics": [
+        "Exits & M&A",
+        "Market & Data"
+      ],
+      "category": "Exits & M&A",
+      "summary": "A roundup of India's 20 largest startup exits offers LPs a benchmark for realized returns and liquidity trends in one of the world's fastest-growing venture markets. This data point is useful for assessing exit multiples and market maturity relative to global peers."
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-12T08:52:59+00:00",
+      "topics": [
+        "AI & Deep Tech"
+      ],
+      "category": "AI & Deep Tech",
+      "summary": "Ghostel.el is a new terminal emulator built on the libghostty library, appealing to developers seeking lightweight, fast terminal tools. Niche infrastructure projects like this often signal broader trends in developer tooling that VCs track for early-stage bets."
+    },
     {
       "title": "Indonesia’s top-funded tech companies in the last decade",
       "url": "https://www.techinasia.com/visual-story/indonesias-topfunded-tech-companies-decade",
@@ -12072,89 +12154,6 @@
       ],
       "category": "Policy",
       "summary": "Apple has reinstated card payment options for App Store and iCloud purchases in India after a prior restriction, likely in response to regulatory or banking network pressures. This affects consumer payment flows and could influence digital transaction trends in one of Apple's key growth markets."
-    },
-    {
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T09:38:36+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A developer-built real-time visualization tool tracks train positions across Great Britain's rail network. While not a funded venture, it illustrates the growing ease of building public data dashboards from open transit APIs, a trend relevant to founders building infrastructure or logistics tools."
-    },
-    {
-      "title": "Alibaba Cloud holds 40.1% of China’s AI cloud market",
-      "url": "https://www.techinasia.com/alibaba-cloud-cuts-nvidia-gpu-use-by-82-with-aegaeon-system",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T09:36:38+00:00",
-      "topics": [
-        "Market & Data",
-        "AI & Deep Tech"
-      ],
-      "category": "Market & Data",
-      "summary": "New data shows Alibaba Cloud commands over 40% of China's AI cloud infrastructure market, reinforcing its dominant position as enterprises scale AI workloads. This concentration matters for investors tracking competitive dynamics among Chinese cloud providers and downstream AI startups reliant on their infrastructure."
-    },
-    {
-      "title": "UBTECH says full-size humanoid robots typically run for only two to four hours amid U1 battery criticism",
-      "url": "https://technode.com/2026/07/06/ubtech-says-full-size-humanoid-robots-typically-run-for-only-two-to-four-hours-amid-u1-battery-criticism/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-07-06T09:18:05+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "UBTECH acknowledged that its full-size humanoid robots, including the U1, only operate for two to four hours before recharging, addressing criticism about real-world usability. This highlights ongoing hardware limitations that investors in humanoid robotics must weigh against inflated commercial timelines."
-    },
-    {
-      "title": "Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine compounding",
-      "url": "https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-06T09:16:41+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "CurifyLabs' €12M raise will fund expansion of its 3D printing-based personalized medicine compounding platform out of Finland. The deal underscores investor appetite for manufacturing innovation in pharma tailored to individual patient needs."
-    },
-    {
-      "title": "Meet the 50 top-funded startups and tech companies in Japan",
-      "url": "https://www.techinasia.com/top-funded-startups-tech-companies-japan",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-06T09:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "A roundup highlights Japan's 50 most well-capitalized startups and tech companies, offering a snapshot of where venture capital is concentrating in the market. This list serves as a useful benchmark for LPs assessing Japan's maturing startup ecosystem and identifying breakout sectors."
-    },
-    {
-      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-06T09:00:00+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Chinese smart glasses startup Even Realities raised $150M from Meituan and Tencent, pushing its valuation to $1B. The round signals strong corporate appetite for wearable AI hardware in China and positions the company as a serious rival to established smart glasses players."
     },
     {
       "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
