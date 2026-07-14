@@ -1,6 +1,266 @@
 {
-  "updated": "2026-07-14T18:47:48.202219+00:00",
+  "updated": "2026-07-14T23:38:03.652548+00:00",
   "items": [
+    {
+      "title": "Melbourne’s Maku The Label calls out ASOS for allegedly copying design",
+      "url": "https://www.smartcompany.com.au/retail/melbourne-maku-the-label-calls-out-asos-allegedly-copying-design/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-14T23:24:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Lorde says AI glasses are “not sexy”",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T23:10:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Linear is always a lagging indicator",
+      "url": "https://remark.ing/rob/rob.mw/-/Linear-is-always-a",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T22:52:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "QR-Swastika-Avoider",
+      "url": "https://crates.io/crates/qr-swastika-avoider",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T22:46:41+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Albanese takes control of ‘Office of AI’ amid data centre push",
+      "url": "https://www.startupdaily.net/topic/politics-news-analysis/albanese-takes-control-of-office-of-ai-amid-data-centre-push/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-14T22:34:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T22:30:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Zomato Piloting AI-Powered Voice Bot For Food Delivery",
+      "url": "https://inc42.com/buzz/zomato-piloting-ai-powered-voice-bot-for-food-delivery/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-14T22:23:42+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T22:22:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T22:07:42+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T21:58:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T21:50:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T21:15:51+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+      "url": "https://github.com/logxio/picchio",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T21:06:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TripWip raises $4.2M seed round",
+      "url": "https://latamlist.com/tripwip-raises-4-2m-seed-round/",
+      "source": "LatamList",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-14T20:43:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T19:55:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",
+      "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T19:48:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T19:42:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic’s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T19:41:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T19:39:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft deleted my account and OneDrive",
+      "url": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T18:54:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Lucid Motors denies report it’s considering bankruptcy",
       "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
@@ -21,6 +281,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-07-14T18:33:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T17:58:35+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -229,6 +502,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-07-14T15:24:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T15:20:36+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -502,6 +788,19 @@
       "region": "US",
       "kind": "press",
       "published": "2026-07-14T13:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T12:50:29+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -1289,12 +1588,38 @@
       "summary": ""
     },
     {
+      "title": "Expat Startmate startup Gridcog powers up on $14 million Series A",
+      "url": "https://www.startupdaily.net/topic/funding/expat-startmate-startup-gridcog-powers-up-on-14-million-series-a/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-14T07:34:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Why some years change your life and others simply disappear",
       "url": "https://yourstory.com/2026/07/years-change-life-others-disappear",
       "source": "YourStory",
       "region": "India",
       "kind": "press",
       "published": "2026-07-14T07:23:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SEA financials tracker: BillEase’s profit jumps 56%",
+      "url": "https://www.techinasia.com/visual-story/financial-tracker-sea-tech-companies",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T07:14:56+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11524,238 +11849,6 @@
       "summary": "DevSparks Hyderabad returns as a developer-focused event spotlighting agentic AI, cybersecurity, and software engineering trends. Such gatherings serve as pipeline and networking touchpoints for AI-focused founders and early-stage investors tracking enterprise tech shifts."
     },
     {
-      "title": "DJI launches AP100 parachute system for Matrice 400 enterprise drone",
-      "url": "https://technode.com/2026/07/09/dji-launches-ap100-parachute-system-for-matrice-400-enterprise-drone/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-07-09T02:26:25+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "DJI introduced a parachute safety system for its Matrice 400 enterprise drone, aimed at improving compliance and safety for commercial drone operations. The launch reflects continued hardware innovation in the enterprise drone market, relevant to deep-tech investors tracking robotics and aerial systems."
-    },
-    {
-      "title": "A step-by-step framework to build your AI adoption roadmap for B2C service businesses",
-      "url": "https://e27.co/a-step-by-step-framework-to-build-your-ai-adoption-roadmap-for-b2c-service-businesses-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T02:15:58+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The article offers a practical framework for B2C service businesses to plan and implement AI adoption strategies. It's useful guidance for operators and investors assessing how portfolio companies can systematically integrate AI capabilities."
-    },
-    {
-      "title": "Allianz to cut up to 1,800 jobs as AI expands",
-      "url": "https://www.techinasia.com/insight-partners-leads-80m-round-for-financial-advisors-ai-startup",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T02:13:15+00:00",
-      "topics": [
-        "People",
-        "AI & Deep Tech"
-      ],
-      "category": "People",
-      "summary": "Insurance giant Allianz plans to cut up to 1,800 jobs as it scales AI adoption across operations. The move underscores how large incumbents are restructuring workforces in response to automation, a trend that could reshape enterprise demand for AI vendors and startups."
-    },
-    {
-      "title": "Singapore tech firm NCS expands enterprise AI suite",
-      "url": "https://www.techinasia.com/singtel-subsidiary-ncs-launches-1014m-ai-push-apac",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T02:02:35+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Singapore-based NCS is broadening its enterprise AI product suite, reflecting growing corporate demand for AI tools in Southeast Asia. This expansion by an established tech services player signals competitive pressure on regional AI startups seeking enterprise contracts."
-    },
-    {
-      "title": "The AI-quantum collision: Navigating the 2026 infrastructure inflection point",
-      "url": "https://e27.co/the-ai-quantum-collision-navigating-the-2026-infrastructure-inflection-point-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T02:00:52+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This analysis explores how the convergence of AI and quantum computing could create a major infrastructure inflection point by 2026, with implications for compute demand and capital allocation. LPs and GPs focused on deep tech should watch this intersection as a potential source of next-generation infrastructure investment opportunities."
-    },
-    {
-      "title": "A sweet(ener) story; Adage Automation gets fresh capital",
-      "url": "https://yourstory.com/2026/07/a-sweetener-story-sweet-change-adage-automation",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-09T02:00:00+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Adage Automation raised fresh capital, reportedly tied to a sweetener/consumer or industrial automation angle. The round adds to the steady flow of smaller-ticket funding into India's automation and industrial tech sector."
-    },
-    {
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-09T01:56:28+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A personal essay describes fatigue from constant engagement with large language models, reflecting broader user sentiment around AI tool overload. For GPs, this signals emerging market fatigue risk that could affect adoption curves and retention metrics for AI-native products."
-    },
-    {
-      "title": "From ESG dashboards to delivery: Where Southeast Asia’s sustainability startups should build",
-      "url": "https://e27.co/from-esg-dashboards-to-delivery-where-southeast-asias-sustainability-startups-should-build-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T01:45:16+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "This commentary argues Southeast Asian sustainability founders should shift focus from ESG reporting tools toward operational sectors like logistics and delivery, where measurable environmental impact and revenue can align. For investors, it signals where climate-adjacent deal flow may concentrate next in the region."
-    },
-    {
-      "title": "Telstra fails again with 2nd triple zero outage, more train delays",
-      "url": "https://www.startupdaily.net/topic/business/telstra-fails-again-with-2nd-triple-zero-outage-more-train-delays/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-09T01:39:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Telstra experienced a second outage affecting its emergency triple-zero line alongside ongoing train delays, raising fresh concerns about critical infrastructure reliability. For investors, repeated failures highlight systemic risk in incumbent telecom infrastructure and potential opportunities for resilience-focused tech providers."
-    },
-    {
-      "title": "Why traditional hiring won’t work for APAC’s AI roles",
-      "url": "https://e27.co/why-traditional-hiring-wont-work-for-apacs-ai-roles-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T01:30:53+00:00",
-      "topics": [
-        "People",
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "People",
-      "summary": "The piece contends that conventional recruiting playbooks fail to capture the skills and mindset needed for AI-focused roles across Asia-Pacific, urging companies to rethink job criteria and sourcing. This matters to GPs building portfolio teams, as talent bottlenecks could slow AI product development regionally."
-    },
-    {
-      "title": "Most Southeast Asian startups sound the same, that is not an accident",
-      "url": "https://e27.co/most-southeast-asian-startups-sound-the-same-that-is-not-an-accident-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T01:15:54+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "An analysis suggests the homogeneity in Southeast Asian startup branding and positioning stems from shared investor expectations, accelerator templates, and market pressures rather than coincidence. LPs evaluating regional deal flow should note this pattern when assessing differentiation and competitive moats."
-    },
-    {
-      "title": "ASIC expands probe into Big Four audit firms after KPMG allegations",
-      "url": "https://www.smartcompany.com.au/finance/asic-probe-big-four-audit-firms-kpmg-allegations/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-09T01:02:14+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Australia's corporate regulator ASIC is widening its investigation into the Big Four accounting firms following fresh allegations against KPMG. Increased scrutiny of major auditors could affect governance and compliance costs for portfolio companies and funds operating in Australia."
-    },
-    {
-      "title": "The next phase of business: We are moving to AI crews",
-      "url": "https://e27.co/the-next-phase-of-business-we-are-moving-to-ai-crews-20260708/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-09T01:00:19+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The article forecasts a shift from individual AI tools to orchestrated 'AI crews'—multiple autonomous agents collaborating on business tasks—as the next evolution in enterprise AI adoption. This has implications for how GPs assess AI-native startups building agentic workflows rather than single-point solutions."
-    },
-    {
-      "title": "The Australian retail brands disappearing from our shopping centres in 2026",
-      "url": "https://www.smartcompany.com.au/retail/disappearing-retailers-australia-2026/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-09T00:57:19+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A wave of well-known Australian retail brands is set to exit shopping centres in 2026, reflecting ongoing structural pressure on physical retail. The trend is a signal for investors tracking consumer spending shifts and commercial real estate exposure."
-    },
-    {
-      "title": "Science and deep tech startups plead for consultation with Treasurer before RDTI changes cause more damage",
-      "url": "https://www.startupdaily.net/topic/politics-news-analysis/science-and-deep-tech-startups-plead-for-consultation-with-treasurer-before-rdti-changes-cause-more-damage/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-09T00:51:20+00:00",
-      "topics": [
-        "Policy",
-        "AI & Deep Tech"
-      ],
-      "category": "Policy",
-      "summary": "Deep tech and science startups are urging Australia's Treasurer to consult industry before finalizing changes to the R&D Tax Incentive, warning that hasty reforms could harm innovation funding. This is a critical policy watchpoint for GPs backing capital-intensive deep tech ventures reliant on R&D credits."
-    },
-    {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-09T00:32:33+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The piece discusses remote attestation, a security technique for verifying the integrity of remote systems, increasingly relevant as AI infrastructure and confidential computing scale. It's a technical deep-dive relevant to investors evaluating trust and security layers in AI/cloud stacks."
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-09T00:27:57+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "MIRA is a new multiplayer interactive world model trained using Rocket League gameplay, advancing research into simulated environments for reinforcement learning and embodied AI. This reflects growing investor interest in world-model research as a frontier for next-gen AI agents and simulation-based training."
-    },
-    {
       "title": "8.9 Million AI Users",
       "url": "https://www.tomtunguz.com/ollama-series-b/",
       "source": "Tomasz Tunguz",
@@ -11768,102 +11861,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Tomasz Tunguz cites a data point—8.9 million AI users—to illustrate adoption trends in a specific AI product or category, offering benchmark context for growth expectations. Such figures help GPs calibrate valuation and TAM assumptions for AI-native startups."
-    },
-    {
-      "title": "Telstra outage: Regional train disruptions continue into Thursday",
-      "url": "https://www.smartcompany.com.au/telecommunications/telstra-outage-train-disruptions-vline-trainlink/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-08T23:54:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A Telstra network outage has caused ongoing disruptions to regional train services into Thursday. The incident highlights infrastructure fragility risks relevant to investors in telecom-dependent transit and logistics operators."
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T23:37:43+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Under an FTC settlement, John Deere must grant equipment owners the right to repair their own machinery, a win for right-to-repair advocates. This regulatory shift could ripple into ag-tech and hardware startups, affecting business models reliant on locked-down repair ecosystems."
-    },
-    {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T23:27:14+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A comparative test had leading frontier models—Grok 4.5, GPT-5.5, and Claude—build identical applications to benchmark real-world coding capability. Such head-to-head evaluations are increasingly used by investors to gauge competitive positioning among foundation model providers."
-    },
-    {
-      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-      "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T23:11:42+00:00",
-      "topics": [
-        "Policy",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "A federal judge approved Elon Musk's $1.5M settlement with the SEC despite expressing reservations about the terms. The case underscores ongoing regulatory scrutiny of Musk's public statements and disclosure practices, relevant for governance-minded investors tracking founder-related legal risk."
-    },
-    {
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T22:41:33+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "AI coding startup Lovable is reportedly negotiating a new round that would double its valuation to $13.2B, reflecting continued investor enthusiasm for AI-native development tools. The jump highlights how quickly capital is flowing into generative AI infrastructure and application layers."
-    },
-    {
-      "title": "WA government tips another $6.5 million into the local space sector",
-      "url": "https://www.startupdaily.net/topic/space/wa-government-tips-another-6-5-million-into-the-local-space-sector/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-08T22:35:00+00:00",
-      "topics": [
-        "Funds & LPs",
-        "Policy"
-      ],
-      "category": "Funds & LPs",
-      "summary": "Western Australia's government committed an additional $6.5 million to bolster its regional space industry, continuing state-level efforts to build sovereign space capability. This funding signals growing public-sector support that could de-risk early-stage space startups and attract co-investment."
-    },
-    {
-      "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
-      "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-08T22:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Grok 4.5 launched at roughly half the price of comparable models from OpenAI and Anthropic, signaling aggressive pricing competition in the foundation model market. This could pressure margins and strategy for rival labs and reshape enterprise AI procurement decisions that GPs should monitor closely."
     },
     {
       "title": "Tilt acquires Blipay to expand into Brazil’s consumer lending market",
@@ -12476,19 +12473,6 @@
       ],
       "category": "Market & Data",
       "summary": ""
-    },
-    {
-      "title": "Jota raises $30M Series A at $185M valuation",
-      "url": "https://latamlist.com/jota-raises-30m-series-a-at-185m-valuation/",
-      "source": "LatamList",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-01T22:53:57+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Jota raised a $30M Series A at a $185M valuation, marking a strong step-up for the company. The round reflects sustained investor appetite for scaling fintech or software players in the region at healthy valuation multiples."
     },
     {
       "title": "Hollywood's AI Anxiety on Full Display as Google's A24 Investment Draws Fire",
