@@ -1,6 +1,513 @@
 {
-  "updated": "2026-07-14T12:55:08.234273+00:00",
+  "updated": "2026-07-14T18:47:48.202219+00:00",
   "items": [
+    {
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T18:47:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T18:33:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T17:50:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T17:45:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T17:00:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:57:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
+      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:56:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:45:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:36:06+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "You Just Hired a Million Bad Employees",
+      "url": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
+      "source": "a16z",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-14T16:33:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:22:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "O fator humano como firewall: por que o treinamento em segurança é o melhor ROI de 2026",
+      "url": "https://startupi.com.br/o-fator-humano-como-firewall/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-14T16:15:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:06:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Valor Capital lidera rodada Série A de US$ 18 milhões na fintech mexicana Aviva",
+      "url": "https://startupi.com.br/valor-capital-lidera-rodada-serie-a/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-14T16:05:04+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T16:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Fintechs concedem R$ 53,8 bilhões em crédito e consolidam nova fase da transformação financeira no Brasil",
+      "url": "https://startupi.com.br/fintechs-concedem-r-538-bilhoes-em-credito/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-07-14T15:54:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "BiofuelCircle Raises ₹35 Cr To Expand Its Biomass Supply Chain Ecosystem",
+      "url": "https://inc42.com/buzz/biofuelcircle-raises-%e2%82%b935-cr-to-expand-its-biomass-supply-chain-ecosystem/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-14T15:49:43+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T15:24:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T15:18:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T15:17:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
+      "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T15:14:40+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "5 Lesser-known novels that deserve a wider audience",
+      "url": "https://yourstory.com/2026/06/5-lesser-known-novels",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-14T14:50:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:45:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:39:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:37:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Dutch startup Destinus leads consortium to develop anti-missile defence system for Europe",
+      "url": "https://www.eu-startups.com/2026/07/dutch-startup-destinus-leads-consortium-to-develop-anti-missile-defence-system-for-europe/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-14T14:30:01+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:24:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "$500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov",
+      "url": "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-14T14:10:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:10:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:06:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Udaan Lines Up $160 Mn Financing Round To Strengthen Balance Sheet",
+      "url": "https://inc42.com/buzz/udaan-lines-up-160-mn-financing-round-to-strengthen-balance-sheet/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-14T14:00:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T14:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "StratX raises $1.19M to tackle landfill methane with living biocovers",
+      "url": "https://tech.eu/2026/07/14/stratx-raises-119m-to-tackle-landfill-methane-with-living-biocovers/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-14T13:23:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Byju Raveendran says Singapore appeal remains pending as legal team disputes reports on contempt case",
+      "url": "https://yourstory.com/2026/07/byju-raveendran-says-singapore-appeal-remains-pending",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-14T13:23:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "MeOut Summit: Bringing Europe’s startup ecosystem to Budapest this November",
+      "url": "https://www.eu-startups.com/2026/07/meout-summit-bringing-europes-startup-ecosystem-to-budapest-this-november/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-14T13:17:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Serena Williams Fit-Dex",
+      "url": "https://serena-williams-fitdex.netlify.app/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T13:12:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "HTG Medical raises €450k and secures MDR certification to automate ICU urine monitoring",
+      "url": "https://tech.eu/2026/07/14/htg-medical-raises-eur450k-and-secures-mdr-certification-to-automate-icu-urine-monitoring/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-14T13:06:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-14T13:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-14T13:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "5 Must-read books to add to your reading list in June 2026",
       "url": "https://yourstory.com/2026/05/top-5-books-to-read-in-june-2026",
@@ -21,6 +528,32 @@
       "region": "India",
       "kind": "press",
       "published": "2026-07-14T12:49:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T12:41:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T12:40:50+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -54,12 +587,38 @@
       "summary": ""
     },
     {
+      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
+      "url": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T12:30:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Coding agents think ahead of time",
       "url": "https://arxiv.org/abs/2607.05188",
       "source": "Hacker News",
       "region": "Global",
       "kind": "press",
       "published": "2026-07-14T12:28:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Differentiable Fortran with LFortran and Enzyme",
+      "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T12:21:46+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -93,6 +652,19 @@
       "summary": ""
     },
     {
+      "title": "Do You Have a “Pricing Gap” Holding Back Sales? Many Do",
+      "url": "https://www.saastr.com/do-you-have-a-pricing-gap-holding-back-sales-many-do/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-14T12:10:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Bengaluru at 500: Krishna Byre Gowda's plan to fix the city",
       "url": "https://yourstory.com/2026/07/bengaluru-at-500-krishna-byre-gowdas-plan-to-fix-the-city",
       "source": "YourStory",
@@ -112,6 +684,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-07-14T11:49:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T11:46:02+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -249,6 +834,19 @@
       "summary": ""
     },
     {
+      "title": "These are the most active investors in Thailand’s startups",
+      "url": "https://www.techinasia.com/active-investors-thailands-startups",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T11:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "The great digital fatigue: How digital burnout is changing social media use",
       "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
       "source": "Hacker News",
@@ -353,6 +951,19 @@
       "summary": ""
     },
     {
+      "title": "Samsung denies report on US share offering",
+      "url": "https://www.techinasia.com/samsung-q2-profit-19x-ai-memory-demand",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T09:56:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "RAROG secures €162K to turn everyday devices into life-saving rescue beacons",
       "url": "https://tech.eu/2026/07/14/rarog-secures-eur162k-to-turn-everyday-devices-into-life-saving-rescue-beacons/",
       "source": "Tech.eu",
@@ -372,6 +983,19 @@
       "region": "India",
       "kind": "press",
       "published": "2026-07-14T09:45:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia cuts AI chip sales to Asian customers",
+      "url": "https://www.techinasia.com/nvidia-backs-firmus-planned-indonesia-data-center",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T09:36:51+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -431,12 +1055,38 @@
       "summary": ""
     },
     {
+      "title": "Indian IT firm LTM says AI revenue outpaces core business",
+      "url": "https://www.techinasia.com/indian-tech-firm-ltm-partners-with-anthropic",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T09:18:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "IPO-Bound Zepto Eyes Premium Grocery Segment To Take On Blinkit, Instamart",
       "url": "https://inc42.com/buzz/ipo-bound-zepto-eyes-premium-grocery-segment-to-take-on-blinkit-instamart/",
       "source": "Inc42",
       "region": "India",
       "kind": "press",
       "published": "2026-07-14T09:17:03+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "20 largest exits in Japan",
+      "url": "https://www.techinasia.com/20-largest-exits-japan",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T09:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -470,6 +1120,19 @@
       "summary": ""
     },
     {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-14T08:34:57+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Ecosystem Roundup: Ransomware’s easiest targets are hiding in plain sight across SEA",
       "url": "https://e27.co/ecosystem-roundup-ransomwares-easiest-targets-are-hiding-in-plain-sight-across-sea-20260714/",
       "source": "e27",
@@ -483,12 +1146,38 @@
       "summary": ""
     },
     {
+      "title": "Hype, AI, and trapped money: The reality inside venture funds",
+      "url": "https://www.techinasia.com/venture-capitals-paper-valuation-problem",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T08:30:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Former Netflix payments team raises €7.2M to date for payment performance platform Nopan",
       "url": "https://tech.eu/2026/07/14/former-netflix-payments-leaders-raise-eur72m-to-make-account-to-account-payments-perform-at-scale/",
       "source": "Tech.eu",
       "region": "Europe",
       "kind": "press",
       "published": "2026-07-14T08:27:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Coupang wins court reprieve in South Korea FTC dispute",
+      "url": "https://www.techinasia.com/coupang-faces-us-hearing-on-regulations",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T08:26:23+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -522,6 +1211,19 @@
       "summary": ""
     },
     {
+      "title": "Samsung overtakes Apple in weak smartphone quarter",
+      "url": "https://www.techinasia.com/samsung-massproduces-ssd-upcoming-vera-rubin",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T08:20:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Muito tempo atrás, carroças duvidaram dos automóveis. Agora, os automóveis duvidam de si mesmos",
       "url": "https://startupi.com.br/muito-tempo-atras-carrocas-duvidaram-dos-automoveis-agora-eles-duvidam-de-si-mesmos/",
       "source": "Startupi",
@@ -541,6 +1243,19 @@
       "region": "LatAm",
       "kind": "press",
       "published": "2026-07-14T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SK Telecom to lead South Korea’s AI network project",
+      "url": "https://www.techinasia.com/sk-telecom-builds-ai-factory-software-with-nvidia",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-14T07:56:12+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -3250,20 +3965,6 @@
       "summary": "A personal travel narrative recounting a multi-country European rail trip, unrelated to venture capital or startups. Included here as general interest content rather than investment-relevant news."
     },
     {
-      "title": "European tech weekly recap: More than 70 tech funding deals worth over €2.8B",
-      "url": "https://tech.eu/2026/07/13/european-tech-weekly-recap-more-than-70-tech-funding-deals-worth-over-eur28b/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-13T08:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "Tech.eu's weekly roundup tallies over 70 funding deals worth more than €2.8bn across Europe, offering a pulse check on aggregate deal velocity and capital deployment. Such weekly aggregates help LPs and GPs benchmark regional funding momentum against prior periods."
-    },
-    {
       "title": "Com Brasil na dianteira, Citi dobra aposta na América Latina e renova visão sobre risco na região",
       "url": "https://startupi.com.br/com-brasil-na-dianteira-citi-dobra-aposta-na-america-latina-e-renova-visao-sobre-risco-na-regiao/",
       "source": "Startupi",
@@ -3288,6 +3989,20 @@
       ],
       "category": "Market & Data",
       "summary": ""
+    },
+    {
+      "title": "European tech weekly recap: More than 70 tech funding deals worth over €2.8B",
+      "url": "https://tech.eu/2026/07/13/european-tech-weekly-recap-more-than-70-tech-funding-deals-worth-over-eur28b/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-07-13T08:00:00+00:00",
+      "topics": [
+        "Market & Data",
+        "Funding"
+      ],
+      "category": "Market & Data",
+      "summary": "Tech.eu's weekly roundup tallies over 70 funding deals worth more than €2.8bn across Europe, offering a pulse check on aggregate deal velocity and capital deployment. Such weekly aggregates help LPs and GPs benchmark regional funding momentum against prior periods."
     },
     {
       "title": "Dinheiro na mesa, mas cadê o equity? A armadilha oculta nos US$ 3 bilhões das startups latino-americanas",
@@ -11151,183 +11866,6 @@
       "summary": "Grok 4.5 launched at roughly half the price of comparable models from OpenAI and Anthropic, signaling aggressive pricing competition in the foundation model market. This could pressure margins and strategy for rival labs and reshape enterprise AI procurement decisions that GPs should monitor closely."
     },
     {
-      "title": "Rewriting Bun in Rust",
-      "url": "https://bun.com/blog/bun-in-rust",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T21:49:59+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "The Bun JavaScript runtime team is rewriting core components in Rust, aiming for improved performance and reliability. This developer tooling evolution matters to GPs backing infrastructure and runtime startups competing in the fast-moving JS ecosystem."
-    },
-    {
-      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-      "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T21:49:33+00:00",
-      "topics": [
-        "Policy",
-        "AI & Deep Tech"
-      ],
-      "category": "Policy",
-      "summary": "Federal regulators have ordered autonomous vehicle companies to cease behaviors that obstruct first responders, citing safety concerns. This regulatory intervention signals tightening oversight of AV deployment and could shape compliance requirements and capital risk for companies in the space."
-    },
-    {
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T21:30:09+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A new benchmark tests AI coding agents against Databricks' massive multi-million-line codebase, providing real-world signal on enterprise-scale code comprehension and automation capability. This is a useful data point for investors assessing which AI coding tools can handle production-grade complexity."
-    },
-    {
-      "title": "OpenAI no longer recommends SWE-Bench Pro",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T21:03:51+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "OpenAI has quietly withdrawn its endorsement of SWE-Bench Pro as a preferred coding benchmark, signaling potential concerns about its reliability or relevance for evaluating frontier models. This matters to AI-focused investors tracking which benchmarks credibly measure real-world coding capability."
-    },
-    {
-      "title": "Fable is not a useful model",
-      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:41:33+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A critical technical post arguing that the Fable model underperforms or lacks practical utility compared to alternatives. Such community critiques help investors and technical diligence teams separate hype from substance in the crowded AI model landscape."
-    },
-    {
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "url": "https://github.com/linuxrebel/DocuBrowser",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:37:29+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A technical walkthrough on converting unstructured document collections into a searchable, retrieval-augmented knowledge base using modern embedding and indexing techniques. This reflects growing enterprise demand for RAG infrastructure, a space attracting significant venture interest."
-    },
-    {
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:37:03+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Google's AI-based deepfake detection tool was used to disprove a viral fabricated image involving Senator McConnell, highlighting growing reliance on automated verification tools amid rising synthetic media concerns. For GPs, this signals expanding commercial and policy demand for trust & safety infrastructure startups."
-    },
-    {
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:29:50+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech",
-        "Policy"
-      ],
-      "category": "Funding",
-      "summary": "QuantumDiamonds secured EU government backing to accelerate semiconductor manufacturing processes using quantum sensing technology. The support reflects Europe's push to bolster domestic chip capacity and reduce reliance on foreign fabs, a theme LPs tracking deep tech and sovereign tech funds should watch."
-    },
-    {
-      "title": "Multigres Supports Listen/Notify Across Pooled Connections",
-      "url": "https://multigres.com/blog/listen-notify",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:11:40+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Multigres, a distributed Postgres-compatible system, has added support for Listen/Notify functionality across pooled connections, improving real-time event handling at scale. This is a meaningful infrastructure update for developers building scalable data-intensive applications, an area of interest for deep-tech investors."
-    },
-    {
-      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
-      "url": "https://github.com/animesh-94/Onboard-CLI",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:09:03+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A new open-source tool, Onboard-CLI, uses LLMs combined with abstract syntax tree parsing to help developers visualize and understand unfamiliar codebases. It exemplifies the growing wave of AI-assisted developer tooling startups seeking to reduce onboarding friction."
-    },
-    {
-      "title": "Autonomous drone delivery startup Manna plots major US expansion",
-      "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:06:54+00:00",
-      "topics": [
-        "Market & Data",
-        "AI & Deep Tech"
-      ],
-      "category": "Market & Data",
-      "summary": "Drone delivery company Manna is expanding its autonomous delivery operations into the US market, signaling growing commercial viability of last-mile drone logistics. This expansion could pressure incumbents and attract new capital into the automated delivery sector."
-    },
-    {
-      "title": "FAANG Simulator",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:05:42+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "A satirical or educational simulator recreating the FAANG interview and career experience gained traction on Hacker News. It reflects continued community fascination with big tech hiring culture and compensation structures."
-    },
-    {
-      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
-      "url": "https://hnwork.app/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T20:00:04+00:00",
-      "topics": [
-        "People",
-        "Market & Data"
-      ],
-      "category": "People",
-      "summary": "Hnwork.app provides a cleaner interface for browsing Hacker News' recurring 'Who is hiring' threads, aggregating startup job postings. It's a small but useful signal source for tracking hiring velocity and demand across early-stage tech companies."
-    },
-    {
       "title": "Tilt acquires Blipay to expand into Brazil’s consumer lending market",
       "url": "https://latamlist.com/tilt-acquires-blipay-to-expand-into-brazils-consumer-lending-market/",
       "source": "LatamList",
@@ -11341,380 +11879,12 @@
       "summary": "Fintech Tilt acquired Blipay to enter Brazil's consumer lending market, a strategic move to gain local licensing and distribution rather than building from scratch. This reflects ongoing cross-border consolidation among LatAm fintech players."
     },
     {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T19:30:16+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "xAI released Grok 4.5, which Elon Musk claims performs at an 'Opus-class' level, intensifying competition among frontier AI labs. The launch underscores the rapid pace of foundation model iteration that investors must track when evaluating AI infrastructure and application bets."
-    },
-    {
-      "title": "New Sweden: the US's long-lost 'secret' colony",
-      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T19:26:18+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "A historical retrospective on New Sweden, a little-known 17th-century Scandinavian colony in North America, offers cultural context rather than direct business relevance. Included here primarily as a human-interest/historical piece with no direct VC market implications."
-    },
-    {
-      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-      "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T19:22:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Roost launched a deliberately slow social app designed to counter the instant-gratification dynamics of mainstream platforms. The product reflects a broader consumer trend toward intentional, low-dopamine digital experiences that could interest early-stage consumer app investors."
-    },
-    {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T19:19:15+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A robotics startup argues the field is nearing a breakthrough moment akin to ChatGPT's emergence in language models, suggesting foundation-model-style generalization is coming to physical robotics. This thesis is likely to shape investor appetite for robotics foundation model plays going forward."
-    },
-    {
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T19:18:26+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Cloudflare has launched a new product or feature referred to as 'Drop,' though details are limited from the headline alone. Given Cloudflare's infrastructure influence, any new offering can ripple through developer tooling and security-adjacent startup ecosystems."
-    },
-    {
-      "title": "Your Agents Should Beat Your Best Reps, Not Match Them. And 14 Other Hard Truths About B2B + AI Today, From Our SaaStr AI Annual AMA",
-      "url": "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-08T19:12:18+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
-      "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-08T18:49:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
-      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T18:46:20+00:00",
-      "topics": [
-        "Policy",
-        "AI & Deep Tech"
-      ],
-      "category": "Policy",
-      "summary": "Elon Musk announced X will notify users via DM when posts they engaged with are later corrected, aiming to combat misinformation spread. The feature reflects ongoing platform-level efforts to address content moderation and accuracy amid regulatory scrutiny."
-    },
-    {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T18:30:08+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Google Photos introduced an AI-powered 'Video Remix' feature, expanding generative tools for consumer media creation. This continues the broader trend of tech giants embedding generative AI directly into mass-market products, raising competitive stakes for standalone video AI startups."
-    },
-    {
-      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T18:21:53+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "OpenMandriva issued a public statement addressing what it describes as an attempted sabotage of its Linux distribution, likely involving supply-chain or community governance concerns. This highlights ongoing security and trust challenges within open-source ecosystems that underpin much of modern software infrastructure."
-    },
-    {
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T18:00:32+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "xAI released Grok 4.5, its latest frontier language model, intensifying competition among top AI labs. The launch is significant for investors tracking capability gains and pricing dynamics in the foundation model race."
-    },
-    {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:47:55+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A startup CEO argues that video game environments provide richer, more structured training data for AI models than generic internet text, pointing to simulation-based training as a differentiator. This perspective matters for investors evaluating novel data moats in AI model development."
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:46:12+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:45:26+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:43:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:11:18+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:03:19+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "GPT-Live appears to be a new AI product or demo focused on real-time or live-interaction capabilities, reflecting the ongoing push toward more responsive generative AI systems. This matters to investors tracking the competitive frontier of large language model applications."
-    },
-    {
-      "title": "OpenAI launches new voice model that works ‘like a phone call’",
-      "url": "https://www.techinasia.com/openai-launches-voice-model-works-phone-call",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-08T17:00:02+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "OpenAI has released a new voice model designed to simulate natural, real-time phone-call-like conversations. This advances the company's push into more human-like conversational AI, a space with growing enterprise and consumer applications that investors are tracking closely."
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T17:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "OpenAI released updated voice models aimed at enabling more natural, low-latency spoken conversations with AI systems. The upgrade intensifies competition in voice AI, a segment increasingly viewed as key to consumer and enterprise AI assistant adoption."
-    },
-    {
-      "title": "EU now one step away from reviving private message scanning rules",
-      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:53:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:29:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:22:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:19:36+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "SWE-1.7 is being positioned as a coding-focused AI model approaching the performance of leading rivals like GPT-5.5 and Opus, intensifying competition in the AI coding-assistant space. For GPs, this signals narrowing performance gaps that could commoditize model advantages and shift value toward application layers."
-    },
-    {
-      "title": "Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
-      "url": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:16:12+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A prominent biohacker pursuing longevity and life-extension techniques has reportedly developed a severe, incurable gastrointestinal condition, raising questions about the risks of aggressive self-experimentation. The story is a reminder for deep-tech and longevity investors of the scientific and safety uncertainties still inherent in biohacking approaches."
-    },
-    {
-      "title": "Another massive data breach exposed millions of driver’s license numbers",
-      "url": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:14:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "5 Quotes from Attached that change how you see people",
-      "url": "https://yourstory.com/2026/05/5-life-changing-quotes-from-attached",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-08T16:10:00+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "This piece pulls reflective quotes from the relationship psychology book 'Attached' to offer readers insight into interpersonal attachment styles. While not startup-specific, it fits general soft-skills content aimed at founders and operators navigating team dynamics."
-    },
-    {
-      "title": "TypeScript 7",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T16:06:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer Process With AI",
       "url": "https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly/",
       "source": "Crunchbase News",
       "region": "Global",
       "kind": "press",
       "published": "2026-07-08T16:00:15+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T15:41:06+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11736,45 +11906,6 @@
       "summary": "Point Nine highlights a startup developing a new protein crop derived from a historically overlooked European plant, tapping into alternative protein and agtech innovation. This reflects continued VC interest in food security and sustainable agriculture ventures."
     },
     {
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "url": "https://github.com/weirdGuy/kastor",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T15:25:09+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Kastor introduces a Terraform-inspired declarative specification system for defining and managing AI agents, aiming to bring infrastructure-as-code discipline to agent orchestration. This reflects growing developer demand for standardized tooling as AI agent deployments scale in production environments."
-    },
-    {
-      "title": "Chatto is now Open Source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T15:19:50+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Chatto, a conversational AI or chatbot tool, has transitioned to an open-source license, potentially lowering barriers for developers to build or customize chat-based applications. Open-sourcing can accelerate community adoption while pressuring closed-source competitors on pricing and differentiation."
-    },
-    {
-      "title": "YouTube Gifts launch in India: shower creators in Pani Puri & Chai",
-      "url": "https://yourstory.com/2026/07/youtube-gifts-india-launch-creators",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-08T15:01:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "YouTube is rolling out a localized 'Gifts' feature in India, letting fans send culturally relevant virtual items like pani puri and chai to creators. This expands monetization options in India's creator economy, a space increasingly watched by consumer-tech investors."
-    },
-    {
       "title": "Addi raises $86M Series D. Interview with Bernardo Brites, Ep 232",
       "url": "https://latamlist.com/addi-raises-86m-series-d-interview-with-bernardo-brites-ep-232/",
       "source": "LatamList",
@@ -11786,45 +11917,6 @@
       ],
       "category": "Funding",
       "summary": "Colombian fintech Addi closed an $86M Series D round, with CEO Bernardo Brites discussing the raise in a podcast interview. The sizable late-stage round underscores continued investor confidence in Latin American consumer credit and BNPL players despite a tighter funding environment."
-    },
-    {
-      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T15:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "10 Lessons from the Happiness Advantage for a positive mindset",
-      "url": "https://yourstory.com/2026/05/10-key-lessons-from-the-happiness-advantage",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-08T14:55:00+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "The article distills ten takeaways from 'The Happiness Advantage' aimed at cultivating a more positive mindset. It's general self-improvement content rather than startup news, likely aimed at founders managing personal resilience."
-    },
-    {
-      "title": "Apple to produce Made in America wireless chips with Broadcom",
-      "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T14:43:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
     },
     {
       "title": "A View on LatAm CVC: In Conversation with Organización Corona VC",
@@ -11855,87 +11947,6 @@
       "summary": "This piece from Union Square Ventures explores the shift of computation and data processing toward edge devices rather than centralized cloud infrastructure. For investors, it frames a thesis around emerging opportunities in decentralized infrastructure and hardware-software convergence."
     },
     {
-      "title": "Should You Discount to Save a Renewal? The NRR Trap Says No. You Probably Should Anyway.",
-      "url": "https://www.saastr.com/should-you-discount-to-save-a-renewal-the-nrr-trap-says-no-you-probably-should-anyway/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-08T14:15:25+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "SaaStr explores the tension between NRR-focused discipline, which discourages discounting to save renewals, and the practical reality that many SaaS leaders discount anyway to protect revenue retention. The piece offers tactical guidance for founders balancing growth metrics against near-term churn risk."
-    },
-    {
-      "title": "Depois do Pix, o Brasil tem uma nova chance de liderar em inovação de pagamentos",
-      "url": "https://startupi.com.br/brasil-tem-uma-nova-chance-de-liderar-em-inovacao-de-pagamentos/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-07-08T14:10:26+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "This opinion piece argues that Brazil, having pioneered instant payments with Pix, now has a fresh opportunity to lead global payments innovation. It frames the moment as strategically important for investors and policymakers looking at Brazil's fintech infrastructure as a competitive advantage."
-    },
-    {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T14:09:17+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Mistral has released Robostral Navigate, a specialized model targeting robotics navigation tasks, extending the French AI lab's ambitions beyond language models into embodied and robotic applications. This move signals increasing competition in applied robotics AI, an area of rising interest for deep-tech investors."
-    },
-    {
-      "title": "Can entrepreneurs have children and still succeed? New survey digs deep",
-      "url": "https://www.eu-startups.com/2026/07/can-entrepreneurs-have-children-and-still-succeed-new-survey-digs-deep/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-08T14:07:50+00:00",
-      "topics": [
-        "People",
-        "Market & Data"
-      ],
-      "category": "People",
-      "summary": "A new survey examines whether entrepreneurs can successfully balance parenthood with startup building, surfacing data on work-life tradeoffs in founder life. The findings may inform how VCs think about founder support systems and diversity in entrepreneurial pipelines."
-    },
-    {
-      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
-      "url": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T14:07:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Blue Origin reportedly raising $10B at $130B valuation",
-      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T14:04:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Nexu secures $143M credit line from HSBC",
       "url": "https://latamlist.com/nexu-secures-143m-credit-line-from-hsbc/",
       "source": "LatamList",
@@ -11947,20 +11958,6 @@
       ],
       "category": "Funding",
       "summary": "Nexu secured a $143M credit facility from HSBC, providing significant debt capital rather than equity to fuel its lending operations. This highlights the growing role of structured credit lines as an alternative financing tool for fintech lenders in Latin America."
-    },
-    {
-      "title": "100Unicorns exits TruNativ with 11x return since 2021",
-      "url": "https://yourstory.com/2026/07/100unicorns-exits-trunativ-with-11x-return-since-2021",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-08T13:57:54+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Funds & LPs"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Early-stage fund 100Unicorns has exited its investment in nutrition brand TruNativ, realizing an 11x return since backing the company in 2021. Strong exits like this help validate seed-fund models and can bolster future fundraising with LPs seeking proof of realized returns."
     },
     {
       "title": "Familiar Names Top Active US Investor Ranks In Q2",
@@ -12838,20 +12835,6 @@
       ],
       "category": "Opinion",
       "summary": "USV essay examining shifting consumer behavior and backlash against dominant tech products or business models. Signals to investors where consumer sentiment may be creating openings for new startups to gain share."
-    },
-    {
-      "title": "The World-Building Doors Are Open, Again.",
-      "url": "https://www.a16z.news/p/the-world-building-doors-are-open",
-      "source": "a16z",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-06-23T14:01:48+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This a16z piece explores renewed opportunities in world-building technologies, likely spanning gaming, simulation, or generative AI content creation. It frames a resurgence of investor and builder interest in immersive digital environments."
     },
     {
       "title": "Own or Be Owned: Why Every Company Needs Its Own AI Model (Yash Patil, Co-Founder & CEO of Applied Compute)",
