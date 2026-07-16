@@ -1,6 +1,370 @@
 {
-  "updated": "2026-07-15T18:44:28.729471+00:00",
+  "updated": "2026-07-16T00:11:52.364274+00:00",
   "items": [
+    {
+      "title": "OpenAI built GPT-Red to test prompt injection",
+      "url": "https://www.techinasia.com/openai-clearance-gpt56-source",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-16T00:09:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T23:59:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Funding women founders: We cannot keep doing the same thing and expect change",
+      "url": "https://www.smartcompany.com.au/opinion/funding-women-founders-cannot-keep-doing-same-thing-expect-change/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-15T23:56:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Businesses We Love: How these four founders turned community into a competitive advantage",
+      "url": "https://www.smartcompany.com.au/partner-content/businesses-we-love-how-these-four-founders-turned-community-into-a-competitive-advantage/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-15T23:36:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Companies could face criminal penalties over modern slavery compliance failures",
+      "url": "https://www.smartcompany.com.au/industrial-relations/companies-could-face-criminal-penalties-modern-slavery-compliance-failures/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-15T23:10:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: One More Letter",
+      "url": "https://playonemoreletter.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T23:10:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nul Characters in Strings in SQLite",
+      "url": "https://sqlite.org/nulinstr.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T23:03:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T23:00:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Anti-Mac User Interface (1996)",
+      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T22:52:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T22:42:58+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-15T22:24:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T22:23:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T22:22:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T21:39:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
+      "url": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-15T21:33:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T21:16:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Firefox in WebAssembly",
+      "url": "https://developer.puter.com/labs/firefox-wasm/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T21:00:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T20:24:58+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T20:22:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
+      "url": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-15T20:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:46:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:42:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:41:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Voxatron",
+      "url": "https://www.lexaloffle.com/voxatron.php",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:40:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:27:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Stripe’s Acquisition Pace Has Accelerated In The Past Five Years, But Nothing Comes Close To Its Reported $53B PayPal Bet",
+      "url": "https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T19:00:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Is Software Dead? No. It Just Got a Lot Harder to Win. The SaaStr AI Deep Dive with Rory O’Driscoll",
+      "url": "https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-15T18:48:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T18:47:01+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
       "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
@@ -34,6 +398,32 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-07-15T18:14:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T18:12:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-15T18:06:05+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -10651,6 +11041,19 @@
       "summary": "A Show HN post introducing Runloom, a library bringing Go-style coroutines to Python's new free-threaded runtime. It's a niche developer tool relevant to engineers optimizing concurrency in modern Python applications."
     },
     {
+      "title": "Clouded Judgement 7.10.26 - Own Your Weights",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-71026-own-your",
+      "source": "Clouded Judgement",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-10T13:04:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C",
       "url": "https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/",
       "source": "Hacker News",
@@ -11330,408 +11733,6 @@
       "summary": "Meta responded to an Indian government notice concerning WhatsApp's new username feature. The exchange reflects ongoing regulatory scrutiny of major platform product changes in India, relevant for GPs tracking compliance risk in consumer tech."
     },
     {
-      "title": "Kraken Technology Group makes waves as Europe’s newest maritime defence unicorn with €152.9 million Series B",
-      "url": "https://www.eu-startups.com/2026/07/kraken-technology-group-makes-waves-as-europes-newest-maritime-defence-unicorn-with-e152-9-million-series-b/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T07:42:42+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Kraken Technology Group closed a €152.9 million Series B, becoming Europe's newest unicorn in maritime defence tech. The raise underscores growing investor appetite for defence-adjacent deep tech amid rising European security spending, a signal GPs should watch for sector rotation."
-    },
-    {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-10T07:39:11+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Researchers describe a method for generating AI video content specifically engineered to activate a targeted brain region, blending neuroscience with generative media techniques. This signals growing interest in neuro-targeted content generation, a niche that could intersect with adtech, therapeutics, and AI safety research going forward."
-    },
-    {
-      "title": "Creditors vote to put food waste startup Goterra in liquidation",
-      "url": "https://www.startupdaily.net/topic/business/creditors-vote-to-put-food-waste-startup-goterra-in-liquidation/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-10T07:26:33+00:00",
-      "topics": [
-        "Exits & M&A"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Creditors have voted to liquidate Australian food-waste startup Goterra after efforts to find a buyer collapsed. The outcome highlights ongoing funding stress in climate and agtech ventures as capital becomes harder to secure for capital-intensive operational businesses."
-    },
-    {
-      "title": "MiniMax seeks $2b for AI expansion",
-      "url": "https://www.techinasia.com/ai-stocks-zhipu-minimax-face-11-5b-lock-up-expiry",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T07:17:09+00:00",
-      "topics": [
-        "Funding",
-        "AI & Deep Tech"
-      ],
-      "category": "Funding",
-      "summary": "Chinese AI startup MiniMax is reportedly raising $2 billion to scale its AI operations, underscoring continued investor appetite for well-capitalized Chinese AI labs despite geopolitical headwinds. A raise of this size would rank among the largest AI funding rounds in Asia this year, signaling confidence in domestic foundation-model players."
-    },
-    {
-      "title": "Browser Fingerprinting – How websites track you across internet –without cookies",
-      "url": "https://mysysinfo.com/blog/what-is-browser-fingerprinting",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-10T07:07:50+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A technical explainer breaks down browser fingerprinting techniques that let sites identify and track users without relying on cookies. For GPs, this underscores ongoing tension between privacy-preserving regulation and ad-tech identity solutions, an area ripe for new compliance and privacy-tech startups."
-    },
-    {
-      "title": "Tesla rolls out full self-driving update in South Korea",
-      "url": "https://www.techinasia.com/tesla-ramps-up-china-hiring-for-self-driving-rollout",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T07:07:30+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Tesla has launched its full self-driving software update for South Korean customers, expanding its autonomous-driving footprint into a new regulatory market. The move tests how quickly regional regulators will greenlight advanced driver-assistance systems and could pressure local automakers and AV startups competing in the space."
-    },
-    {
-      "title": "AI personas replace expensive focus groups at this startup",
-      "url": "https://www.techinasia.com/ai-personas-replace-expensive-focus-groups-at-this-startup",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T07:00:11+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A startup is using AI-generated personas to simulate consumer focus groups, offering brands a cheaper, faster alternative to traditional market research. The approach highlights a growing category of AI tools disrupting research and marketing services, an area drawing early-stage investor interest for its cost-saving potential."
-    },
-    {
-      "title": "Southeast Asia’s top-funded tech companies in the last decade",
-      "url": "https://www.techinasia.com/visual-story/southeast-asias-topfunded-tech-companies-decade",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T07:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "This roundup ranks Southeast Asia's most heavily funded tech companies over the past ten years, offering LPs and GPs a benchmark of where regional venture capital has concentrated. It provides useful context for assessing sector maturity and capital concentration trends across the region's startup ecosystem."
-    },
-    {
-      "title": "New Lithuanian unicorn: Oxylabs ends bootstrapped streak after securing €113.6 million at €3.1 billion valuation",
-      "url": "https://www.eu-startups.com/2026/07/new-lithuanian-unicorn-oxylabs-ends-bootstrapped-streak-after-securing-e113-6-million-at-e3-1-billion-valuation/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T06:28:59+00:00",
-      "topics": [
-        "Funding"
-      ],
-      "category": "Funding",
-      "summary": "Lithuanian proxy and data-scraping firm Oxylabs raised €113.6 million at a €3.1 billion valuation, ending years of bootstrapped growth. The deal highlights strong investor demand for profitable, capital-efficient Baltic tech companies finally opening up to outside capital."
-    },
-    {
-      "title": "Maharashtra Proposes Temporary Bike Taxi Framework; Aggregators To Pay ₹5 Daily Fee",
-      "url": "https://inc42.com/buzz/maharashtra-proposes-temporary-bike-taxi-framework-aggregators-to-pay-%e2%82%b95-daily-fee/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-10T06:08:55+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "Maharashtra proposed a temporary regulatory framework for bike taxis, requiring aggregators to pay a ₹5 daily fee per vehicle. The move signals evolving state-level regulation of gig mobility platforms in India, with direct implications for ride-hailing and delivery startup economics."
-    },
-    {
-      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
-      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T06:06:49+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "AI tools are increasingly being integrated into Singapore's wealth management sector to augment, rather than replace, human advisers. This trend points to a hybrid model gaining traction in fintech, relevant for investors backing AI-enabled financial services startups in Asia."
-    },
-    {
-      "title": "Government receives WhatsApp's reply on 'username' feature notice; response being examined",
-      "url": "https://yourstory.com/2026/07/govt-whatsapps-reply-username-feature-notice-being-examined",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-10T05:37:39+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "WhatsApp has responded to a government notice concerning its new 'username' feature, with authorities now reviewing the reply. This regulatory scrutiny reflects ongoing tension between global tech platforms and Indian data/privacy oversight bodies."
-    },
-    {
-      "title": "Peter Strong: The trust tax debate ignores the risks small business families take",
-      "url": "https://www.smartcompany.com.au/opinion/peter-strong-trust-tax-debate-ignores-risks-small-business-families-take/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-10T05:23:02+00:00",
-      "topics": [
-        "Policy",
-        "Opinion"
-      ],
-      "category": "Policy",
-      "summary": "Small business advocate Peter Strong argues that current debates over trust taxation overlook the genuine financial risks family-run businesses take on. The commentary is relevant to founders and investors structuring SME ownership amid potential tax policy changes in Australia."
-    },
-    {
-      "title": "Why Bitcoin’s move to US$63K has nothing to do with crypto and everything to do with Iran",
-      "url": "https://e27.co/why-bitcoins-move-to-us63k-has-nothing-to-do-with-crypto-and-everything-to-do-with-iran-20260710/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T05:14:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "An analysis argues that Bitcoin's rise to $63K is driven more by geopolitical tensions involving Iran than by crypto-specific fundamentals, framing it as a safe-haven macro trade. This perspective is useful for investors assessing crypto price movements within broader risk-asset and geopolitical contexts rather than sector-specific catalysts."
-    },
-    {
-      "title": "India aims to become strategic leader in hosting GCCs: Sitharaman",
-      "url": "https://yourstory.com/2026/07/india-to-become-strategic-leader-hosting-gccs-sitharaman",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-10T05:10:23+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Finance Minister Sitharaman emphasized India's ambition to become a global hub for Global Capability Centres (GCCs), reinforcing the government's push to attract multinational back-office and innovation operations. This signals continued policy support for enterprise services infrastructure investment."
-    },
-    {
-      "title": "SK hynix pays $260m in fees after $26.5b share sale",
-      "url": "https://www.techinasia.com/sk-hynix-overtakes-samsung-in-market-value-on-ai-boom",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T05:02:51+00:00",
-      "topics": [
-        "Market & Data",
-        "Funds & LPs"
-      ],
-      "category": "Market & Data",
-      "summary": "SK hynix disclosed it paid $260 million in fees tied to its massive $26.5 billion share sale, highlighting the significant transaction costs involved in large-scale equity raises. The disclosure gives investors insight into underwriting economics for major Asian tech capital raises."
-    },
-    {
-      "title": "‘Physical AI is Europe’s last chance to be useful to the world’",
-      "url": "https://sifted.eu/articles/physical-ai-machina/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T05:00:53+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "An opinion piece argues that physical AI—robotics and embodied intelligence—represents Europe's best remaining opportunity to stay relevant in the global AI race. The framing suggests investors should look beyond software-only AI bets toward hardware-integrated deep tech opportunities on the continent."
-    },
-    {
-      "title": "The sovereign capital, global chipmakers and serial investors behind Europe’s new unicorns",
-      "url": "https://sifted.eu/articles/sovereign-capital-global-chipmakers-and-the-serial-investors-behind-europes-new-unicorns/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T05:00:34+00:00",
-      "topics": [
-        "Funds & LPs",
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "Funds & LPs",
-      "summary": "This piece profiles the mix of sovereign wealth funds, chipmakers, and repeat investors fueling a new wave of European unicorns, highlighting how capital sources for deep tech are diversifying. LPs should note the growing role of strategic and state-backed capital in shaping Europe's venture landscape."
-    },
-    {
-      "title": "Over $500m in fresh funding, risks of “French state influence” and a 100x valuation: What Pasqal’s SPAC filings reveal",
-      "url": "https://sifted.eu/articles/pasqal-sec-filings/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T05:00:25+00:00",
-      "topics": [
-        "Funding",
-        "Exits & M&A",
-        "Policy"
-      ],
-      "category": "Funding",
-      "summary": "Quantum computing firm Pasqal's SPAC filings reveal over $500 million in new funding alongside concerns about French state influence and a valuation multiple reaching 100x, raising governance and pricing questions. GPs should scrutinize how sovereign backing and SPAC structures may affect long-term investor alignment and exit outcomes."
-    },
-    {
-      "title": "‘We are at a systematic disadvantage in Europe’: Pasqal CEO on listing in the US",
-      "url": "https://sifted.eu/articles/pasqal-wasiq-bokhari-spac-listing/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T05:00:17+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Policy",
-        "Opinion"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Pasqal's CEO explains the company's decision to list in the US rather than Europe, citing structural disadvantages European firms face in capital markets. This adds to ongoing debates about Europe's ability to retain and scale its deep tech champions through public listings."
-    },
-    {
-      "title": "Not all ARR is created equal",
-      "url": "https://sifted.eu/articles/not-all-arr-is-created-equal/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-07-10T05:00:01+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "This analysis challenges the common practice of treating all annual recurring revenue as equivalent, pointing out differences in quality, durability, and margin across revenue types. It's a useful reminder for GPs evaluating SaaS portfolio companies to look beyond top-line ARR metrics when assessing true business health."
-    },
-    {
-      "title": "OpenAI rolls out ChatGPT Work for apps, files",
-      "url": "https://www.techinasia.com/openai-broadcom-unveil-inference-chip",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T04:50:18+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "OpenAI introduced ChatGPT Work, a new offering integrating apps and file handling aimed at enterprise productivity use cases. The launch intensifies competition in the enterprise AI assistant market, where OpenAI is pushing further into workplace tools amid rivalry with Microsoft, Google, and others."
-    },
-    {
-      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-      "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-10T04:36:20+00:00",
-      "topics": [
-        "Market & Data",
-        "Exits & M&A"
-      ],
-      "category": "Market & Data",
-      "summary": "Vivo's new joint venture signals India's smartphone manufacturing ecosystem is maturing beyond Apple-led assembly, attracting additional global OEMs to localize production. For investors, this points to expanding opportunities in hardware supply chains, components, and industrial infrastructure tied to India's electronics push."
-    },
-    {
-      "title": "The smartest hires aren’t always specialists: Qualifications that help small businesses grow",
-      "url": "https://www.smartcompany.com.au/partner-content/the-smartest-hires-arent-always-specialists-qualifications-that-help-small-businesses-grow/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-10T04:32:07+00:00",
-      "topics": [
-        "People",
-        "Opinion"
-      ],
-      "category": "People",
-      "summary": "This piece argues that small businesses often benefit more from hiring adaptable generalists than narrow specialists, especially during early growth stages. It's a useful hiring philosophy note for founders and operators building lean teams under capital constraints."
-    },
-    {
-      "title": "SEA’s data laws chase investments, but will they protect data?",
-      "url": "https://www.techinasia.com/seas-data-laws-chase-investments-protect-data",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T04:00:10+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Southeast Asian governments are tightening data laws partly to attract foreign investment, but questions remain over whether these regulations genuinely safeguard consumer data. For investors, the piece flags regulatory and compliance risks that could affect data-driven startups operating across multiple SEA jurisdictions."
-    },
-    {
-      "title": "Tencent in talks to become Manus’ biggest shareholder: sources",
-      "url": "https://www.techinasia.com/tencentbacked-enflame-wins-approval-888m-shanghai-ipo",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T03:49:57+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Tencent is reportedly negotiating to become the largest shareholder in AI startup Manus, signaling deepening strategic investment by Chinese tech giants into emerging AI ventures. The deal, if finalized, would reflect Tencent's continued push to consolidate influence in China's competitive AI startup landscape."
-    },
-    {
-      "title": "DJI launches first VTOL fixed-wing cargo drone EV50, says it set Everest altitude record",
-      "url": "https://technode.com/2026/07/10/dji-launches-first-vtol-fixed-wing-cargo-drone-ev50-says-it-set-everest-altitude-record/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-07-10T03:20:41+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Samsung readies AI PC chip for Lenovo, HP testing",
-      "url": "https://www.techinasia.com/samsung-eyes-ai-server-packaging-expansion",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T03:10:05+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Samsung is preparing a new AI PC chip currently being tested by Lenovo and HP, positioning itself in the growing on-device AI hardware race. This move intensifies competition among chipmakers targeting the AI PC segment, a market increasingly important to hardware OEM strategies and semiconductor investment theses."
-    },
-    {
-      "title": "Corporate travel in Southeast Asia was never broken, it was never built",
-      "url": "https://e27.co/corporate-travel-in-southeast-asia-was-never-broken-it-was-never-built-20260709/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-10T02:45:50+00:00",
-      "topics": [
-        "Opinion",
-        "Market & Data"
-      ],
-      "category": "Opinion",
-      "summary": "A commentary piece contends that Southeast Asia's corporate travel sector was never properly built out rather than broken, reframing the market opportunity for founders and investors. This perspective suggests untapped potential for travel-tech startups addressing genuine infrastructure gaps rather than fixing legacy systems."
-    },
-    {
       "title": "Where to invest Rs 1 lakh, Rs 10 lakh, Rs 1 crore",
       "url": "https://the-ken.com/story/where-to-invest-rs-1-lakh-rs-10-lakh-rs-1-crore-2/",
       "source": "The Ken",
@@ -11988,20 +11989,6 @@
       ],
       "category": "Funding",
       "summary": "Nexu secured a $143M credit facility from HSBC, providing significant debt capital rather than equity to fuel its lending operations. This highlights the growing role of structured credit lines as an alternative financing tool for fintech lenders in Latin America."
-    },
-    {
-      "title": "Familiar Names Top Active US Investor Ranks In Q2",
-      "url": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-08T11:00:59+00:00",
-      "topics": [
-        "Market & Data",
-        "Funds & LPs"
-      ],
-      "category": "Market & Data",
-      "summary": "Crunchbase's Q2 ranking shows the same major VC firms continuing to dominate deal volume among active US investors, signaling limited disruption to the established investor hierarchy. For LPs, this consistency suggests capital concentration persists among top-tier funds even amid market volatility."
     },
     {
       "title": "Oyo shed the Oyo tag. Its IPO wants investors to do the same",
@@ -13358,21 +13345,6 @@
       ],
       "category": "Opinion",
       "summary": "This post addresses founder and investor burnout, advocating for sustainable intensity over unsustainable grinding. It's a timely commentary for LPs and GPs concerned with portfolio company leadership longevity and mental health in high-pressure environments."
-    },
-    {
-      "title": "Clouded Judgement 5.1.26 - The Death of Per-Seat Pricing?",
-      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-5126-the-death",
-      "source": "Clouded Judgement",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-05-01T13:21:46+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This analysis questions whether traditional per-seat SaaS pricing models are becoming obsolete as AI agents reduce the need for human seats, pushing vendors toward usage- or outcome-based pricing. The shift has major implications for SaaS revenue models and valuation multiples that GPs must factor into diligence."
     }
   ]
 }
