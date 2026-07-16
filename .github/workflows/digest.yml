@@ -1,0 +1,47 @@
+name: Wonderland Digest
+
+# Distils the last 7 days of wire + airwaves into digest.json / digest.md
+# (a ready-to-paste Beehiiv draft for The Wonderland Brief).
+on:
+  schedule:
+    - cron: "0 6 * * 1"        # Mondays 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wonderland-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the weekly digest
+        run: python digest.py
+
+      - name: Commit digest
+        run: |
+          git config user.name  "wonderland-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digest.json digest.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "digest: week of $(date -u +'%Y-%m-%d')"
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then echo "pushed on attempt $i"; exit 0; fi
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            sleep 4
+          done
+          echo "::error::could not push after retries"
+          exit 1

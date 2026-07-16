@@ -46,3 +46,31 @@ feeds:
   host: Chamath, Sacks, Friedberg, Calacanis
   category: Deal & Macro
   url: https://allinchamathjason.libsyn.com/rss
+- name: BG2
+  host: Brad Gerstner & Bill Gurley
+  category: Deal & Macro
+  url: https://anchor.fm/s/f06c2370/podcast/rss
+- name: The Logan Bartlett Show
+  host: Logan Bartlett (Redpoint)
+  category: Interview & News
+  url: https://rss2.flightcast.com/jlx9l0yn04wt3r710o051jtm.xml
+- name: Masters of Scale
+  host: Reid Hoffman & guests
+  category: Founder & Operator
+  url: https://rss.art19.com/masters-of-scale
+- name: Greymatter
+  host: Greylock Partners
+  category: GP / Firm
+  url: https://feeds.megaphone.fm/GRL5808166404
+- name: Origins
+  host: Nick Chirls & Beezer Clarkson
+  category: LP / Allocator
+  url: https://anchor.fm/s/d1903ff4/podcast/rss
+- name: This Week in Startups
+  host: Jason Calacanis
+  category: Interview & News
+  url: https://anchor.fm/s/7c624c84/podcast/rss
+- name: Anatomy of Next
+  host: Founders Fund
+  category: GP / Firm
+  url: https://feeds.soundcloud.com/users/soundcloud:users:220400255/sounds.rss

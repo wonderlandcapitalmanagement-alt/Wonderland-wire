@@ -123,6 +123,20 @@ def fmt_duration(raw):
         return ""
     return f"{mins} min" if mins else ""
 
+def entry_audio(e):
+    """Best-effort direct audio URL from an entry's enclosures/links."""
+    for l in (e.get("links") or []):
+        if l.get("rel") == "enclosure" and str(l.get("type", "")).startswith("audio") and l.get("href"):
+            return l["href"]
+    for enc in (e.get("enclosures") or []):
+        href = enc.get("href") or enc.get("url")
+        if href:
+            return href
+    for l in (e.get("links") or []):
+        if l.get("rel") == "enclosure" and l.get("href"):
+            return l["href"]
+    return ""
+
 def load_feeds():
     with open(FEEDS, encoding="utf-8") as f:
         data = yaml.safe_load(f) or {}
@@ -139,6 +153,7 @@ def load_feeds():
 def collect(feeds, seen):
     fresh = []
     status = []
+    audio_map = {}   # canon(url) -> audio, for backfilling existing items
     for f in feeds:
         entry_count = 0
         err = None
@@ -164,8 +179,18 @@ def collect(feeds, seen):
             entry_count = len(parsed.entries)
         status.append({"name": f["name"], "entries": entry_count, "error": err})
         for e in parsed.entries[:MAX_PER_FEED]:
-            link = e.get("link", "")
+            audio = entry_audio(e)
+            # Some feeds (e.g. NPR/Wondery) ship items with no <link> at all —
+            # fall back to the audio enclosure, then a URL-shaped guid, so the
+            # episode isn't silently dropped.
+            link = e.get("link", "") or audio or ""
+            if not link:
+                gid = str(e.get("id", "") or "")
+                if gid.startswith("http"):
+                    link = gid
             key = canon(link)
+            if key and audio:
+                audio_map[key] = audio
             if not key or key in seen:
                 continue
             seen.add(key)
@@ -177,13 +202,14 @@ def collect(feeds, seen):
                 "category": f.get("category", "Shows"),
                 "duration": fmt_duration(e.get("itunes_duration")),
                 "published": parse_date(e).isoformat(),
+                "audio": audio,
             })
     try:
         with open(os.path.join(HERE, "_podstatus.json"), "w", encoding="utf-8") as fh:
             json.dump(status, fh, indent=1)
     except Exception:
         pass
-    return fresh
+    return fresh, audio_map
 
 # ---- classify with Claude ----
 def classify(client, batch):
@@ -240,8 +266,19 @@ def main():
     seen = set(load_json(SEEN, []))
     seen.update(canon(it["url"]) for it in existing)
 
-    fresh = collect(feeds, seen)
+    fresh, audio_map = collect(feeds, seen)
     print(f"New episodes: {len(fresh)}")
+
+    # Backfill audio onto items from earlier runs that predate the audio field.
+    backfilled = 0
+    for it in existing:
+        if not it.get("audio"):
+            a = audio_map.get(canon(it.get("url", "")))
+            if a:
+                it["audio"] = a
+                backfilled += 1
+    if backfilled:
+        print(f"Backfilled audio on {backfilled} existing episodes.")
 
     classified = []
     if fresh:
