@@ -1,6 +1,227 @@
 {
-  "updated": "2026-07-16T16:49:44.754095+00:00",
+  "updated": "2026-07-16T20:39:36.009459+00:00",
   "items": [
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:07:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-16T19:42:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-16T19:16:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-16T19:02:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
+      "url": "https://nicholas-afk.github.io/AttoChess/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T18:33:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T18:32:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T18:22:06+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:44:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "url": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:37:03+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "CD Sales Growth Outpaced Vinyl in the First Half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:19:16+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:12:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Zero trust must now move at agent speed",
+      "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-16T17:10:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "source": "VentureBeat",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-07-16T17:06:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Adaptional (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:00:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T17:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Pascal",
+      "url": "https://www.usv.com/writing/2026/07/pascal/",
+      "source": "Union Square Ventures",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-16T16:51:51+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T16:41:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
       "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
@@ -21,6 +242,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-07-16T16:40:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "56,000 lines of DOOM, in a language I made up",
+      "url": "https://betlang.dev/about/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T16:24:50+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -54,6 +288,19 @@
       "summary": ""
     },
     {
+      "title": "Agent-talk: Enabling coding agents to work together",
+      "url": "https://github.com/xhluca/agent-talk",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T16:14:20+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Neo Group Nets ₹350 Cr From Peak XV Partners To Strengthen Wealthtech Play",
       "url": "https://inc42.com/buzz/neo-group-nets-%e2%82%b9350-cr-from-peak-xv-partners-to-strengthen-wealthtech-play/",
       "source": "Inc42",
@@ -80,12 +327,38 @@
       "summary": ""
     },
     {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T16:08:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "source": "Hacker News",
       "region": "Global",
       "kind": "press",
       "published": "2026-07-16T16:06:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
+      "url": "https://github.com/patonw/leaves",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T16:03:43+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -197,12 +470,38 @@
       "summary": ""
     },
     {
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T15:32:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Why is OpenAI selling a ChatGPT basketball?",
       "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
       "source": "TechCrunch",
       "region": "Global",
       "kind": "press",
       "published": "2026-07-16T15:31:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
+      "url": "https://schema-harness.github.io/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T15:29:12+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -2478,6 +2777,19 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-07-16T00:09:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Blank Slate AI Strategy",
+      "url": "https://www.tomtunguz.com/the-blank-slate-ai-strategy/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-07-16T00:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11442,311 +11754,6 @@
       "summary": "This data-driven piece breaks down South Korea's startup funding landscape through charts, likely covering deal counts, sector splits, and capital raised. It's a handy reference for LPs benchmarking Korean venture activity against other Asian markets."
     },
     {
-      "title": "Health, AI, energy: Test your business creativity with Edition 240 of our weekly quiz!",
-      "url": "https://yourstory.com/2026/07/health-ai-energy-entrepreneur-quiz-education",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T02:20:00+00:00",
-      "topics": [
-        "Events"
-      ],
-      "category": "Events",
-      "summary": "YourStory's weekly business quiz covers themes in health, AI, and energy sectors, serving as an engagement/community feature rather than substantive news. It has minimal direct implications for fund strategy or portfolio decisions."
-    },
-    {
-      "title": "How galleries and artists grow together: The journey of Gallery Time and Space",
-      "url": "https://yourstory.com/2026/07/gallery-time-space-art-creativity-photography",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T02:15:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "This feature profiles Gallery Time and Space and how art galleries and artists build mutually reinforcing growth relationships, offering a rare look into the business dynamics of India's art market. It's more of a sector human-interest piece with limited direct relevance to typical VC/LP audiences."
-    },
-    {
-      "title": "Unexpected Solidlike Fracture in Simple Liquids",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T02:13:46+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Researchers report an unexpected solid-like fracture behavior observed in simple liquids under certain conditions, challenging assumptions in materials science. While not directly VC-relevant, such fundamental physics findings can seed future deep-tech and materials startups. GPs tracking frontier science may want to monitor commercialization potential."
-    },
-    {
-      "title": "Travel writer Shivya Nath’s new book; VC inflow this week",
-      "url": "https://yourstory.com/2026/07/travel-writer-shivya-naths-new-book-vc-inflow-this-week",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T02:00:00+00:00",
-      "topics": [
-        "Funding",
-        "Market & Data"
-      ],
-      "category": "Funding",
-      "summary": "This roundup blends a feature on travel writer Shivya Nath's new book with a weekly digest of VC inflows into startups. For LPs and GPs, the funding data offers a quick pulse check on deal velocity and capital deployment trends for the period."
-    },
-    {
-      "title": "The Energetic Costs of Cellular Computation (2012)",
-      "url": "https://arxiv.org/abs/1203.5426",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T01:59:35+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A 2012 paper resurfaces examining the thermodynamic and energetic constraints on cellular-level computation in biological systems. The piece offers a lens for founders and investors in synthetic biology and bio-computing to understand efficiency limits. It's a reminder that biological analogies increasingly inform AI hardware and computing paradigm research."
-    },
-    {
-      "title": "S Korea nears 50% eco-car share as launches loom",
-      "url": "https://www.techinasia.com/hyundai-korea-ev-slowdown-eased-q1",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T01:56:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "South Korea is approaching half of its auto market share coming from eco-friendly vehicles as new launches ramp up. This signals a maturing green mobility market that could present downstream opportunities for deep-tech and hardware-focused investors."
-    },
-    {
-      "title": "A Erlang style pure Scheme Webserver and further",
-      "url": "https://igropyr.com",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T01:03:29+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A developer shares an Erlang-inspired, pure Scheme-based web server implementation, showcasing functional programming approaches to concurrent web infrastructure. This is a niche technical project relevant to language design enthusiasts rather than immediate startup activity. It may interest deep-tech investors tracking novel programming paradigms and infrastructure tooling."
-    },
-    {
-      "title": "Anthropic talks with Karnataka on AI for citizen services",
-      "url": "https://www.techinasia.com/anthropic-opens-seoul-office-as-korea-adoption-grows",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T01:00:03+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Anthropic is in discussions with India's Karnataka state government to deploy AI tools for public citizen services. This reflects growing government-AI partnerships in emerging markets, a trend GPs should watch as it could shape regulatory openness and public-sector AI adoption."
-    },
-    {
-      "title": "A pure scheme web programming tool",
-      "url": "https://goeteia.dev",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T00:57:18+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This entry describes a pure Scheme-based tool for web programming, likely a companion or precursor project to related Erlang-style Scheme server work. It highlights ongoing experimentation in functional programming for web development outside mainstream JavaScript/Python ecosystems. Relevance to VC is limited but signals developer-tooling innovation in niche communities."
-    },
-    {
-      "title": "JD.com breaks ground on first RoboBase in Guangzhou",
-      "url": "https://www.techinasia.com/jd-com-controlled-deppon-logistics-to-delist-from-shanghai-exchange",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T00:53:05+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "JD.com has begun construction on its first RoboBase facility in Guangzhou, expanding its robotics and automation infrastructure. This underscores continued heavy capex from Chinese tech giants into physical AI and logistics automation, a space drawing increasing deep-tech investor interest."
-    },
-    {
-      "title": "A dock that wakes up reliably",
-      "url": "https://fabiensanglard.net/tb4/index.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T00:48:10+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A hardware maker details engineering work behind a docking solution designed to reliably wake connected devices from sleep states. This is a small-scale hardware/firmware reliability project rather than a funded venture. It may be of interest to deep-tech investors focused on hardware ecosystem reliability and IoT infrastructure."
-    },
-    {
-      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T00:32:15+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "Martha Lillard, one of the last Americans still reliant on an iron lung due to childhood polio, has died at age 78 in Oklahoma. Her passing marks a symbolic end to an era of mid-20th-century medical technology and disease impact. While not startup news, it underscores long-term shifts in public health infrastructure relevant to healthtech historical context."
-    },
-    {
-      "title": "Nasdaq-listed Empery sells bitcoin for AI center stake",
-      "url": "https://www.techinasia.com/usbased-ev-firm-volcon-raises-500m-bitcoin-treasury-strategy",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T00:30:29+00:00",
-      "topics": [
-        "Exits & M&A",
-        "AI & Deep Tech"
-      ],
-      "category": "Exits & M&A",
-      "summary": "Nasdaq-listed Empery is divesting bitcoin holdings to acquire a stake in an AI data center, illustrating how crypto-adjacent firms are pivoting capital toward AI infrastructure. This asset reallocation trend is relevant for LPs tracking capital flows between digital assets and compute-heavy AI plays."
-    },
-    {
-      "title": "Who isn’t drinking the AI Kool-Aid?",
-      "url": "https://www.techinasia.com/isnt-drinking-ai-koolaid",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T00:30:07+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "This commentary piece examines skeptics and contrarians pushing back against the prevailing AI hype cycle. It offers GPs a useful counter-narrative to stress-test valuation assumptions in an overheated AI funding market."
-    },
-    {
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T00:16:06+00:00",
-      "topics": [
-        "People",
-        "AI & Deep Tech"
-      ],
-      "category": "People",
-      "summary": "A profile of Reed Jobs, Steve Jobs' son, focuses on his work funding cancer research and biotech ventures rather than his family legacy. For LPs, it signals a new generation of mission-driven capital allocators entering health-focused venture and philanthropy."
-    },
-    {
-      "title": "How Doctors die. It’s not like the rest of us (2016)",
-      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T23:15:06+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "A 2016 essay revisits how physicians often choose to forgo aggressive end-of-life interventions for themselves, contrasting with treatment patterns for the general public. The piece offers commentary on healthcare system incentives and patient autonomy. It's tangential to VC but relevant for investors in healthtech and end-of-life care startups thinking about system design."
-    },
-    {
-      "title": "Indian Startup IPO Tracker 2026",
-      "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-11T23:00:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T22:54:06+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A developer details fixing three bugs that enabled running the Qwen3.5-122B open-weight language model smoothly as a daily-use local model on Apple's Mac Studio hardware. This reflects growing momentum in local/on-device LLM deployment, an area of increasing interest for AI infrastructure investors. It signals maturing open-source model usability outside cloud-only serving."
-    },
-    {
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T22:49:42+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "New research finds resistance training may outperform cardio for managing blood sugar levels, a finding with implications for health-tech and consumer wellness product design. Founders in metabolic health and fitness tracking could use this data to refine product positioning."
-    },
-    {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T22:38:57+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This project introduces a method for running distributed large language model computation over the iroh peer-to-peer networking stack. It reflects growing developer interest in decentralized approaches to AI infrastructure that could reduce reliance on centralized cloud providers."
-    },
-    {
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T22:28:48+00:00",
-      "topics": [
-        "Opinion",
-        "AI & Deep Tech"
-      ],
-      "category": "Opinion",
-      "summary": "A Hacker News essay pushes back against the reflexive suggestion to 'just ask an LLM,' arguing it often substitutes for deeper understanding or proper documentation. The piece feeds into broader industry debate about over-reliance on AI tools versus building foundational expertise."
-    },
-    {
-      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T22:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": "TechCrunch highlights a portable slushie machine that gained popularity as a practical cooling solution during New York's recent heat wave. The piece underscores how climate-driven consumer needs can spotlight niche hardware products and create short-term demand spikes for founders in the space."
-    },
-    {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-11T21:58:00+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "An open-source developer has released RISCBoy, a portable handheld gaming console built from scratch using RISC architecture. While not a funded venture, it signals continued grassroots innovation in open hardware that could eventually attract hardware-focused investors or acquirers. GPs tracking deep tech should note the growing maker-to-startup pipeline in open-source hardware."
-    },
-    {
       "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
       "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
       "source": "Crunchbase News",
@@ -12364,20 +12371,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Factory's CEO Matan Grinberg discusses an underappreciated constraint in AI development: the practical limits and costs of token budgets for large language models. The piece offers technical and strategic insight relevant to investors evaluating AI infrastructure economics and scalability."
-    },
-    {
-      "title": "The CIO's Choices are Clear in 2026",
-      "url": "https://www.tomtunguz.com/cio-choices-clear-2026/",
-      "source": "Tomasz Tunguz",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-06-30T00:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "AI & Deep Tech"
-      ],
-      "category": "Market & Data",
-      "summary": "The piece frames 2026 enterprise technology budgets as a binary decision point for Chief Information Officers between legacy vendors and AI-native platforms. LPs should note this as a signal of where enterprise IT spend—and thus SaaS/AI startup revenue—will concentrate."
     },
     {
       "title": "The 2026 Summer Reading List",
