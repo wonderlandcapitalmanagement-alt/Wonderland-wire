@@ -1,6 +1,292 @@
 {
-  "updated": "2026-07-16T20:39:36.009459+00:00",
+  "updated": "2026-07-17T00:15:30.353887+00:00",
   "items": [
+    {
+      "title": "GitLab 19.2 adds AI tools to fix vulnerable deps",
+      "url": "https://www.techinasia.com/cursor-cofounders-join-billionaire-23b-raise",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-17T00:08:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Tracking startup closures across Southeast Asia",
+      "url": "https://www.techinasia.com/visual-story/startup-failures-closures-southeast-asia",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-17T00:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Straand lands in 500 Priceline stores as scalp care goes mainstream",
+      "url": "https://www.smartcompany.com.au/retail/straand-500-priceline-stores-scalp-care-expansion/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-16T23:30:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T23:25:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "E-Commerce Innovators: Protecting every purchase",
+      "url": "https://www.smartcompany.com.au/partner-content/e-commerce-innovators-protecting-every-purchase/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-16T23:03:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T23:01:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Coles challenges ACCC in first major test of new merger laws",
+      "url": "https://www.smartcompany.com.au/retail/coles-challenges-accc-first-major-test-new-merger-laws/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-07-16T23:00:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:29:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+      "url": "https://mojibake.zaerl.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:29:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:27:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "url": "https://github.com/cgrtml/reasongate",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:21:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "url": "https://hellorecon.com/blog/cve-2026-25089",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:07:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T22:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T21:38:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T21:22:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Scaling to 1M concurrent sandboxes in seconds",
+      "url": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T21:04:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:38:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:25:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:24:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "url": "https://libretto.sh/debug-agents",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:21:27+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:18:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The privacy problems hidden in your period tracker",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-16T20:15:58+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
       "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
@@ -11451,307 +11737,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Coverage of an independent, community-driven computer operating system project. It reflects continued interest in alternative OS development outside major tech incumbents, relevant to deep-tech investors tracking systems-level innovation."
-    },
-    {
-      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
-      "url": "https://kurvengefahr.org/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T14:09:23+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A Show HN launch for a browser-based CAD/CAM tool designed for pen plotters. It exemplifies the steady stream of niche maker/hardware tooling emerging from independent developers, which occasionally seeds future hardware or fabrication startups."
-    },
-    {
-      "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
-      "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-12T14:06:57+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Exits & M&A",
-      "summary": "A growing backlog of over 1,000 software unicorns raises questions about whether private equity and public markets can absorb them via IPOs or acquisitions. The piece analyzes liquidity bottlenecks facing late-stage SaaS companies, a critical concern for LPs awaiting distributions and GPs managing extended hold periods."
-    },
-    {
-      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
-      "url": "https://github.com/sshwarts/skillscript",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T13:34:00+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Introduction of Skillscript, a sandboxed declarative language built for orchestrating AI or automation tools. This reflects ongoing developer experimentation in the AI tooling and agent-orchestration space, an area attracting increasing venture attention."
-    },
-    {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T13:26:13+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This piece reports research findings suggesting AI tools help individual scientists advance their careers faster while paradoxically narrowing the diversity of scientific discoveries overall. For GPs backing AI-for-science startups, it's a cautionary data point on innovation homogenization risks tied to widespread AI adoption."
-    },
-    {
-      "title": "Gina Gallery of International Naive Art",
-      "url": "https://www.ginagallery.com/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T13:18:34+00:00",
-      "topics": [
-        "Opinion"
-      ],
-      "category": "Opinion",
-      "summary": "A feature on a gallery dedicated to naive/outsider art from international artists. This is a cultural piece unrelated to venture capital, funding, or technology markets."
-    },
-    {
-      "title": "Understanding the Odin Programming Language",
-      "url": "https://odinbook.com/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T12:08:07+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "An explainer on the Odin programming language, covering its design philosophy and use cases in systems programming. It's relevant background for deep-tech investors tracking developer tooling and language ecosystem trends that can influence future infrastructure startups."
-    },
-    {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "url": "https://mrbruh.com/motorola/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T11:52:21+00:00",
-      "topics": [
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "Policy",
-      "summary": "Security researchers disclosed an unauthenticated remote code execution vulnerability in Motorola's MR2600 router, exposing potential risks for consumer and enterprise networks. While not VC-specific, such disclosures matter to GPs backing IoT and networking hardware startups, as they highlight ongoing security diligence needs for portfolio companies in connected devices."
-    },
-    {
-      "title": "IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11",
-      "url": "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T11:22:42+00:00",
-      "topics": [
-        "Market & Data",
-        "Opinion"
-      ],
-      "category": "Market & Data",
-      "summary": "IT administrators are voicing frustration over Microsoft's bundled apps and Windows 11 changes, reflecting broader enterprise dissatisfaction with incumbent software providers. This discontent could open opportunities for startups building leaner enterprise IT alternatives."
-    },
-    {
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T11:18:32+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "A harrowing report describes decades-long forced labor of a woman in Brazil across three generations of one family. While outside typical VC coverage, it underscores ongoing human rights and labor policy issues relevant to ESG-focused investors."
-    },
-    {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T11:09:42+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Mathematician Terry Tao reflects on using modern AI coding agents to build both legacy-style and new software applications. His hands-on account offers a credible technical assessment of AI coding tools' current capabilities, useful for investors gauging developer-tool maturity."
-    },
-    {
-      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T10:23:25+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "New data shows that data centers powering big tech's AI ambitions now generate carbon emissions comparable to a third of France's total output. This raises pressure for regulatory scrutiny and could influence energy-related infrastructure investments tied to AI scaling."
-    },
-    {
-      "title": "20 largest exits in India",
-      "url": "https://www.techinasia.com/20-largest-exits-india",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T09:00:00+00:00",
-      "topics": [
-        "Exits & M&A",
-        "Market & Data"
-      ],
-      "category": "Exits & M&A",
-      "summary": "A roundup of India's 20 largest startup exits offers LPs a benchmark for realized returns and liquidity trends in one of the world's fastest-growing venture markets. This data point is useful for assessing exit multiples and market maturity relative to global peers."
-    },
-    {
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "url": "https://dakra.github.io/ghostel/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T08:52:59+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "Ghostel.el is a new terminal emulator built on the libghostty library, appealing to developers seeking lightweight, fast terminal tools. Niche infrastructure projects like this often signal broader trends in developer tooling that VCs track for early-stage bets."
-    },
-    {
-      "title": "Indonesia’s top-funded tech companies in the last decade",
-      "url": "https://www.techinasia.com/visual-story/indonesias-topfunded-tech-companies-decade",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T07:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funding"
-      ],
-      "category": "Market & Data",
-      "summary": "This piece ranks Indonesia's most heavily capitalized tech companies over the past decade, highlighting where large pools of venture capital have concentrated. It gives LPs a useful lens on which sectors and founders have historically attracted the biggest checks in Southeast Asia's largest economy."
-    },
-    {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T05:51:32+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A new open-source tool lets developers visually replay AI coding-agent sessions across a 3D map of their codebase. It reflects growing developer tooling innovation around AI-assisted software engineering workflows."
-    },
-    {
-      "title": "India's MSMEs power the economy, but most still aren't using AI",
-      "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T05:30:46+00:00",
-      "topics": [
-        "Market & Data",
-        "AI & Deep Tech"
-      ],
-      "category": "Market & Data",
-      "summary": "A new report highlights that India's MSME sector remains a major economic contributor but has largely lagged in AI adoption, pointing to a substantial addressable market for AI tooling vendors. This gap represents both a risk of competitiveness lag and a large opportunity for enterprise AI startups targeting small businesses."
-    },
-    {
-      "title": "Unicorn Founders Go AI Native",
-      "url": "https://inc42.com/features/unicorn-founders-go-ai-native/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T05:30:07+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "People",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This piece examines how founders of unicorn companies are restructuring their organizations and workflows to become 'AI native,' embedding AI deeply into operations rather than bolting it on. For GPs, it highlights a shifting bar for operational efficiency and product velocity expected of portfolio company leadership."
-    },
-    {
-      "title": "India's QR revolution is just the beginning for MSMEs: Mintoak CEO",
-      "url": "https://yourstory.com/2026/07/india-qr-revolution-beginning-for-msmes-mintoak-ceo-raman-khanduja-msme-sparks",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-12T05:30:00+00:00",
-      "topics": [
-        "Market & Data",
-        "People"
-      ],
-      "category": "Market & Data",
-      "summary": "In an interview, Mintoak's CEO argues that India's rapid QR-code payments adoption among MSMEs is merely a first step toward broader digital financial inclusion, with further monetization opportunities in credit and value-added services. This view matters to fintech investors assessing the next wave of India's payments infrastructure buildout."
-    },
-    {
-      "title": "Chinese AI company launches city forecasting model",
-      "url": "https://www.techinasia.com/google-cloud-ai-startup-lovable-expand-multiyear-partnership-sources",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T04:47:52+00:00",
-      "topics": [
-        "AI & Deep Tech"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "A Chinese AI firm has released a new model designed to forecast urban dynamics, signaling growing sophistication in China's applied AI ecosystem. Such infrastructure-level tools could open new enterprise and government contracting opportunities for AI-focused investors."
-    },
-    {
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T04:15:27+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Opinion"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "An essay questioning the continued relevance of manual coding as AI models increasingly automate software development. The piece feeds into broader debates GPs are having about the future shape of engineering teams and developer tooling investments."
-    },
-    {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-12T04:00:14+00:00",
-      "topics": [
-        "Policy"
-      ],
-      "category": "Policy",
-      "summary": "A new federal regulation requires colleges to demonstrate that graduates achieve better financial outcomes or risk losing access to federal financial aid. This could reshape higher-education economics and has downstream implications for edtech and student-lending startups."
-    },
-    {
-      "title": "South Korea’s startup funding, as explained in charts",
-      "url": "https://www.techinasia.com/visual-story/capital-south-korea-south-koreas-funding-landscape",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-12T04:00:00+00:00",
-      "topics": [
-        "Market & Data",
-        "Funds & LPs"
-      ],
-      "category": "Market & Data",
-      "summary": "This data-driven piece breaks down South Korea's startup funding landscape through charts, likely covering deal counts, sector splits, and capital raised. It's a handy reference for LPs benchmarking Korean venture activity against other Asian markets."
     },
     {
       "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
