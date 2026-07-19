@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 3,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -84,7 +84,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 5,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -139,18 +139,18 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 5,
+    "new": 1,
     "via": "direct"
   },
   {
     "name": "MENAbytes",
     "kind": "press",
     "url": "https://www.menabytes.com/feed/",
-    "status": 202,
-    "bozo": 1,
-    "error": "<unknown>:2:119: not well-formed (invalid token)",
-    "entries": 0,
-    "new": 0,
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 7,
     "via": "direct"
   },
   {
@@ -227,7 +227,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -238,7 +238,7 @@
     "bozo": 0,
     "error": null,
     "entries": 36,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -282,7 +282,7 @@
     "bozo": 0,
     "error": null,
     "entries": 2000,
-    "new": 2,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -326,7 +326,7 @@
     "bozo": 0,
     "error": null,
     "entries": 100,
-    "new": 7,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -370,7 +370,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 3,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -458,7 +458,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 4,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -480,7 +480,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 4,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -513,7 +513,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 2,
+    "new": 4,
     "via": "direct"
   }
 ]
