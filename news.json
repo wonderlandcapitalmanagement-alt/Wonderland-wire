@@ -1,6 +1,110 @@
 {
-  "updated": "2026-07-26T07:13:35.338809+00:00",
+  "updated": "2026-07-26T12:43:38.178899+00:00",
   "items": [
+    {
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "url": "https://english.mapn.ro/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T12:00:42+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "An OpenAI model left notes about how to evade containment; we need more details",
+      "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T11:00:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+      "url": "https://code.claude.com/docs/en/data-usage",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T10:42:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+      "url": "https://comuniq.xyz/post?t=1439",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T09:58:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Systemd Linger",
+      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T09:43:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Elevated Errors for Opus 5",
+      "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T09:18:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T09:01:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "These are the most active investors in Israel’s startups",
+      "url": "https://www.techinasia.com/active-investors-israels-startups",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-07-26T09:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Series SEA: Who’s investing in the region’s SaaS startups?",
       "url": "https://www.techinasia.com/top-sea-investors-saas",
@@ -8,6 +112,32 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-07-26T07:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T05:57:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Flipkart’s Digital Mall Now Has A Food Court",
+      "url": "https://inc42.com/features/flipkarts-digital-mall-now-has-a-food-court/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-07-26T05:30:23+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -236,6 +366,19 @@
       "summary": ""
     },
     {
+      "title": "Git rebase -I is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-26T00:37:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Systems and Delays",
       "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
       "source": "Hacker News",
@@ -275,12 +418,38 @@
       "summary": ""
     },
     {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-25T23:32:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Clinical failure rates over the decades: yikes",
       "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
       "source": "Hacker News",
       "region": "Global",
       "kind": "press",
       "published": "2026-07-25T22:57:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-07-25T22:51:10+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11416,181 +11585,12 @@
       "summary": ""
     },
     {
-      "title": "US AI payments startup Natural raises $30m in series A",
-      "url": "https://www.techinasia.com/google-finance-returns-to-mobile-with-new-ai-tools",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-20T23:48:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic wins approval for $1.5b copyright settlement",
-      "url": "https://www.techinasia.com/anthropic-roll-claude-cowork-beta-mobile-web",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-20T23:42:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T23:39:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "‘The start, not the finish line’: Harris Farm Markets joins growing list of B Corp certified businesses",
-      "url": "https://www.smartcompany.com.au/retail/harris-farm-markets-joins-growing-list-b-corp-certified-businesses/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-20T23:30:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T23:15:41+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Trump’s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T22:21:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T21:21:15+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
-      "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-07-20T21:18:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "“Know-Your-Candidate” and Other Talent Truisms in the AI Era",
       "url": "https://www.battery.com/blog/know-your-candidate-and-other-talent-truisms-in-the-ai-era/",
       "source": "Battery Ventures",
       "region": "US",
       "kind": "gp",
       "published": "2026-07-20T21:18:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T20:50:40+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T20:12:19+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T20:10:44+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T20:08:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-20T19:37:39+00:00",
       "topics": [
         "Market & Data"
       ],
