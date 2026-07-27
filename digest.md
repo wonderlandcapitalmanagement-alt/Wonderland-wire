@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-07-20
+# The Wonderland Brief — week of 2026-07-27
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Anara Impact Capital leads $1.45 million investment in Egypt's Reme-D](http://wamda.com/2026/07/anara-impact-capital-leads-1-45-million-investment-egypt-reme-d)** · Wamda · Jul 20
-- **[FLOATY Studio secures $1 million from Merak Capital](http://wamda.com/2026/07/floaty-studio-secures-1-million-merak-capital)** · Wamda · Jul 20
-- **[Your next client could be Europe’s next unicorn: Join the EIC Service Catalogue](https://www.eu-startups.com/2026/07/your-next-client-could-be-europes-next-unicorn-join-the-eic-service-catalogue/)** · EU-Startups · Jul 20
-- **[Norwest Capital Co-Leads $40 Mn Round In Raghu Vamsi Aerospace](https://inc42.com/buzz/norwest-capital-co-leads-40-mn-round-in-raghu-vamsi-aerospace/)** · Inc42 · Jul 20
-- **[Why is it so hard for the U.S. to win wars?](https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars)** · Hacker News · Jul 20
-- **[Coratia Technologies builds underwater robots in Odisha, and just signed a Rs 66 crore Navy deal](https://yourstory.com/2026/07/coratia-technologies-rs-66-crore-navy-deal)** · YourStory · Jul 20
-- **[Surat's InsideFPV builds India's own combat drones and delivered 100 to the Army in 60 days](https://yourstory.com/2026/07/insidefpv-combat-drones-indian-army)** · YourStory · Jul 20
-- **[Mexico Extends Its Venture Lead Over Brazil As More Global VCs Enter Latin America](https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/)** · Crunchbase News · Jul 20
-- **[Mapping China’s biotech titans](https://www.techinasia.com/visual-story/mapping-chinas-biotech-titans)** · Tech in Asia · Jul 20
-- **[Leeds-based Xentra secures €3.18 million to scale cybersecurity services for SMEs](https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/)** · EU-Startups · Jul 20
+- **[When founders become bottlenecks](http://wamda.com/2026/07/when-founders-become-bottlenecks)** · Wamda · Jul 27
+- **[Meituan expands AI push with new platform for businesses](https://www.techinasia.com/meituan-posts-straight-quarterly-loss)** · Tech in Asia · Jul 27
+- **[The 27 SEA biotech firms betting on cells, fermentation, and code](https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/)** · e27 · Jul 27
+- **[Why a 'Clean' Property File Isn't Enough: How Cubictree's AI Protects Lenders from Hidden Fraud](https://yourstory.com/2026/07/why-clean-property-file-isnt-enough-how-cubictrees-ai-protects-lenders-from-hidden-fraud)** · YourStory · Jul 27
+- **[Bitcoin gains above $65k as oil slides](https://www.techinasia.com/us-lawmakers-crypto-leaders-push-bill-to-create-bitcoin-reserve)** · Tech in Asia · Jul 27
+- **[Why sustainable growth is becoming fintech's strongest competitive advantage](https://yourstory.com/2026/07/why-sustainable-growth-becoming-fintechs-strongest-competitive-advantage)** · YourStory · Jul 27
+- **[Spain’s Multiverse Computing hits unicorn status after raising €500 million Series C at €1.5 billion valuation](https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/)** · EU-Startups · Jul 27
+- **[BAE Systems' energy spinout Nuclear Turbines emerges from stealth with £15M raise](https://tech.eu/2026/07/27/bae-systems-energy-spinout-nuclear-turbines-emerges-from-stealth-with-ps15m-raise/)** · Tech.eu · Jul 27
+- **[European tech weekly recap: Over €1B invested across 50+ deals](https://tech.eu/2026/07/27/european-tech-weekly-recap-over-eur1b-invested-across-50-deals/)** · Tech.eu · Jul 27
+- **[Incêndios devastadores na Europa são problemas pequenos junto do terror da negação climática](https://startupi.com.br/incendios-devastadores-na-europa-sao-problemas-pequenos-junto-do-terror-da-negacao-climatica/)** · Startupi · Jul 27
 
 ## In the listening room
 
-- **[Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.](https://rss.art19.com/episodes/6eca81bc-b0e1-47e2-a87d-f3b243e76a97.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 51 min
-- **[20VC: Are OpenAI and Anthropic Overvalued? The Open-Source AI Reality | How Token Costs Will Fall 10x And Usage Will Explode 100x | The Future Is Not One AGI; It's Millions of Specialised Models with Lin Qiao, Founder and CEO @ Fireworks](https://thetwentyminutevc.libsyn.com/20vc-are-openai-and-anthropic-overvalued-the-open-source-ai-reality-how-token-costs-will-fall-10x-and-usage-will-explode-100x-the-future-is-not-one-agi-its-millions-of-specialised-models-with-lin-qiao-founder-and-ceo-fireworks)** · The Twenty Minute VC · 77 min
-- **[Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone](https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future)** · Lenny's Podcast
-- **[🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more](https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code)** · Lenny's Podcast
-- **[20VC: $5BN in Revenue, 7 to 7,000 Employees in 9 Months, 206,000 Tests in a Single Day: The Craziest Story in Startups: Curative with Fred Turner](https://thetwentyminutevc.libsyn.com/20vc-5bn-in-revenue-7-to-7000-employees-in-9-months-206000-tests-in-a-single-day-the-craziest-story-in-startups-curative-with-fred-turner)** · The Twenty Minute VC · 87 min
+- **[Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.](https://rss.art19.com/episodes/50c2b5e3-3bc3-4039-a92d-26228b8ac908.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 72 min
+- **[20VC: Leading Anthropic's First Ever Round | Will Open Source Threaten Anthropic's Business | Do Margins Matter in a World of AI | Why Triple, Triple, Double, Double is Not Good Enough Today | Why Series A is Hard Today with Matt Murphy @ Menlo](https://thetwentyminutevc.libsyn.com/20vc-leading-anthropics-first-ever-round-will-open-source-threaten-anthropics-business-do-margins-matter-in-a-world-of-ai-why-triple-triple-double-double-is-not-good-enough-today-why-series-a-is-hard-today-with-matt-murphy-menlo)** · The Twenty Minute VC · 62 min
+- **[Ben Horowitz: The Fight Over Open Source AI](https://a16z.simplecast.com/episodes/ben-horowitz-the-fight-over-open-source-ai-RnXTUEqk)** · a16z Podcast · 32 min
+- **[Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn](https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on)** · Lenny's Podcast
+- **[🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more](https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients)** · Lenny's Podcast
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
