@@ -1,6 +1,58 @@
 {
-  "updated": "2026-08-02T08:04:27.879488+00:00",
+  "updated": "2026-08-02T10:25:09.130151+00:00",
   "items": [
+    {
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "url": "https://github.com/syncular/syncular",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-02T09:48:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Meet the 50 top-funded startups and tech companies in Singapore",
+      "url": "https://www.techinasia.com/top-funded-startups-tech-companies-singapore",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-02T09:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The time filter in Google Search broke a few days ago",
+      "url": "https://mastodon.online/@mwichary/117023736804129342",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-02T08:48:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "I don't recommend Tailwind CSS",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-02T07:09:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Australia's social media ban has failed",
       "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
@@ -249,6 +301,19 @@
       "summary": ""
     },
     {
+      "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "url": "https://yarchive.net/comp/128bit.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-02T01:26:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
       "url": "https://zenodo.org/records/21753002",
       "source": "Hacker News",
@@ -372,6 +437,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-01T22:25:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Drug reverses autism-like brain changes in adult mice within hours",
+      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-01T22:20:21+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11474,84 +11552,6 @@
       "region": "ANZ",
       "kind": "press",
       "published": "2026-07-28T04:37:02+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-28T04:30:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "SK hynix shares slide as AI memory pricing faces scrutiny",
-      "url": "https://www.techinasia.com/sk-hynix-plans-29b-listing",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-28T04:15:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The 90-day business risk most SME owners never plan for",
-      "url": "https://www.smartcompany.com.au/business-advice/90-day-business-risk-sme-owners-never-plan-for/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-07-28T03:46:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI to add 250 jobs in Dublin HQ expansion",
-      "url": "https://www.techinasia.com/openai-codex-chatgpt-work-reach-10-million-users",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-28T03:32:50+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How entrepreneurs turn dreams into successful startups",
-      "url": "https://yourstory.com/2026/07/go-confidently-direction-dreams-startup-way",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-07-28T03:30:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Index Ventures led Israeli AI startup Enigma’s $71m seed",
-      "url": "https://www.techinasia.com/microsoft-ceo-says-firm-must-rebuild-staff-trust-after-layoffs",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-07-28T02:46:41+00:00",
       "topics": [
         "Market & Data"
       ],
