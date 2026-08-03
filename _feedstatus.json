@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -62,7 +62,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 13,
+    "new": 10,
     "via": "direct"
   },
   {
@@ -73,7 +73,7 @@
     "bozo": 1,
     "error": "document declared as us-ascii, but parsed as utf-8",
     "entries": 7,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -84,7 +84,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -139,18 +139,18 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 3,
+    "new": 2,
     "via": "direct"
   },
   {
     "name": "MENAbytes",
     "kind": "press",
     "url": "https://www.menabytes.com/feed/",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 10,
-    "new": 7,
+    "status": null,
+    "bozo": 1,
+    "error": "<urlopen error [Errno 110] Connection timed out>",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -183,7 +183,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -238,7 +238,7 @@
     "bozo": 0,
     "error": null,
     "entries": 36,
-    "new": 0,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -249,7 +249,7 @@
     "bozo": 0,
     "error": null,
     "entries": 50,
-    "new": 0,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -282,7 +282,7 @@
     "bozo": 0,
     "error": null,
     "entries": 2000,
-    "new": 3,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -304,7 +304,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -370,7 +370,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -454,11 +454,11 @@
     "name": "AVC · Fred Wilson",
     "kind": "gp",
     "url": "https://avc.com/feed",
-    "status": 301,
-    "bozo": 0,
-    "error": null,
-    "entries": 10,
-    "new": 4,
+    "status": 415,
+    "bozo": 1,
+    "error": "<unknown>:7:2: mismatched tag",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -513,7 +513,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 4,
     "via": "direct"
   }
 ]
