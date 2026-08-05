@@ -36,7 +36,7 @@
  },
  {
   "name": "Y Combinator Startup Podcast",
-  "entries": 328,
+  "entries": 329,
   "error": null
  },
  {
@@ -87,6 +87,6 @@
  {
   "name": "Anatomy of Next",
   "entries": 52,
-  "error": null
+  "error": "HTTP Error 403: Forbidden -> recovered via proxy"
  }
 ]
