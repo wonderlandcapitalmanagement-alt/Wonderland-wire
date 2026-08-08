@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -25,9 +25,9 @@
     "name": "PitchBook News",
     "kind": "press",
     "url": "https://pitchbook.com/news/rss",
-    "status": 403,
+    "status": 404,
     "bozo": 1,
-    "error": "<unknown>:2:1326: not well-formed (invalid token)",
+    "error": "<unknown>:10:81: not well-formed (invalid token)",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 5,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -51,7 +51,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 3,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -62,7 +62,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 7,
+    "new": 8,
     "via": "direct"
   },
   {
@@ -84,7 +84,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 5,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -194,7 +194,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -227,7 +227,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -238,7 +238,7 @@
     "bozo": 0,
     "error": null,
     "entries": 36,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -326,7 +326,7 @@
     "bozo": 0,
     "error": null,
     "entries": 100,
-    "new": 7,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -458,7 +458,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 5,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 2,
     "via": "direct"
   },
   {
