@@ -1,6 +1,71 @@
 {
-  "updated": "2026-08-08T18:21:52.992202+00:00",
+  "updated": "2026-08-08T21:19:37.210727+00:00",
   "items": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T19:41:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T19:38:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T18:09:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T17:42:40+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T17:27:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "LinkedIn Feed Blocker",
       "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
@@ -73,6 +138,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-08T16:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-08T15:34:49+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11370,84 +11448,6 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-08-04T06:16:43+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Apple Restores Telegram On App Store After Brief CSAM-Related Takedown",
-      "url": "https://inc42.com/buzz/apple-restores-telegram-on-app-store-after-brief-csam-related-takedown/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T06:16:07+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nazara Tech slips into Rs 82.5 Cr loss in Q1; Nitish Mittersain steps down as CEO",
-      "url": "https://yourstory.com/2026/08/nazara-tech-slips-into-82-cr-loss-in-q1-nitish-mittersain-steps-down-as-ceo",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T06:11:07+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "HYLENR is developing low-energy nuclear reactors to produce industrial heat",
-      "url": "https://yourstory.com/2026/08/hylenr-low-energy-nuclear-reactors",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T05:52:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Vimag Labs is building an electric motor that works without rare-earth magnets",
-      "url": "https://yourstory.com/2026/08/vimag-labs-rare-earth-free-motors",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T05:50:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "DeepLase makes fibre lasers and specialty optical fibres for industrial use",
-      "url": "https://yourstory.com/2026/08/deeplase-fibre-lasers",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T05:48:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "LG Uplus buys security provider Pago Networks",
-      "url": "https://www.techinasia.com/kt-lg-uplus-face-probes-and-subscriber-losses-after-hacks",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-04T05:36:17+00:00",
       "topics": [
         "Market & Data"
       ],
