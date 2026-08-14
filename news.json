@@ -1,6 +1,422 @@
 {
-  "updated": "2026-08-14T01:03:05.297296+00:00",
+  "updated": "2026-08-14T04:41:35.969222+00:00",
   "items": [
+    {
+      "title": "The best meetups in London for founders and VCs",
+      "url": "https://sifted.eu/articles/top-london-tech-meetups/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-08-14T05:00:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "10 drone startups to watch in 2026, according to VCs",
+      "url": "https://sifted.eu/articles/10-drone-startups-to-watch-2026/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-08-14T05:00:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Europe’s 30 most active public funds in H1 2026",
+      "url": "https://sifted.eu/articles/most-active-public-funds-in-h1-2026/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-08-14T05:00:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "SMIC tops $3b in Q2 as AI demand supports orders",
+      "url": "https://www.techinasia.com/china-chipmaker-smic-posts-61-jump-in-q4-profit",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T04:43:58+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "10 Landmark books that document India's tech evolution",
+      "url": "https://yourstory.com/2026/08/landmark-books-document-india-tech-evolution",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-08-14T04:35:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",
+      "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T04:30:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LG teams up with Nvidia on AI robots and factories",
+      "url": "https://www.techinasia.com/lg-chem-plans-9-7b-rd-push-for-chips-robot-tech",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T04:27:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "China’s startup funding, as explained in charts",
+      "url": "https://www.techinasia.com/visual-story/capital-china-chinas-funding-landscape",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T04:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Pokemon cards gained 22.8% while Bitcoin lost 20.7% and that gap should worry every investor",
+      "url": "https://e27.co/pokemon-cards-gained-22-8-while-bitcoin-lost-20-7-and-that-gap-should-worry-every-investor-20260814/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:56:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "DeepX secures over $13m in AI chip orders",
+      "url": "https://www.techinasia.com/south-korean-ai-chip-startup-deepx-raises-293m",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:43:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Oracle, AWS expand database partnership",
+      "url": "https://www.techinasia.com/oracle-beats-estimates-q4-cloud-revenue-jumps-47",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:37:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AMD launches four-part bond sale to raise up to $5b",
+      "url": "https://www.techinasia.com/amd-sees-2ndquarter-revenue-estimates-ai-spending",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:30:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ford targets 2027 Fathom EV production",
+      "url": "https://www.techinasia.com/ford-sk-seek-sell-excess-batteries-ev-demand-weakens",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:16:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
+      "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T03:00:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft cuts carbon removal buys as AI spending rises",
+      "url": "https://www.techinasia.com/microsoft-emissions-rose-27-ai-buildout-grew",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:55:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Uber, Pony.ai plan 2,000 robotaxis in Europe",
+      "url": "https://www.techinasia.com/pony-ai-comfortdelgro-to-launch-driverless-services-in-singapore",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:51:16+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The system behind the smile: How to make volunteer efforts sustainable",
+      "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:45:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis",
+      "url": "https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:43:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Apple weighs paying publishers for Siri AI content",
+      "url": "https://www.techinasia.com/apple-intelligence-nears-launch-iphones-china",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:43:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-14T02:39:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Razorpay’s ChatGPT Gambit, Snapchat’s Next Big Quest & More",
+      "url": "https://inc42.com/buzz/razorpays-chatgpt-gambit-snapchats-next-big-quest-more/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-08-14T02:30:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "India’s only chip fab is getting Rs 4,500 crore. The shopping list is clearer than the mission",
+      "url": "https://the-ken.com/story/indias-only-chip-fab-is-getting-rs-4500-crore-the-shopping-list-is-clearer-than-the-mission/",
+      "source": "The Ken",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-08-14T02:30:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The new ransomware playbook: Why ASEAN banks are losing the disclosure war",
+      "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:25:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Financial inclusion has come far – but there’s more to be done",
+      "url": "https://www.techinasia.com/financial-inclusion-has-come-far",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:00:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Can Razorpay Turn ChatGPT Into India’s Next Commerce Channel?",
+      "url": "https://inc42.com/features/can-razorpay-turn-chatgpt-into-indias-next-commerce-channel/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-08-14T02:00:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How Fabindia sees itself at 66; Life at Tata after Chandra",
+      "url": "https://yourstory.com/2026/08/how-fabindia-sees-itself-at-66-life-at-tata-after-chandra",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-08-14T02:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mapping the players sweeping Korea’s cleantech space",
+      "url": "https://www.techinasia.com/visual-story/mapping-koreas-notable-cleantech-players",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T02:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Woolies’ Disney Ooshies out of stock a week ahead of schedule",
+      "url": "https://www.smartcompany.com.au/retail/ooshies-woolworths-out-of-stock-disney/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-08-14T01:44:51+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The hidden problem inside AI teams isn’t skills — it’s the human environment",
+      "url": "https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T01:44:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Didi returns to profit with $128m Q2 net income",
+      "url": "https://www.techinasia.com/chinese-software-maker-manycore-eyes-100m-hk-ipo",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T01:40:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Databricks raises $5b at $190b valuation",
+      "url": "https://www.techinasia.com/databricks-eyes-funding-at-up-to-175b-valuation-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-08-14T01:17:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "‘Barbecue’ vs ‘BBQ’: Brisbane business challenges food truck over similar name",
+      "url": "https://www.smartcompany.com.au/hospitality/barbecue-mafia-bbq-royal-queensland-show-name-trademark/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-08-14T01:11:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Eight ANZ startups that raised $67.4 million this week",
       "url": "https://www.smartcompany.com.au/startupsmart/eight-anz-startups-that-raised-67-4-million-this-week/",
@@ -151,6 +567,19 @@
       "region": "ANZ",
       "kind": "press",
       "published": "2026-08-13T23:56:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-13T23:39:33+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -1139,6 +1568,19 @@
       "region": "US",
       "kind": "gp",
       "published": "2026-08-13T14:01:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-13T14:00:30+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11208,428 +11650,12 @@
       "summary": ""
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T20:48:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T20:42:29+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T20:35:17+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
-      "url": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T20:13:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-      "url": "https://github.com/yegors/deGDID",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T20:06:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T19:43:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T19:20:40+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T19:20:32+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T19:16:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
-      "url": "https://github.com/nsrht/time-travel-sqlite-debugger",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T18:59:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
-      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T18:51:57+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Saying No",
-      "url": "https://rozumem.xyz/posts/19",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T18:51:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "If experience is the goal, then you always win",
-      "url": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T18:42:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "I made tinnitus my friend, then it disappeared [video]",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T18:41:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T17:27:16+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T17:23:22+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "The Argument Against AI Writing Is At Least 2,400 Years Old",
       "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
       "source": "Feld Thoughts",
       "region": "US",
       "kind": "gp",
       "published": "2026-08-09T17:22:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
-      "url": "https://frequal.com/aptera/ProductionImminent.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T17:19:48+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T17:10:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "FCC moves to ban Lidar-equipped foreign drones from US",
-      "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T16:24:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-      "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T16:18:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T16:05:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-      "url": "https://unyolo.io/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:53:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Every fast write moves work somewhere else",
-      "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:36:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Criminal Deception in Silicon Valley",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:26:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "url": "https://github.com/eighttrigrams/us-vs-them",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:25:29+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:21:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:11:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-      "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:08:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T15:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T14:32:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Show HN: Today's cities on a globe of Earth's tectonic past and future",
-      "url": "https://douwe.com/projects/tectonic_globe",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T14:30:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-09T14:30:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11832,19 +11858,6 @@
       "summary": ""
     },
     {
-      "title": "The Return Of The Repeat Founder: Inside YC’s Growing Class Of Second-Timers",
-      "url": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-06T11:00:56+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Plucky founders, not Indian pharma giants, could reshape drug discovery in its new ‘golden age’",
       "url": "https://the-ken.com/story/plucky-founders-not-indian-pharma-giants-could-reshape-drug-discovery-in-its-new-golden-age/",
       "source": "The Ken",
@@ -12003,19 +12016,6 @@
     {
       "title": "The road for Indian EVs passes through Beijing. What if China sets up a barricade?",
       "url": "https://the-ken.com/story/the-road-for-indian-evs-passes-through-beijing-what-if-china-sets-up-a-barricade/",
-      "source": "The Ken",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-04T02:30:01+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "There’s a ‘borrowed revolution’ on our roads. And India has no control over it",
-      "url": "https://the-ken.com/story/theres-a-borrowed-revolution-on-our-roads-and-india-has-no-control-over-it/",
       "source": "The Ken",
       "region": "India",
       "kind": "press",
