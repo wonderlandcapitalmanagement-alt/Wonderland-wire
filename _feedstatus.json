@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -18,16 +18,16 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
     "name": "PitchBook News",
     "kind": "press",
     "url": "https://pitchbook.com/news/rss",
-    "status": 404,
+    "status": 403,
     "bozo": 1,
-    "error": "<unknown>:10:81: not well-formed (invalid token)",
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 5,
     "via": "direct"
   },
   {
@@ -51,7 +51,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -62,7 +62,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 5,
+    "new": 18,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -117,7 +117,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -128,7 +128,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 2,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -146,11 +146,11 @@
     "name": "MENAbytes",
     "kind": "press",
     "url": "https://www.menabytes.com/feed/",
-    "status": null,
-    "bozo": 1,
-    "error": "<urlopen error [Errno 110] Connection timed out>",
-    "entries": 0,
-    "new": 0,
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 5,
     "via": "direct"
   },
   {
@@ -168,9 +168,9 @@
     "name": "MAGNiTT",
     "kind": "press",
     "url": "https://magnitt.com/news/rss",
-    "status": 200,
+    "status": 403,
     "bozo": 1,
-    "error": "<unknown>:11:33: not well-formed (invalid token)",
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -183,7 +183,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 3,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -194,7 +194,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 7,
+    "new": 9,
     "via": "direct"
   },
   {
@@ -238,7 +238,7 @@
     "bozo": 0,
     "error": null,
     "entries": 36,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -337,7 +337,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -458,7 +458,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 4,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 5,
     "via": "direct"
   },
   {
@@ -513,7 +513,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 1,
+    "new": 4,
     "via": "direct"
   }
 ]
