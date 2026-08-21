@@ -1,6 +1,149 @@
 {
-  "updated": "2026-08-21T18:21:40.750162+00:00",
+  "updated": "2026-08-21T21:13:38.176200+00:00",
   "items": [
+    {
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T21:00:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T20:58:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T20:25:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T19:57:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T19:51:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T19:43:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
+      "url": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T19:35:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T19:16:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Tumble Forth – from assembly to OS with C compiler",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T18:59:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T18:48:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T18:36:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Tesla’s solar roof is dead. Here’s what went wrong",
       "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
@@ -236,6 +379,19 @@
       "summary": ""
     },
     {
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T15:51:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way",
       "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
       "source": "Crunchbase News",
@@ -281,6 +437,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-21T15:21:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The B-right/V R2 Operating System (2000)",
+      "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-08-21T15:20:59+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -2335,6 +2504,19 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-08-21T00:01:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mainframes became personal. So will your data center.",
+      "url": "https://www.tomtunguz.com/intelligence-per-watt/",
+      "source": "Tomasz Tunguz",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-08-21T00:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11273,175 +11455,6 @@
       "summary": ""
     },
     {
-      "title": "Sun Clock",
-      "url": "https://sunclock.net/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T16:37:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "When A Sale ‘Dies’: Did Flipkart’s Dark Humour Go Too Far?",
-      "url": "https://inc42.com/buzz/when-a-sale-dies-did-flipkarts-dark-humour-go-too-far/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-17T16:15:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T16:15:12+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
-      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-      "source": "VentureBeat",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-08-17T16:11:44+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T16:11:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
-      "url": "https://sifted.eu/articles/gravis-robotics-1bn-valuation-200m-softbank/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-08-17T15:51:10+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T15:36:18+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "PharmEasy Claims To Be Debt Free After Paring More Stake In Thyrocare",
-      "url": "https://inc42.com/buzz/pharmeasy-claims-to-be-debt-free-after-paring-more-stake-in-thyrocare/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-17T15:27:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic's War on open source AI",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T15:24:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T15:16:24+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Govt Clears 31 More Electronics Manufacturing Projects Worth ₹7.9K Cr",
-      "url": "https://inc42.com/buzz/govt-clears-31-more-electronics-manufacturing-projects-worth-%e2%82%b97-9k-cr/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-17T15:14:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
-      "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T15:06:07+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "WordPress.com targets the next generation of web creators with a free student plan",
-      "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-17T14:56:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Khwarizmi Ventures partially exits Bosta, marking sixth portfolio exit",
       "url": "http://wamda.com/2026/08/khwarizmi-ventures-partially-exits-bosta-marking-sixth-portfolio-exit",
       "source": "Wamda",
@@ -12189,19 +12202,6 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-04T12:03:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Racing to Sustain Jevons' Paradox",
-      "url": "https://www.tomtunguz.com/what-if-gpu-prices-double/",
-      "source": "Tomasz Tunguz",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-08-04T00:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
