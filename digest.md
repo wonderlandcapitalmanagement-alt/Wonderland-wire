@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-08-17
+# The Wonderland Brief — week of 2026-08-24
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[University of Essex spin-out Versatile RobotX bags over €1.17 million to commercialise its agricultural robots](https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/)** · EU-Startups · Aug 17
-- **[Alibaba reportedly nears $1.5 billion deal to sell its gaming business](https://technode.com/2026/08/17/alibaba-reportedly-nears-1-5-billion-deal-to-sell-its-gaming-business/)** · TechNode · Aug 17
-- **[Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark](https://technode.com/2026/08/17/z-ai-launches-glm-5-3-with-claimed-50-gain-on-coding-benchmark/)** · TechNode · Aug 17
-- **[Malaysia’s sovereign AI bet: Local context becomes the next startup moat](https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/)** · e27 · Aug 17
-- **[From the cost of living to nostalgia: Why Ooshies became such a hit in 2026](https://www.smartcompany.com.au/marketing/cost-of-living-nostalgia-why-ooshies-became-hit-2026-stock/)** · SmartCompany · Aug 17
-- **[Ecommerce order volumes up 31% during Independence Day sales](https://yourstory.com/2026/08/ecommerce-order-volumes-up-31-during-independence-day-sales)** · YourStory · Aug 17
-- **[China’s CXMT tops $500b market value, surpasses Tencent](https://www.techinasia.com/chinas-cxmt-enters-high-end-memory-race-with-samsung-sk-hynix)** · Tech in Asia · Aug 17
-- **[The RBI’s revolving-credit rule treats every NBFC like a bad lender](https://the-ken.com/story/the-rbis-revolving-credit-rule-treats-every-nbfc-like-a-bad-lender/)** · The Ken · Aug 17
-- **[Bitcoin rose above $64k but rebound stays limited](https://www.techinasia.com/bitcoin-falls-fed-implies-2026-rate-hike)** · Tech in Asia · Aug 17
-- **[$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)** · Hacker News · Aug 17
+- **[Why Indonesia’s agritech winners will be phygital, not purely digital](https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/)** · e27 · Aug 24
+- **[Alibaba launches Wan3.0 video model with 30-second generation and document input](https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/)** · TechNode · Aug 24
+- **[Fuyao lists a solar sunroof capable of producing 150 watts per square meter](https://technode.com/2026/08/24/fuyao-lists-a-solar-sunroof-capable-of-producing-150-watts-per-square-meter/)** · TechNode · Aug 24
+- **[D2C Skincare Brand Asaya Bags ₹88 Cr, Eyes Offline Retail Entry](https://inc42.com/buzz/d2c-skincare-brand-asaya-bags-%e2%82%b988-cr-eyes-offline-retail-entry/)** · Inc42 · Aug 24
+- **[Skincare brand Asaya raises Rs 88 Cr in Series A](https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a)** · YourStory · Aug 24
+- **[NSDC launches nationwide cloud, AI skilling initiative](https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative)** · YourStory · Aug 24
+- **[Third Wave Coffee Raises ₹408 Cr To Expand Cafe Network, Dessert Business](https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/)** · Inc42 · Aug 24
+- **[VCs pick out 19 startups to watch making AI more efficient](https://sifted.eu/articles/ai-efficiency-startups-to-watch/)** · Sifted · Aug 24
+- **[15 startup hotspots in Copenhagen](https://sifted.eu/articles/15-startup-hotspots-in-copenhagen/)** · Sifted · Aug 24
+- **[Alibaba Cloud launches Wan3.0 video generation model](https://www.techinasia.com/alibaba-cloud-expands-ai-push-in-singapore)** · Tech in Asia · Aug 24
 
 ## In the listening room
 
-- **[OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber](https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the)** · Lenny's Podcast
-- **[🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more](https://www.lennysnewsletter.com/p/community-wisdom-recovering-from)** · Lenny's Podcast
-- **[Pioneers of AI: Why AI conversations are always one-sided](https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/8cb0ebfc-d742-465b-ba62-e26ddaabfeb6.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · Masters of Scale · 39 min
-- **[20Growth: How to Build a $100M Growth Engine: Lessons from Wispr Flow and Superhuman | Why You Should Do Paid Ads Today and How To Do Them | How to Build the Best Referral Programs and How to Crush UGC with Matt Swulinski](https://thetwentyminutevc.libsyn.com/20growth-how-to-build-a-100m-growth-engine-lessons-from-wispr-flow-and-superhuman-why-you-should-do-paid-ads-today-and-how-to-do-them-how-to-build-the-best-referral-programs-and-how-to-crush-ugc-with-matt-swulinski)** · The Twenty Minute VC · 78 min
-- **[What we'll learn from Anthropic's $2-$3T IPO | E2325](https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/what-well-learn-from-anthropics-2-3t-ipo-e2325)** · This Week in Startups · 80 min
+- **[How to close $100K+ enterprise deals, step by step | Jen Abel](https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by)** · Lenny's Podcast
+- **[🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more](https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys)** · Lenny's Podcast
+- **[Martin Casado on Where the Value Is Going in AI](https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM)** · a16z Podcast · 42 min
+- **[20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega](https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-will-burst-half-the-neoclouds-will-die-china-should-we-ban-chip-exports-be-fearful-of-chinese-open-source-mag7-who-dies-and-who-thrives-why-meta-is-meh-and-microsoft-is-mega)** · The Twenty Minute VC · 66 min
+- **[Open source is going to win it all: Harvey proves it | E2328](https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/open-source-is-going-to-win-it-all-harvey-proves-it-e2328)** · This Week in Startups · 69 min
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
