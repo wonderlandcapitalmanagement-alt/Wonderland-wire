@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-08-24
+# The Wonderland Brief — week of 2026-08-31
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Why Indonesia’s agritech winners will be phygital, not purely digital](https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/)** · e27 · Aug 24
-- **[Alibaba launches Wan3.0 video model with 30-second generation and document input](https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/)** · TechNode · Aug 24
-- **[Fuyao lists a solar sunroof capable of producing 150 watts per square meter](https://technode.com/2026/08/24/fuyao-lists-a-solar-sunroof-capable-of-producing-150-watts-per-square-meter/)** · TechNode · Aug 24
-- **[D2C Skincare Brand Asaya Bags ₹88 Cr, Eyes Offline Retail Entry](https://inc42.com/buzz/d2c-skincare-brand-asaya-bags-%e2%82%b988-cr-eyes-offline-retail-entry/)** · Inc42 · Aug 24
-- **[Skincare brand Asaya raises Rs 88 Cr in Series A](https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a)** · YourStory · Aug 24
-- **[NSDC launches nationwide cloud, AI skilling initiative](https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative)** · YourStory · Aug 24
-- **[Third Wave Coffee Raises ₹408 Cr To Expand Cafe Network, Dessert Business](https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/)** · Inc42 · Aug 24
-- **[VCs pick out 19 startups to watch making AI more efficient](https://sifted.eu/articles/ai-efficiency-startups-to-watch/)** · Sifted · Aug 24
-- **[15 startup hotspots in Copenhagen](https://sifted.eu/articles/15-startup-hotspots-in-copenhagen/)** · Sifted · Aug 24
-- **[Alibaba Cloud launches Wan3.0 video generation model](https://www.techinasia.com/alibaba-cloud-expands-ai-push-in-singapore)** · Tech in Asia · Aug 24
+- **[Singapore to invest $173m in fintech over 3 years](https://www.techinasia.com/visa-nium-join-masled-project-bloom-stablecoin-pilot)** · Tech in Asia · Aug 31
+- **[NIIF raises Rs 19,000 cr as first close in second fund](https://yourstory.com/2026/08/niif-raises-rs-19000-cr-as-first-close-in-second-fund)** · YourStory · Aug 31
+- **[Southeast Asia startup funding finds a floor, but not a rebound](https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/)** · e27 · Aug 31
+- **[Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland](https://www.eu-startups.com/2026/08/redstone-unveils-e10-million-fund-targeting-deeptech-defence-and-energy-transition-in-finland/)** · EU-Startups · Aug 31
+- **[Zomato Bans Sale Of Analogue Dishes On Its Platform](https://inc42.com/buzz/zomato-bans-sale-of-analogue-dishes-on-its-platform/)** · Inc42 · Aug 31
+- **[Meet the 16-year-old builder who caught Stripe’s attention](https://www.techinasia.com/meet-16yearold-builder-caught-stripes-attention)** · Tech in Asia · Aug 31
+- **[Government notifies Rs 1.27L-cr Semicon 2.0 with eligibility norms, sops](https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops)** · YourStory · Aug 31
+- **[Online Grocery Startup Satvacart Shuts Down After 12-Year Run](https://inc42.com/buzz/online-grocery-startup-satvacart-shuts-down-after-12-year-run/)** · Inc42 · Aug 31
+- **[European tech weekly recap: Over €475M invested across 35+ deals](https://tech.eu/2026/08/31/european-tech-weekly-recap-over-eur475m-invested-across-35-deals/)** · Tech.eu · Aug 31
+- **[Meta amplia risco regulatório para startups que vivem de dados e engajamento](https://startupi.com.br/meta-amplia-risco-regulatorio-para-startups-que-vivem-de-dados-e-engajamento/)** · Startupi · Aug 31
 
 ## In the listening room
 
-- **[How to close $100K+ enterprise deals, step by step | Jen Abel](https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by)** · Lenny's Podcast
-- **[🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more](https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys)** · Lenny's Podcast
-- **[Martin Casado on Where the Value Is Going in AI](https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM)** · a16z Podcast · 42 min
-- **[20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega](https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-will-burst-half-the-neoclouds-will-die-china-should-we-ban-chip-exports-be-fearful-of-chinese-open-source-mag7-who-dies-and-who-thrives-why-meta-is-meh-and-microsoft-is-mega)** · The Twenty Minute VC · 66 min
-- **[Open source is going to win it all: Harvey proves it | E2328](https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/open-source-is-going-to-win-it-all-harvey-proves-it-e2328)** · This Week in Startups · 69 min
+- **[516. AI Cost Structures and Pricing, Proprietary Data Sets That Create Moats, and a Clear Method for Determining Which Problem to Solve First (Vivek Vaidya)](https://fullratchet.net/vivek-vaidya)** · The Full Ratchet · 44 min
+- **[Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing… Tortilla Chips Saved Them](https://rss.art19.com/episodes/97049a31-9144-42f5-856c-9590c5e6beb4.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 80 min
+- **[20VC: The AI Bubble Is Wrong | AI Margins Need to Improve | Revenue Concentration Should be a Concern | Why People Over-Estimate Open Models But Enterprises Still Fear Frontier Models with Aaron Katz, ClickHouse](https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-is-wrong-ai-margins-need-to-improve-revenue-concentration-should-be-a-concern-why-people-over-estimate-open-models-but-enterprises-still-fear-frontier-models-with-aaron-katz-clickhouse)** · The Twenty Minute VC · 63 min
+- **[AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)](https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent)** · Lenny's Podcast
+- **[Why a16z Launched the Machine Age Fund | Jen Kha](https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl)** · a16z Podcast · 24 min
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
