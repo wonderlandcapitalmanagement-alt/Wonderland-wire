@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 0,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -18,7 +18,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -62,7 +62,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 3,
+    "new": 8,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -106,7 +106,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 1,
+    "new": 7,
     "via": "direct"
   },
   {
@@ -128,29 +128,29 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 7,
     "via": "direct"
   },
   {
     "name": "Wamda",
     "kind": "press",
     "url": "https://www.wamda.com/feed",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 20,
-    "new": 3,
+    "status": 403,
+    "bozo": 1,
+    "error": "text/html is not an XML media type",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
     "name": "MENAbytes",
     "kind": "press",
     "url": "https://www.menabytes.com/feed/",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 10,
-    "new": 3,
+    "status": null,
+    "bozo": 1,
+    "error": "<urlopen error [Errno 110] Connection timed out>",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -183,7 +183,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 3,
+    "new": 10,
     "via": "direct"
   },
   {
@@ -194,16 +194,16 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 7,
+    "new": 5,
     "via": "direct"
   },
   {
     "name": "VCCircle",
     "kind": "press",
     "url": "https://www.vccircle.com/rss",
-    "status": 500,
+    "status": 403,
     "bozo": 1,
-    "error": "<unknown>:2:1103: not well-formed (invalid token)",
+    "error": "<unknown>:5:2: mismatched tag",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -227,18 +227,18 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
     "name": "Tech in Asia",
     "kind": "press",
     "url": "https://www.techinasia.com/feed",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 36,
-    "new": 11,
+    "status": 403,
+    "bozo": 1,
+    "error": "text/html is not an XML media type",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -249,7 +249,7 @@
     "bozo": 0,
     "error": null,
     "entries": 50,
-    "new": 8,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -282,7 +282,7 @@
     "bozo": 0,
     "error": null,
     "entries": 2000,
-    "new": 7,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -293,7 +293,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -326,7 +326,7 @@
     "bozo": 0,
     "error": null,
     "entries": 100,
-    "new": 2,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -337,7 +337,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 1,
     "via": "direct"
   },
   {
@@ -370,7 +370,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -458,7 +458,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 2,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -480,7 +480,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 5,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -513,7 +513,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 6,
     "via": "direct"
   }
 ]
