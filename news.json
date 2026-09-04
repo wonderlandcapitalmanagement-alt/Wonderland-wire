@@ -1,6 +1,123 @@
 {
-  "updated": "2026-09-04T20:00:56.172260+00:00",
+  "updated": "2026-09-04T22:37:49.778451+00:00",
   "items": [
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:52:01+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Icons as a Service",
+      "url": "https://nravic.com/blog/images/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:44:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:39:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:16:16+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:12:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Some more thoughts on random_page_cost",
+      "url": "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T21:05:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Statichost.eu – 100% European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T20:34:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How to Create a Tor Exit Node",
+      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T20:16:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T20:13:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
@@ -60,6 +177,19 @@
       "region": "India",
       "kind": "press",
       "published": "2026-09-04T19:05:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T18:57:32+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -177,6 +307,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-04T17:12:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T17:09:24+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11487,149 +11630,6 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-08-31T08:54:27+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "NIIF raises Rs 19,000 cr as first close in second fund",
-      "url": "https://yourstory.com/2026/08/niif-raises-rs-19000-cr-as-first-close-in-second-fund",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T08:45:28+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Southeast Asia startup funding finds a floor, but not a rebound",
-      "url": "https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-31T08:42:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland",
-      "url": "https://www.eu-startups.com/2026/08/redstone-unveils-e10-million-fund-targeting-deeptech-defence-and-energy-transition-in-finland/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-08-31T08:39:56+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Zomato Bans Sale Of Analogue Dishes On Its Platform",
-      "url": "https://inc42.com/buzz/zomato-bans-sale-of-analogue-dishes-on-its-platform/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T08:38:24+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meet the 16-year-old builder who caught Stripe’s attention",
-      "url": "https://www.techinasia.com/meet-16yearold-builder-caught-stripes-attention",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-31T08:30:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Government notifies Rs 1.27L-cr Semicon 2.0 with eligibility norms, sops",
-      "url": "https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T08:23:23+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Online Grocery Startup Satvacart Shuts Down After 12-Year Run",
-      "url": "https://inc42.com/buzz/online-grocery-startup-satvacart-shuts-down-after-12-year-run/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T08:23:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "From theory to practice: building customer agents with Google's no-code tools",
-      "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T08:02:08+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meta amplia risco regulatório para startups que vivem de dados e engajamento",
-      "url": "https://startupi.com.br/meta-amplia-risco-regulatorio-para-startups-que-vivem-de-dados-e-engajamento/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-08-31T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Startup Summit 2026 em Floripa: palco, ponte e motor da inovação e da competitividade",
-      "url": "https://startupi.com.br/startup-summit-2026-em-floripa-palco-ponte-e-motor-da-inovacao-e-da-competitividade/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-08-31T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "European tech weekly recap: Over €475M invested across 35+ deals",
-      "url": "https://tech.eu/2026/08/31/european-tech-weekly-recap-over-eur475m-invested-across-35-deals/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-08-31T08:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
