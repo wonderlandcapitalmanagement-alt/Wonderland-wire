@@ -1,6 +1,110 @@
 {
-  "updated": "2026-09-04T17:53:25.920770+00:00",
+  "updated": "2026-09-04T20:00:56.172260+00:00",
   "items": [
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T19:48:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "KRAFTON To Invest $250 Mn In Indian AI & Deeptech Startups",
+      "url": "https://inc42.com/buzz/krafton-to-invest-250-mn-in-indian-ai-deeptech-startups/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-09-04T19:45:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Colombian fintech Plenti raises $3M seed round led by Tether",
+      "url": "https://latamlist.com/colombian-fintech-plenti-raises-3m-seed-round-led-by-tether/",
+      "source": "LatamList",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-09-04T19:20:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T19:06:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Meritto Parent NoPaperForms Files Updated DRHP For ₹375 Cr+ IPO",
+      "url": "https://inc42.com/buzz/meritto-parent-nopaperforms-files-updated-drhp-for-%e2%82%b9375-cr-ipo/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-09-04T19:05:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T18:50:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T18:42:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T17:59:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
       "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
@@ -8,6 +112,32 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-04T17:52:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Rust React Compiler is now native in Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T17:49:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T17:29:22+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -853,6 +983,19 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-09-04T09:16:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-04T09:03:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11494,123 +11637,6 @@
       "summary": ""
     },
     {
-      "title": "State Street Closes ₹580 Cr Investment In Groww AMC",
-      "url": "https://inc42.com/buzz/state-street-closes-%e2%82%b9580-cr-investment-in-groww-amc/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T07:53:01+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T07:49:18+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Why token prices are the wrong way to judge AI",
-      "url": "https://www.techinasia.com/why-token-prices-are-the-wrong-way-to-judge-ai",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-31T07:45:14+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Truemeds Eyes DealShare Acquisition At $90 Mn, 95% Below Peak Valuation: Report",
-      "url": "https://inc42.com/buzz/truemeds-eyes-dealshare-acquisition-at-90-mn-95-below-peak-valuation-report/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T07:38:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T07:23:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meet the AI platform that helps brands evaluate content creators",
-      "url": "https://www.techinasia.com/meet-ai-platform-helps-brands-evaluate-content-creators",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-31T07:15:58+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "S-Transistors raises €2.6M for superconducting quantum computing platform",
-      "url": "https://tech.eu/2026/08/31/s-transistors-raises-eur26m-for-superconducting-quantum-computing-platform/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-08-31T07:13:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "London’s HITAI acquires YC-backed fitness gaming studio Quell to boost its sports motion-tracking platform",
-      "url": "https://www.eu-startups.com/2026/08/london-based-hitai-acquires-yc-backed-fitness-gaming-developer-quell-to-strengthen-its-sports-motion-tracking-platform/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-08-31T07:07:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Chinese AI chipmakers MetaX, Iluvatar swing to profit",
-      "url": "https://www.techinasia.com/chinese-chip-designers-top-rivals-intensity",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-08-31T07:02:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Netflix went from Sacred Games to Kapil Sharma. And it’s paying off",
       "url": "https://the-ken.com/story/netflix-went-from-sacred-games-to-kapil-sharma-and-its-paying-off/",
       "source": "The Ken",
@@ -12014,19 +12040,6 @@
       "summary": ""
     },
     {
-      "title": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
-      "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-27T13:00:25+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "How the US-Iran war fuelled Pixxel and India’s sovereign satellite push",
       "url": "https://the-ken.com/story/how-the-us-iran-war-fuelled-pixxel-and-indias-sovereign-satellite-push/",
       "source": "The Ken",
@@ -12319,19 +12332,6 @@
       "region": "US",
       "kind": "press",
       "published": "2026-08-20T17:19:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Flash raises $29M Series D",
-      "url": "https://latamlist.com/flash-raises-29m-series-d/",
-      "source": "LatamList",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-08-20T16:17:18+00:00",
       "topics": [
         "Market & Data"
       ],
