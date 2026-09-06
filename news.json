@@ -1,6 +1,97 @@
 {
-  "updated": "2026-09-05T22:28:24.292410+00:00",
+  "updated": "2026-09-06T01:52:01.164045+00:00",
   "items": [
+    {
+      "title": "Foxconn expects Q3 to beat forecasts on AI demand",
+      "url": "https://www.techinasia.com/foxconn-sees-ai-demand-driving-growth-in-2026",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-06T01:25:01+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Time to rip up the playbook",
+      "url": "https://www.techinasia.com/time-rip-playbook",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-06T00:30:57+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-06T00:03:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "A cheat sheet of M&As in Southeast Asia",
+      "url": "https://www.techinasia.com/visual-story/cheat-sheet-mas-southeast-asia",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-06T00:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-05T23:39:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-05T22:49:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-05T22:15:52+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
       "url": "https://sifted.eu/articles/isar-aerospace-test-flight-orbit/",
@@ -21,6 +112,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-05T21:43:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-05T21:37:49+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -86,6 +190,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-05T20:02:35+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "url": "https://isaraerospace.com/mission-updates-overview",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-05T19:41:27+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11461,123 +11578,6 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-31T23:14:14+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Online watchdog eSafety wants smart glasses to blur faces",
-      "url": "https://www.startupdaily.net/topic/politics-news-analysis/online-watchdog-esafety-wants-smart-glasses-to-blur-faces/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-08-31T22:55:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T22:53:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T22:32:22+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T22:14:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T21:12:22+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T21:10:58+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T20:20:25+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-08-31T20:13:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "BlackRock Buys Ather Shares Worth ₹445 Cr",
-      "url": "https://inc42.com/buzz/blackrock-buys-ather-shares-worth-%e2%82%b9445-cr/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-08-31T20:05:10+00:00",
       "topics": [
         "Market & Data"
       ],
