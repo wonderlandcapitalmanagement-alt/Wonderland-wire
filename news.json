@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-06T17:24:14.080677+00:00",
+  "updated": "2026-09-06T19:44:24.462893+00:00",
   "items": [
+    {
+      "title": "Finder is so frustrating and has been since day one",
+      "url": "https://kepter.app/finder",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-06T19:06:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Jason’s Takes on This Week’s 20VC: Locks Beat Guardrails, Agents Pick Your Software, and Building With 448 Open Tasks",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-09-06T18:26:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-06T17:51:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-06T17:49:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Any Nix package, live in the browser",
       "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
@@ -11546,32 +11598,6 @@
       "summary": ""
     },
     {
-      "title": "HK digital asset firm OSL reports 66% revenue growth to $7.1b",
-      "url": "https://www.techinasia.com/bitget-launches-stablecoin-yield-product-cash",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-01T03:49:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "What I’m learning about the second wave of insurance digital transformation in Indonesia",
-      "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-01T03:30:28+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Data centres, airports, IT parks: Adani and Tata get to cherry-pick India’s best electricity buyers",
       "url": "https://the-ken.com/story/data-centres-airports-it-parks-adani-and-tata-get-to-cherry-pick-indias-best-electricity-buyers/",
       "source": "The Ken",
@@ -11643,19 +11669,6 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-08-31T11:00:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Dear SaaStr: My Sales Rep is Grossly Underperforming but is Involved in a Key Deal. Should I Fire Him or Wait for The Deal to Close?",
-      "url": "https://www.saastr.com/dear-saastr-my-sales-rep-is-grossly-underperforming-but-is-involved-in-a-key-deal-should-i-fire-him-or-wait-for-the-deal-to-close/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-08-31T09:29:17+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -13009,20 +13022,6 @@
       ],
       "category": "AI & Deep Tech",
       "summary": "Feld discusses an experiment in co-writing a novel using an AI system named Phin Argofy, exploring human-AI creative collaboration. It reflects broader curiosity among tech investors about generative AI's expanding creative capabilities."
-    },
-    {
-      "title": "Phil Weiser For Colorado Governor",
-      "url": "https://feld.com/archives/2026/06/phil-weiser-for-colorado-governor/",
-      "source": "Feld Thoughts",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-06-08T18:43:16+00:00",
-      "topics": [
-        "Policy",
-        "People"
-      ],
-      "category": "Policy",
-      "summary": "Brad Feld endorses Phil Weiser for Colorado Governor, signaling continued crossover between tech leaders and political engagement. Such endorsements can matter to regional VCs interested in state-level policy affecting innovation and business climate."
     }
   ]
 }
