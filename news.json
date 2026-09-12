@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-12T17:31:35.202370+00:00",
+  "updated": "2026-09-12T19:50:59.951802+00:00",
   "items": [
+    {
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T19:21:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T19:15:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T17:05:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
@@ -106,6 +145,19 @@
       "summary": ""
     },
     {
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T14:45:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Revolut confirms customer data breach through fake government requests",
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "source": "TechCrunch",
@@ -151,6 +203,32 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-12T14:17:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T14:16:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T14:10:49+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -229,6 +307,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-12T11:42:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-12T11:27:55+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -736,6 +827,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-11T21:19:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-11T21:16:48+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -1321,6 +1425,19 @@
       "region": "US",
       "kind": "press",
       "published": "2026-09-11T14:10:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-11T14:07:08+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11455,129 +11572,12 @@
       "summary": ""
     },
     {
-      "title": "NFL players, reporters rave about Melbourne coffee culture ahead of game",
-      "url": "https://www.smartcompany.com.au/hospitality/melbourne-cafe-culture-49ers-boost-nfl/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-08T00:51:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Indian spacetech startup GalaxEye secures US patent",
-      "url": "https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-08T00:30:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "GalaxEye Secures US Patent for Satellite Imaging Tech",
-      "url": "https://inc42.com/buzz/galaxeye-secures-us-patent-for-satellite-imaging-tech/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-09-08T00:30:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Huawei launches Mate XT2 tri-fold to defend premium market",
-      "url": "https://www.techinasia.com/huawei-kirin-2026-boosts-density-55-node",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-08T00:11:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Is the 3x AI Productivity Gain just a Computer that Never Sleeps?",
       "url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity/",
       "source": "Tomasz Tunguz",
       "region": "US",
       "kind": "gp",
       "published": "2026-09-08T00:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Australia on the cusp of $60 billion “data centre boom” as AI needs grow",
-      "url": "https://www.smartcompany.com.au/artificial-intelligence/australia-on-the-cusp-of-60-billion-data-centre-boom-as-ai-needs-grow/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-07T23:59:44+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "US tech firms eye Australia for AI data centers",
-      "url": "https://www.techinasia.com/google-airtrunk-add-solar-power-ai-demand",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-07T23:58:15+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-07T23:37:42+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-07T22:12:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The Education of a Doomer",
-      "url": "https://borretti.me/article/the-education-of-a-doomer",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-07T21:19:12+00:00",
       "topics": [
         "Market & Data"
       ],
