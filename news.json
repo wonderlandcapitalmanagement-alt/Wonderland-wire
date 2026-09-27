@@ -1,6 +1,110 @@
 {
-  "updated": "2026-09-26T23:14:12.785558+00:00",
+  "updated": "2026-09-27T02:27:36.840190+00:00",
   "items": [
+    {
+      "title": "IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns",
+      "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-09-27T02:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Who’s investing in India’s fintech startups?",
+      "url": "https://www.techinasia.com/whos-investing-indias-fintech-startups",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-27T02:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-27T01:40:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-27T01:30:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TikTok settles Alabama safety case for at least $100m",
+      "url": "https://www.techinasia.com/tiktok-faces-uk-probe-child-safety-checks",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-27T01:04:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Citadel expands quant team, recruits from AI labs",
+      "url": "https://www.techinasia.com/kraken-confidentially-files-ipo-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-27T00:40:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Sousveillance",
+      "url": "https://en.wikipedia.org/wiki/Sousveillance",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-27T00:25:41+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Southeast Asian startups that raised funds over 18 months ago",
+      "url": "https://www.techinasia.com/visual-story/southeast-asian-startups-raised-funds-18-months",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-09-27T00:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -34,6 +138,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-26T20:08:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "url": "https://tml.stanford.edu/homebody/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T18:42:10+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -80,12 +197,38 @@
       "summary": ""
     },
     {
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T17:26:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "source": "Hacker News",
       "region": "Global",
       "kind": "press",
       "published": "2026-09-26T17:10:40+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The Evolution of Vending Machines",
+      "url": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T17:01:45+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -158,6 +301,19 @@
       "summary": ""
     },
     {
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T15:49:04+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
       "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
       "source": "Hacker News",
@@ -203,6 +359,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-26T15:10:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T14:34:49+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -359,6 +528,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-26T10:55:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Reading’s Bayeux Tapestry",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T10:48:40+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -613,6 +795,19 @@
       "summary": ""
     },
     {
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T03:23:31+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "Circle CFO Jeremy Fox-Geen plans to step down",
       "url": "https://www.techinasia.com/circle-shares-drop-18-on-us-stablecoin-bill-concerns",
       "source": "Tech in Asia",
@@ -795,6 +990,19 @@
       "summary": ""
     },
     {
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T01:13:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "source": "TechCrunch",
@@ -827,6 +1035,19 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-09-26T00:30:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-26T00:30:03+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -1217,6 +1438,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-25T17:19:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-25T17:12:04+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -1620,6 +1854,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-09-25T13:49:06+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-09-25T13:48:38+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11351,259 +11598,12 @@
       "summary": ""
     },
     {
-      "title": "PropertyGuru’s second act begins with doing less",
-      "url": "https://www.techinasia.com/propertyguru-ceo-marketplaces-second-act",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-22T01:00:32+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The compliance paradox: More checks, more fraud",
-      "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-22T01:00:12+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "ACCC urges Canberra to consider EU-style blacklist for unfair business practices",
-      "url": "https://www.smartcompany.com.au/business-advice/accc-urges-canberra-to-consider-eu-style-blacklist-for-unfair-business-practices/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-22T00:47:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "TSMC plans AI packaging lab, training center in Taiwan",
-      "url": "https://www.techinasia.com/tsmc-june-revenue-jumps-68-year",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-22T00:31:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Quick commerce’s second act in Indonesia",
-      "url": "https://www.techinasia.com/quick-commerces-second-act-in-indonesia",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-22T00:30:57+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Australian economy in 2066 will be determined by AI-fuelled productivity boost",
-      "url": "https://www.smartcompany.com.au/economy/australian-economy-in-2066-will-be-determined-by-ai-fuelled-productivity-boost/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-22T00:29:42+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "European Central Bank launches blockchain platform for markets",
-      "url": "https://www.techinasia.com/czech-central-bank-adds-bitcoin-on-its-balance-sheet",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-09-22T00:24:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Socrates vs. the Written Word (2011)",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-22T00:06:55+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AI data centre startup Firmus gears up to raise $7 billion for an ASX IPO next month",
-      "url": "https://www.startupdaily.net/topic/asx/ai-data-centre-startup-firmus-gears-up-to-raise-7-billion-for-an-asx-ipo-next-month/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T23:56:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-21T23:44:28+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-21T23:16:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AirTrunk unveils $37 million data centre package as regional NSW locals question benefits",
-      "url": "https://www.smartcompany.com.au/economy/airtrunk-37-million-date-centre-package-regional-nsw-locals-question-benefits/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T23:16:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AI will be ‘a defining influence’ on Australia’s economy in the next 40 years, according to Treasury’s new Intergenerational Report",
-      "url": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/ai-will-be-a-defining-influence-on-australias-economy-in-the-next-40-years-according-to-treasurys-new-intergenerational-report/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T23:15:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "NIMBY anger: Sydney residents tell Senate inquiry they want AI data centres out of town",
-      "url": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/nimby-anger-sydney-residents-tell-senate-inquiry-they-want-ai-data-centres-out-of-town/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T23:07:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-21T23:03:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Gamifying loyalty: The savvy new way brands are driving repeat purchases",
-      "url": "https://www.smartcompany.com.au/partner-content/gamifying-loyalty-the-savvy-new-way-brands-are-driving-repeat-purchases/",
-      "source": "SmartCompany",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T23:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Retail accelerates its AI push as the industry looks to move from pilots to operations",
       "url": "https://contxto.com/en/retail/retail-accelerates-its-ai-push-as-the-industry-looks-to-move-from-pilots-to-operations/",
       "source": "Contxto",
       "region": "LatAm",
       "kind": "press",
       "published": "2026-09-21T22:34:02+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-09-21T22:30:41+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Best in Tech winner Hysata scores $49 million from ARENA for $98m electrolyser plant",
-      "url": "https://www.startupdaily.net/topic/funding/best-in-tech-winner-hysata-scores-49-million-from-arena-for-98m-electrolyser-plant/",
-      "source": "Startup Daily",
-      "region": "ANZ",
-      "kind": "press",
-      "published": "2026-09-21T22:19:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Snapdeal Parent AceVector’s FY26: Loss Declines 64% YoY To ₹46 Cr",
-      "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-fy26-loss-declines-64-yoy-to-%e2%82%b946-cr/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-09-21T22:07:56+00:00",
       "topics": [
         "Market & Data"
       ],
