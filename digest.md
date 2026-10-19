@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-10-12
+# The Wonderland Brief — week of 2026-10-19
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Syrian healthtech Alo Hakeem raises $165,000 pre-seed led by EBLA Ventures](http://wamda.com/2026/10/syrian-healthtech-alo-hakeem-raises-165000-pre-seed-led-ebla-ventures)** · Wamda · Oct 12
-- **[Deeptech Funding Zooms 2.8X YoY In Q3 Despite Tighter Deal Flow](https://inc42.com/buzz/deeptech-funding-zooms-2-8x-yoy-in-q3-despite-tighter-deal-flow/)** · Inc42 · Oct 12
-- **[Welcome Col. Jeffrey Glover and Greg Barbaccia](https://www.a16z.news/p/welcome-col-jeffrey-glover-and-greg)** · a16z · Oct 12
-- **[Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)** · TechCrunch · Oct 12
-- **[Monopulse raises over €2M to advance electronic warfare-resistant drones](https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/)** · Tech.eu · Oct 12
-- **[D2C Brand Boldfit Raises ₹400 Cr From Bharat Value Fund For Retail Expansion](https://inc42.com/buzz/d2c-brand-boldfit-raises-%e2%82%b9400-cr-from-bharat-value-fund-for-retail-expansion/)** · Inc42 · Oct 12
-- **[Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)** · Hacker News · Oct 12
-- **[Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)** · Hacker News · Oct 12
-- **[Scarlet raises $50M Series B to accelerate AI medical device certification](https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/)** · Tech.eu · Oct 12
-- **[UK government mulls compulsory AI safety reporting](https://sifted.eu/articles/uk-government-ai-safety-reporting-kanishka-narayan/)** · Sifted · Oct 12
+- **[Barcelona-based Enzo Ventures closes €20M Fund II backing Southern European founders](https://tech.eu/2026/10/19/barcelona-based-enzo-ventures-closes-eur20m-fund-backing-southern-european-founders/)** · Tech.eu · Oct 19
+- **[TechWolf co-founder: Ghent flywheel "super important”](https://tech.eu/2026/10/19/techwolf-co-founder-ghent-flywheel-effect-super-important/)** · Tech.eu · Oct 19
+- **[Khosla Ventures leads $50m round in India’s Even Healthcare](https://www.techinasia.com/indian-healthcare-fintech-firm-carefi-nets-8m-series)** · Tech in Asia · Oct 19
+- **[Even Healthcare raises $50M in Series B round led by Khosla Ventures](https://yourstory.com/2026/10/even-healthcare-raises-50m-in-series-b-round-led-by-khosla-ventures)** · YourStory · Oct 19
+- **[A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro?](https://startupi.com.br/a-inteligencia-artificial-esta-formando-empresas-mais-eficientes-mas-quem-esta-formando-os-lideres-do-futuro/)** · Startupi · Oct 19
+- **[Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)** · TechCrunch · Oct 19
+- **[Linux 7.3 Released](https://lwn.net/Articles/1101143/)** · Hacker News · Oct 19
+- **[Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management](https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/)** · EU-Startups · Oct 19
+- **[Turning orange peels into battery materials](https://www.techinasia.com/turning-orange-peels-battery-materials)** · Tech in Asia · Oct 19
+- **[A política do Brasil tirou uma selfie e a imagem que saiu estava queimada](https://startupi.com.br/politica-selfie-queimada-debate-presidencial-midia/)** · Startupi · Oct 19
 
 ## In the listening room
 
-- **[How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)](https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent)** · Lenny's Podcast
-- **[The Race to Recursive Self-Improving AI](https://a16z.simplecast.com/episodes/the-race-to-recursive-self-improving-ai-OPuX1TcP)** · a16z Podcast · 33 min
-- **[519. Don't Play the Game on the Field, What the 500 Largest Exits Tell Us, How and When to Sell Secondary, and VC's Identity Crisis (Micah Rosenbloom)](https://fullratchet.net/micah-rosenbloom)** · The Full Ratchet · 48 min
-- **[Alamo Drafthouse Cinema: Tim and Karrie League (2023)](https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 76 min
-- **[20VC: Atlassian CEO on Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models | Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes](https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes)** · The Twenty Minute VC · 55 min
+- **[Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 64 min
+- **[20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture | Who Wins and Who Loses in the Next Decade of VC | Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer)** · The Twenty Minute VC · 75 min
+- **[Seinfeld](https://www.acquired.fm/episodes/seinfeld)** · Acquired · 230 min
+- **[Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)** · Lenny's Podcast
+- **[Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone](https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim)** · a16z Podcast · 24 min
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
