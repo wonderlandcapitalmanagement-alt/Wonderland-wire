@@ -1,6 +1,760 @@
 {
-  "updated": "2026-10-21T08:06:02.331590+00:00",
+  "updated": "2026-10-21T14:13:22.937619+00:00",
   "items": [
+    {
+      "title": "MNT-Halan completes IPO as retail tranche attracts over 41,500 subscription orders",
+      "url": "http://wamda.com/2026/10/mnt-halan-completes-ipo-retail-tranche-attracts-41500-subscription-orders",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-10-21T14:39:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Exclusive: Former H Company CTO seeks $30m for new startup",
+      "url": "https://sifted.eu/articles/former-h-company-cto-seeks-30m-for-new-startup/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T14:23:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait",
+      "url": "http://wamda.com/2026/10/theqa-raises-550000-scale-ai-driven-consumer-research-kuwait",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-10-21T14:22:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Legora raises fresh $550m at $8.8bn valuation",
+      "url": "https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T14:14:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Meta’s Muse and Our AI VP of Revenue 10K Built Their Own ‘Secret’ Mailbox to Work Together. Then They Came Up With a Safe Word.",
+      "url": "https://www.saastr.com/metas-muse-and-our-ai-vp-of-revenue-10k-built-their-own-secret-mailbox-to-work-together-then-they-came-up-with-a-safe-word/",
+      "source": "SaaStr",
+      "region": "US",
+      "kind": "press",
+      "published": "2026-10-21T14:10:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T14:03:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "There’s no stopping Legora – €489 million for Stockholm’s LegalTech Unicorn",
+      "url": "https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T14:00:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T14:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mika Games gets $10M boost to support mobile game developers",
+      "url": "https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T14:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "url": "https://www.php.net/index.php",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:50:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Updated PHP version released to GitHub",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:45:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:43:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Startup aposta no fim do ágio no abastecimento corporativo para gerar economia para frotas brasileiras",
+      "url": "https://startupi.com.br/veic-frota-reducao-custos-abastecimento-frota-modelo-sem-agio/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-10-21T13:37:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Startup news and updates: daily roundup (October 21, 2026)",
+      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-21-2026",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T13:34:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Celebrities don't sell, the product does: Ananth Narayanan on what makes a D2C brand last",
+      "url": "https://yourstory.com/2026/10/celebrities-dont-sell-product-does-ananth-narayanan-what-makes-d2c-brand-last",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T13:34:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:30:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:17:33+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T13:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T12:34:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T12:31:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T12:22:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T12:00:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Opply raises $7.5M to expand its agentic AI platform for CPG brands",
+      "url": "https://tech.eu/2026/10/21/opply-raises-75m-to-expand-its-agentic-ai-platform-for-cpg-brands/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T12:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Fuse Energy bets on NVIDIA GPUs as it expands from energy supply into AI infrastructure",
+      "url": "https://www.eu-startups.com/2026/10/fuse-energy-bets-on-nvidia-gpus-as-it-expands-from-energy-supply-into-ai-infrastructure/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T11:42:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "India’s GCCs move up the value chain to build products for global markets",
+      "url": "https://yourstory.com/2026/10/indias-gccs-move-up-the-value-chain-to-build-products-for-global-markets",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T11:37:41+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team",
+      "url": "https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T11:33:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How Pee Safe Built A Profitable Quick Commerce Business That Drives 40% Of Domestic Sales",
+      "url": "https://inc42.com/features/how-pee-safe-built-a-profitable-quick-commerce-business-that-drives-40-domestic-sales/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T11:30:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Jio Platforms opens bidding for $3.2b IPO",
+      "url": "https://www.techinasia.com/reliance-jio-talks-sell-8-stake-ipo-sources",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T11:20:41+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eternal Q2 net profit rises 92% in FY27, revenue up 78%",
+      "url": "https://yourstory.com/2026/10/eternal-q2-net-profit-rises-92-fy27-revenue-up-78-percent",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T11:19:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Taiwan blocks Grab’s $600m Foodpanda deal",
+      "url": "https://www.techinasia.com/grab-talks-buy-majority-stake-atome",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T11:15:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+      "url": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T11:00:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "‘Weird And Maybe Uninvestable’: How Reach Capital Spots Its Venture Winners",
+      "url": "https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/",
+      "source": "Crunchbase News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T11:00:16+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mapping the dominant players in Israel’s AI field",
+      "url": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T11:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom",
+      "url": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T10:56:50+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Should you get a personal AI assistant?",
+      "url": "https://sifted.eu/articles/personal-ai-assistants/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T10:40:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Pigment raises $250m Series E led by Scaleup Europe Fund",
+      "url": "https://sifted.eu/articles/pigment-series-e-nvidia-scaleup-europe-fund/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T10:27:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Dutch photonics startup Photon Bridge raises €10M to tackle AI's looming laser bottleneck",
+      "url": "https://tech.eu/2026/10/21/dutch-photonics-startup-photon-bridge-raises-eur10m-to-tackle-ais-looming-laser-bottleneck/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T10:21:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026",
+      "url": "https://inc42.com/buzz/eternal-unveils-privacy-focused-ai-platform-dark-eyes-global-launch-in-2026/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T10:18:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T10:14:43+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eternal To Swap AdOnMo Stake For Mygate Shares In Proposed Merger Deal",
+      "url": "https://inc42.com/buzz/eternal-to-swap-adonmo-stake-for-mygate-shares-in-proposed-merger-deal/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T10:14:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "eMudhra faces scrutiny after weak certificate keys raise web security concerns",
+      "url": "https://yourstory.com/2026/10/emudhra-faces-scrutiny-after-weak-certificate-keys-raise-web-security-concerns",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T10:13:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Go Eve secures £750K to advance its DockChain EV charging technology",
+      "url": "https://tech.eu/2026/10/21/go-eve-secures-ps750k-to-advance-its-dockchain-ev-charging-technology/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T10:08:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eternal’s Q2 Profit Surges 92% YoY to ₹125 Cr",
+      "url": "https://inc42.com/buzz/eternals-q2-profit-surges-92-yoy-to-%e2%82%b9125-cr/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T10:04:22+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Building AI in India? Privacy is now a valuation issue: Shivaarti Bajaj",
+      "url": "https://yourstory.com/2026/10/dpdp-privacy-ai-startup-valuation-shivaarti-bajaj",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T10:01:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Airwallex extends McLaren deal with AI finance partnership",
+      "url": "https://www.techinasia.com/airwallex-redefining-founders-finance",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T09:55:57+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Europe's tech funding rebounds to €27.8B, fuelled by billion-euro mega-rounds",
+      "url": "https://tech.eu/2026/10/21/europes-tech-funding-rebounds-to-eur278b-fuelled-by-billion-euro-mega-rounds/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T09:50:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence",
+      "url": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T09:48:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek Wants Better AI at Lower Cost",
+      "url": "https://technode.com/2026/10/21/deepseek-wants-better-ai-at-lower-cost/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-10-21T09:44:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-21T09:08:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "These are the most active investors in India’s startups",
+      "url": "https://www.techinasia.com/active-investors-indias-startups",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T09:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ex-PropertyGuru CEO’s Genie Health raises US$3M to make sense of your scattered health data",
+      "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T08:56:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Aye Finance Q2: Profit Surges 151% YoY To ₹87 Cr, Revenue Crosses ₹500 Cr Mark",
+      "url": "https://inc42.com/buzz/aye-finance-q2-profit-surges-151-yoy-to-%e2%82%b987-cr-revenue-crosses-%e2%82%b9500-cr-mark/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T08:50:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Scaleup Europe Fund leads $250M funding round in Pigment",
+      "url": "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment/",
+      "source": "Tech.eu",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T08:45:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "FreightTech unicorn sennder targets €1 billion in annual revenue as C.H. Robinson integration completes",
+      "url": "https://www.eu-startups.com/2026/10/freighttech-unicorn-sennder-targets-e1-billion-in-annual-revenue-as-c-h-robinson-integration-completes/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-10-21T08:23:10+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OCBC to offer ringgit to Singapore savers from 2026",
+      "url": "https://www.techinasia.com/belgian-fintech-network-swift-starts-blockchain-pilot",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-21T08:16:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Jio Platforms IPO oversubscribed in less than two hours led by QIBs",
+      "url": "https://yourstory.com/2026/10/jio-platforms-ipo-oversubscribed-less-than-two-hours-led-by-qibs",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-21T08:09:34+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "HSM+ discute o dilema dos CEOs divididos entre o curto prazo e a visão de futuro",
+      "url": "https://startupi.com.br/hsm-discute-papel-do-ceo-mundo-imprevisivel/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-10-21T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "ABES Summit 2026 reúne especialistas para debater os impactos da IA nos negócios",
+      "url": "https://startupi.com.br/abes-summit-2026-inteligencia-artificial-negocios/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-10-21T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Rulen secures €1.8M to turn tax rules into action with AI",
       "url": "https://tech.eu/2026/10/21/rulen-secures-eur18m-to-turn-tax-rules-into-action-with-ai/",
@@ -10870,727 +11624,12 @@
       "summary": ""
     },
     {
-      "title": "Swiggy's next big bet is on the 90% of Indians yet to try food delivery: Rohit Kapoor",
-      "url": "https://yourstory.com/2026/10/swiggys-next-big-bet-90-of-indians-yet-try-food-delivery",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T12:47:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
-      "url": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T12:45:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose",
-      "url": "https://www.eu-startups.com/2026/10/is-eu-inc-in-trouble-european-innovators-warn-landmark-startup-reform-is-being-stripped-of-its-purpose/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T12:19:22+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "This 11-year-old built an AI smart cane for ₹10,000 and took it to the UN",
-      "url": "https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T12:10:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Rabot Energy secures $50M to transform homes into a virtual power plant",
-      "url": "https://tech.eu/2026/10/15/rabot-energy-secures-50m-to-transform-homes-into-a-virtual-power-plant/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T12:10:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AI: Europe’s 10 most-funded companies in H1 2026",
-      "url": "https://tech.eu/2026/10/15/ai-europes-10-most-funded-companies-in-h1-2026/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T12:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T12:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ubuntu 26.10 (Stonking Stingray) released",
-      "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T11:59:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia unveils investments in five more UK startups",
-      "url": "https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T11:50:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T11:38:57+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nick Clegg on Europe, AI and big tech",
-      "url": "https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T11:20:10+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "India can build any technology, says Prof. Ashok Jhunjhunwala; calls for backing startup risk-takers",
-      "url": "https://yourstory.com/2026/10/india-can-build-anything-says-prof-ashok-jhunjhunwala",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T11:17:16+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems",
       "url": "https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/",
       "source": "Crunchbase News",
       "region": "Global",
       "kind": "press",
       "published": "2026-10-15T11:00:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds",
-      "url": "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T11:00:48+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
-      "url": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T11:00:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "These are the most active investors in Philippine startups",
-      "url": "https://www.techinasia.com/active-investors-philippines-startups",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T11:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
-      "url": "https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T10:57:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nebius says struck deals with UK AI labs, welcomes non-compete changes",
-      "url": "https://tech.eu/2026/10/15/nebius-says-struck-deals-with-uk-ai-labs-welcomes-non-compete-changes/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T10:46:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T10:43:36+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia is investing heavily into Europe – why now?",
-      "url": "https://www.eu-startups.com/2026/10/nvidia-is-investing-heavily-into-europe-why-now/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T10:37:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Udaan’s FY26 Revenue Rises 13% To ₹5,134 Cr, Loss Narrows To ₹852 Cr",
-      "url": "https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T10:23:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "10 European startups fighting the next generation of AI cyber threats",
-      "url": "https://www.eu-startups.com/2026/10/10-european-startups-fighting-the-next-generation-of-ai-cyber-threats/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T10:17:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "source": "TechCrunch",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-15T10:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Proptech HomeTruth brings entrepreneur Graham Martin on board as investor and Chairman",
-      "url": "https://tech.eu/2026/10/15/hometruth-brings-sky-bet-entrepreneur-graham-martin-on-board-as-investor-and-chairman/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T09:58:50+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Fairfax Proposes To Transfer Go Digit Stake To IDBI Bank",
-      "url": "https://inc42.com/buzz/fairfax-proposes-to-transfer-go-digit-stake-to-idbi-bank/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T09:57:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "More Than a Market: UK Biotechs Look to China for R&D, Trials and Capital",
-      "url": "https://technode.com/2026/10/15/more-than-a-market-uk-biotechs-look-to-china-for-rd-trials-and-capital/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-10-15T09:51:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The EU-Startups Podcast | Interview with Cornel Amariei, CEO and founder of .lumen",
-      "url": "https://www.eu-startups.com/2026/10/the-eu-startups-podcast-interview-with-cornel-amariei-ceo-and-founder-of-lumen/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T09:46:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Centre Directs Telcos To Display Caller Names From November 1",
-      "url": "https://inc42.com/buzz/centre-directs-telcos-to-display-caller-names-from-november-1/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T09:44:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "DayOne’s data center billings top 1GW as Johor expansion grows",
-      "url": "https://www.techinasia.com/sg-data-center-firm-dayone-seeks-increase-loan-7b",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T09:40:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In October",
-      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T09:37:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "‘Customers are happier if we provide the full suite’: Why startups are embracing all-in-one finance platforms",
-      "url": "https://sifted.eu/articles/startups-embracing-all-in-one-finance-platforms-brnd/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T09:32:17+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "ZTE Hong Kong, LSCM sign MoU on AI, digital infrastructure",
-      "url": "https://www.techinasia.com/clears-zte-unit-buy-nvidia-amd-chips",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T09:30:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Vilnius-based Holo raises €5 million to put marketing on autopilot for small businesses",
-      "url": "https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T09:17:56+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How Ubiqedge Is Giving Old Industrial Machines An AIoT Upgrade",
-      "url": "https://inc42.com/startups/how-ubiqedge-is-giving-old-industrial-machines-an-aiot-upgrade/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T09:12:22+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "China’s Hesai launches spatial camera for AI-powered robotics",
-      "url": "https://www.techinasia.com/robots-struggle-touch-sharpa-fix",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T09:09:50+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "20 largest exits in Korea",
-      "url": "https://www.techinasia.com/20-largest-exits-korea",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T09:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Zetwerk IPO Subscribed 8% On Day 1 So Far",
-      "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-8-on-day-1-so-far/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T08:54:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "British Business Bank invests £180M across AI and deeptech funds",
-      "url": "https://tech.eu/2026/10/15/british-business-bank-invests-ps180m-across-ai-and-deeptech-and-ai-funds/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T08:54:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Netflix to cut about 1,000 jobs, biggest since 2022",
-      "url": "https://www.techinasia.com/netflix-add-vertical-video-feed-month",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T08:39:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
-      "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T08:19:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "SEA ecommerce could near $400b by 2031: Xendit",
-      "url": "https://www.techinasia.com/indonesia-court-clears-way-for-alt-payments-on-google-play",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T08:14:57+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "'If I make a mistake, I'm done': Inside Food Pharmer's high-stakes shift to food startup founder",
-      "url": "https://yourstory.com/2026/10/if-i-make-a-mistake-i-am-done-how-food-pharmer-is-turning-food-activism-into-startup",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T08:02:26+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
-      "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T08:00:23+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Vilnius-based Holo raises €5M to bring AI-powered marketing to small businesses",
-      "url": "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Tonbo Imaging IPO Subscribed 1.47X On Day 1 So Far, NIIs Lead Demand",
-      "url": "https://inc42.com/buzz/tonbo-imaging-ipo-subscribed-1-47x-on-day-1-so-far-niis-lead-demand/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T07:58:24+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Confido Health Raises $12.5 Mn To Automate Healthcare Administration With AI",
-      "url": "https://inc42.com/buzz/confido-health-raises-12-5-mn-to-automate-healthcare-administration-with-ai/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-15T07:58:07+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia bets on five UK startups",
-      "url": "https://tech.eu/2026/10/15/nvidia-bets-on-five-uk-startups/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T07:55:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ubisoft to cut 70 Singapore jobs after $1.7b annual loss",
-      "url": "https://www.techinasia.com/game-industry-could-gain-22b-from-ai-cost-cuts-report",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:46:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Matters emerges from stealth with $5M in pre-seed funding to build AI-native consumer bank",
-      "url": "https://tech.eu/2026/10/15/matters-emerges-from-stealth-with-5m-in-pre-seed-funding-to-build-ai-native-consumer-bank/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T07:40:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "From Slush to sustainable materials: Ambio raises €5.1M for AI-powered plastics procurement",
-      "url": "https://tech.eu/2026/10/15/from-slush-to-sustainable-materials-ambio-raises-eur51m-for-ai-powered-plastics-procurement/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T07:24:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Sea partners with Google AI fund to explore new applications",
-      "url": "https://www.techinasia.com/seas-q2-revenue-jumps-48-net-income-up-11",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:14:34+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "On‑demand services lift Line Man Wongnai’s 2025 revenue to $544m",
-      "url": "https://www.techinasia.com/ondemand-services-lift-line-man-wongnais-2025-revenue-544m",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:11:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "WhatsApp to add guest calling for non-users",
-      "url": "https://www.techinasia.com/meta-adds-calls-whatsapp-web-gradual-rollout",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:04:38+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed after July 2026 launch",
-      "url": "https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-15T07:02:08+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Protecting creator voices from unauthorized AI training",
-      "url": "https://www.techinasia.com/protecting-creator-voices-unauthorized-ai-training",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:00:33+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Japan’s top-funded tech companies in the last decade",
-      "url": "https://www.techinasia.com/visual-story/japans-topfunded-tech-companies-decade",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-15T07:00:00+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11624,51 +11663,12 @@
       "summary": ""
     },
     {
-      "title": "Salehli raises $100,000 to expand home maintenance services in Syria",
-      "url": "http://wamda.com/2026/10/salehli-raises-100000-expand-home-maintenance-services-syria",
-      "source": "Wamda",
-      "region": "MENA",
-      "kind": "press",
-      "published": "2026-10-14T15:32:36+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Want to Steal a Customer From a Competitor? Ask Them What It Would Really Take",
-      "url": "https://www.saastr.com/want-to-steal-a-customer-from-a-competitor-ask-them-what-it-would-take/",
-      "source": "SaaStr",
-      "region": "US",
-      "kind": "press",
-      "published": "2026-10-14T14:10:57+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Winning the Relay Race: Long-Running Agents in High-Value Customer Journeys",
       "url": "https://www.a16z.news/p/winning-the-relay-race-long-running",
       "source": "a16z",
       "region": "US",
       "kind": "gp",
       "published": "2026-10-14T14:04:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "UAE's JustAd attracts $5 million to expand into new markets",
-      "url": "http://wamda.com/2026/10/uae-justad-attracts-5-million-expand-new-markets",
-      "source": "Wamda",
-      "region": "MENA",
-      "kind": "press",
-      "published": "2026-10-14T12:57:50+00:00",
       "topics": [
         "Market & Data"
       ],
