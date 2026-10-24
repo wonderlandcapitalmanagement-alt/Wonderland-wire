@@ -1,6 +1,201 @@
 {
-  "updated": "2026-10-24T07:43:21.992363+00:00",
+  "updated": "2026-10-24T12:59:27.964085+00:00",
   "items": [
+    {
+      "title": "PHP2Shell: Who Is At Risk And How Can Businesses Stay Safe?",
+      "url": "https://inc42.com/features/php2shell-who-is-at-risk-and-how-can-businesses-stay-safe/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-24T11:19:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-24T11:18:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-24T11:12:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mapping the trailblazing startups in Australia’s AI sector",
+      "url": "https://www.techinasia.com/visual-story/mapping-trailblazing-startups-australias-ai-sector",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T11:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-24T10:51:35+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-24T09:53:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-10-24T09:10:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia backs AI video startup Higgsfield in series B extension",
+      "url": "https://www.techinasia.com/bytedance-billionyuan-wedge-cloud-strategy",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T09:03:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "These are the most active investors in Vietnam’s startups",
+      "url": "https://www.techinasia.com/active-investors-vietnams-startups",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T09:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TikTok’s US unit seeks multiple gigawatts of computing power",
+      "url": "https://www.techinasia.com/tiktok-unveils-live-bax-ai-tool-creator-summit",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T08:45:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Israeli fintech firm Fireblocks plans to cut 7% of workforce",
+      "url": "https://www.techinasia.com/moneygram-launches-mgusd-stablecoin",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T08:20:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "China’s Moonshot AI unveils Kimi K3.1 Pro model",
+      "url": "https://www.techinasia.com/moonshot-ais-kimi-k3-escapes-test-environment-report",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T08:10:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-24T08:06:39+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI resumes AI training without internet access",
+      "url": "https://www.techinasia.com/openai-tool-cuts-sentinelone-malware-analysis-8-hours",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T07:52:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Bukalapak hits positive Q3 adjusted EBITDA in digital pivot",
+      "url": "https://www.techinasia.com/indonesias-biggest-issue-lack-founders-achmad-zaky",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-10-24T07:44:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "Series SEA: Who’s investing in the region’s biotech startups?",
       "url": "https://www.techinasia.com/top-sea-investors-biotech",
@@ -190,6 +385,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-10-24T01:16:58+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-10-24T01:15:14+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11474,214 +11682,6 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-10-19T11:26:42+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses",
-      "url": "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T11:23:08+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T11:12:02+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Alternatives to Animal Testing Are Finally Taking Off",
-      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T11:10:54+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "OPINION: Selling your startup does not mean success",
-      "url": "https://www.eu-startups.com/2026/10/opinion-what-if-selling-your-startup-is-the-biggest-mistake-you-ever-make/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T11:02:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
-      "url": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T11:00:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend",
-      "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T11:00:19+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Mapping the key players in China’s ecommerce arena",
-      "url": "https://www.techinasia.com/visual-story/mapping-chinas-ecommerce-standouts",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-19T11:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T10:53:39+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Data, not chips, will decide India’s AI and biotech future, say deeptech founders",
-      "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-19T10:48:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "German VCs call for €15B annual funding boost to build the next generation of tech giants",
-      "url": "https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T10:46:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Linkener secures €7.5M to expand its energy management platform",
-      "url": "https://tech.eu/2026/10/19/linkener-secures-eur75m-to-expand-its-energy-management-platform/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T10:39:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "British payments unicorn Zilch invests €91 million in larger London headquarters amid continued growth",
-      "url": "https://www.eu-startups.com/2026/10/british-payments-unicorn-zilch-invests-e91-million-in-larger-london-headquarters-amid-continued-growth/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T10:33:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
-      "url": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-10-19T10:28:14+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Timestral: Mistral release time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-10-19T09:59:32+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
-      "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-10-19T09:37:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund",
-      "url": "https://www.eu-startups.com/2026/10/spanish-vc-enzo-ventures-doubles-down-on-early-stage-startups-with-new-e20-million-fund/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-10-19T09:37:36+00:00",
       "topics": [
         "Market & Data"
       ],
