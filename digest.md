@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-10-19
+# The Wonderland Brief — week of 2026-10-26
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Barcelona-based Enzo Ventures closes €20M Fund II backing Southern European founders](https://tech.eu/2026/10/19/barcelona-based-enzo-ventures-closes-eur20m-fund-backing-southern-european-founders/)** · Tech.eu · Oct 19
-- **[TechWolf co-founder: Ghent flywheel "super important”](https://tech.eu/2026/10/19/techwolf-co-founder-ghent-flywheel-effect-super-important/)** · Tech.eu · Oct 19
-- **[Khosla Ventures leads $50m round in India’s Even Healthcare](https://www.techinasia.com/indian-healthcare-fintech-firm-carefi-nets-8m-series)** · Tech in Asia · Oct 19
-- **[Even Healthcare raises $50M in Series B round led by Khosla Ventures](https://yourstory.com/2026/10/even-healthcare-raises-50m-in-series-b-round-led-by-khosla-ventures)** · YourStory · Oct 19
-- **[A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro?](https://startupi.com.br/a-inteligencia-artificial-esta-formando-empresas-mais-eficientes-mas-quem-esta-formando-os-lideres-do-futuro/)** · Startupi · Oct 19
-- **[Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)** · TechCrunch · Oct 19
-- **[Linux 7.3 Released](https://lwn.net/Articles/1101143/)** · Hacker News · Oct 19
-- **[Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management](https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/)** · EU-Startups · Oct 19
-- **[Turning orange peels into battery materials](https://www.techinasia.com/turning-orange-peels-battery-materials)** · Tech in Asia · Oct 19
-- **[A política do Brasil tirou uma selfie e a imagem que saiu estava queimada](https://startupi.com.br/politica-selfie-queimada-debate-presidencial-midia/)** · Startupi · Oct 19
+- **[Frankfurt’s QuoIntelligence lands backing from ex-German finance minister Christian Lindner months after €7.3 million Series A](https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/)** · EU-Startups · Oct 26
+- **[Soulflower's Natasha Tuli on why brands must earn customer trust](https://yourstory.com/2026/10/techsparks-2026-soulflower-natasha-tuli-customer-trust)** · YourStory · Oct 26
+- **[[Update] IRDAI Extends Feedback Deadline For Insurance Distribution Reforms To Oct 31](https://inc42.com/buzz/insurance-brokers-oppose-irdai-reforms-project-70-revenue-loss/)** · Inc42 · Oct 26
+- **[Startup news and updates: daily roundup (October 26, 2026)](https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-26-2026)** · YourStory · Oct 26
+- **[Unitree’s newly launched H2-X Robot loses a leg in public demonstration](https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/)** · TechNode · Oct 26
+- **[Healing deep burns faster: This startup fixes tissue](https://www.techinasia.com/healing-deep-burns-faster-startup-fixes-tissue)** · Tech in Asia · Oct 26
+- **[Series SEA: Who’s investing in the region’s SaaS startups?](https://www.techinasia.com/top-sea-investors-saas)** · Tech in Asia · Oct 26
+- **[The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)** · Hacker News · Oct 26
+- **[HEX launches workplace simulator to tackle the graduate experience gap](https://www.startupdaily.net/advice/workplace/hex-launches-workplace-simulator-to-tackle-the-graduate-experience-gap/)** · Startup Daily · Oct 26
+- **[“Hits different”: Homecoming for Aussie Phizz founders after building brand in UK](https://www.smartcompany.com.au/retail/phizz-founders-launch-hydration-woolworths/)** · SmartCompany · Oct 26
 
 ## In the listening room
 
-- **[Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand](https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c)** · How I Built This · 64 min
-- **[20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture | Who Wins and Who Loses in the Next Decade of VC | Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer)** · The Twenty Minute VC · 75 min
-- **[Seinfeld](https://www.acquired.fm/episodes/seinfeld)** · Acquired · 230 min
-- **[Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)** · Lenny's Podcast
-- **[Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone](https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim)** · a16z Podcast · 24 min
+- **[FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work](https://traffic.megaphone.fm/VMP6448511514.mp3)** · How I Built This · 72 min
+- **[20VC: Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)** · The Twenty Minute VC · 26 min
+- **[An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)** · Lenny's Podcast
+- **[The New Startup Playbook | Box CEO Aaron Levie](https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv)** · a16z Podcast · 34 min
+- **[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)** · Lenny's Podcast
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
