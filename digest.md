@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-10-26
+# The Wonderland Brief — week of 2026-11-02
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Frankfurt’s QuoIntelligence lands backing from ex-German finance minister Christian Lindner months after €7.3 million Series A](https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/)** · EU-Startups · Oct 26
-- **[Soulflower's Natasha Tuli on why brands must earn customer trust](https://yourstory.com/2026/10/techsparks-2026-soulflower-natasha-tuli-customer-trust)** · YourStory · Oct 26
-- **[[Update] IRDAI Extends Feedback Deadline For Insurance Distribution Reforms To Oct 31](https://inc42.com/buzz/insurance-brokers-oppose-irdai-reforms-project-70-revenue-loss/)** · Inc42 · Oct 26
-- **[Startup news and updates: daily roundup (October 26, 2026)](https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-26-2026)** · YourStory · Oct 26
-- **[Unitree’s newly launched H2-X Robot loses a leg in public demonstration](https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/)** · TechNode · Oct 26
-- **[Healing deep burns faster: This startup fixes tissue](https://www.techinasia.com/healing-deep-burns-faster-startup-fixes-tissue)** · Tech in Asia · Oct 26
-- **[Series SEA: Who’s investing in the region’s SaaS startups?](https://www.techinasia.com/top-sea-investors-saas)** · Tech in Asia · Oct 26
-- **[The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)** · Hacker News · Oct 26
-- **[HEX launches workplace simulator to tackle the graduate experience gap](https://www.startupdaily.net/advice/workplace/hex-launches-workplace-simulator-to-tackle-the-graduate-experience-gap/)** · Startup Daily · Oct 26
-- **[“Hits different”: Homecoming for Aussie Phizz founders after building brand in UK](https://www.smartcompany.com.au/retail/phizz-founders-launch-hydration-woolworths/)** · SmartCompany · Oct 26
+- **[Thara Connect charts a roadmap for the future of investment and entrepreneurship in Ajman](http://wamda.com/2026/11/thara-connect-charts-roadmap-future-investment-entrepreneurship-ajman)** · Wamda · Nov 2
+- **[UnionPay, Singapore’s Thunes expand instant China payouts](https://www.techinasia.com/singapores-top-fintech-companies-95-stand-500)** · Tech in Asia · Nov 2
+- **[Crypto’s next chapter: Regulatory sandboxes, AI co-pilots and the rise of derivatives](https://yourstory.com/2026/11/cryptos-next-chapter-regulatory-sandboxes-ai-co-pilots-and-the-rise-of-derivatives)** · YourStory · Nov 2
+- **[WOI India launches venture studios, investor network, and startup support platforms at TechSparks 2026](https://yourstory.com/2026/11/woi-india-launches-venture-studios-investor-network-startup-support-platforms-techsparks-26)** · YourStory · Nov 2
+- **[Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies](https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/)** · EU-Startups · Nov 2
+- **[Malaysia is selling more chips, but it isn’t winning more of the market](https://e27.co/malaysia-is-selling-more-chips-but-it-isnt-winning-more-of-the-market-20261102/)** · e27 · Nov 2
+- **[China’s XTransfer partners with BOCHK on cross-border payments](https://www.techinasia.com/airwallex-approval-full-launch-malaysia)** · Tech in Asia · Nov 2
+- **[Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries](https://inc42.com/buzz/pronto-founders-provision-labs-acquires-hardware-startup-basilisk-industries/)** · Inc42 · Nov 2
+- **[Paris-based Gallium Defense emerges from stealth with €7.1 million to scale affordable drone detection](https://www.eu-startups.com/2026/11/paris-based-gallium-defense-emerges-from-stealth-with-e7-1-million-to-scale-affordable-drone-detection/)** · EU-Startups · Nov 2
+- **[MobiKwik Reports ₹11.8 Cr Profit In Q2, Revenue Rises 9% YoY](https://inc42.com/buzz/mobikwik-reports-%e2%82%b911-8-cr-profit-in-q2-revenue-rises-9-yoy/)** · Inc42 · Nov 2
 
 ## In the listening room
 
-- **[FIGS: Trina Spear and Heather Hasson. The $2.5 Billion Scrubs Brand That Investors Said Would Never Work](https://traffic.megaphone.fm/VMP6448511514.mp3)** · How I Built This · 72 min
-- **[20VC: Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)** · The Twenty Minute VC · 26 min
-- **[An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)** · Lenny's Podcast
-- **[The New Startup Playbook | Box CEO Aaron Levie](https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv)** · a16z Podcast · 34 min
-- **[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)** · Lenny's Podcast
+- **[Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”](https://traffic.megaphone.fm/VMP9745758647.mp3)** · How I Built This · 76 min
+- **[20VC: Who Wins the Inference Market | Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute | The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo)** · The Twenty Minute VC · 62 min
+- **[How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano](https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the)** · Lenny's Podcast
+- **[How Bending Spoons Built a $20 Billion Compounder | Luca Ferrari](https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0)** · a16z Podcast · 44 min
+- **[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more](https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources)** · Lenny's Podcast
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
