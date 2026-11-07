@@ -1,6 +1,149 @@
 {
-  "updated": "2026-11-07T17:09:17.489511+00:00",
+  "updated": "2026-11-07T21:12:56.633167+00:00",
   "items": [
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T20:45:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T19:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T18:12:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T18:02:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+      "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:54:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:30:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:27:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:24:07+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:19:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:18:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T17:06:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "How Long Can Life Wait?",
       "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
@@ -8,6 +151,19 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-11-07T16:22:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Every processor die anyone has photographed and given away",
+      "url": "https://sheets.works/data-viz/cpu-dies",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T16:21:36+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -28,12 +184,38 @@
       "summary": ""
     },
     {
+      "title": "Terry Pratchett's Study",
+      "url": "https://www.sussi.dk/terry-pratchetts-study",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T16:05:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
       "title": "New-Age Tech Stocks Extend Rally, CarTrade Leads With 23.3% Gain",
       "url": "https://inc42.com/buzz/new-age-tech-stocks-extend-rally-cartrade-leads-with-23-3-gain/",
       "source": "Inc42",
       "region": "India",
       "kind": "press",
       "published": "2026-11-07T16:01:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T15:16:01+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -112,6 +294,19 @@
       "region": "US",
       "kind": "press",
       "published": "2026-11-07T12:00:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-07T11:11:15+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11390,188 +11585,6 @@
       "summary": ""
     },
     {
-      "title": "Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies",
-      "url": "https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-02T09:35:58+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Malaysia is selling more chips, but it isn’t winning more of the market",
-      "url": "https://e27.co/malaysia-is-selling-more-chips-but-it-isnt-winning-more-of-the-market-20261102/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-02T09:32:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Startup news and updates: daily roundup (November 02, 2026)",
-      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-02-2026",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T09:15:12+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "China’s XTransfer partners with BOCHK on cross-border payments",
-      "url": "https://www.techinasia.com/airwallex-approval-full-launch-malaysia",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-02T09:11:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries",
-      "url": "https://inc42.com/buzz/pronto-founders-provision-labs-acquires-hardware-startup-basilisk-industries/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T09:11:26+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Paris-based Gallium Defense emerges from stealth with €7.1 million to scale affordable drone detection",
-      "url": "https://www.eu-startups.com/2026/11/paris-based-gallium-defense-emerges-from-stealth-with-e7-1-million-to-scale-affordable-drone-detection/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-02T09:00:37+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Meet the 50 top-funded startups and tech companies in Singapore",
-      "url": "https://www.techinasia.com/top-funded-startups-tech-companies-singapore",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-02T09:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "From code to content: How AI could make India the world’s next story exporter",
-      "url": "https://yourstory.com/2026/11/from-code-to-content-how-ai-could-make-india-the-worlds-next-story-exporter",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T08:32:48+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing",
-      "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T08:24:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "MobiKwik Reports ₹11.8 Cr Profit In Q2, Revenue Rises 9% YoY",
-      "url": "https://inc42.com/buzz/mobikwik-reports-%e2%82%b911-8-cr-profit-in-q2-revenue-rises-9-yoy/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T08:02:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Munich’s Marble Cognition raises €3.35 million to build AI coworkers that learn business processes before automating them",
-      "url": "https://www.eu-startups.com/2026/11/munichs-marble-cognition-raises-e3-35-million-to-build-ai-coworkers-that-learn-business-processes-before-automating-them/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-02T08:00:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Capillary Q2: Profit Jumps To ₹21.9 Cr, Revenue Surges 51.3% YoY",
-      "url": "https://inc42.com/buzz/capillary-q2-profit-jumps-to-%e2%82%b921-9-cr-revenue-surges-51-3-yoy/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T07:50:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "antimattr is building voice AI wearables that cut through the noise",
-      "url": "https://yourstory.com/2026/10/antimattr-is-building-voice-ai-wearables-that-work-even-in-noisy-spaces",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T07:45:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Delhivery Shares Jump Nearly 10% After Q2 Swing To ₹41 Cr Profit",
-      "url": "https://inc42.com/buzz/delhivery-shares-jump-nearly-10-after-q2-swing-to-%e2%82%b941-cr-profit/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-02T07:28:10+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Phonepe’s trading app has lost 40% of active users since March ’25. But hey, it at least has a new name",
       "url": "https://the-ken.com/story/phonepes-trading-app-has-lost-40-of-active-users-since-march-25-but-hey-it-at-least-has-a-new-name/",
       "source": "The Ken",
@@ -12987,20 +13000,6 @@
       ],
       "category": "Market & Data",
       "summary": ""
-    },
-    {
-      "title": "RAM Fever",
-      "url": "https://www.generalist.com/p/generalist-intelligence-july-10",
-      "source": "The Generalist",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-07-10T18:09:57+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "category": "AI & Deep Tech",
-      "summary": "This piece examines surging demand for memory (RAM) driven by AI workloads, a dynamic reshaping semiconductor supply chains and pricing. It's relevant to investors tracking hardware bottlenecks that could constrain or redirect AI infrastructure spending."
     }
   ]
 }
