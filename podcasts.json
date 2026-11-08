@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-08T12:26:28.251827+00:00",
+  "updated": "2026-11-08T19:15:16.250128+00:00",
   "items": [
+    {
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "source": "Lenny's Podcast",
+      "host": "Lenny Rachitsky",
+      "category": "Founder & Operator",
+      "duration": "",
+      "published": "2026-11-08T13:31:32+00:00",
+      "audio": "https://api.substack.com/feed/podcast/219474705/5fcf90cae186120b6d62e9a3f792b5f7.mp3",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
     {
       "title": "The Health Interventions Actually Worth Your Time | Justin Mares",
       "url": "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_",
@@ -14302,21 +14316,6 @@
       ],
       "summary": "",
       "audio": "https://anchor.fm/s/8c1524bc/podcast/play/112410477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414100693-44100-2-cecacfe173dcf.mp3"
-    },
-    {
-      "title": "Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI - [Invest Like the Best, EP.451]",
-      "url": "https://joincolossus.com/episode/nvidia-v-google-%E2%80%A6-economics-of-ai/",
-      "source": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "category": "Interview & News",
-      "duration": "86 min",
-      "published": "2025-12-09T15:05:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "summary": "Gavin Baker digs into the competitive dynamics between Nvidia and Google, the durability of AI scaling laws, and the shifting economics of compute and model training. A timely deep dive for LPs and GPs trying to underwrite AI infrastructure and semiconductor exposure.",
-      "audio": "https://traffic.megaphone.fm/CLS5994992754.mp3?updated=1767945603"
     }
   ]
 }
