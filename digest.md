@@ -1,27 +1,27 @@
-# The Wonderland Brief — week of 2026-11-02
+# The Wonderland Brief — week of 2026-11-09
 
 *What moved in venture this week — headlines and conversations worth your attention, from the Wonderland wire.*
 
 ## On the wire
 
-- **[Thara Connect charts a roadmap for the future of investment and entrepreneurship in Ajman](http://wamda.com/2026/11/thara-connect-charts-roadmap-future-investment-entrepreneurship-ajman)** · Wamda · Nov 2
-- **[UnionPay, Singapore’s Thunes expand instant China payouts](https://www.techinasia.com/singapores-top-fintech-companies-95-stand-500)** · Tech in Asia · Nov 2
-- **[Crypto’s next chapter: Regulatory sandboxes, AI co-pilots and the rise of derivatives](https://yourstory.com/2026/11/cryptos-next-chapter-regulatory-sandboxes-ai-co-pilots-and-the-rise-of-derivatives)** · YourStory · Nov 2
-- **[WOI India launches venture studios, investor network, and startup support platforms at TechSparks 2026](https://yourstory.com/2026/11/woi-india-launches-venture-studios-investor-network-startup-support-platforms-techsparks-26)** · YourStory · Nov 2
-- **[Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies](https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/)** · EU-Startups · Nov 2
-- **[Malaysia is selling more chips, but it isn’t winning more of the market](https://e27.co/malaysia-is-selling-more-chips-but-it-isnt-winning-more-of-the-market-20261102/)** · e27 · Nov 2
-- **[China’s XTransfer partners with BOCHK on cross-border payments](https://www.techinasia.com/airwallex-approval-full-launch-malaysia)** · Tech in Asia · Nov 2
-- **[Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries](https://inc42.com/buzz/pronto-founders-provision-labs-acquires-hardware-startup-basilisk-industries/)** · Inc42 · Nov 2
-- **[Paris-based Gallium Defense emerges from stealth with €7.1 million to scale affordable drone detection](https://www.eu-startups.com/2026/11/paris-based-gallium-defense-emerges-from-stealth-with-e7-1-million-to-scale-affordable-drone-detection/)** · EU-Startups · Nov 2
-- **[MobiKwik Reports ₹11.8 Cr Profit In Q2, Revenue Rises 9% YoY](https://inc42.com/buzz/mobikwik-reports-%e2%82%b911-8-cr-profit-in-q2-revenue-rises-9-yoy/)** · Inc42 · Nov 2
+- **[UAE's Soter Insure secures fresh Series B investment from SC Ventures, SBI Group](https://www.wamda.com/2026/11/uae-soter-insure-secures-fresh-series-b-investment-sc-ventures-sbi-group)** · Wamda · Nov 9
+- **[MENA startup funding plunges 96% to $40 million in October 2026 as megadeals dry up](https://www.wamda.com/2026/11/mena-startup-funding-plunges-96-40-million-october-2026-megadeals-dry)** · Wamda · Nov 9
+- **[Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)** · Hacker News · Nov 9
+- **[Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?](https://www.saastr.com/dear-saastr-what-can-a-startup-do-to-get-their-customers-to-pay-on-time/)** · SaaStr · Nov 9
+- **[China’s UBTech, Tianyi team up to scale humanoid robot market](https://www.techinasia.com/chinas-ubtech-boost-humanoid-robot-production-10-2026)** · Tech in Asia · Nov 9
+- **[SoftBank lifts FY2026 revenue outlook to $49.9b](https://www.techinasia.com/softbank-grab-explore-ai-infrastructure-sarawak)** · Tech in Asia · Nov 9
+- **[After electrification and price wars, SEEWAY.AI says data and chips may define the next decade of EV competition](https://technode.com/2026/11/09/after-electrification-and-price-wars-seeway-ai-says-data-and-chips-may-define-the-next-decade-of-ev-competition/)** · TechNode · Nov 9
+- **[The realities of scaling AI agents: ‘You don't have an AI problem, you have a content problem’](https://sifted.eu/articles/the-realities-of-scaling-ai-agents-brnd/)** · Sifted · Nov 9
+- **[Endeavor retoma programa Scale-Up com foco em empresas de IA e projeta R$ 200 milhões em receita para turma selecionada](https://startupi.com.br/endeavor-retoma-programa-scale-up-com-foco-em-empresas-de-ia-e-projeta-r-200-milhoes-em-receita-para-turma-selecionada/)** · Startupi · Nov 9
+- **[Startups na rota da eletrificação: o novo mapa de oportunidades do Brasil](https://startupi.com.br/startups-na-rota-da-eletrificacao-o-novo-mapa-de-oportunidades-do-brasil/)** · Startupi · Nov 9
 
 ## In the listening room
 
-- **[Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”](https://traffic.megaphone.fm/VMP9745758647.mp3)** · How I Built This · 76 min
-- **[20VC: Who Wins the Inference Market | Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute | The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo)** · The Twenty Minute VC · 62 min
-- **[How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano](https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the)** · Lenny's Podcast
-- **[How Bending Spoons Built a $20 Billion Compounder | Luca Ferrari](https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0)** · a16z Podcast · 44 min
-- **[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more](https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources)** · Lenny's Podcast
+- **[521. How AI Is Reshaping Real Estate, When Large Operators Should Build vs. Buy, The Biggest Bottleneck in AI Growth, and Advice You Should Never Take (Zach Aarons)](https://fullratchet.net/zach-aarons)** · The Full Ratchet · 45 min
+- **[Dr. Squatch: Jack Haldrup. From a Closet Full of Soap to a $1.5 Billion Brand](https://traffic.megaphone.fm/VMP1750831437.mp3)** · How I Built This · 80 min
+- **[20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI | Why OpenAI and Anthropic Will Come for Your Business | The Future of the Inference Market | Are Chinese Open-Source Models Truly Safe?](https://thetwentyminutevc.libsyn.com/20vc-mistral-ceo-on-why-energy-is-not-the-bottleneck-to-ai-why-openai-and-anthropic-will-come-for-your-business-the-future-of-the-inference-market-are-chinese-open-source-models-truly-safe)** · The Twenty Minute VC · 49 min
+- **[Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)** · Lenny's Podcast
+- **[The Health Interventions Actually Worth Your Time | Justin Mares](https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_)** · a16z Podcast · 26 min
 
 ---
 *Assembled from the [Wonderland wire](https://wonderland-venture-intelligence.vercel.app/track.html) and [Airwaves](https://wonderland-venture-intelligence.vercel.app/listen.html). For information only — not investment advice.*
