@@ -7,7 +7,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 12,
+    "new": 13,
     "via": "direct"
   },
   {
@@ -18,16 +18,16 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 3,
+    "new": 1,
     "via": "direct"
   },
   {
     "name": "PitchBook News",
     "kind": "press",
     "url": "https://pitchbook.com/news/rss",
-    "status": 404,
+    "status": 403,
     "bozo": 1,
-    "error": "<unknown>:10:81: not well-formed (invalid token)",
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -40,7 +40,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 2,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -51,18 +51,18 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 1,
+    "new": 5,
     "via": "direct"
   },
   {
     "name": "Hacker News",
     "kind": "press",
     "url": "https://hnrss.org/frontpage",
-    "status": 200,
-    "bozo": 0,
-    "error": null,
-    "entries": 20,
-    "new": 19,
+    "status": null,
+    "bozo": 1,
+    "error": "<urlopen error [Errno 104] Connection reset by peer>",
+    "entries": 0,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -95,7 +95,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 4,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -106,7 +106,7 @@
     "bozo": 0,
     "error": null,
     "entries": 24,
-    "new": 2,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -124,11 +124,11 @@
     "name": "EU-Startups",
     "kind": "press",
     "url": "https://www.eu-startups.com/feed/",
-    "status": 403,
-    "bozo": 1,
-    "error": "<unknown>:2:1326: not well-formed (invalid token)",
-    "entries": 0,
-    "new": 0,
+    "status": 200,
+    "bozo": 0,
+    "error": null,
+    "entries": 10,
+    "new": 8,
     "via": "direct"
   },
   {
@@ -139,7 +139,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 8,
     "via": "direct"
   },
   {
@@ -150,7 +150,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 8,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -168,9 +168,9 @@
     "name": "MAGNiTT",
     "kind": "press",
     "url": "https://magnitt.com/news/rss",
-    "status": 200,
+    "status": 403,
     "bozo": 1,
-    "error": "<unknown>:11:33: not well-formed (invalid token)",
+    "error": "<unknown>:2:1326: not well-formed (invalid token)",
     "entries": 0,
     "new": 0,
     "via": "direct"
@@ -194,7 +194,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 9,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -238,7 +238,7 @@
     "bozo": 0,
     "error": null,
     "entries": 36,
-    "new": 1,
+    "new": 14,
     "via": "direct"
   },
   {
@@ -249,7 +249,7 @@
     "bozo": 0,
     "error": null,
     "entries": 50,
-    "new": 0,
+    "new": 2,
     "via": "direct"
   },
   {
@@ -304,7 +304,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 0,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -326,7 +326,7 @@
     "bozo": 0,
     "error": null,
     "entries": 100,
-    "new": 1,
+    "new": 6,
     "via": "direct"
   },
   {
@@ -370,7 +370,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 8,
+    "new": 4,
     "via": "direct"
   },
   {
@@ -458,7 +458,7 @@
     "bozo": 1,
     "error": "<unknown>:43:5: not well-formed (invalid token)",
     "entries": 1,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -469,7 +469,7 @@
     "bozo": 0,
     "error": null,
     "entries": 20,
-    "new": 4,
+    "new": 3,
     "via": "direct"
   },
   {
@@ -491,7 +491,7 @@
     "bozo": 0,
     "error": null,
     "entries": 2,
-    "new": 1,
+    "new": 0,
     "via": "direct"
   },
   {
@@ -513,7 +513,7 @@
     "bozo": 0,
     "error": null,
     "entries": 10,
-    "new": 5,
+    "new": 6,
     "via": "direct"
   }
 ]
