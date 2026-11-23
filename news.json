@@ -1,6 +1,981 @@
 {
-  "updated": "2026-11-23T01:13:56.969806+00:00",
+  "updated": "2026-11-23T11:29:03.939008+00:00",
   "items": [
+    {
+      "title": "Tamara expands debt financing facilities by $400 million with two global banks",
+      "url": "https://www.wamda.com/2026/11/tamara-expands-debt-financing-facilities-400-million-global-banks",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-11-23T12:15:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Jordanian fintech invoiceQ raises $5 million in oversubscribed Series A",
+      "url": "https://www.wamda.com/2026/11/jordanian-fintech-invoiceq-raises-5-million-oversubscribed-series-a",
+      "source": "Wamda",
+      "region": "MENA",
+      "kind": "press",
+      "published": "2026-11-23T11:52:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Beyond tickets: How LightSprint.ai is building a multiplayer software factory where PMs and designers ship with engineers",
+      "url": "https://yourstory.com/2026/11/lightsprintai-software-factory-pms-designers-engineers",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T11:24:40+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+      "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T11:15:57+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others",
+      "url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T11:11:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Zavya Nets ₹22.6 Cr To Scale Everyday Silver Jewellery Biz",
+      "url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T11:04:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Mapping the trailblazers in Korea’s health sector",
+      "url": "https://www.techinasia.com/visual-story/mapping-trailblazers-koreas-health-sector",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T11:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Top 5 Popular AI Ordering System for Manufacturers in Singapore: 2027 Enterprise Guide",
+      "url": "https://e27.co/top-5-popular-ai-ordering-system-for-manufacturers-in-singapore-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T10:59:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "China's prison for the elite is massively expanding",
+      "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T10:58:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round",
+      "url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T10:58:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave",
+      "url": "https://sifted.eu/articles/plural-fund-ai-podcast/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T10:49:28+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Shareholder, landlord, matchmaker: GIC wears three hats in Anthropic’s rise",
+      "url": "https://e27.co/shareholder-landlord-matchmaker-gic-wears-three-hats-in-anthropics-rise-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T10:49:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Taking a personal loan with variable income? Here's how to plan your EMI smartly",
+      "url": "https://yourstory.com/2026/11/taking-a-personal-loan-with-variable-income-heres-how-to-plan-your-emi-smartly",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T10:35:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+      "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T10:31:19+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T10:06:43+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Sarvam's new AI model promises better performance at lower cost",
+      "url": "https://yourstory.com/2026/11/sarvam-new-model-make-ai-assistants-cheaper-to-run",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T09:40:20+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "What it takes for Indian startups to win when building is no longer the hard part",
+      "url": "https://yourstory.com/2026/11/what-it-takes-for-indian-startups-to-win-when-building-is-no-longer-the-hard-part",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T09:28:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus",
+      "url": "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T09:22:03+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Book: Home Game by Michael Lewis",
+      "url": "https://feld.com/archives/2026/11/home-game-michael-lewis/",
+      "source": "Feld Thoughts",
+      "region": "US",
+      "kind": "gp",
+      "published": "2026-11-23T09:18:26+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+      "url": "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T09:01:18+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Why AI startups should build governance early",
+      "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T09:00:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Do fim da escala 6×1 ao futuro do trabalho: por que o modelo CLT x PJ está mudando?",
+      "url": "https://startupi.com.br/do-fim-da-escala-6x1-ao-futuro-do-trabalho-por-que-o-modelo-clt-x-pj-esta-mudando/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-11-23T09:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "US data center firm Vertiv tests Nvidia AI infrastructure",
+      "url": "https://www.techinasia.com/zte-launches-ai-data-center-module-250kw",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T08:45:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Congress Protests Against Meta’s Content Moderation Practices, Political Bias",
+      "url": "https://inc42.com/buzz/meta-faces-scrutiny-in-india-over-content-moderation-practices-political-biasness/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T08:43:03+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Bengaluru Green SM Protests: Police Book Protesters For Vandalism",
+      "url": "https://inc42.com/buzz/bengaluru-green-sm-protests-police-book-protesters-for-vandalism/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T08:16:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "China’s Zhipu said to have added GLM-5.4 to coding plan",
+      "url": "https://www.techinasia.com/zhipu-releases-open-source-ai-model-for-coding-tasks",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T08:04:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Germany’s BIT Capital takes AI funds to Hong Kong, Singapore",
+      "url": "https://www.techinasia.com/granite-asias-jixun-foo-on-where-asias-ai-edge-is-forming",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T08:02:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Saúde digital precisa sair das plataformas e chegar ao cuidado, defendem lideranças no HIMSS",
+      "url": "https://startupi.com.br/himss-2026-transformacao-digital-saude/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-11-23T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Nova escala de trabalho no Brasil traz desafios e oportunidades para startups",
+      "url": "https://startupi.com.br/nova-escala-trabalho-startups-desafios-oportunidades/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-11-23T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "O dilema da COP31: o maior evento climático da história tem apenas 20% de negociadores",
+      "url": "https://startupi.com.br/cop31-conferencia-clima-onu-recorde-participantes-negociacoes/",
+      "source": "Startupi",
+      "region": "LatAm",
+      "kind": "press",
+      "published": "2026-11-23T08:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Paris-based HoloSolis raises over €15 million to advance €1 billion solar gigafactory in France",
+      "url": "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/",
+      "source": "EU-Startups",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T07:48:17+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "India ranks sixth globally in GTA VI search volume, says study",
+      "url": "https://yourstory.com/2026/11/india-ranks-sixth-globally-in-gta-6-search-volume-study",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T07:47:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Sarvam clarifies AI strategy amid debate over hosting Chinese models",
+      "url": "https://yourstory.com/2026/11/sarvam-clarifies-ai-strategy-amid-debate-over-hosting-chinese-models",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T07:22:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Startup news and updates: Daily roundup (November 23, 2026)",
+      "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-23-2026",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T07:03:12+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T07:01:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ex-Inditex veterans launch accessible pattern software",
+      "url": "https://www.techinasia.com/exinditex-veterans-launch-accessible-pattern-software",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T07:00:15+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Series SEA: Who’s investing in the region’s education startups?",
+      "url": "https://www.techinasia.com/top-sea-investors-education",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T07:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "MiniMax publishes AI-discovered cryptographic attacks with papers and code",
+      "url": "https://technode.com/2026/11/23/minimax-publishes-ai-discovered-cryptographic-attacks-with-papers-and-code/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:52:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Huawei’s OSTA brand reportedly plans tablets, laptops and wearables",
+      "url": "https://technode.com/2026/11/23/huaweis-osta-brand-reportedly-plans-tablets-laptops-and-wearables/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:52:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Honor previews six-head 3D printer as it enters consumer printing market",
+      "url": "https://technode.com/2026/11/23/honor-previews-six-head-3d-printer-as-it-enters-consumer-printing-market/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:52:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ant Group leads $100 million round in humanoid startup Simplexity Robotics",
+      "url": "https://technode.com/2026/11/23/ant-group-leads-100-million-round-in-humanoid-startup-simplexity-robotics/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:52:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Xiaomi reportedly hires former Xpeng Europe executive ahead of 2027 car launch",
+      "url": "https://technode.com/2026/11/23/xiaomi-reportedly-hires-former-xpeng-europe-executive-ahead-of-2027-car-launch/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:52:02+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ant Group unveils AI health ring and wristband under Afu brand",
+      "url": "https://technode.com/2026/11/23/ant-group-unveils-ai-health-ring-and-wristband-under-afu-brand/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:51:59+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Zhipu rolls out GLM-5.4 with vision and million-token context",
+      "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:51:56+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+      "url": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T06:21:38+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "VinFast’s 2,500-strong R&D team bets on software-defined cars and a 2027 robotaxi debut",
+      "url": "https://e27.co/vinfasts-2500-strong-rd-team-bets-on-software-defined-cars-and-a-2027-robotaxi-debut-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T06:10:37+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Canadia Impact Fund and Plug and Play APAC turn a shared cheque into a Cambodian startup pact",
+      "url": "https://e27.co/canadia-impact-fund-and-plug-and-play-apac-turn-a-shared-cheque-into-a-cambodian-startup-pact-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T05:55:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T05:00:49+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+      "url": "https://sifted.eu/articles/acorda-pre-seed/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T05:00:46+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+      "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+      "source": "Sifted",
+      "region": "Europe",
+      "kind": "press",
+      "published": "2026-11-23T05:00:45+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AI is doing to programmers what mechanisation did to farmers, weavers: Vembu",
+      "url": "https://yourstory.com/2026/11/what-happened-farmers-weavers-happening-to-programmers-sridhar-vembu-ai",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T04:58:05+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T04:51:48+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Banks, telcos, sovereigns and a few brave angels: decoding SEA’s 50 busiest investors of 2026",
+      "url": "https://e27.co/who-is-still-writing-cheques-the-50-vcs-that-kept-southeast-asias-startups-funded-in-2026-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:34:44+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Do you really need an AI wearable to remember every moment?",
+      "url": "https://technode.com/2026/11/23/do-you-really-need-an-ai-wearable-to-remember-every-moment/",
+      "source": "TechNode",
+      "region": "North Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:25:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Ant Group begins releasing open-weight medical AI models",
+      "url": "https://www.techinasia.com/ant-group-upgrades-doctor-app-ai-hospital-tools",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:18:55+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Happy hours and later nights: Queensland pubs set for liquor law shake-up",
+      "url": "https://www.smartcompany.com.au/hospitality/happy-hours-and-later-nights-queensland-pubs-set-for-liquor-law-shake-up/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-11-23T04:15:32+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "A relief bounce, not a reversal: My read on Bitcoin and Ethereum",
+      "url": "https://e27.co/a-relief-bounce-not-a-reversal-my-read-on-bitcoin-and-ethereum-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:09:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "TikTok expands parental controls with new safety features",
+      "url": "https://www.techinasia.com/tiktok-ceo-urges-firms-address-ai-cybersecurity-risks",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:08:14+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Singapore AI startups are scaling fast. But are they ready for the security risks?",
+      "url": "https://e27.co/singapore-ai-startups-are-scaling-fast-but-are-they-ready-for-the-security-risks-20261122/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T04:00:04+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "MetaOptics taps GEM Opportunities Fund for up to US$24.6M to fund a US glass fab",
+      "url": "https://e27.co/metaoptics-taps-gem-opportunities-fund-for-up-to-us24-6m-to-fund-a-us-glass-fab-20261123/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T03:55:08+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T03:49:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Far Eye helps reduce Flipkart logistics expenses by 6%",
+      "url": "https://yourstory.com/2026/11/far-eye-helps-reduce-flipkart-logistics-expenses-6-percent",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T03:43:30+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T03:34:29+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Banks are moving from AI experiments to AI-run operations: What Southeast Asia can learn from Europe",
+      "url": "https://e27.co/ai-is-becoming-an-integral-part-of-banks-operational-model-20261122/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T03:00:54+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "In this new MBA, the student’s family balance sheet is the mark sheet",
+      "url": "https://the-ken.com/story/in-this-new-mba-the-students-family-balance-sheet-is-the-mark-sheet/",
+      "source": "The Ken",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T02:30:24+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "India’s Inference Test, Scaler Founder’s New AI Bet & More",
+      "url": "https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/",
+      "source": "Inc42",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T02:30:21+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "LG Electronics to reorganize to push AI data center cooling",
+      "url": "https://www.techinasia.com/lg-electronics-expands-into-ai-data-center-cooling",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T02:02:47+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "The hardest part of sustainability innovation begins after the pilot",
+      "url": "https://e27.co/the-hardest-part-of-sustainability-innovation-begins-after-the-pilot-20261122/",
+      "source": "e27",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T02:00:25+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "AI crop breeding tackles the aviation fuel shortage",
+      "url": "https://www.techinasia.com/ai-crop-breeding-tackles-aviation-fuel-shortage",
+      "source": "Tech in Asia",
+      "region": "Southeast Asia",
+      "kind": "press",
+      "published": "2026-11-23T02:00:09+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+      "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+      "source": "YourStory",
+      "region": "India",
+      "kind": "press",
+      "published": "2026-11-23T02:00:00+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Coalition pushes bill to make debanking illegal, shielding fintechs, farms, and adult industries",
+      "url": "https://www.smartcompany.com.au/economy/coalition-pushes-bill-to-make-debanking-illegal-shielding-fintechs-farms-and-adult-industries/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-11-23T01:56:13+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T01:50:23+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Labor’s 30% trust tax set for Senate showdown before Christmas break",
+      "url": "https://www.smartcompany.com.au/tax/minimum-trust-tax-set-for-senate-showdown-before-christmas-break/",
+      "source": "SmartCompany",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-11-23T01:40:11+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T01:25:53+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "region": "Global",
+      "kind": "press",
+      "published": "2026-11-23T01:13:51+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
     {
       "title": "The genAI gold rush puts legacy AI to the test",
       "url": "https://www.techinasia.com/oldschool-ai-firms-fight-stay-relevant-genai-gold-rush",
@@ -827,6 +1802,19 @@
       "region": "Southeast Asia",
       "kind": "press",
       "published": "2026-11-22T02:53:36+00:00",
+      "topics": [
+        "Market & Data"
+      ],
+      "category": "Market & Data",
+      "summary": ""
+    },
+    {
+      "title": "Off yer bike: Electric motorcycle maker Savic calls in administrators",
+      "url": "https://www.startupdaily.net/topic/business/off-yer-bike-electric-motorcycle-maker-savic-calls-in-administrators/",
+      "source": "Startup Daily",
+      "region": "ANZ",
+      "kind": "press",
+      "published": "2026-11-22T02:48:52+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -10870,58 +11858,6 @@
       "summary": ""
     },
     {
-      "title": "Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes",
-      "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T12:50:16+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Amazon plans $7B renewable energy investment in India by 2030",
-      "url": "https://yourstory.com/2026/11/amazon-plans-usd-7-billion-renewable-energy-investment-india-by-2030",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T12:45:49+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Model ML hits $1.5B valuation with $250M raise, just 18 months after emerging from stealth",
-      "url": "https://tech.eu/2026/11/17/model-ml-hits-15b-valuation-with-250m-raise-just-18-months-after-emerging-from-stealth/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T12:45:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Alphabet-backed Isomorphic Labs raises $5b series C",
-      "url": "https://www.techinasia.com/zuckerberg-backed-biohubs-ai-biology-effort-hits-1-8b",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T12:40:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Saudi tech group iMENA secures $214 million to support regional growth",
       "url": "https://www.wamda.com/2026/11/saudi-tech-group-imena-secures-214-million-support-regional-growth",
       "source": "Wamda",
@@ -10935,909 +11871,12 @@
       "summary": ""
     },
     {
-      "title": "EQT and FirstMark back trio of H Company alumni in $30m seed round",
-      "url": "https://sifted.eu/articles/remanence-30m-seed-round/",
-      "source": "Sifted",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T12:03:08+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
-      "url": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-11-17T12:00:45+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-      "url": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-      "source": "Crunchbase News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-11-17T12:00:41+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The missing half of MENA's venture capital data",
-      "url": "https://www.wamda.com/2026/11/missing-half-mena-venture-capital-data",
-      "source": "Wamda",
-      "region": "MENA",
-      "kind": "press",
-      "published": "2026-11-17T11:59:19+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-11-17T11:45:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
-      "url": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T11:41:30+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Rediff Files Updated IPO Papers For ₹600 Cr Fresh Issue-Only IPO",
-      "url": "https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T11:38:16+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How AI could reshape jobs, investing, and wealth creation in India",
-      "url": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T11:20:24+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
-      "url": "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T11:15:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "UK employee benefits unicorn Stream targets IPO in 18 months",
-      "url": "https://tech.eu/2026/11/17/uk-employee-benefit-startup-stream-eyes-ipo-in-18-months/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T11:15:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Qluster raises €4.7M to power the next generation of quantum computing",
-      "url": "https://tech.eu/2026/11/17/qluster-raises-eur47m-to-power-the-next-generation-of-quantum-computing/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T11:10:43+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Fadnavis’ vision for a new Maharashtra: Gen Z, deep tech and $1 trillion",
-      "url": "https://yourstory.com/2026/11/devendra-fadnavis-governance-challenge-2026",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T11:09:20+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Inside Glovo's Startup Campus: Building the next generation of European founders",
-      "url": "https://tech.eu/2026/11/17/inside-glovos-startup-campus-building-the-next-generation-of-european-founders/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T11:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Mapping the firms leaving a mark in China’s fintech race",
-      "url": "https://www.techinasia.com/visual-story/mapping-chinas-notable-fintech-players",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T11:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Karnataka aims to become global hub for frontier technologies: DK Shivakumar",
-      "url": "https://yourstory.com/2026/11/karnataka-global-hub-frontier-technologies-dk-shivakumar",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T10:59:28+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
-      "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T10:46:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Urban Company To Use ₹600 Cr From QIP To Expand InstaHelp In ₹12,000 Cr Market",
-      "url": "https://inc42.com/buzz/urban-company-to-use-%e2%82%b9600-cr-from-qip-to-expand-instahelp-in-%e2%82%b912000-cr-market/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T10:39:07+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "HKTDC brings over 370 startups and global IP leaders to Hong Kong this week",
-      "url": "https://e27.co/hktdc-brings-over-370-startups-and-global-ip-leaders-to-hong-kong-this-week-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T10:31:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "source": "Hacker News",
-      "region": "Global",
-      "kind": "press",
-      "published": "2026-11-17T10:20:40+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Impact Unleashed: Jack Mardack on building companies that scale positive change",
-      "url": "https://www.eu-startups.com/2026/11/impact-unleashed-jack-mardack-on-building-companies-that-scale-positive-change/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T10:15:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Malware attack hits Zoom, Salesforce and IKEA-linked websites",
-      "url": "https://yourstory.com/2026/11/malware-attack-zoom-salesforce-ikea-websites",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T10:06:52+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
-      "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T10:01:47+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Chinese AI firms tap US models as chip restrictions tighten",
-      "url": "https://www.techinasia.com/openai-revenue-climbs-10b-costs-remain-high",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T09:52:04+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers",
-      "url": "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T09:50:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "HSBC sells $300m of Oracle AI data center loan at discount",
-      "url": "https://www.techinasia.com/oracle-jumps-7-q1-beat-cloud-growth",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T09:22:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands",
-      "url": "https://www.eu-startups.com/2026/11/barcelona-based-fermat-raises-e7-26-million-for-its-ai-operating-system-for-fashion-and-luxury-brands/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T09:20:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Startup news and updates: daily roundup (November 17, 2026)",
-      "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-17-2026",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T09:15:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
-      "url": "https://tech.eu/2026/11/17/nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-grids/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T09:05:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Denmark’s Commit Biologics secures €54 million Seed funding to advance cancer and autoimmune therapies",
-      "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T09:01:50+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "adesso Ventures secures €26M in first close of its second fund, opening to external investors",
-      "url": "https://tech.eu/2026/11/17/adesso-ventures-secures-eur26m-in-first-close-of-its-second-fund-opening-to-external-investors/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T09:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "20 top angel investment networks in Asia",
-      "url": "https://www.techinasia.com/20-top-angel-investment-network",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T09:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
-      "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T08:56:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
-      "url": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T08:44:46+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Bolt’s Malaysia rides jump 250% in its 2nd year",
-      "url": "https://www.techinasia.com/foodpanda-expands-ride-hailing-partnerships-across-asia",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T08:33:59+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "How friends from Coimbatore built GOAT Robotics into an Rs 8 crore business with global reach",
-      "url": "https://yourstory.com/2026/11/coimbatore-goat-robotics-startup-success-story-8-crore-turnover",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T08:16:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Malaysia’s U Mobile brings private 5G, AI to planned solar plant",
-      "url": "https://www.techinasia.com/huawei-gets-84-7m-financing-from-malaysias-ambank-for-5g-network",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T08:11:50+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Como startups devem monitorar as oportunidades do setor de minerais críticos em discussão no Brasil",
-      "url": "https://startupi.com.br/como-startups-devem-monitorar-as-oportunidades-do-setor-de-minerais-criticos-em-discussao-no-brasil/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers",
-      "url": "https://tech.eu/2026/11/17/fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-      "url": "https://tech.eu/2026/11/17/previsia-raises-eur38m-to-bring-ai-powered-risk-prevention-to-businesses-across-europe/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Por que o CFO de IA no Brasil vai nascer da camada de execução financeira, e não do ERP",
-      "url": "https://startupi.com.br/por-que-o-cfo-de-ia-no-brasil-vai-nascer-da-camada-de-execucao-financeira-e-nao-do-erp/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Swiss neurotech Indivi acquires Cogitat to advance AI-powered brain monitoring",
-      "url": "https://tech.eu/2026/11/17/swiss-neurotech-company-indivi-acquires-imperial-college-spin-out-cogitat-to-advance-ai-powered-brain-monitoring/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Profitable French InsurTech Previsia raises €3.8 million in Seed funding for its AI risk-prevention platform",
-      "url": "https://www.eu-startups.com/2026/11/profitable-french-insurtech-previsia-raises-e3-8-million-in-seed-funding-for-its-ai-risk-prevention-platform/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T07:47:03+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Lauda, a Maruti relic and 13,500 lost kids: Kerala’s audacious bid to rewire motorsport’s money ladder",
-      "url": "https://e27.co/lauda-a-maruti-relic-and-13500-lost-kids-keralas-audacious-bid-to-rewire-motorsports-money-ladder-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:46:27+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Instagram Tightens Recommendations For Sexually Suggestive, Violent Content In India",
-      "url": "https://inc42.com/buzz/instagram-tightens-recommendations-for-sexually-suggestive-violent-content-in-india/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T07:40:32+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Iterative to expand investments beyond Southeast Asia",
-      "url": "https://www.techinasia.com/sg-vc-iterative-cuts-team-narrows-focus-aifirst-startups",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:38:06+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "Book: Alfa by Lilja Sigurdardottir",
       "url": "https://feld.com/archives/2026/11/alfa-lilja-sigurdardottir/",
       "source": "Feld Thoughts",
       "region": "US",
       "kind": "gp",
       "published": "2026-11-17T07:31:14+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Tiberius Aerospace with strong UK links raises $85M",
-      "url": "https://tech.eu/2026/11/17/tiberius-aerospace-with-strong-uk-links-raises-85-million/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T07:30:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Ranveer Singh, Aman Gupta Launch Men’s Personal Care Brand H.I.M",
-      "url": "https://inc42.com/buzz/ranveer-singh-aman-gupta-team-up-to-launch-mens-grooming-brand-h-i-m/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T07:26:51+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "India’s Velocity unveils AI tool for D2C shipping",
-      "url": "https://www.techinasia.com/inside-cloudflares-fix-for-ais-data-problem",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:26:48+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Instagram fine-tunes recommendation systems in India to curb sexually suggestive, violent content",
-      "url": "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T07:11:12+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI Shut Down Sora. Kuaishou Is Betting Bigger on Kling.",
-      "url": "https://technode.com/2026/11/17/kuaishou-kling-sora-hong-kong-ipo/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:09:43+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "NABU secures €1.1M to bring AI automation to financial compliance",
-      "url": "https://tech.eu/2026/11/17/nabu-secures-eur11m-to-bring-ai-automation-to-financial-compliance/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T07:03:05+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Lakshmi Venu seeks formal partition of TVS Venu Srinivasan family assets",
-      "url": "https://yourstory.com/2026/11/lakshmi-venu-formal-partition-tvs-venu-srinivasan-family-assets",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T07:03:01+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "This startup bypasses ASML to slash chip iteration times",
-      "url": "https://www.techinasia.com/startup-bypasses-asml-slash-chip-iteration-times",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:00:56+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "De biomateriais à teleoftalmologia: conheça os dez selecionados no Innovators Under 35 Brasil 2026",
-      "url": "https://startupi.com.br/innovators-under-35-brasil-2026-vencedores/",
-      "source": "Startupi",
-      "region": "LatAm",
-      "kind": "press",
-      "published": "2026-11-17T07:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "The Philippines’ top tech firms by funding in the last decade",
-      "url": "https://www.techinasia.com/visual-story/philippines-top-tech-firms-funding-decade",
-      "source": "Tech in Asia",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T07:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Huawei reveals the design of its first OSTA phone ahead of November 20 launch",
-      "url": "https://technode.com/2026/11/17/huawei-reveals-the-design-of-its-first-osta-phone-ahead-of-november-20-launch/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:28:53+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "ByteDance opens Seedance 2.5’s 4K video generation API to developers",
-      "url": "https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:28:41+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Former Meituan and Feishu executives reportedly team up to build an AI recording ring",
-      "url": "https://technode.com/2026/11/17/former-meituan-and-feishu-executives-reportedly-team-up-to-build-an-ai-recording-ring/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:28:31+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Apple adds generative AI compliance filings to App Store Connect in China",
-      "url": "https://technode.com/2026/11/17/apple-adds-generative-ai-compliance-filings-to-app-store-connect-in-china/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:28:21+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Huawei details Kirin 9050 display processor that enhances SDR content",
-      "url": "https://technode.com/2026/11/17/huawei-details-kirin-9050-display-processor-that-enhances-sdr-content/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:28:09+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Baidu’s Robin Li warns of AI bubble risk as applications lag infrastructure spending",
-      "url": "https://technode.com/2026/11/17/baidus-robin-li-warns-of-ai-bubble-risk-as-applications-lag-infrastructure-spending/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:27:58+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Swappie co-founder’s AI HealthTech startup Treat raises €3 million to streamline private healthcare",
-      "url": "https://www.eu-startups.com/2026/11/swappie-co-founders-ai-healthtech-startup-treat-raises-e3-million-to-streamline-private-healthcare/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T06:20:35+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
-      "url": "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/",
-      "source": "e27",
-      "region": "Southeast Asia",
-      "kind": "press",
-      "published": "2026-11-17T06:06:13+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
-      "url": "https://www.eu-startups.com/2026/11/exclusive-backed-by-googles-first-investor-munichs-rhise-ai-raises-e2-66-million-to-build-europes-sovereign-personal-ai/",
-      "source": "EU-Startups",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T06:00:18+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Madras HC Bars Blinkit From Using CSK Superfan’s Image Without Permission",
-      "url": "https://inc42.com/buzz/madras-hc-bars-blinkit-from-using-csk-superfans-image-without-permission/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T06:00:10+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Finnish healthtech Treat raises €3M to tackle inefficiencies in private healthcare",
-      "url": "https://tech.eu/2026/11/17/finnish-healthtech-treat-raises-eur3m-to-tackle-inefficiencies-in-private-healthcare/",
-      "source": "Tech.eu",
-      "region": "Europe",
-      "kind": "press",
-      "published": "2026-11-17T06:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Elastic{ON} Mumbai: Why context, not the model, is the real AI advantage",
-      "url": "https://yourstory.com/2026/11/elasticon-mumbai-context-not-model-real-ai-advantage",
-      "source": "YourStory",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T05:47:08+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Urban Company Opens ₹2,500 Cr QIP At Floor Price Of ₹161 Per Share",
-      "url": "https://inc42.com/buzz/urban-company-opens-%e2%82%b92500-cr-qip-at-floor-price-of-%e2%82%b9161-03-per-share/",
-      "source": "Inc42",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-17T05:45:43+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Can Phantom Blade Zero break into TGA 2026’s Best Action Game nominees?",
-      "url": "https://technode.com/2026/11/17/can-phantom-blade-zero-break-into-tga-2026s-best-action-game-nominees/",
-      "source": "TechNode",
-      "region": "North Asia",
-      "kind": "press",
-      "published": "2026-11-17T05:40:35+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -11864,19 +11903,6 @@
       "region": "US",
       "kind": "gp",
       "published": "2026-11-17T00:00:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Wa'ed Ventures backs Saudi cybersecurity startup COGNNA",
-      "url": "https://www.wamda.com/2026/11/waed-ventures-backs-saudi-cybersecurity-startup-cognna",
-      "source": "Wamda",
-      "region": "MENA",
-      "kind": "press",
-      "published": "2026-11-16T16:55:15+00:00",
       "topics": [
         "Market & Data"
       ],
@@ -12300,19 +12326,6 @@
       "summary": ""
     },
     {
-      "title": "Novartis India’s headcount: 57. Chryscapital’s price for it: Rs 1,400 cr. Investors after the deal: “We love it”",
-      "url": "https://the-ken.com/story/novartis-indias-headcount-57-chryscapitals-price-for-it-rs-1400-cr-investors-after-the-deal-we-love-it/",
-      "source": "The Ken",
-      "region": "India",
-      "kind": "press",
-      "published": "2026-11-09T02:30:00+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
       "title": "When Does the US Become a Net Importer of Tokens?",
       "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens/",
       "source": "Tomasz Tunguz",
@@ -12488,19 +12501,6 @@
       "region": "Global",
       "kind": "press",
       "published": "2026-10-30T12:58:11+00:00",
-      "topics": [
-        "Market & Data"
-      ],
-      "category": "Market & Data",
-      "summary": ""
-    },
-    {
-      "title": "Formlabs Form Studio 1",
-      "url": "https://feld.com/archives/2026/10/formlabs-form-studio-1/",
-      "source": "Feld Thoughts",
-      "region": "US",
-      "kind": "gp",
-      "published": "2026-10-29T09:02:22+00:00",
       "topics": [
         "Market & Data"
       ],
