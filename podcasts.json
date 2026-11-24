@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-24T07:34:23.483754+00:00",
+  "updated": "2026-11-24T19:48:32.330080+00:00",
   "items": [
+    {
+      "title": "How To Build A Jet Engine From Scratch",
+      "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-A-Jet-Engine-From-Scratch-e3suqkc",
+      "source": "Y Combinator Startup Podcast",
+      "host": "Y Combinator",
+      "category": "Founder & Operator",
+      "duration": "15 min",
+      "published": "2026-11-24T17:13:52+00:00",
+      "audio": "https://anchor.fm/s/8c1524bc/podcast/play/130033740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437527709-44100-2-32eca6510f9318.mp3",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]",
+      "url": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+      "source": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "category": "Interview & News",
+      "duration": "64 min",
+      "published": "2026-11-24T15:00:00+00:00",
+      "audio": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)",
+      "url": "https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE",
+      "source": "a16z Podcast",
+      "host": "Andreessen Horowitz",
+      "category": "GP / Firm",
+      "duration": "31 min",
+      "published": "2026-11-24T11:00:00+00:00",
+      "audio": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/02cb7d51-09f9-4aae-907e-64eee1212c6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=02cb7d51-09f9-4aae-907e-64eee1212c6d&feed=JGE3yC0V",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Nvidia, China, and the open-model race: Reflection AI's Misha Laskin on a $25B bet",
+      "url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/3a9b9c63-5cb1-4ac5-9d23-8890278fa00d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+      "source": "Masters of Scale",
+      "host": "Reid Hoffman & guests",
+      "category": "Founder & Operator",
+      "duration": "27 min",
+      "published": "2026-11-24T10:00:00+00:00",
+      "audio": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/3a9b9c63-5cb1-4ac5-9d23-8890278fa00d.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+      "url": "https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem",
+      "source": "All-In",
+      "host": "Chamath, Sacks, Friedberg, Calacanis",
+      "category": "Deal & Macro",
+      "duration": "53 min",
+      "published": "2026-11-24T02:30:00+00:00",
+      "audio": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_Geoge_Kurtz_INT.mp3?dest-id=1928300",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
     {
       "title": "Cedric the Entertainer Judges Qloo’s AI Hackathon Finale | E2367",
       "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT8391644494.mp3",
@@ -14175,80 +14245,6 @@
       ],
       "summary": "Jensen Huang discusses Nvidia's competitive positioning against custom silicon like Google's TPUs, the strategic case for continuing chip sales to China, and the durability of Nvidia's supply chain advantages. This is directly material for LPs assessing semiconductor exposure and geopolitical risk in AI infrastructure investing.",
       "audio": "https://api.substack.com/feed/podcast/194289889/5f292c095257191205d7c71b2b0c70da.mp3"
-    },
-    {
-      "title": "What I learned this week - Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL",
-      "url": "https://www.dwarkesh.com/p/what-i-learned-april-15",
-      "source": "Dwarkesh Podcast",
-      "host": "Dwarkesh Patel",
-      "category": "Interview & News",
-      "duration": "",
-      "published": "2026-04-15T14:03:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Market & Data"
-      ],
-      "summary": "A roundup covering technical AI topics including limits on model distillation, cybersecurity dynamics framed through a 'mythos' lens, and advances in pipeline reinforcement learning. It offers a snapshot of current technical debates shaping AI infrastructure and safety investment theses.",
-      "audio": "https://substackcdn.com/image/fetch/$s_!QpJ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e801a3e-5563-40fc-ba70-4af569d80647_555x772.png"
-    },
-    {
-      "title": "Why Power Laws Still Drive Outperformance with VenCap’s David Clark",
-      "url": "https://podcasters.spotify.com/pod/show/origins-notation/episodes/Why-Power-Laws-Still-Drive-Outperformance-with-VenCaps-David-Clark-e3htnd7",
-      "source": "Origins",
-      "host": "Nick Chirls & Beezer Clarkson",
-      "category": "LP / Allocator",
-      "duration": "53 min",
-      "published": "2026-04-15T04:00:00+00:00",
-      "audio": "https://anchor.fm/s/d1903ff4/podcast/play/118463335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F422078968-44100-2-e7b2be363d827.mp3",
-      "topics": [
-        "Opinion"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "20VC: Anj Midha on Investing $300M into Anthropic | The Early Days of Anthropic & How 21 of 22 VCs Turned it Down | The Four Bottlenecks to Compute | What the China Has Smashed and Why We Should Be Worried",
-      "url": "https://thetwentyminutevc.libsyn.com/20vc-anj-midha-on-investing-300m-into-anthropic-the-early-days-of-anthropic-how-21-of-22-vcs-turned-it-down-the-four-bottlenecks-to-compute-what-the-china-has-smashed-and-why-we-should-be-worried",
-      "source": "The Twenty Minute VC",
-      "host": "Harry Stebbings",
-      "category": "Interview & News",
-      "duration": "68 min",
-      "published": "2026-04-14T09:24:00+00:00",
-      "topics": [
-        "People",
-        "AI & Deep Tech",
-        "Funding"
-      ],
-      "summary": "Investor Anj Midha recounts the contrarian bet of putting $300 million into Anthropic when nearly every other VC passed, offering a rare inside look at early conviction investing in foundation models. The discussion extends to structural compute bottlenecks and geopolitical concerns tied to China's AI progress, relevant for LPs assessing AI infrastructure risk."
-    },
-    {
-      "title": "LIV Golf’s gambit to rewrite global sports, with Scott O’Neil",
-      "url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/1ef8a738-3753-4e00-9171-4c117b30cffa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-      "source": "Masters of Scale",
-      "host": "Reid Hoffman & guests",
-      "category": "Founder & Operator",
-      "duration": "31 min",
-      "published": "2026-04-14T09:00:00+00:00",
-      "audio": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/1ef8a738-3753-4e00-9171-4c117b30cffa.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-      "topics": [
-        "Opinion"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Scott Nolan - SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment - [Invest Like the Best, EP.467]",
-      "url": "https://colossus.com/episode/betting-on-atoms/",
-      "source": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "category": "Interview & News",
-      "duration": "76 min",
-      "published": "2026-04-14T08:00:00+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "People",
-        "Policy"
-      ],
-      "summary": "Scott Nolan discusses his path through SpaceX and Founders Fund into backing efforts to revive domestic uranium enrichment capacity. The episode likely covers the intersection of deep-tech investing, energy security, and industrial policy. Relevant for GPs tracking frontier hard-tech and critical infrastructure bets tied to national strategy.",
-      "audio": "https://traffic.megaphone.fm/CLS4605449926.mp3?updated=1776112623"
     }
   ]
 }
