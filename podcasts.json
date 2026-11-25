@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-24T19:48:32.330080+00:00",
+  "updated": "2026-11-25T03:53:11.070047+00:00",
   "items": [
+    {
+      "title": "Responding to objections to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "source": "Dwarkesh Podcast",
+      "host": "Dwarkesh Patel",
+      "category": "Interview & News",
+      "duration": "",
+      "published": "2026-11-24T21:45:30+00:00",
+      "audio": "https://api.substack.com/feed/podcast/226413128/a9606f26acc6870494c29aa0a5007a9d.mp3",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
     {
       "title": "How To Build A Jet Engine From Scratch",
       "url": "https://podcasters.spotify.com/pod/show/ycombinator/episodes/How-To-Build-A-Jet-Engine-From-Scratch-e3suqkc",
@@ -14229,22 +14243,6 @@
         "Opinion"
       ],
       "summary": ""
-    },
-    {
-      "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
-      "url": "https://www.dwarkesh.com/p/jensen-huang",
-      "source": "Dwarkesh Podcast",
-      "host": "Dwarkesh Patel",
-      "category": "Interview & News",
-      "duration": "",
-      "published": "2026-04-15T15:45:23+00:00",
-      "topics": [
-        "AI & Deep Tech",
-        "Policy",
-        "People"
-      ],
-      "summary": "Jensen Huang discusses Nvidia's competitive positioning against custom silicon like Google's TPUs, the strategic case for continuing chip sales to China, and the durability of Nvidia's supply chain advantages. This is directly material for LPs assessing semiconductor exposure and geopolitical risk in AI infrastructure investing.",
-      "audio": "https://api.substack.com/feed/podcast/194289889/5f292c095257191205d7c71b2b0c70da.mp3"
     }
   ]
 }
