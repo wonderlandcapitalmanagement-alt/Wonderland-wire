@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-27T15:49:17.297188+00:00",
+  "updated": "2026-11-28T00:51:11.321110+00:00",
   "items": [
+    {
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "source": "Dwarkesh Podcast",
+      "host": "Dwarkesh Patel",
+      "category": "Interview & News",
+      "duration": "",
+      "published": "2026-11-27T18:01:14+00:00",
+      "audio": "https://api.substack.com/feed/podcast/226789196/9ee0d925927246dcf5f9e1d4dc2983f9.mp3",
+      "topics": [
+        "Opinion"
+      ],
+      "summary": ""
+    },
     {
       "title": "Replay: From Swipe to Scale: How Tinder Became #1 (2024)",
       "url": "https://a16z.simplecast.com/episodes/replay-from-swipe-to-scale-how-tinder-became-1-2024-6396tu7J",
@@ -14223,21 +14237,6 @@
       ],
       "summary": "Box founder Aaron Levie challenges consensus views on AI's impact on software talent and business models, arguing developer demand will grow rather than shrink. He debates why foundation model companies may capture more long-term value than expected and which SaaS incumbents are positioned to survive versus be disrupted.",
       "audio": "https://traffic.libsyn.com/secure/thetwentyminutevc/Aaron_Levie__Box_2.mp3?dest-id=240976"
-    },
-    {
-      "title": "\"I Write-Off Every Sourcing Slide\" | Alex Felman",
-      "url": "https://podcasters.spotify.com/pod/show/superclusters-by-david-zh/episodes/I-Write-Off-Every-Sourcing-Slide--Alex-Felman-e3i52no",
-      "source": "Superclusters",
-      "host": "David Zhou",
-      "category": "GP / Firm",
-      "duration": "66 min",
-      "published": "2026-04-20T06:00:01+00:00",
-      "topics": [
-        "Funds & LPs",
-        "Opinion"
-      ],
-      "summary": "An LP-side perspective challenging the common practice of GPs pitching sourcing pipelines as a differentiator, arguing that sourcing claims are largely undifferentiated and overrated in diligence. A pointed critique that GPs preparing LP decks should take seriously.",
-      "audio": "https://anchor.fm/s/ed6d37cc/podcast/play/118704312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F422399510-44100-2-453ad3e3ed012.mp3"
     }
   ]
 }
